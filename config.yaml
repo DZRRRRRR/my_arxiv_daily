@@ -23,15 +23,15 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     "Diffusion":
-        filters: ["diffusion models","SDE","ODE"]
+        filters: ["diffusion models", "SDE", "ODE"]
     "Implicit": 
         filters: ["Implicit Neural"]
     "UnderWater":
         filters: ["underwater enhancement"]
-    "image dehaze":
-        filters:["image dehaze"]
+    "image_dehaze":
+        filters: ["image dehaze"]
     "Restoration":
         filters: ["image restoration"]
-    "Image Translation":
+    "Image_Translation":
         filters: ["Image Translation", "unpair"]
 
