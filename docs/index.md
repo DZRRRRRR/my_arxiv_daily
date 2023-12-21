@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-20**|**Repaint123: Fast and High-quality One Image to 3D Generation with Progressive Controllable 2D Repainting**|Junwu Zhang et.al.|[2312.13271](http://arxiv.org/abs/2312.13271)|**[link](https://github.com/junwuzhang19/repaint123)**|
+|**2023-12-20**|**Conditional Image Generation with Pretrained Generative Model**|Rajesh Shrestha et.al.|[2312.13253](http://arxiv.org/abs/2312.13253)|null|
+|**2023-12-20**|**Zero-Shot Metric Depth with a Field-of-View Conditioned Diffusion Model**|Saurabh Saxena et.al.|[2312.13252](http://arxiv.org/abs/2312.13252)|null|
+|**2023-12-20**|**Diffusion Models With Learned Adaptive Noise**|Subham Sekhar Sahoo et.al.|[2312.13236](http://arxiv.org/abs/2312.13236)|**[link](https://github.com/s-sahoo/mulan)**|
+|**2023-12-20**|**DiffPortrait3D: Controllable Diffusion for Zero-Shot Portrait View Synthesis**|Yuming Gu et.al.|[2312.13016](http://arxiv.org/abs/2312.13016)|null|
+|**2023-12-20**|**RadEdit: stress-testing biomedical vision models via diffusion image editing**|Fernando Pérez-García et.al.|[2312.12865](http://arxiv.org/abs/2312.12865)|null|
+|**2023-12-20**|**ReCo-Diff: Explore Retinex-Based Condition Strategy in Diffusion Model for Low-Light Image Enhancement**|Yuhui Wu et.al.|[2312.12826](http://arxiv.org/abs/2312.12826)|null|
+|**2023-12-20**|**All but One: Surgical Concept Erasing with Model Preservation in Text-to-Image Diffusion Models**|Seunghoo Hong et.al.|[2312.12807](http://arxiv.org/abs/2312.12807)|null|
+|**2023-12-20**|**AMD:Anatomical Motion Diffusion with Interpretable Motion Decomposition and Fusion**|Beibei Jing et.al.|[2312.12763](http://arxiv.org/abs/2312.12763)|null|
+|**2023-12-20**|**How Good Are Deep Generative Models for Solving Inverse Problems?**|Shichong Peng et.al.|[2312.12691](http://arxiv.org/abs/2312.12691)|null|
 |**2023-12-19**|**On Inference Stability for Diffusion Models**|Viet Nguyen et.al.|[2312.12431](http://arxiv.org/abs/2312.12431)|**[link](https://github.com/viettmab/sa-dpm)**|
 |**2023-12-19**|**Scene-Conditional 3D Object Stylization and Composition**|Jinghao Zhou et.al.|[2312.12419](http://arxiv.org/abs/2312.12419)|null|
 |**2023-12-19**|**Prompting Hard or Hardly Prompting: Prompt Inversion for Text-to-Image Diffusion Models**|Shweta Mahajan et.al.|[2312.12416](http://arxiv.org/abs/2312.12416)|null|
@@ -39,6 +49,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-20**|**Deep Learning on 3D Neural Fields**|Pierluigi Zama Ramirez et.al.|[2312.13277](http://arxiv.org/abs/2312.13277)|null|
 |**2023-12-15**|**ProSGNeRF: Progressive Dynamic Neural Scene Graph with Frequency Modulated Auto-Encoder in Urban Scenes**|Tianchen Deng et.al.|[2312.09076](http://arxiv.org/abs/2312.09076)|null|
 |**2023-12-14**|**HeadRecon: High-Fidelity 3D Head Reconstruction from Monocular Video**|Xueying Wang et.al.|[2312.08863](http://arxiv.org/abs/2312.08863)|null|
 |**2023-12-13**|**ProNeRF: Learning Efficient Projection-Aware Ray Sampling for Fine-Grained Implicit Neural Radiance Fields**|Juan Luis Gonzalez Bello et.al.|[2312.08136](http://arxiv.org/abs/2312.08136)|null|
@@ -80,9 +91,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-19**|**Atlantis: Enabling Underwater Depth Estimation with Stable Diffusion**|Fan Zhang et.al.|[2312.12471](http://arxiv.org/abs/2312.12471)|**[link](https://github.com/zkawfanx/atlantis)**|
 |**2023-12-18**|**TIP: Text-Driven Image Processing with Semantic and Restoration Instructions**|Chenyang Qi et.al.|[2312.11595](http://arxiv.org/abs/2312.11595)|null|
 |**2023-12-17**|**Bengali License Plate Recognition: Unveiling Clarity with CNN and GFP-GAN**|Noushin Afrin et.al.|[2312.10701](http://arxiv.org/abs/2312.10701)|**[link](https://github.com/mhtusher131/bengali-license-plate-recognition_unveling-clarity-with-cnn-and-gfp-gan)**|
-|**2023-12-16**|**Image Restoration Through Generalized Ornstein-Uhlenbeck Bridge**|Conghan Yue et.al.|[2312.10299](http://arxiv.org/abs/2312.10299)|null|
+|**2023-12-16**|**Image Restoration Through Generalized Ornstein-Uhlenbeck Bridge**|Conghan Yue et.al.|[2312.10299](http://arxiv.org/abs/2312.10299)|**[link](https://github.com/Hammour-steak/GOUB)**|
 |**2023-12-15**|**Image Deblurring using GAN**|Zhengdong Li et.al.|[2312.09496](http://arxiv.org/abs/2312.09496)|null|
 |**2023-12-12**|**AdaptIR: Parameter Efficient Multi-task Adaptation for Pre-trained Image Restoration Models**|Hang Guo et.al.|[2312.08881](http://arxiv.org/abs/2312.08881)|**[link](https://github.com/csguoh/adaptir)**|
 |**2023-12-14**|**Guided Image Restoration via Simultaneous Feature and Image Guided Fusion**|Xinyi Liu et.al.|[2312.08853](http://arxiv.org/abs/2312.08853)|null|
@@ -96,6 +108,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-19**|**Unveiling Spaces: Architecturally meaningful semantic descriptions from images of interior spaces**|Demircan Tas et.al.|[2312.12481](http://arxiv.org/abs/2312.12481)|null|
 |**2023-12-13**|**PhenDiff: Revealing Invisible Phenotypes with Conditional Diffusion Models**|Anis Bourou et.al.|[2312.08290](http://arxiv.org/abs/2312.08290)|**[link](https://github.com/warmongeringbeaver/phendiff)**|
 |**2023-12-13**|**Patch-wise Graph Contrastive Learning for Image Translation**|Chanyong Jung et.al.|[2312.08223](http://arxiv.org/abs/2312.08223)|null|
 |**2023-12-13**|**Concept-centric Personalization with Large-scale Diffusion Priors**|Pu Cao et.al.|[2312.08195](http://arxiv.org/abs/2312.08195)|**[link](https://github.com/priv-creation/concept-centric-personalization)**|
