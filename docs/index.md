@@ -28,7 +28,7 @@ layout: default
 |**2023-12-20**|**Conditional Image Generation with Pretrained Generative Model**|Rajesh Shrestha et.al.|[2312.13253](http://arxiv.org/abs/2312.13253)|null|
 |**2023-12-20**|**Zero-Shot Metric Depth with a Field-of-View Conditioned Diffusion Model**|Saurabh Saxena et.al.|[2312.13252](http://arxiv.org/abs/2312.13252)|null|
 |**2023-12-20**|**Diffusion Models With Learned Adaptive Noise**|Subham Sekhar Sahoo et.al.|[2312.13236](http://arxiv.org/abs/2312.13236)|**[link](https://github.com/s-sahoo/mulan)**|
-|**2023-12-20**|**DiffPortrait3D: Controllable Diffusion for Zero-Shot Portrait View Synthesis**|Yuming Gu et.al.|[2312.13016](http://arxiv.org/abs/2312.13016)|null|
+|**2023-12-20**|**DiffPortrait3D: Controllable Diffusion for Zero-Shot Portrait View Synthesis**|Yuming Gu et.al.|[2312.13016](http://arxiv.org/abs/2312.13016)|**[link](https://github.com/FreedomGu/DiffPortrait3D)**|
 |**2023-12-20**|**RadEdit: stress-testing biomedical vision models via diffusion image editing**|Fernando Pérez-García et.al.|[2312.12865](http://arxiv.org/abs/2312.12865)|null|
 |**2023-12-20**|**ReCo-Diff: Explore Retinex-Based Condition Strategy in Diffusion Model for Low-Light Image Enhancement**|Yuhui Wu et.al.|[2312.12826](http://arxiv.org/abs/2312.12826)|null|
 |**2023-12-20**|**All but One: Surgical Concept Erasing with Model Preservation in Text-to-Image Diffusion Models**|Seunghoo Hong et.al.|[2312.12807](http://arxiv.org/abs/2312.12807)|null|
