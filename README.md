@@ -22,6 +22,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-02**|**VideoDrafter: Content-Consistent Multi-Scene Video Generation with LLM**|Fuchen Long et.al.|[2401.01256](http://arxiv.org/abs/2401.01256)|null|
+|**2024-01-02**|**Towards a Simultaneous and Granular Identity-Expression Control in Personalized Face Generation**|Renshuai Liu et.al.|[2401.01207](http://arxiv.org/abs/2401.01207)|null|
+|**2024-01-02**|**A comparative study of resistivity models for simulations of magnetic reconnection in the solar atmosphere. II. Plasmoid formation**|Øystein Håvard Færder et.al.|[2401.01177](http://arxiv.org/abs/2401.01177)|null|
+|**2024-01-02**|**Joint Generative Modeling of Scene Graphs and Images via Diffusion Models**|Bicheng Xu et.al.|[2401.01130](http://arxiv.org/abs/2401.01130)|null|
+|**2024-01-02**|**Robust single-particle cryo-EM image denoising and restoration**|Jing Zhang et.al.|[2401.01097](http://arxiv.org/abs/2401.01097)|null|
+|**2024-01-02**|**Auffusion: Leveraging the Power of Diffusion and Large Language Models for Text-to-Audio Generation**|Jinlong Xue et.al.|[2401.01044](http://arxiv.org/abs/2401.01044)|**[link](https://github.com/happylittlecat2333/Auffusion)**|
+|**2024-01-01**|**DiffMorph: Text-less Image Morphing with Diffusion Models**|Shounak Chatterjee et.al.|[2401.00739](http://arxiv.org/abs/2401.00739)|null|
+|**2024-01-01**|**Diffusion Models, Image Super-Resolution And Everything: A Survey**|Brian B. Moser et.al.|[2401.00736](http://arxiv.org/abs/2401.00736)|null|
+|**2024-01-02**|**GD^2-NeRF: Generative Detail Compensation via GAN and Diffusion for One-shot Generalizable Neural Radiance Fields**|Xiao Pan et.al.|[2401.00616](http://arxiv.org/abs/2401.00616)|null|
+|**2023-12-31**|**Diff-PCR: Diffusion-Based Correspondence Searching in Doubly Stochastic Matrix Space for Point Cloud Registration**|Qianliang Wu et.al.|[2401.00436](http://arxiv.org/abs/2401.00436)|null|
 |**2023-12-29**|**FlowVid: Taming Imperfect Optical Flows for Consistent Video-to-Video Synthesis**|Feng Liang et.al.|[2312.17681](http://arxiv.org/abs/2312.17681)|null|
 |**2023-12-29**|**Data Augmentation for Supervised Graph Outlier Detection with Latent Diffusion Models**|Kay Liu et.al.|[2312.17679](http://arxiv.org/abs/2312.17679)|**[link](https://github.com/kayzliu/godm)**|
 |**2023-12-29**|**Leveraging Open-Vocabulary Diffusion to Camouflaged Instance Segmentation**|Tuan-Anh Vu et.al.|[2312.17505](http://arxiv.org/abs/2312.17505)|null|
@@ -155,6 +165,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-01**|**Bracketing is All You Need: Unifying Image Restoration and Enhancement Tasks with Multi-Exposure Images**|Zhilu Zhang et.al.|[2401.00766](http://arxiv.org/abs/2401.00766)|**[link](https://github.com/cszhilu1998/bracketire)**|
+|**2023-12-31**|**UGPNet: Universal Generative Prior for Image Restoration**|Hwayoon Lee et.al.|[2401.00370](http://arxiv.org/abs/2401.00370)|null|
 |**2023-12-28**|**Improving Image Restoration through Removing Degradations in Textual Representations**|Jingbo Lin et.al.|[2312.17334](http://arxiv.org/abs/2312.17334)|**[link](https://github.com/mrluin/textualdegremoval)**|
 |**2023-12-28**|**Personalized Restoration via Dual-Pivot Tuning**|Pradyumna Chari et.al.|[2312.17234](http://arxiv.org/abs/2312.17234)|null|
 |**2023-12-28**|**Restoration by Generation with Constrained Priors**|Zheng Ding et.al.|[2312.17161](http://arxiv.org/abs/2312.17161)|null|
@@ -183,6 +195,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-31**|**RainSD: Rain Style Diversification Module for Image Synthesis Enhancement using Feature-Level Style Distribution**|Hyeonjae Jeon et.al.|[2401.00460](http://arxiv.org/abs/2401.00460)|null|
+|**2023-12-28**|**CycleGAN Models for MRI Image Translation**|Cassandra Czobit et.al.|[2401.00023](http://arxiv.org/abs/2401.00023)|null|
 |**2023-12-25**|**Contrastive Learning-Based Framework for Sim-to-Real Mapping of Lidar Point Clouds in Autonomous Driving Systems**|Hamed Haghighi et.al.|[2312.15817](http://arxiv.org/abs/2312.15817)|**[link](https://github.com/hamedhaghighi/cls2r)**|
 |**2023-12-28**|**High-Fidelity Diffusion-based Image Editing**|Chen Hou et.al.|[2312.15707](http://arxiv.org/abs/2312.15707)|null|
 |**2023-12-22**|**Compressing Image-to-Image Translation GANs Using Local Density Structures on Their Learned Manifold**|Alireza Ganjdanesh et.al.|[2312.14776](http://arxiv.org/abs/2312.14776)|null|
