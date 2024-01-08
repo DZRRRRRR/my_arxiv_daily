@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.07
+## Updated on 2024.01.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
@@ -154,7 +154,7 @@ layout: default
 |**2023-12-13**|**Encoder-minimal and Decoder-minimal Framework for Remote Sensing Image Dehazing**|Yuanbo Wen et.al.|[2312.07849](http://arxiv.org/abs/2312.07849)|**[link](https://github.com/chdwyb/rshazenet)**|
 |**2023-11-27**|**Prompt-based test-time real image dehazing: a novel pipeline**|Zixuan Chen et.al.|[2309.17389](http://arxiv.org/abs/2309.17389)|**[link](https://github.com/cecret3350/PTTD-Dehazing)**|
 |**2023-09-28**|**Accurate and lightweight dehazing via multi-receptive-field non-local network and novel contrastive regularization**|Zewei He et.al.|[2309.16494](http://arxiv.org/abs/2309.16494)|null|
-|**2023-12-18**|**Learning from History: Task-agnostic Model Contrastive Learning for Image Restoration**|Gang Wu et.al.|[2309.06023](http://arxiv.org/abs/2309.06023)|**[link](https://github.com/aitical/mcir)**|
+|**2024-01-05**|**Learning from History: Task-agnostic Model Contrastive Learning for Image Restoration**|Gang Wu et.al.|[2309.06023](http://arxiv.org/abs/2309.06023)|**[link](https://github.com/aitical/mcir)**|
 |**2023-08-30**|**MB-TaylorFormer: Multi-branch Efficient Transformer Expanded by Taylor Formula for Image Dehazing**|Yuwei Qiu et.al.|[2308.14036](http://arxiv.org/abs/2308.14036)|**[link](https://github.com/fvl2020/iccv-2023-mb-taylorformer)**|
 |**2023-08-23**|**High-quality Image Dehazing with Diffusion Model**|Hu Yu et.al.|[2308.11949](http://arxiv.org/abs/2308.11949)|null|
 |**2023-09-22**|**Frequency Compensated Diffusion Model for Real-scene Dehazing**|Jing Wang et.al.|[2308.10510](http://arxiv.org/abs/2308.10510)|**[link](https://github.com/w-jilly/frequency-compensated-diffusion-model-pytorch)**|
@@ -195,7 +195,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-12-31**|**RainSD: Rain Style Diversification Module for Image Synthesis Enhancement using Feature-Level Style Distribution**|Hyeonjae Jeon et.al.|[2401.00460](http://arxiv.org/abs/2401.00460)|null|
-|**2023-12-28**|**CycleGAN Models for MRI Image Translation**|Cassandra Czobit et.al.|[2401.00023](http://arxiv.org/abs/2401.00023)|null|
+|**2024-01-05**|**CycleGAN Models for MRI Image Translation**|Cassandra Czobit et.al.|[2401.00023](http://arxiv.org/abs/2401.00023)|null|
 |**2023-12-25**|**Contrastive Learning-Based Framework for Sim-to-Real Mapping of Lidar Point Clouds in Autonomous Driving Systems**|Hamed Haghighi et.al.|[2312.15817](http://arxiv.org/abs/2312.15817)|**[link](https://github.com/hamedhaghighi/cls2r)**|
 |**2024-01-04**|**High-Fidelity Diffusion-based Image Editing**|Chen Hou et.al.|[2312.15707](http://arxiv.org/abs/2312.15707)|null|
 |**2023-12-22**|**Compressing Image-to-Image Translation GANs Using Local Density Structures on Their Learned Manifold**|Alireza Ganjdanesh et.al.|[2312.14776](http://arxiv.org/abs/2312.14776)|null|
