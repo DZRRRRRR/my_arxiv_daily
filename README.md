@@ -22,6 +22,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-08**|**scDiffusion: conditional generation of high-quality single-cell data using diffusion model**|Erpai Luo et.al.|[2401.03968](http://arxiv.org/abs/2401.03968)|**[link](https://github.com/eperluo/scdiffusion)**|
+|**2024-01-08**|**D3PRefiner: A Diffusion-based Denoise Method for 3D Human Pose Refinement**|Danqi Yan et.al.|[2401.03914](http://arxiv.org/abs/2401.03914)|null|
+|**2024-01-08**|**DDM-Lag : A Diffusion-based Decision-making Model for Autonomous Vehicles with Lagrangian Safety Enhancement**|Jiaqi Liu et.al.|[2401.03629](http://arxiv.org/abs/2401.03629)|null|
+|**2024-01-07**|**ROIC-DM: Robust Text Inference and Classification via Diffusion Model**|Shilong Yuan et.al.|[2401.03514](http://arxiv.org/abs/2401.03514)|null|
+|**2024-01-07**|**Freetalker: Controllable Speech and Text-Driven Gesture Generation Based on Diffusion Models for Enhanced Speaker Naturalness**|Sicheng Yang et.al.|[2401.03476](http://arxiv.org/abs/2401.03476)|null|
+|**2024-01-07**|**Deep Learning-based Image and Video Inpainting: A Survey**|Weize Quan et.al.|[2401.03395](http://arxiv.org/abs/2401.03395)|null|
+|**2024-01-06**|**Reflected Schrödinger Bridge for Constrained Generative Modeling**|Wei Deng et.al.|[2401.03228](http://arxiv.org/abs/2401.03228)|null|
+|**2024-01-06**|**MirrorDiffusion: Stabilizing Diffusion Process in Zero-shot Image Translation by Prompts Redescription and Beyond**|Yupei Lin et.al.|[2401.03221](http://arxiv.org/abs/2401.03221)|null|
+|**2024-01-06**|**Fair Sampling in Diffusion Models through Switching Mechanism**|Yujin Choi et.al.|[2401.03140](http://arxiv.org/abs/2401.03140)|**[link](https://github.com/uzn36/attributeswitching)**|
+|**2024-01-05**|**Latte: Latent Diffusion Transformer for Video Generation**|Xin Ma et.al.|[2401.03048](http://arxiv.org/abs/2401.03048)|**[link](https://github.com/maxin-cn/Latte)**|
 |**2024-01-05**|**Uncovering the human motion pattern: Pattern Memory-based Diffusion Model for Trajectory Prediction**|Yuxin Yang et.al.|[2401.02916](http://arxiv.org/abs/2401.02916)|null|
 |**2024-01-05**|**Plug-in Diffusion Model for Sequential Recommendation**|Haokai Ma et.al.|[2401.02913](http://arxiv.org/abs/2401.02913)|null|
 |**2024-01-05**|**Diffusion Variational Inference: Diffusion Models as Expressive Variational Posteriors**|Top Piriyakulkij et.al.|[2401.02739](http://arxiv.org/abs/2401.02739)|null|
@@ -132,6 +142,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-07**|**N $^{3}$ -Mapping: Normal Guided Neural Non-Projective Signed Distance Fields for Large-scale 3D Mapping**|Shuangfu Song et.al.|[2401.03412](http://arxiv.org/abs/2401.03412)|null|
 |**2024-01-04**|**GridFormer: Point-Grid Transformer for Surface Reconstruction**|Shengtao Li et.al.|[2401.02292](http://arxiv.org/abs/2401.02292)|**[link](https://github.com/list17/gridformer)**|
 |**2024-01-03**|**Boosting of Implicit Neural Representation-based Image Denoiser**|Zipei Yan et.al.|[2401.01548](http://arxiv.org/abs/2401.01548)|**[link](https://github.com/tids-lab/its)**|
 |**2023-12-28**|**Learning Spatially Collaged Fourier Bases for Implicit Neural Representation**|Jason Chun Lok Li et.al.|[2312.17018](http://arxiv.org/abs/2312.17018)|null|
@@ -187,6 +198,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-07**|**Towards Effective Multiple-in-One Image Restoration: A Sequential and Prompt Learning Strategy**|Xiangtao Kong et.al.|[2401.03379](http://arxiv.org/abs/2401.03379)|null|
+|**2024-01-06**|**MirrorDiffusion: Stabilizing Diffusion Process in Zero-shot Image Translation by Prompts Redescription and Beyond**|Yupei Lin et.al.|[2401.03221](http://arxiv.org/abs/2401.03221)|null|
 |**2024-01-05**|**Analysis of a wavelet frame based two-scale model for enhanced edges**|Bin Dong et.al.|[2401.02688](http://arxiv.org/abs/2401.02688)|null|
 |**2024-01-04**|**Enhancing RAW-to-sRGB with Decoupled Style Structure in Fourier Domain**|Xuanhua He et.al.|[2401.02161](http://arxiv.org/abs/2401.02161)|null|
 |**2024-01-01**|**Bracketing is All You Need: Unifying Image Restoration and Enhancement Tasks with Multi-Exposure Images**|Zhilu Zhang et.al.|[2401.00766](http://arxiv.org/abs/2401.00766)|**[link](https://github.com/cszhilu1998/bracketire)**|
@@ -219,6 +232,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-07**|**Re:Draw -- Context Aware Translation as a Controllable Method for Artistic Production**|Joao Liborio Cardoso et.al.|[2401.03499](http://arxiv.org/abs/2401.03499)|null|
+|**2024-01-06**|**MirrorDiffusion: Stabilizing Diffusion Process in Zero-shot Image Translation by Prompts Redescription and Beyond**|Yupei Lin et.al.|[2401.03221](http://arxiv.org/abs/2401.03221)|null|
 |**2023-12-31**|**RainSD: Rain Style Diversification Module for Image Synthesis Enhancement using Feature-Level Style Distribution**|Hyeonjae Jeon et.al.|[2401.00460](http://arxiv.org/abs/2401.00460)|null|
 |**2024-01-05**|**CycleGAN Models for MRI Image Translation**|Cassandra Czobit et.al.|[2401.00023](http://arxiv.org/abs/2401.00023)|null|
 |**2023-12-25**|**Contrastive Learning-Based Framework for Sim-to-Real Mapping of Lidar Point Clouds in Autonomous Driving Systems**|Hamed Haghighi et.al.|[2312.15817](http://arxiv.org/abs/2312.15817)|**[link](https://github.com/hamedhaghighi/cls2r)**|
