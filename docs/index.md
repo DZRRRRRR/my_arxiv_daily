@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.08
+## Updated on 2024.01.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
@@ -21,7 +21,7 @@ layout: default
 |**2024-01-04**|**Comprehensive Exploration of Synthetic Data Generation: A Survey**|André Bauer et.al.|[2401.02524](http://arxiv.org/abs/2401.02524)|null|
 |**2024-01-04**|**VASE: Object-Centric Appearance and Shape Manipulation of Real Videos**|Elia Peruzzo et.al.|[2401.02473](http://arxiv.org/abs/2401.02473)|null|
 |**2024-01-04**|**Bring Metric Functions into Diffusion Models**|Jie An et.al.|[2401.02414](http://arxiv.org/abs/2401.02414)|null|
-|**2024-01-04**|**GUESS:GradUally Enriching SyntheSis for Text-Driven Human Motion Generation**|Xuehao Gao et.al.|[2401.02142](http://arxiv.org/abs/2401.02142)|null|
+|**2024-01-06**|**GUESS:GradUally Enriching SyntheSis for Text-Driven Human Motion Generation**|Xuehao Gao et.al.|[2401.02142](http://arxiv.org/abs/2401.02142)|null|
 |**2024-01-04**|**Preserving Image Properties Through Initializations in Diffusion Models**|Jeffrey Zhang et.al.|[2401.02097](http://arxiv.org/abs/2401.02097)|null|
 |**2024-01-04**|**Energy based diffusion generator for efficient sampling of Boltzmann distributions**|Yan Wang et.al.|[2401.02080](http://arxiv.org/abs/2401.02080)|null|
 |**2024-01-04**|**DiffusionEdge: Diffusion Probabilistic Model for Crisp Edge Detection**|Yunfan Ye et.al.|[2401.02032](http://arxiv.org/abs/2401.02032)|**[link](https://github.com/guhuangai/diffusionedge)**|
