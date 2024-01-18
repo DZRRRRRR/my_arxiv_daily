@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.17
+## Updated on 2024.01.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
@@ -228,7 +228,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-01-16**|**Deep Linear Array Pushbroom Image Restoration: A Degradation Pipeline and Jitter-Aware Restoration Network**|Zida Chen et.al.|[2401.08171](http://arxiv.org/abs/2401.08171)|null|
+|**2024-01-16**|**Deep Linear Array Pushbroom Image Restoration: A Degradation Pipeline and Jitter-Aware Restoration Network**|Zida Chen et.al.|[2401.08171](http://arxiv.org/abs/2401.08171)|**[link](https://github.com/jhw2000/jarnet)**|
 |**2024-01-12**|**LiDAR Depth Map Guided Image Compression Model**|Alessandro Gnutti et.al.|[2401.06517](http://arxiv.org/abs/2401.06517)|null|
 |**2024-01-10**|**Content-Aware Depth-Adaptive Image Restoration**|Tom Richard Vargis et.al.|[2401.05049](http://arxiv.org/abs/2401.05049)|null|
 |**2024-01-07**|**Towards Effective Multiple-in-One Image Restoration: A Sequential and Prompt Learning Strategy**|Xiangtao Kong et.al.|[2401.03379](http://arxiv.org/abs/2401.03379)|**[link](https://github.com/xiangtaokong/mioir)**|
