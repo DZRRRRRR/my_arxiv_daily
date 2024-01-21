@@ -208,7 +208,7 @@
 |---|---|---|---|---|
 |**2024-01-18**|**Explaining the Implicit Neural Canvas: Connecting Pixels to Neurons by Tracing their Contributions**|Namitha Padmanabhan et.al.|[2401.10217](http://arxiv.org/abs/2401.10217)|null|
 |**2024-01-17**|**PIN-SLAM: LiDAR SLAM Using a Point-Based Implicit Neural Representation for Achieving Global Map Consistency**|Yue Pan et.al.|[2401.09101](http://arxiv.org/abs/2401.09101)|**[link](https://github.com/prbonn/pin_slam)**|
-|**2024-01-18**|**Improved Implicity Neural Representation with Fourier Bases Reparameterized Training**|Kexuan Shi et.al.|[2401.07402](http://arxiv.org/abs/2401.07402)|null|
+|**2024-01-18**|**Improved Implicity Neural Representation with Fourier Bases Reparameterized Training**|Kexuan Shi et.al.|[2401.07402](http://arxiv.org/abs/2401.07402)|**[link](https://github.com/labshuhanggu/improved-implicity-neural-representation-with-fourier-bases-reparameterized-training)**|
 |**2024-01-07**|**N $^{3}$ -Mapping: Normal Guided Neural Non-Projective Signed Distance Fields for Large-scale 3D Mapping**|Shuangfu Song et.al.|[2401.03412](http://arxiv.org/abs/2401.03412)|null|
 |**2024-01-04**|**GridFormer: Point-Grid Transformer for Surface Reconstruction**|Shengtao Li et.al.|[2401.02292](http://arxiv.org/abs/2401.02292)|**[link](https://github.com/list17/gridformer)**|
 |**2024-01-03**|**Boosting of Implicit Neural Representation-based Image Denoiser**|Zipei Yan et.al.|[2401.01548](http://arxiv.org/abs/2401.01548)|**[link](https://github.com/tids-lab/its)**|
