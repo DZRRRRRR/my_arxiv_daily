@@ -14,6 +14,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-19**|**Synthesizing Moving People with 3D Control**|Boyi Li et.al.|[2401.10889](http://arxiv.org/abs/2401.10889)|null|
+|**2024-01-19**|**ActAnywhere: Subject-Aware Video Background Generation**|Boxiao Pan et.al.|[2401.10822](http://arxiv.org/abs/2401.10822)|null|
+|**2024-01-19**|**From Market Saturation to Social Reinforcement: Understanding the Impact of Non-Linearity in Information Diffusion Models**|Tobias Friedrich et.al.|[2401.10818](http://arxiv.org/abs/2401.10818)|null|
+|**2024-01-19**|**Sat2Scene: 3D Urban Scene Generation from Satellite Images with Diffusion**|Zuoyue Li et.al.|[2401.10786](http://arxiv.org/abs/2401.10786)|null|
+|**2024-01-19**|**Safe Offline Reinforcement Learning with Feasibility-Guided Diffusion Model**|Yinan Zheng et.al.|[2401.10700](http://arxiv.org/abs/2401.10700)|null|
+|**2024-01-19**|**MAEDiff: Masked Autoencoder-enhanced Diffusion Models for Unsupervised Anomaly Detection in Brain Images**|Rui Xu et.al.|[2401.10561](http://arxiv.org/abs/2401.10561)|null|
+|**2024-01-18**|**Inflation with Diffusion: Efficient Temporal Adaptation for Text-to-Video Super-Resolution**|Xin Yuan et.al.|[2401.10404](http://arxiv.org/abs/2401.10404)|null|
 |**2024-01-18**|**A Simple Latent Diffusion Approach for Panoptic Segmentation and Mask Inpainting**|Wouter Van Gansbeke et.al.|[2401.10227](http://arxiv.org/abs/2401.10227)|**[link](https://github.com/segments-ai/latent-diffusion-segmentation)**|
 |**2024-01-19**|**Motion-Zero: Zero-Shot Moving Object Control Framework for Diffusion-Based Video Generation**|Changgu Chen et.al.|[2401.10150](http://arxiv.org/abs/2401.10150)|null|
 |**2024-01-18**|**DiffusionGPT: LLM-Driven Text-to-Image Generation System**|Jie Qin et.al.|[2401.10061](http://arxiv.org/abs/2401.10061)|null|
@@ -196,6 +203,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-19**|**Learning Position-Aware Implicit Neural Network for Real-World Face Inpainting**|Bo Zhao et.al.|[2401.10537](http://arxiv.org/abs/2401.10537)|null|
 |**2024-01-18**|**Explaining the Implicit Neural Canvas: Connecting Pixels to Neurons by Tracing their Contributions**|Namitha Padmanabhan et.al.|[2401.10217](http://arxiv.org/abs/2401.10217)|null|
 |**2024-01-17**|**PIN-SLAM: LiDAR SLAM Using a Point-Based Implicit Neural Representation for Achieving Global Map Consistency**|Yue Pan et.al.|[2401.09101](http://arxiv.org/abs/2401.09101)|**[link](https://github.com/prbonn/pin_slam)**|
 |**2024-01-18**|**Improved Implicity Neural Representation with Fourier Bases Reparameterized Training**|Kexuan Shi et.al.|[2401.07402](http://arxiv.org/abs/2401.07402)|**[link](https://github.com/labshuhanggu/improved-implicity-neural-representation-with-fourier-bases-reparameterized-training)**|
@@ -250,6 +258,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-19**|**MixNet: Towards Effective and Efficient UHD Low-Light Image Enhancement**|Chen Wu et.al.|[2401.10666](http://arxiv.org/abs/2401.10666)|null|
 |**2024-01-03**|**Image Restoration: A Comparative Analysis of Image De noising Using Different Spatial Filtering Techniques**|E. G. Onyedinma et.al.|[2401.09460](http://arxiv.org/abs/2401.09460)|null|
 |**2024-01-16**|**Deep Linear Array Pushbroom Image Restoration: A Degradation Pipeline and Jitter-Aware Restoration Network**|Zida Chen et.al.|[2401.08171](http://arxiv.org/abs/2401.08171)|**[link](https://github.com/jhw2000/jarnet)**|
 |**2024-01-12**|**LiDAR Depth Map Guided Image Compression Model**|Alessandro Gnutti et.al.|[2401.06517](http://arxiv.org/abs/2401.06517)|null|
