@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.23
+## Updated on 2024.01.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
@@ -22,7 +22,7 @@ layout: default
 |**2024-01-21**|**Scalable High-Resolution Pixel-Space Image Synthesis with Hourglass Diffusion Transformers**|Katherine Crowson et.al.|[2401.11605](http://arxiv.org/abs/2401.11605)|null|
 |**2024-01-20**|**Diffusion Model Conditioning on Gaussian Mixture Model and Negative Gaussian Mixture Gradient**|Weiguo Lu et.al.|[2401.11261](http://arxiv.org/abs/2401.11261)|null|
 |**2024-01-20**|**Product-Level Try-on: Characteristics-preserving Try-on with Realistic Clothes Shading and Wrinkles**|Yanlong Zang et.al.|[2401.11239](http://arxiv.org/abs/2401.11239)|null|
-|**2024-01-20**|**MotionMix: Weakly-Supervised Diffusion for Controllable Motion Generation**|Nhat M. Hoang et.al.|[2401.11115](http://arxiv.org/abs/2401.11115)|null|
+|**2024-01-23**|**MotionMix: Weakly-Supervised Diffusion for Controllable Motion Generation**|Nhat M. Hoang et.al.|[2401.11115](http://arxiv.org/abs/2401.11115)|null|
 |**2024-01-20**|**UltrAvatar: A Realistic Animatable 3D Avatar Diffusion Model with Authenticity Guided Textures**|Mingyuan Zhou et.al.|[2401.11078](http://arxiv.org/abs/2401.11078)|null|
 |**2024-01-19**|**Synthesizing Moving People with 3D Control**|Boyi Li et.al.|[2401.10889](http://arxiv.org/abs/2401.10889)|null|
 |**2024-01-19**|**ActAnywhere: Subject-Aware Video Background Generation**|Boxiao Pan et.al.|[2401.10822](http://arxiv.org/abs/2401.10822)|null|
