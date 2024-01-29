@@ -22,11 +22,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-26**|**Annotated Hands for Generative Models**|Yue Yang et.al.|[2401.15075](http://arxiv.org/abs/2401.15075)|**[link](https://github.com/YY-GX/Annotated-Hands-Dataset)**|
+|**2024-01-26**|**Text Image Inpainting via Global Structure-Guided Diffusion Models**|Shipeng Zhu et.al.|[2401.14832](http://arxiv.org/abs/2401.14832)|null|
+|**2024-01-25**|**Opposite variations for pore pressure on and off the fault during simulated earthquakes in the laboratory**|Dong Liu et.al.|[2401.14506](http://arxiv.org/abs/2401.14506)|null|
 |**2024-01-25**|**Deconstructing Denoising Diffusion Models for Self-Supervised Learning**|Xinlei Chen et.al.|[2401.14404](http://arxiv.org/abs/2401.14404)|null|
 |**2024-01-25**|**pix2gestalt: Amodal Segmentation by Synthesizing Wholes**|Ege Ozguroglu et.al.|[2401.14398](http://arxiv.org/abs/2401.14398)|**[link](https://github.com/cvlab-columbia/pix2gestalt)**|
 |**2024-01-25**|**UrbanGenAI: Reconstructing Urban Landscapes using Panoptic Segmentation and Diffusion Models**|Timo Kapsalis et.al.|[2401.14379](http://arxiv.org/abs/2401.14379)|null|
 |**2024-01-25**|**Sketch2NeRF: Multi-view Sketch-guided Text-to-3D Generation**|Minglin Chen et.al.|[2401.14257](http://arxiv.org/abs/2401.14257)|null|
-|**2024-01-25**|**Scene Graph to Image Synthesis: Integrating CLIP Guidance with Graph Conditioning in Diffusion Models**|Rameshwar Mishra et.al.|[2401.14111](http://arxiv.org/abs/2401.14111)|null|
+|**2024-01-26**|**Image Synthesis with Graph Conditioning: CLIP-Guided Diffusion Models for Scene Graphs**|Rameshwar Mishra et.al.|[2401.14111](http://arxiv.org/abs/2401.14111)|null|
 |**2024-01-25**|**CreativeSynth: Creative Blending and Synthesis of Visual Arts based on Multimodal Diffusion**|Nisha Huang et.al.|[2401.14066](http://arxiv.org/abs/2401.14066)|**[link](https://github.com/haha-lisa/creativesynth)**|
 |**2024-01-25**|**Diffusion-based Data Augmentation for Object Counting Problems**|Zhen Wang et.al.|[2401.13992](http://arxiv.org/abs/2401.13992)|null|
 |**2024-01-25**|**BootPIG: Bootstrapping Zero-shot Personalized Image Generation Capabilities in Pretrained Diffusion Models**|Senthil Purushwalkam et.al.|[2401.13974](http://arxiv.org/abs/2401.13974)|null|
@@ -245,6 +248,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-26**|**Implicit Neural Representation for Physics-driven Actuated Soft Bodies**|Lingchen Yang et.al.|[2401.14861](http://arxiv.org/abs/2401.14861)|null|
+|**2024-01-26**|**Residual Quantization with Implicit Neural Codebooks**|Iris Huijben et.al.|[2401.14732](http://arxiv.org/abs/2401.14732)|null|
+|**2024-01-26**|**3D Reconstruction and New View Synthesis of Indoor Environments based on a Dual Neural Radiance Field**|Zhenyu Bao et.al.|[2401.14726](http://arxiv.org/abs/2401.14726)|null|
 |**2024-01-23**|**A Unified Generation-Registration Framework for Improved MR-based CT Synthesis in Proton Therapy**|Xia Li et.al.|[2401.12878](http://arxiv.org/abs/2401.12878)|null|
 |**2024-01-23**|**Fast Implicit Neural Representation Image Codec in Resource-limited Devices**|Xiang Liu et.al.|[2401.12587](http://arxiv.org/abs/2401.12587)|null|
 |**2024-01-23**|**DDMI: Domain-Agnostic Latent Diffusion Models for Synthesizing High-Quality Implicit Neural Representations**|Dogyun Park et.al.|[2401.12517](http://arxiv.org/abs/2401.12517)|null|
