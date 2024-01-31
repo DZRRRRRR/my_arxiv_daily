@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.30
+## Updated on 2024.01.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
@@ -251,7 +251,7 @@ layout: default
 |**2024-01-28**|**Towards Arbitrary-Scale Histopathology Image Super-resolution: An Efficient Dual-branch Framework via Implicit Self-texture Enhancement**|Minghong Duan et.al.|[2401.15613](http://arxiv.org/abs/2401.15613)|null|
 |**2024-01-27**|**An Implicit Physical Face Model Driven by Expression and Style**|Lingchen Yang et.al.|[2401.15414](http://arxiv.org/abs/2401.15414)|null|
 |**2024-01-26**|**Implicit Neural Representation for Physics-driven Actuated Soft Bodies**|Lingchen Yang et.al.|[2401.14861](http://arxiv.org/abs/2401.14861)|null|
-|**2024-01-26**|**Residual Quantization with Implicit Neural Codebooks**|Iris Huijben et.al.|[2401.14732](http://arxiv.org/abs/2401.14732)|null|
+|**2024-01-26**|**Residual Quantization with Implicit Neural Codebooks**|Iris Huijben et.al.|[2401.14732](http://arxiv.org/abs/2401.14732)|**[link](https://github.com/facebookresearch/qinco)**|
 |**2024-01-26**|**3D Reconstruction and New View Synthesis of Indoor Environments based on a Dual Neural Radiance Field**|Zhenyu Bao et.al.|[2401.14726](http://arxiv.org/abs/2401.14726)|null|
 |**2024-01-23**|**A Unified Generation-Registration Framework for Improved MR-based CT Synthesis in Proton Therapy**|Xia Li et.al.|[2401.12878](http://arxiv.org/abs/2401.12878)|null|
 |**2024-01-23**|**Fast Implicit Neural Representation Image Codec in Resource-limited Devices**|Xiang Liu et.al.|[2401.12587](http://arxiv.org/abs/2401.12587)|null|
