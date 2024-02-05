@@ -22,6 +22,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-02**|**NeuroCine: Decoding Vivid Video Sequences from Human Brain Activties**|Jingyuan Sun et.al.|[2402.01590](http://arxiv.org/abs/2402.01590)|null|
+|**2024-02-02**|**Boximator: Generating Rich and Controllable Motions for Video Synthesis**|Jiawei Wang et.al.|[2402.01566](http://arxiv.org/abs/2402.01566)|null|
+|**2024-02-02**|**Cross-view Masked Diffusion Transformers for Person Image Synthesis**|Trung X. Pham et.al.|[2402.01516](http://arxiv.org/abs/2402.01516)|null|
+|**2024-02-02**|**Conditioning non-linear and infinite-dimensional diffusion processes**|Elizabeth Louise Baker et.al.|[2402.01434](http://arxiv.org/abs/2402.01434)|null|
+|**2024-02-02**|**Bass Accompaniment Generation via Latent Diffusion**|Marco Pasini et.al.|[2402.01412](http://arxiv.org/abs/2402.01412)|null|
+|**2024-02-02**|**Cheating Suffix: Targeted Attack to Text-To-Image Diffusion Models with Multi-Modal Priors**|Dingcheng Yang et.al.|[2402.01369](http://arxiv.org/abs/2402.01369)|**[link](https://github.com/ydc123/mmp-attack)**|
+|**2024-02-02**|**Unsupervised Generation of Pseudo Normal PET from MRI with Diffusion Model for Epileptic Focus Localization**|Wentao Chen et.al.|[2402.01191](http://arxiv.org/abs/2402.01191)|null|
+|**2024-02-01**|**Unconditional Latent Diffusion Models Memorize Patient Imaging Data**|Salman Ul Hassan Dar et.al.|[2402.01054](http://arxiv.org/abs/2402.01054)|null|
+|**2024-02-01**|**pop-cosmos: A comprehensive picture of the galaxy population from COSMOS data**|Justin Alsing et.al.|[2402.00935](http://arxiv.org/abs/2402.00935)|null|
+|**2024-02-01**|**Data-Space Validation of High-Dimensional Models by Comparing Sample Quantiles**|Stephen Thorp et.al.|[2402.00930](http://arxiv.org/abs/2402.00930)|null|
 |**2024-02-01**|**ViCA-NeRF: View-Consistency-Aware 3D Editing of Neural Radiance Fields**|Jiahua Dong et.al.|[2402.00864](http://arxiv.org/abs/2402.00864)|**[link](https://github.com/dongjiahua/vica-nerf)**|
 |**2024-02-01**|**An Analysis of the Variance of Diffusion-based Speech Enhancement**|Bunlong Lay et.al.|[2402.00811](http://arxiv.org/abs/2402.00811)|null|
 |**2024-02-01**|**Distilling Conditional Diffusion Models for Offline Reinforcement Learning through Trajectory Stitching**|Shangzhe Li et.al.|[2402.00807](http://arxiv.org/abs/2402.00807)|null|
@@ -287,6 +297,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-02**|**Immersive Video Compression using Implicit Neural Representations**|Ho Man Kwan et.al.|[2402.01596](http://arxiv.org/abs/2402.01596)|**[link](https://github.com/hmkx/mv-hinerv)**|
+|**2024-02-02**|**Neural Trajectory Model: Implicit Neural Trajectory Representation for Trajectories Generation**|Zihan Yu et.al.|[2402.01254](http://arxiv.org/abs/2402.01254)|null|
 |**2024-02-01**|**ViCA-NeRF: View-Consistency-Aware 3D Editing of Neural Radiance Fields**|Jiahua Dong et.al.|[2402.00864](http://arxiv.org/abs/2402.00864)|**[link](https://github.com/dongjiahua/vica-nerf)**|
 |**2024-01-28**|**Towards Arbitrary-Scale Histopathology Image Super-resolution: An Efficient Dual-branch Framework via Implicit Self-texture Enhancement**|Minghong Duan et.al.|[2401.15613](http://arxiv.org/abs/2401.15613)|null|
 |**2024-01-27**|**An Implicit Physical Face Model Driven by Expression and Style**|Lingchen Yang et.al.|[2401.15414](http://arxiv.org/abs/2401.15414)|null|
@@ -359,6 +371,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-02**|**LIR: Efficient Degradation Removal for Lightweight Image Restoration**|Dongqi Fan et.al.|[2402.01368](http://arxiv.org/abs/2402.01368)|**[link](https://github.com/dongqi-fan/lir)**|
 |**2024-01-31**|**Spatial-and-Frequency-aware Restoration method for Images based on Diffusion Models**|Kyungsung Lee et.al.|[2401.17629](http://arxiv.org/abs/2401.17629)|null|
 |**2024-01-31**|**Task-Oriented Diffusion Model Compression**|Geonung Kim et.al.|[2401.17547](http://arxiv.org/abs/2401.17547)|null|
 |**2024-01-31**|**High-Quality Image Restoration Following Human Instructions**|Marcos V. Conde et.al.|[2401.16468](http://arxiv.org/abs/2401.16468)|**[link](https://github.com/mv-lab/InstructIR)**|
@@ -406,6 +419,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-02**|**Closing the Gap in Human Behavior Analysis: A Pipeline for Synthesizing Trimodal Data**|Christian Stippel et.al.|[2402.01537](http://arxiv.org/abs/2402.01537)|null|
+|**2024-02-02**|**Ambient-Pix2PixGAN for Translating Medical Images from Noisy Data**|Wentao Chen et.al.|[2402.01186](http://arxiv.org/abs/2402.01186)|null|
 |**2024-02-01**|**Disentangled Multimodal Brain MR Image Translation via Transformer-based Modality Infuser**|Jihoon Cho et.al.|[2402.00375](http://arxiv.org/abs/2402.00375)|null|
 |**2024-01-25**|**Learning to Manipulate Artistic Images**|Wei Guo et.al.|[2401.13976](http://arxiv.org/abs/2401.13976)|**[link](https://github.com/snailforce/sim-net)**|
 |**2024-01-23**|**CIMGEN: Controlled Image Manipulation by Finetuning Pretrained Generative Models on Limited Data**|Chandrakanth Gudavalli et.al.|[2401.13006](http://arxiv.org/abs/2401.13006)|null|
