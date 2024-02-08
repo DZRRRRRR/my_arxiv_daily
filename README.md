@@ -22,6 +22,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-07**|**On diffusion models for amortized inference: Benchmarking and improving stochastic control and sampling**|Marcin Sendera et.al.|[2402.05098](http://arxiv.org/abs/2402.05098)|null|
+|**2024-02-07**|**NITO: Neural Implicit Fields for Resolution-free Topology Optimization**|Amin Heyrani Nobari et.al.|[2402.05073](http://arxiv.org/abs/2402.05073)|null|
+|**2024-02-07**|**LGM: Large Multi-View Gaussian Model for High-Resolution 3D Content Creation**|Jiaxiang Tang et.al.|[2402.05054](http://arxiv.org/abs/2402.05054)|null|
+|**2024-02-07**|**Generative Flows on Discrete State-Spaces: Enabling Multimodal Flows with Applications to Protein Co-Design**|Andrew Campbell et.al.|[2402.04997](http://arxiv.org/abs/2402.04997)|**[link](https://github.com/andrew-cr/discrete_flow_models)**|
+|**2024-02-07**|**Blue noise for diffusion models**|Xingchang Huang et.al.|[2402.04930](http://arxiv.org/abs/2402.04930)|null|
+|**2024-02-07**|**Source-Free Domain Adaptation with Diffusion-Guided Source Data Generation**|Shivang Chopra et.al.|[2402.04929](http://arxiv.org/abs/2402.04929)|null|
+|**2024-02-07**|**Towards Aligned Layout Generation via Diffusion Model with Aesthetic Constraints**|Jian Chen et.al.|[2402.04754](http://arxiv.org/abs/2402.04754)|null|
+|**2024-02-07**|**Cortical Surface Diffusion Generative Models**|Zhenshan Xie et.al.|[2402.04753](http://arxiv.org/abs/2402.04753)|null|
+|**2024-02-07**|**EvoSeed: Unveiling the Threat on Deep Neural Networks with Real-World Illusions**|Shashank Kotyan et.al.|[2402.04699](http://arxiv.org/abs/2402.04699)|**[link](https://github.com/shashankkotyan/EvoSeed)**|
+|**2024-02-07**|**Noise Map Guidance: Inversion with Spatial Context for Real Image Editing**|Hansam Cho et.al.|[2402.04625](http://arxiv.org/abs/2402.04625)|**[link](https://github.com/hansam95/nmg)**|
 |**2024-02-06**|**Polyp-DDPM: Diffusion-Based Semantic Polyp Synthesis for Enhanced Segmentation**|Zolnamar Dorjsembe et.al.|[2402.04031](http://arxiv.org/abs/2402.04031)|**[link](https://github.com/mobaidoctor/polyp-ddpm)**|
 |**2024-02-06**|**Space Group Constrained Crystal Generation**|Rui Jiao et.al.|[2402.03992](http://arxiv.org/abs/2402.03992)|null|
 |**2024-02-06**|**Controllable Diverse Sampling for Diffusion Based Motion Behavior Forecasting**|Yiming Xu et.al.|[2402.03981](http://arxiv.org/abs/2402.03981)|null|
@@ -449,6 +459,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-06**|**Translating the future: Image-to-image translation for the prediction of future brain metabolism**|Elena Doering et.al.|[2402.04299](http://arxiv.org/abs/2402.04299)|null|
 |**2024-02-05**|**IGUANe: a 3D generalizable CycleGAN for multicenter harmonization of brain MR images**|Vincent Roca et.al.|[2402.03227](http://arxiv.org/abs/2402.03227)|**[link](https://github.com/rocavincent/iguane_harmonization)**|
 |**2024-02-02**|**Closing the Gap in Human Behavior Analysis: A Pipeline for Synthesizing Trimodal Data**|Christian Stippel et.al.|[2402.01537](http://arxiv.org/abs/2402.01537)|null|
 |**2024-02-02**|**Ambient-Pix2PixGAN for Translating Medical Images from Noisy Data**|Wentao Chen et.al.|[2402.01186](http://arxiv.org/abs/2402.01186)|null|
