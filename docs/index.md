@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-08**|**InstaGen: Enhancing Object Detection by Training on Synthetic Dataset**|Chengjian Feng et.al.|[2402.05937](http://arxiv.org/abs/2402.05937)|null|
+|**2024-02-08**|**Time Series Diffusion in the Frequency Domain**|Jonathan Crabbé et.al.|[2402.05933](http://arxiv.org/abs/2402.05933)|null|
+|**2024-02-08**|**AvatarMMC: 3D Head Avatar Generation and Editing with Multi-Modal Conditioning**|Wamiq Reyaz Para et.al.|[2402.05803](http://arxiv.org/abs/2402.05803)|null|
+|**2024-02-08**|**DiffSpeaker: Speech-Driven 3D Facial Animation with Diffusion Transformer**|Zhiyuan Ma et.al.|[2402.05712](http://arxiv.org/abs/2402.05712)|**[link](https://github.com/theericma/diffspeaker)**|
+|**2024-02-08**|**Scalable Diffusion Models with State Space Backbone**|Zhengcong Fei et.al.|[2402.05608](http://arxiv.org/abs/2402.05608)|**[link](https://github.com/feizc/dis)**|
+|**2024-02-08**|**Get What You Want, Not What You Don't: Image Content Suppression for Text-to-Image Diffusion Models**|Senmao Li et.al.|[2402.05375](http://arxiv.org/abs/2402.05375)|**[link](https://github.com/sen-mao/suppresseot)**|
+|**2024-02-08**|**Descanning: From Scanned to the Original Images with a Color Correction Diffusion Model**|Junghun Cha et.al.|[2402.05350](http://arxiv.org/abs/2402.05350)|null|
+|**2024-02-07**|**SPAD : Spatially Aware Multiview Diffusers**|Yash Kant et.al.|[2402.05235](http://arxiv.org/abs/2402.05235)|null|
+|**2024-02-07**|**Anatomically-Controllable Medical Image Generation with Segmentation-Guided Diffusion Models**|Nicholas Konz et.al.|[2402.05210](http://arxiv.org/abs/2402.05210)|**[link](https://github.com/mazurowski-lab/segmentation-guided-diffusion)**|
+|**2024-02-07**|**$λ$ -ECLIPSE: Multi-Concept Personalized Text-to-Image Diffusion Models by Leveraging CLIP Latent Space**|Maitreya Patel et.al.|[2402.05195](http://arxiv.org/abs/2402.05195)|null|
 |**2024-02-07**|**On diffusion models for amortized inference: Benchmarking and improving stochastic control and sampling**|Marcin Sendera et.al.|[2402.05098](http://arxiv.org/abs/2402.05098)|null|
 |**2024-02-07**|**NITO: Neural Implicit Fields for Resolution-free Topology Optimization**|Amin Heyrani Nobari et.al.|[2402.05073](http://arxiv.org/abs/2402.05073)|null|
 |**2024-02-07**|**LGM: Large Multi-View Gaussian Model for High-Resolution 3D Content Creation**|Jiaxiang Tang et.al.|[2402.05054](http://arxiv.org/abs/2402.05054)|null|
@@ -317,6 +327,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-08**|**A Sampling Theory Perspective on Activations for Implicit Neural Representations**|Hemanth Saratchandran et.al.|[2402.05427](http://arxiv.org/abs/2402.05427)|null|
 |**2024-02-06**|**OASim: an Open and Adaptive Simulator based on Neural Rendering for Autonomous Driving**|Guohang Yan et.al.|[2402.03830](http://arxiv.org/abs/2402.03830)|**[link](https://github.com/pjlab-adg/oasim)**|
 |**2024-02-05**|**Deep Equilibrium Models are Almost Equivalent to Not-so-deep Explicit Models for High-dimensional Gaussian Mixtures**|Zenan Ling et.al.|[2402.02697](http://arxiv.org/abs/2402.02697)|null|
 |**2024-02-03**|**Implicit Neural Representation of Tileable Material Textures**|Hallison Paz et.al.|[2402.02208](http://arxiv.org/abs/2402.02208)|null|
@@ -372,7 +383,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-02-06**|**U-shaped Vision Mamba for Single Image Dehazing**|Zhuoran Zheng et.al.|[2402.04139](http://arxiv.org/abs/2402.04139)|null|
+|**2024-02-07**|**Physics Informed and Data Driven Simulation of Underwater Images via Residual Learning**|Tanmoy Mondal et.al.|[2402.05281](http://arxiv.org/abs/2402.05281)|**[link](https://github.com/anoynymreview/underwater_simulation)**|
+|**2024-02-08**|**U-shaped Vision Mamba for Single Image Dehazing**|Zhuoran Zheng et.al.|[2402.04139](http://arxiv.org/abs/2402.04139)|**[link](https://github.com/zzr-idam/uvm-net)**|
 |**2024-01-14**|**Depth-agnostic Single Image Dehazing**|Honglei Xu et.al.|[2401.07213](http://arxiv.org/abs/2401.07213)|null|
 |**2023-12-15**|**DHFormer: A Vision Transformer-Based Attention Module for Image Dehazing**|Abdul Wasi et.al.|[2312.09955](http://arxiv.org/abs/2312.09955)|null|
 |**2023-12-13**|**Encoder-minimal and Decoder-minimal Framework for Remote Sensing Image Dehazing**|Yuanbo Wen et.al.|[2312.07849](http://arxiv.org/abs/2312.07849)|**[link](https://github.com/chdwyb/rshazenet)**|
@@ -389,8 +401,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-02-06**|**U-shaped Vision Mamba for Single Image Dehazing**|Zhuoran Zheng et.al.|[2402.04139](http://arxiv.org/abs/2402.04139)|null|
-|**2024-02-06**|**Analysis of Deep Image Prior and Exploiting Self-Guidance for Image Reconstruction**|Shijun Liang et.al.|[2402.04097](http://arxiv.org/abs/2402.04097)|null|
+|**2024-02-08**|**Descanning: From Scanned to the Original Images with a Color Correction Diffusion Model**|Junghun Cha et.al.|[2402.05350](http://arxiv.org/abs/2402.05350)|null|
+|**2024-02-08**|**U-shaped Vision Mamba for Single Image Dehazing**|Zhuoran Zheng et.al.|[2402.04139](http://arxiv.org/abs/2402.04139)|**[link](https://github.com/zzr-idam/uvm-net)**|
+|**2024-02-08**|**Analysis of Deep Image Prior and Exploiting Self-Guidance for Image Reconstruction**|Shijun Liang et.al.|[2402.04097](http://arxiv.org/abs/2402.04097)|null|
 |**2024-02-05**|**Rethinking RGB Color Representation for Image Restoration Models**|Jaerin Lee et.al.|[2402.03399](http://arxiv.org/abs/2402.03399)|null|
 |**2024-02-05**|**Knowledge-driven deep learning for fast MR imaging: undersampled MR image reconstruction from supervised to un-supervised learning**|Shanshan Wang et.al.|[2402.02704](http://arxiv.org/abs/2402.02704)|null|
 |**2024-02-04**|**Key-Graph Transformer for Image Restoration**|Bin Ren et.al.|[2402.02634](http://arxiv.org/abs/2402.02634)|null|
@@ -442,7 +455,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-02-06**|**Translating the future: Image-to-image translation for the prediction of future brain metabolism**|Elena Doering et.al.|[2402.04299](http://arxiv.org/abs/2402.04299)|null|
-|**2024-02-05**|**IGUANe: a 3D generalizable CycleGAN for multicenter harmonization of brain MR images**|Vincent Roca et.al.|[2402.03227](http://arxiv.org/abs/2402.03227)|**[link](https://github.com/rocavincent/iguane_harmonization)**|
+|**2024-02-08**|**IGUANe: a 3D generalizable CycleGAN for multicenter harmonization of brain MR images**|Vincent Roca et.al.|[2402.03227](http://arxiv.org/abs/2402.03227)|**[link](https://github.com/rocavincent/iguane_harmonization)**|
 |**2024-02-02**|**Closing the Gap in Human Behavior Analysis: A Pipeline for Synthesizing Trimodal Data**|Christian Stippel et.al.|[2402.01537](http://arxiv.org/abs/2402.01537)|null|
 |**2024-02-02**|**Ambient-Pix2PixGAN for Translating Medical Images from Noisy Data**|Wentao Chen et.al.|[2402.01186](http://arxiv.org/abs/2402.01186)|null|
 |**2024-02-01**|**Disentangled Multimodal Brain MR Image Translation via Transformer-based Modality Infuser**|Jihoon Cho et.al.|[2402.00375](http://arxiv.org/abs/2402.00375)|null|
