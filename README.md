@@ -22,6 +22,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-09**|**Diffusion-ES: Gradient-free Planning with Diffusion for Autonomous Driving and Zero-Shot Instruction Following**|Brian Yang et.al.|[2402.06559](http://arxiv.org/abs/2402.06559)|null|
+|**2024-02-09**|**Sequential Flow Matching for Generative Modeling**|Jongmin Yoon et.al.|[2402.06461](http://arxiv.org/abs/2402.06461)|null|
+|**2024-02-09**|**ControlUDA: Controllable Diffusion-assisted Unsupervised Domain Adaptation for Cross-Weather Semantic Segmentation**|Fengyi Shen et.al.|[2402.06446](http://arxiv.org/abs/2402.06446)|null|
+|**2024-02-09**|**Improving 2D-3D Dense Correspondences with Diffusion Models for 6D Object Pose Estimation**|Peter Hönig et.al.|[2402.06436](http://arxiv.org/abs/2402.06436)|null|
+|**2024-02-09**|**Particle Denoising Diffusion Sampler**|Angus Phillips et.al.|[2402.06320](http://arxiv.org/abs/2402.06320)|**[link](https://github.com/angusphillips/particle_denoising_diffusion_sampler)**|
+|**2024-02-09**|**Controllable seismic velocity synthesis using generative diffusion models**|Fu Wang et.al.|[2402.06277](http://arxiv.org/abs/2402.06277)|null|
+|**2024-02-09**|**MusicMagus: Zero-Shot Text-to-Music Editing via Diffusion Models**|Yixiao Zhang et.al.|[2402.06178](http://arxiv.org/abs/2402.06178)|null|
+|**2024-02-08**|**CLR-Face: Conditional Latent Refinement for Blind Face Restoration Using Score-Based Diffusion Models**|Maitreya Suin et.al.|[2402.06106](http://arxiv.org/abs/2402.06106)|null|
+|**2024-02-08**|**Animated Stickers: Bringing Stickers to Life with Video Diffusion**|David Yan et.al.|[2402.06088](http://arxiv.org/abs/2402.06088)|null|
+|**2024-02-08**|**DiscDiff: Latent Diffusion Model for DNA Sequence Generation**|Zehui Li et.al.|[2402.06079](http://arxiv.org/abs/2402.06079)|null|
 |**2024-02-08**|**InstaGen: Enhancing Object Detection by Training on Synthetic Dataset**|Chengjian Feng et.al.|[2402.05937](http://arxiv.org/abs/2402.05937)|null|
 |**2024-02-08**|**Time Series Diffusion in the Frequency Domain**|Jonathan Crabbé et.al.|[2402.05933](http://arxiv.org/abs/2402.05933)|**[link](https://github.com/jonathancrabbe/fourierdiffusion)**|
 |**2024-02-08**|**AvatarMMC: 3D Head Avatar Generation and Editing with Multi-Modal Conditioning**|Wamiq Reyaz Para et.al.|[2402.05803](http://arxiv.org/abs/2402.05803)|null|
@@ -472,6 +482,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-09**|**Improving 2D-3D Dense Correspondences with Diffusion Models for 6D Object Pose Estimation**|Peter Hönig et.al.|[2402.06436](http://arxiv.org/abs/2402.06436)|null|
 |**2024-02-06**|**Translating the future: Image-to-image translation for the prediction of future brain metabolism**|Elena Doering et.al.|[2402.04299](http://arxiv.org/abs/2402.04299)|null|
 |**2024-02-08**|**IGUANe: a 3D generalizable CycleGAN for multicenter harmonization of brain MR images**|Vincent Roca et.al.|[2402.03227](http://arxiv.org/abs/2402.03227)|**[link](https://github.com/rocavincent/iguane_harmonization)**|
 |**2024-02-02**|**Closing the Gap in Human Behavior Analysis: A Pipeline for Synthesizing Trimodal Data**|Christian Stippel et.al.|[2402.01537](http://arxiv.org/abs/2402.01537)|null|
