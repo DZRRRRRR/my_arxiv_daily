@@ -22,6 +22,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-12**|**Towards a mathematical theory for consistency training in diffusion models**|Gen Li et.al.|[2402.07802](http://arxiv.org/abs/2402.07802)|null|
+|**2024-02-12**|**Diffusion of Thoughts: Chain-of-Thought Reasoning in Diffusion Language Models**|Jiacheng Ye et.al.|[2402.07754](http://arxiv.org/abs/2402.07754)|null|
+|**2024-02-12**|**Cosmology at the Field Level with Probabilistic Machine Learning**|Adam Rouhiainen et.al.|[2402.07694](http://arxiv.org/abs/2402.07694)|null|
+|**2024-02-12**|**Trustworthy SR: Resolving Ambiguity in Image Super-resolution via Diffusion Models and Human Feedback**|Cansu Korkmaz et.al.|[2402.07597](http://arxiv.org/abs/2402.07597)|null|
+|**2024-02-12**|**Score-based Diffusion Models via Stochastic Differential Equations -- a Technical Tutorial**|Wenpin Tang et.al.|[2402.07487](http://arxiv.org/abs/2402.07487)|null|
+|**2024-02-12**|**SALAD: Smart AI Language Assistant Daily**|Ragib Amin Nihal et.al.|[2402.07431](http://arxiv.org/abs/2402.07431)|null|
+|**2024-02-12**|**Diff-RNTraj: A Structure-aware Diffusion Model for Road Network-constrained Trajectory Generation**|Tonglong Wei et.al.|[2402.07369](http://arxiv.org/abs/2402.07369)|null|
+|**2024-02-11**|**Stitching Sub-Trajectories with Conditional Diffusion Model for Goal-Conditioned Offline RL**|Sungyoon Kim et.al.|[2402.07226](http://arxiv.org/abs/2402.07226)|**[link](https://github.com/rlatjddbs/ssd)**|
+|**2024-02-11**|**Towards Fast Stochastic Sampling in Diffusion Generative Models**|Kushagra Pandey et.al.|[2402.07211](http://arxiv.org/abs/2402.07211)|null|
+|**2024-02-10**|**Synthesizing CTA Image Data for Type-B Aortic Dissection using Stable Diffusion Models**|Ayman Abaid et.al.|[2402.06969](http://arxiv.org/abs/2402.06969)|null|
 |**2024-02-09**|**Diffusion-ES: Gradient-free Planning with Diffusion for Autonomous Driving and Zero-Shot Instruction Following**|Brian Yang et.al.|[2402.06559](http://arxiv.org/abs/2402.06559)|null|
 |**2024-02-09**|**Sequential Flow Matching for Generative Modeling**|Jongmin Yoon et.al.|[2402.06461](http://arxiv.org/abs/2402.06461)|null|
 |**2024-02-09**|**ControlUDA: Controllable Diffusion-assisted Unsupervised Domain Adaptation for Cross-Weather Semantic Segmentation**|Fengyi Shen et.al.|[2402.06446](http://arxiv.org/abs/2402.06446)|null|
@@ -347,12 +357,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-10**|**Training dynamics in Physics-Informed Neural Networks with feature mapping**|Chengxi Zeng et.al.|[2402.06955](http://arxiv.org/abs/2402.06955)|null|
 |**2024-02-08**|**A Sampling Theory Perspective on Activations for Implicit Neural Representations**|Hemanth Saratchandran et.al.|[2402.05427](http://arxiv.org/abs/2402.05427)|null|
 |**2024-02-06**|**OASim: an Open and Adaptive Simulator based on Neural Rendering for Autonomous Driving**|Guohang Yan et.al.|[2402.03830](http://arxiv.org/abs/2402.03830)|**[link](https://github.com/pjlab-adg/oasim)**|
 |**2024-02-05**|**Deep Equilibrium Models are Almost Equivalent to Not-so-deep Explicit Models for High-dimensional Gaussian Mixtures**|Zenan Ling et.al.|[2402.02697](http://arxiv.org/abs/2402.02697)|null|
 |**2024-02-03**|**Implicit Neural Representation of Tileable Material Textures**|Hallison Paz et.al.|[2402.02208](http://arxiv.org/abs/2402.02208)|null|
 |**2024-02-02**|**Immersive Video Compression using Implicit Neural Representations**|Ho Man Kwan et.al.|[2402.01596](http://arxiv.org/abs/2402.01596)|**[link](https://github.com/hmkx/mv-hinerv)**|
-|**2024-02-02**|**Neural Trajectory Model: Implicit Neural Trajectory Representation for Trajectories Generation**|Zihan Yu et.al.|[2402.01254](http://arxiv.org/abs/2402.01254)|**[link](https://github.com/laser2099/neural-trajectory-model)**|
+|**2024-02-11**|**Neural Trajectory Model: Implicit Neural Trajectory Representation for Trajectories Generation**|Zihan Yu et.al.|[2402.01254](http://arxiv.org/abs/2402.01254)|**[link](https://github.com/laser2099/neural-trajectory-model)**|
 |**2024-02-01**|**ViCA-NeRF: View-Consistency-Aware 3D Editing of Neural Radiance Fields**|Jiahua Dong et.al.|[2402.00864](http://arxiv.org/abs/2402.00864)|**[link](https://github.com/dongjiahua/vica-nerf)**|
 |**2024-01-28**|**Towards Arbitrary-Scale Histopathology Image Super-resolution: An Efficient Dual-branch Framework via Implicit Self-texture Enhancement**|Minghong Duan et.al.|[2401.15613](http://arxiv.org/abs/2401.15613)|null|
 |**2024-01-27**|**An Implicit Physical Face Model Driven by Expression and Style**|Lingchen Yang et.al.|[2401.15414](http://arxiv.org/abs/2401.15414)|null|
@@ -427,6 +438,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-10**|**Gyroscope-Assisted Motion Deblurring Network**|Simin Luan et.al.|[2402.06854](http://arxiv.org/abs/2402.06854)|null|
 |**2024-02-08**|**Descanning: From Scanned to the Original Images with a Color Correction Diffusion Model**|Junghun Cha et.al.|[2402.05350](http://arxiv.org/abs/2402.05350)|null|
 |**2024-02-08**|**U-shaped Vision Mamba for Single Image Dehazing**|Zhuoran Zheng et.al.|[2402.04139](http://arxiv.org/abs/2402.04139)|**[link](https://github.com/zzr-idam/uvm-net)**|
 |**2024-02-08**|**Analysis of Deep Image Prior and Exploiting Self-Guidance for Image Reconstruction**|Shijun Liang et.al.|[2402.04097](http://arxiv.org/abs/2402.04097)|null|
@@ -482,6 +494,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-08**|**HistoHDR-Net: Histogram Equalization for Single LDR to HDR Image Translation**|Hrishav Bakul Barua et.al.|[2402.06692](http://arxiv.org/abs/2402.06692)|null|
 |**2024-02-09**|**Improving 2D-3D Dense Correspondences with Diffusion Models for 6D Object Pose Estimation**|Peter Hönig et.al.|[2402.06436](http://arxiv.org/abs/2402.06436)|null|
 |**2024-02-06**|**Translating the future: Image-to-image translation for the prediction of future brain metabolism**|Elena Doering et.al.|[2402.04299](http://arxiv.org/abs/2402.04299)|null|
 |**2024-02-08**|**IGUANe: a 3D generalizable CycleGAN for multicenter harmonization of brain MR images**|Vincent Roca et.al.|[2402.03227](http://arxiv.org/abs/2402.03227)|**[link](https://github.com/rocavincent/iguane_harmonization)**|
