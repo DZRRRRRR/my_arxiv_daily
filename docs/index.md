@@ -78,7 +78,7 @@ layout: default
 |**2024-02-07**|**Generative Flows on Discrete State-Spaces: Enabling Multimodal Flows with Applications to Protein Co-Design**|Andrew Campbell et.al.|[2402.04997](http://arxiv.org/abs/2402.04997)|**[link](https://github.com/andrew-cr/discrete_flow_models)**|
 |**2024-02-07**|**Blue noise for diffusion models**|Xingchang Huang et.al.|[2402.04930](http://arxiv.org/abs/2402.04930)|null|
 |**2024-02-07**|**Source-Free Domain Adaptation with Diffusion-Guided Source Data Generation**|Shivang Chopra et.al.|[2402.04929](http://arxiv.org/abs/2402.04929)|null|
-|**2024-02-07**|**Towards Aligned Layout Generation via Diffusion Model with Aesthetic Constraints**|Jian Chen et.al.|[2402.04754](http://arxiv.org/abs/2402.04754)|null|
+|**2024-02-07**|**Towards Aligned Layout Generation via Diffusion Model with Aesthetic Constraints**|Jian Chen et.al.|[2402.04754](http://arxiv.org/abs/2402.04754)|**[link](https://github.com/puar-playground/lace)**|
 |**2024-02-07**|**Cortical Surface Diffusion Generative Models**|Zhenshan Xie et.al.|[2402.04753](http://arxiv.org/abs/2402.04753)|null|
 |**2024-02-07**|**EvoSeed: Unveiling the Threat on Deep Neural Networks with Real-World Illusions**|Shashank Kotyan et.al.|[2402.04699](http://arxiv.org/abs/2402.04699)|**[link](https://github.com/shashankkotyan/EvoSeed)**|
 |**2024-02-07**|**Noise Map Guidance: Inversion with Spatial Context for Real Image Editing**|Hansam Cho et.al.|[2402.04625](http://arxiv.org/abs/2402.04625)|**[link](https://github.com/hansam95/nmg)**|
@@ -91,7 +91,7 @@ layout: default
 |**2024-02-06**|**FoolSDEdit: Deceptively Steering Your Edits Towards Targeted Attribute-aware Distribution**|Qi Zhou et.al.|[2402.03705](http://arxiv.org/abs/2402.03705)|null|
 |**2024-02-06**|**Improving and Unifying Discrete&Continuous-time Discrete Denoising Diffusion**|Lingxiao Zhao et.al.|[2402.03701](http://arxiv.org/abs/2402.03701)|null|
 |**2024-02-06**|**Pard: Permutation-Invariant Autoregressive Diffusion for Graph Generation**|Lingxiao Zhao et.al.|[2402.03687](http://arxiv.org/abs/2402.03687)|null|
-|**2024-02-06**|**QuEST: Low-bit Diffusion Model Quantization via Efficient Selective Finetuning**|Haoxuan Wang et.al.|[2402.03666](http://arxiv.org/abs/2402.03666)|null|
+|**2024-02-06**|**QuEST: Low-bit Diffusion Model Quantization via Efficient Selective Finetuning**|Haoxuan Wang et.al.|[2402.03666](http://arxiv.org/abs/2402.03666)|**[link](https://github.com/hatchetProject/QuEST)**|
 |**2024-02-05**|**Do Diffusion Models Learn Semantically Meaningful and Efficient Representations?**|Qiyao Liang et.al.|[2402.03305](http://arxiv.org/abs/2402.03305)|null|
 |**2024-02-05**|**Zero-shot Object-Level OOD Detection with Context-Aware Inpainting**|Quang-Huy Nguyen et.al.|[2402.03292](http://arxiv.org/abs/2402.03292)|null|
 |**2024-02-05**|**InstanceDiffusion: Instance-level Control for Image Generation**|Xudong Wang et.al.|[2402.03290](http://arxiv.org/abs/2402.03290)|**[link](https://github.com/frank-xwang/InstanceDiffusion)**|
