@@ -22,6 +22,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-26**|**Stochastic Conditional Diffusion Models for Semantic Image Synthesis**|Juyeon Ko et.al.|[2402.16506](http://arxiv.org/abs/2402.16506)|null|
+|**2024-02-26**|**Outline-Guided Object Inpainting with Diffusion Models**|Markus Pobitzer et.al.|[2402.16421](http://arxiv.org/abs/2402.16421)|null|
+|**2024-02-26**|**Placing Objects in Context via Inpainting for Out-of-distribution Segmentation**|Pau de Jorge et.al.|[2402.16392](http://arxiv.org/abs/2402.16392)|**[link](https://github.com/naver/poc)**|
+|**2024-02-26**|**Generative AI in Vision: A Survey on Models, Metrics and Applications**|Gaurav Raut et.al.|[2402.16369](http://arxiv.org/abs/2402.16369)|null|
+|**2024-02-26**|**Feedback Efficient Online Fine-Tuning of Diffusion Models**|Masatoshi Uehara et.al.|[2402.16359](http://arxiv.org/abs/2402.16359)|null|
+|**2024-02-26**|**Graph Diffusion Policy Optimization**|Yijing Liu et.al.|[2402.16302](http://arxiv.org/abs/2402.16302)|**[link](https://github.com/sail-sg/gdpo)**|
+|**2024-02-25**|**Photon-counting CT using a Conditional Diffusion Model for Super-resolution and Texture-preservation**|Christopher Wiedeman et.al.|[2402.16212](http://arxiv.org/abs/2402.16212)|null|
+|**2024-02-25**|**Towards Efficient Quantum Hybrid Diffusion Models**|Francesca De Falco et.al.|[2402.16147](http://arxiv.org/abs/2402.16147)|null|
+|**2024-02-25**|**Cinematographic Camera Diffusion Model**|Hongda Jiang et.al.|[2402.16143](http://arxiv.org/abs/2402.16143)|null|
+|**2024-02-25**|**Behavioral Refinement via Interpolant-based Policy Diffusion**|Kaiqi Chen et.al.|[2402.16075](http://arxiv.org/abs/2402.16075)|null|
 |**2024-02-23**|**Gen4Gen: Generative Data Pipeline for Generative Multi-Concept Composition**|Chun-Hsiao Yeh et.al.|[2402.15504](http://arxiv.org/abs/2402.15504)|**[link](https://github.com/louisYen/Gen4Gen)**|
 |**2024-02-23**|**ProTIP: Probabilistic Robustness Verification on Text-to-Image Diffusion Models against Stochastic Perturbation**|Yi Zhang et.al.|[2402.15429](http://arxiv.org/abs/2402.15429)|**[link](https://github.com/wellzline/protip)**|
 |**2024-02-23**|**Let's Rectify Step by Step: Improving Aspect-based Sentiment Analysis with Diffusion Models**|Shunyu Liu et.al.|[2402.15289](http://arxiv.org/abs/2402.15289)|**[link](https://github.com/qlb6x/diffusionabsa)**|
@@ -442,6 +452,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-23**|**Smooth and Sparse Latent Dynamics in Operator Learning with Jerk Regularization**|Xiaoyu Xie et.al.|[2402.15636](http://arxiv.org/abs/2402.15636)|null|
 |**2024-02-22**|**CoLoRA: Continuous low-rank adaptation for reduced implicit neural modeling of parameterized partial differential equations**|Jules Berman et.al.|[2402.14646](http://arxiv.org/abs/2402.14646)|null|
 |**2024-02-21**|**Improving Efficiency of Iso-Surface Extraction on Implicit Neural Representations Using Uncertainty Propagation**|Haoyu Li et.al.|[2402.13861](http://arxiv.org/abs/2402.13861)|null|
 |**2024-02-21**|**SealD-NeRF: Interactive Pixel-Level Editing for Dynamic Scenes by Neural Radiance Fields**|Zhentao Huang et.al.|[2402.13510](http://arxiv.org/abs/2402.13510)|null|
@@ -531,6 +542,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-24**|**Sandwich GAN: Image Reconstruction from Phase Mask based Anti-dazzle Imaging**|Xiaopeng Peng et.al.|[2402.15919](http://arxiv.org/abs/2402.15919)|null|
+|**2024-02-24**|**HIR-Diff: Unsupervised Hyperspectral Image Restoration Via Improved Diffusion Models**|Li Pang et.al.|[2402.15865](http://arxiv.org/abs/2402.15865)|**[link](https://github.com/lipang/hirdiff)**|
+|**2024-02-24**|**IRConStyle: Image Restoration Framework Using Contrastive Learning and Style Transfer**|Dongqi Fan et.al.|[2402.15784](http://arxiv.org/abs/2402.15784)|**[link](https://github.com/dongqi-fan/irconstyle)**|
+|**2024-02-23**|**MambaIR: A Simple Baseline for Image Restoration with State-Space Model**|Hang Guo et.al.|[2402.15648](http://arxiv.org/abs/2402.15648)|null|
 |**2024-02-21**|**Adversarial Purification and Fine-tuning for Robust UDC Image Restoration**|Zhenbo Song et.al.|[2402.13629](http://arxiv.org/abs/2402.13629)|null|
 |**2024-02-14**|**DestripeCycleGAN: Stripe Simulation CycleGAN for Unsupervised Infrared Image Destriping**|Shiqi Yang et.al.|[2402.09101](http://arxiv.org/abs/2402.09101)|null|
 |**2024-02-10**|**Gyroscope-Assisted Motion Deblurring Network**|Simin Luan et.al.|[2402.06854](http://arxiv.org/abs/2402.06854)|**[link](https://github.com/lsmlovefm/GAMD-Net)**|
