@@ -22,6 +22,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-27**|**Diffusion Meets DAgger: Supercharging Eye-in-hand Imitation Learning**|Xiaoyu Zhang et.al.|[2402.17768](http://arxiv.org/abs/2402.17768)|null|
+|**2024-02-27**|**Structure-Guided Adversarial Training of Diffusion Models**|Ling Yang et.al.|[2402.17563](http://arxiv.org/abs/2402.17563)|null|
+|**2024-02-27**|**Diffusion Model-Based Image Editing: A Survey**|Yi Huang et.al.|[2402.17525](http://arxiv.org/abs/2402.17525)|**[link](https://github.com/siatmmlab/awesome-diffusion-model-based-image-editing-methods)**|
+|**2024-02-27**|**Label-Noise Robust Diffusion Models**|Byeonghu Na et.al.|[2402.17517](http://arxiv.org/abs/2402.17517)|**[link](https://github.com/byeonghu-na/tdsm)**|
+|**2024-02-27**|**EMO: Emote Portrait Alive - Generating Expressive Portrait Videos with Audio2Video Diffusion Model under Weak Conditions**|Linrui Tian et.al.|[2402.17485](http://arxiv.org/abs/2402.17485)|null|
+|**2024-02-27**|**DiffuseKronA: A Parameter Efficient Fine-tuning Method for Personalized Diffusion Model**|Shyam Marjit et.al.|[2402.17412](http://arxiv.org/abs/2402.17412)|null|
+|**2024-02-27**|**Generative diffusion model for surface structure discovery**|Nikolaj Rønne et.al.|[2402.17404](http://arxiv.org/abs/2402.17404)|null|
+|**2024-02-27**|**Denoising Diffusion Models for Inpainting of Healthy Brain Tissue**|Alicia Durrer et.al.|[2402.17307](http://arxiv.org/abs/2402.17307)|null|
+|**2024-02-27**|**DivAvatar: Diverse 3D Avatar Generation with a Single Prompt**|Weijing Tao et.al.|[2402.17292](http://arxiv.org/abs/2402.17292)|null|
+|**2024-02-27**|**Enhancing Hyperspectral Images via Diffusion Model and Group-Autoencoder Super-resolution Network**|Zhaoyang Wang et.al.|[2402.17285](http://arxiv.org/abs/2402.17285)|null|
 |**2024-02-26**|**Stochastic Conditional Diffusion Models for Semantic Image Synthesis**|Juyeon Ko et.al.|[2402.16506](http://arxiv.org/abs/2402.16506)|null|
 |**2024-02-26**|**Outline-Guided Object Inpainting with Diffusion Models**|Markus Pobitzer et.al.|[2402.16421](http://arxiv.org/abs/2402.16421)|null|
 |**2024-02-26**|**Placing Objects in Context via Inpainting for Out-of-distribution Segmentation**|Pau de Jorge et.al.|[2402.16392](http://arxiv.org/abs/2402.16392)|**[link](https://github.com/naver/poc)**|
@@ -452,6 +462,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-27**|**LoDIP: Low light phase retrieval with deep image prior**|Raunak Manekar et.al.|[2402.17745](http://arxiv.org/abs/2402.17745)|null|
+|**2024-02-27**|**Mesh-Agnostic Decoders for Supercritical Airfoil Prediction and Inverse Design**|Runze Li et.al.|[2402.17299](http://arxiv.org/abs/2402.17299)|null|
+|**2024-02-26**|**Neural Mesh Fusion: Unsupervised 3D Planar Surface Understanding**|Farhad G. Zanjani et.al.|[2402.16739](http://arxiv.org/abs/2402.16739)|null|
 |**2024-02-23**|**Smooth and Sparse Latent Dynamics in Operator Learning with Jerk Regularization**|Xiaoyu Xie et.al.|[2402.15636](http://arxiv.org/abs/2402.15636)|null|
 |**2024-02-22**|**CoLoRA: Continuous low-rank adaptation for reduced implicit neural modeling of parameterized partial differential equations**|Jules Berman et.al.|[2402.14646](http://arxiv.org/abs/2402.14646)|null|
 |**2024-02-21**|**Improving Efficiency of Iso-Surface Extraction on Implicit Neural Representations Using Uncertainty Propagation**|Haoyu Li et.al.|[2402.13861](http://arxiv.org/abs/2402.13861)|null|
@@ -542,6 +555,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-25**|**Diffusion Posterior Proximal Sampling for Image Restoration**|Hongjie Wu et.al.|[2402.16907](http://arxiv.org/abs/2402.16907)|null|
 |**2024-02-24**|**Sandwich GAN: Image Reconstruction from Phase Mask based Anti-dazzle Imaging**|Xiaopeng Peng et.al.|[2402.15919](http://arxiv.org/abs/2402.15919)|null|
 |**2024-02-24**|**HIR-Diff: Unsupervised Hyperspectral Image Restoration Via Improved Diffusion Models**|Li Pang et.al.|[2402.15865](http://arxiv.org/abs/2402.15865)|**[link](https://github.com/lipang/hirdiff)**|
 |**2024-02-24**|**IRConStyle: Image Restoration Framework Using Contrastive Learning and Style Transfer**|Dongqi Fan et.al.|[2402.15784](http://arxiv.org/abs/2402.15784)|**[link](https://github.com/dongqi-fan/irconstyle)**|
@@ -604,6 +618,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-27**|**NocPlace: Nocturnal Visual Place Recognition Using Generative and Inherited Knowledge Transfer**|Bingxi Liu et.al.|[2402.17159](http://arxiv.org/abs/2402.17159)|null|
 |**2024-02-23**|**Counterfactual Generation with Identifiability Guarantees**|Hanqi Yan et.al.|[2402.15309](http://arxiv.org/abs/2402.15309)|**[link](https://github.com/hanqi-qi/matte)**|
 |**2024-02-22**|**Improving Deep Generative Models on Many-To-One Image-to-Image Translation**|Sagar Saxena et.al.|[2402.12531](http://arxiv.org/abs/2402.12531)|null|
 |**2024-02-19**|**Revisiting registration-based synthesis: A focus on unsupervised MR image synthesis**|Savannah P. Hays et.al.|[2402.12288](http://arxiv.org/abs/2402.12288)|null|
