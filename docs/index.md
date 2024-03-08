@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-07**|**ObjectCompose: Evaluating Resilience of Vision-Based Models on Object-to-Background Compositional Changes**|Hashmat Shadab Malik et.al.|[2403.04701](http://arxiv.org/abs/2403.04701)|null|
+|**2024-03-07**|**Delving into the Trajectory Long-tail Distribution for Muti-object Tracking**|Sijia Chen et.al.|[2403.04700](http://arxiv.org/abs/2403.04700)|**[link](https://github.com/chen-si-jia/Trajectory-Long-tail-Distribution-for-MOT)**|
+|**2024-03-07**|**PixArt-Σ: Weak-to-Strong Training of Diffusion Transformer for 4K Text-to-Image Generation**|Junsong Chen et.al.|[2403.04692](http://arxiv.org/abs/2403.04692)|null|
+|**2024-03-07**|**Pix2Gif: Motion-Guided Diffusion for GIF Generation**|Hitesh Kandala et.al.|[2403.04634](http://arxiv.org/abs/2403.04634)|null|
+|**2024-03-07**|**A Domain Translation Framework with an Adversarial Denoising Diffusion Model to Generate Synthetic Datasets of Echocardiography Images**|Cristiana Tiago et.al.|[2403.04612](http://arxiv.org/abs/2403.04612)|null|
+|**2024-03-07**|**Anatomy-Guided Surface Diffusion Model for Alzheimer's Disease Normative Modeling**|Jianwei Zhang et.al.|[2403.04531](http://arxiv.org/abs/2403.04531)|null|
+|**2024-03-07**|**Effect of turbulent diffusion in modeling anaerobic digestion**|Jeremy Z. Yan et.al.|[2403.04457](http://arxiv.org/abs/2403.04457)|null|
+|**2024-03-07**|**Disentangled Diffusion-Based 3D Human Pose Estimation with Hierarchical Spatial and Temporal Denoiser**|Qingyuan Cai et.al.|[2403.04444](http://arxiv.org/abs/2403.04444)|null|
+|**2024-03-07**|**StableDrag: Stable Dragging for Point-based Image Editing**|Yutao Cui et.al.|[2403.04437](http://arxiv.org/abs/2403.04437)|null|
+|**2024-03-07**|**On-demand Quantization for Green Federated Generative Diffusion in Mobile Edge Networks**|Bingkun Lai et.al.|[2403.04430](http://arxiv.org/abs/2403.04430)|null|
 |**2024-03-06**|**GUIDE: Guidance-based Incremental Learning with Diffusion Models**|Bartosz Cywiński et.al.|[2403.03938](http://arxiv.org/abs/2403.03938)|null|
 |**2024-03-06**|**Latent Dataset Distillation with Diffusion Models**|Brian B. Moser et.al.|[2403.03881](http://arxiv.org/abs/2403.03881)|null|
 |**2024-03-06**|**Accelerating Convergence of Score-Based Diffusion Models, Provably**|Gen Li et.al.|[2403.03852](http://arxiv.org/abs/2403.03852)|null|
@@ -573,6 +583,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-07**|**FriendNet: Detection-Friendly Dehazing Network**|Yihua Fan et.al.|[2403.04443](http://arxiv.org/abs/2403.04443)|null|
 |**2024-03-02**|**Depth Information Assisted Collaborative Mutual Promotion Network for Single Image Dehazing**|Yafei Zhang et.al.|[2403.01105](http://arxiv.org/abs/2403.01105)|null|
 |**2024-02-28**|**Learning to Deblur Polarized Images**|Chu Zhou et.al.|[2402.18134](http://arxiv.org/abs/2402.18134)|null|
 |**2024-02-07**|**Physics Informed and Data Driven Simulation of Underwater Images via Residual Learning**|Tanmoy Mondal et.al.|[2402.05281](http://arxiv.org/abs/2402.05281)|**[link](https://github.com/anoynymreview/underwater_simulation)**|
@@ -593,12 +604,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-07**|**FriendNet: Detection-Friendly Dehazing Network**|Yihua Fan et.al.|[2403.04443](http://arxiv.org/abs/2403.04443)|null|
 |**2024-03-02**|**Extrapolated Plug-and-Play Three-Operator Splitting Methods for Nonconvex Optimization with Applications to Image Restoration**|Zhongming Wu et.al.|[2403.01144](http://arxiv.org/abs/2403.01144)|null|
 |**2024-02-26**|**Randomized Algorithms for Solving Singular Value Decomposition Problems with Matlab Toolbox**|Xiaowen Li et.al.|[2402.17794](http://arxiv.org/abs/2402.17794)|null|
 |**2024-02-25**|**Diffusion Posterior Proximal Sampling for Image Restoration**|Hongjie Wu et.al.|[2402.16907](http://arxiv.org/abs/2402.16907)|null|
 |**2024-03-04**|**Learning to See Through Dazzle**|Xiaopeng Peng et.al.|[2402.15919](http://arxiv.org/abs/2402.15919)|null|
 |**2024-02-24**|**HIR-Diff: Unsupervised Hyperspectral Image Restoration Via Improved Diffusion Models**|Li Pang et.al.|[2402.15865](http://arxiv.org/abs/2402.15865)|**[link](https://github.com/lipang/hirdiff)**|
-|**2024-02-28**|**IRConStyle: Image Restoration Framework Using Contrastive Learning and Style Transfer**|Dongqi Fan et.al.|[2402.15784](http://arxiv.org/abs/2402.15784)|null|
+|**2024-03-07**|**IRConStyle: Image Restoration Framework Using Contrastive Learning and Style Transfer**|Dongqi Fan et.al.|[2402.15784](http://arxiv.org/abs/2402.15784)|null|
 |**2024-02-23**|**MambaIR: A Simple Baseline for Image Restoration with State-Space Model**|Hang Guo et.al.|[2402.15648](http://arxiv.org/abs/2402.15648)|**[link](https://github.com/csguoh/mambair)**|
 |**2024-02-21**|**Adversarial Purification and Fine-tuning for Robust UDC Image Restoration**|Zhenbo Song et.al.|[2402.13629](http://arxiv.org/abs/2402.13629)|null|
 |**2024-02-14**|**DestripeCycleGAN: Stripe Simulation CycleGAN for Unsupervised Infrared Image Destriping**|Shiqi Yang et.al.|[2402.09101](http://arxiv.org/abs/2402.09101)|null|
@@ -656,8 +668,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-03-06**|**DLP-GAN: Learning to Draw Modern Chinese Landscape Photos with Generative Adversarial Network**|Xiangquan Gui et.al.|[2403.03456](http://arxiv.org/abs/2403.03456)|null|
-|**2024-03-06**|**Scene Depth Estimation from Traditional Oriental Landscape Paintings**|Sungho Kang et.al.|[2403.03408](http://arxiv.org/abs/2403.03408)|null|
+|**2024-03-07**|**Pix2Gif: Motion-Guided Diffusion for GIF Generation**|Hitesh Kandala et.al.|[2403.04634](http://arxiv.org/abs/2403.04634)|null|
+|**2024-03-07**|**DLP-GAN: learning to draw modern Chinese landscape photos with generative adversarial network**|Xiangquan Gui et.al.|[2403.03456](http://arxiv.org/abs/2403.03456)|null|
+|**2024-03-07**|**Scene Depth Estimation from Traditional Oriental Landscape Paintings**|Sungho Kang et.al.|[2403.03408](http://arxiv.org/abs/2403.03408)|null|
 |**2024-02-28**|**FSL Model can Score Higher as It Is**|Yunwei Bai et.al.|[2402.18292](http://arxiv.org/abs/2402.18292)|null|
 |**2024-02-27**|**NocPlace: Nocturnal Visual Place Recognition Using Generative and Inherited Knowledge Transfer**|Bingxi Liu et.al.|[2402.17159](http://arxiv.org/abs/2402.17159)|null|
 |**2024-02-23**|**Counterfactual Generation with Identifiability Guarantees**|Hanqi Yan et.al.|[2402.15309](http://arxiv.org/abs/2402.15309)|**[link](https://github.com/hanqi-qi/matte)**|
