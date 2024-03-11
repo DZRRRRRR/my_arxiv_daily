@@ -32,7 +32,7 @@
 |**2024-03-07**|**Disentangled Diffusion-Based 3D Human Pose Estimation with Hierarchical Spatial and Temporal Denoiser**|Qingyuan Cai et.al.|[2403.04444](http://arxiv.org/abs/2403.04444)|null|
 |**2024-03-07**|**StableDrag: Stable Dragging for Point-based Image Editing**|Yutao Cui et.al.|[2403.04437](http://arxiv.org/abs/2403.04437)|null|
 |**2024-03-07**|**On-demand Quantization for Green Federated Generative Diffusion in Mobile Edge Networks**|Bingkun Lai et.al.|[2403.04430](http://arxiv.org/abs/2403.04430)|null|
-|**2024-03-06**|**GUIDE: Guidance-based Incremental Learning with Diffusion Models**|Bartosz Cywiński et.al.|[2403.03938](http://arxiv.org/abs/2403.03938)|null|
+|**2024-03-06**|**GUIDE: Guidance-based Incremental Learning with Diffusion Models**|Bartosz Cywiński et.al.|[2403.03938](http://arxiv.org/abs/2403.03938)|**[link](https://github.com/cywinski/guide)**|
 |**2024-03-06**|**Latent Dataset Distillation with Diffusion Models**|Brian B. Moser et.al.|[2403.03881](http://arxiv.org/abs/2403.03881)|null|
 |**2024-03-06**|**Accelerating Convergence of Score-Based Diffusion Models, Provably**|Gen Li et.al.|[2403.03852](http://arxiv.org/abs/2403.03852)|null|
 |**2024-03-06**|**Diffusion on language model embeddings for protein sequence generation**|Viacheslav Meshchaninov et.al.|[2403.03726](http://arxiv.org/abs/2403.03726)|null|
@@ -75,7 +75,7 @@
 |**2024-02-28**|**Dynamical Regimes of Diffusion Models**|Giulio Biroli et.al.|[2402.18491](http://arxiv.org/abs/2402.18491)|null|
 |**2024-02-28**|**Deep Confident Steps to New Pockets: Strategies for Docking Generalization**|Gabriele Corso et.al.|[2402.18396](http://arxiv.org/abs/2402.18396)|**[link](https://github.com/gcorso/diffdock)**|
 |**2024-02-28**|**Objective and Interpretable Breast Cosmesis Evaluation with Attention Guided Denoising Diffusion Anomaly Detection Model**|Sangjoon Park et.al.|[2402.18362](http://arxiv.org/abs/2402.18362)|null|
-|**2024-02-28**|**FineDiffusion: Scaling up Diffusion Models for Fine-grained Image Generation with 10,000 Classes**|Ziying Pan et.al.|[2402.18331](http://arxiv.org/abs/2402.18331)|null|
+|**2024-02-28**|**FineDiffusion: Scaling up Diffusion Models for Fine-grained Image Generation with 10,000 Classes**|Ziying Pan et.al.|[2402.18331](http://arxiv.org/abs/2402.18331)|**[link](https://github.com/FineDiffusion/FineDiffusion)**|
 |**2024-02-28**|**Balancing Act: Distribution-Guided Debiasing in Diffusion Models**|Rishubh Parihar et.al.|[2402.18206](http://arxiv.org/abs/2402.18206)|null|
 |**2024-02-28**|**Diffusion-based Neural Network Weights Generation**|Bedionita Soro et.al.|[2402.18153](http://arxiv.org/abs/2402.18153)|null|
 |**2024-02-28**|**Context-aware Talking Face Video Generation**|Meidai Xuanyuan et.al.|[2402.18092](http://arxiv.org/abs/2402.18092)|null|
@@ -548,7 +548,7 @@
 |**2024-01-27**|**An Implicit Physical Face Model Driven by Expression and Style**|Lingchen Yang et.al.|[2401.15414](http://arxiv.org/abs/2401.15414)|null|
 |**2024-01-26**|**Implicit Neural Representation for Physics-driven Actuated Soft Bodies**|Lingchen Yang et.al.|[2401.14861](http://arxiv.org/abs/2401.14861)|null|
 |**2024-01-26**|**Residual Quantization with Implicit Neural Codebooks**|Iris Huijben et.al.|[2401.14732](http://arxiv.org/abs/2401.14732)|**[link](https://github.com/facebookresearch/qinco)**|
-|**2024-01-26**|**3D Reconstruction and New View Synthesis of Indoor Environments based on a Dual Neural Radiance Field**|Zhenyu Bao et.al.|[2401.14726](http://arxiv.org/abs/2401.14726)|null|
+|**2024-01-26**|**3D Reconstruction and New View Synthesis of Indoor Environments based on a Dual Neural Radiance Field**|Zhenyu Bao et.al.|[2401.14726](http://arxiv.org/abs/2401.14726)|**[link](https://github.com/pcl3dv/dunerf)**|
 |**2024-01-23**|**A Unified Generation-Registration Framework for Improved MR-based CT Synthesis in Proton Therapy**|Xia Li et.al.|[2401.12878](http://arxiv.org/abs/2401.12878)|null|
 |**2024-01-23**|**Fast Implicit Neural Representation Image Codec in Resource-limited Devices**|Xiang Liu et.al.|[2401.12587](http://arxiv.org/abs/2401.12587)|null|
 |**2024-01-23**|**DDMI: Domain-Agnostic Latent Diffusion Models for Synthesizing High-Quality Implicit Neural Representations**|Dogyun Park et.al.|[2401.12517](http://arxiv.org/abs/2401.12517)|null|
