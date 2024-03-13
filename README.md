@@ -22,6 +22,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-12**|**Bridging Different Language Models and Generative Vision Models for Text-to-Image Generation**|Shihao Zhao et.al.|[2403.07860](http://arxiv.org/abs/2403.07860)|**[link](https://github.com/shihaozhaozsh/lavi-bridge)**|
+|**2024-03-12**|**Quantifying and Mitigating Privacy Risks for Tabular Generative Models**|Chaoyi Zhu et.al.|[2403.07842](http://arxiv.org/abs/2403.07842)|null|
+|**2024-03-12**|**MPCPA: Multi-Center Privacy Computing with Predictions Aggregation based on Denoising Diffusion Probabilistic Model**|Guibo Luo et.al.|[2403.07838](http://arxiv.org/abs/2403.07838)|null|
+|**2024-03-12**|**SemCity: Semantic Scene Generation with Triplane Diffusion**|Jumin Lee et.al.|[2403.07773](http://arxiv.org/abs/2403.07773)|**[link](https://github.com/zoomin-lee/semcity)**|
+|**2024-03-12**|**Stable-Makeup: When Real-World Makeup Transfer Meets Diffusion Model**|Yuxuan Zhang et.al.|[2403.07764](http://arxiv.org/abs/2403.07764)|null|
+|**2024-03-12**|**SSM Meets Video Diffusion Models: Efficient Video Generation with Structured State Spaces**|Yuta Oshima et.al.|[2403.07711](http://arxiv.org/abs/2403.07711)|**[link](https://github.com/shim0114/ssm-meets-video-diffusion-models)**|
+|**2024-03-12**|**Visual Privacy Auditing with Diffusion Models**|Kristian Schwethelm et.al.|[2403.07588](http://arxiv.org/abs/2403.07588)|null|
+|**2024-03-12**|**D4D: An RGBD diffusion model to boost monocular depth estimation**|L. Papa et.al.|[2403.07516](http://arxiv.org/abs/2403.07516)|**[link](https://github.com/lorenzopapa5/diffusion4d)**|
+|**2024-03-12**|**Block-wise LoRA: Revisiting Fine-grained LoRA for Effective Personalization and Stylization in Text-to-Image Generation**|Likun Li et.al.|[2403.07500](http://arxiv.org/abs/2403.07500)|null|
+|**2024-03-12**|**Time-Efficient and Identity-Consistent Virtual Try-On Using A Variant of Altered Diffusion Models**|Phuong Dam et.al.|[2403.07371](http://arxiv.org/abs/2403.07371)|null|
 |**2024-03-11**|**BrushNet: A Plug-and-Play Image Inpainting Model with Decomposed Dual-Branch Diffusion**|Xuan Ju et.al.|[2403.06976](http://arxiv.org/abs/2403.06976)|null|
 |**2024-03-11**|**Bayesian Diffusion Models for 3D Shape Reconstruction**|Haiyang Xu et.al.|[2403.06973](http://arxiv.org/abs/2403.06973)|null|
 |**2024-03-11**|**POD-ROM methods: from a finite set of snapshots to continuous-in-time approximations**|Bosco Garcia-Archilla et.al.|[2403.06967](http://arxiv.org/abs/2403.06967)|null|
@@ -619,6 +629,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-12**|**NightHaze: Nighttime Image Dehazing via Self-Prior Learning**|Beibei Lin et.al.|[2403.07408](http://arxiv.org/abs/2403.07408)|null|
 |**2024-03-07**|**FriendNet: Detection-Friendly Dehazing Network**|Yihua Fan et.al.|[2403.04443](http://arxiv.org/abs/2403.04443)|null|
 |**2024-03-02**|**Depth Information Assisted Collaborative Mutual Promotion Network for Single Image Dehazing**|Yafei Zhang et.al.|[2403.01105](http://arxiv.org/abs/2403.01105)|null|
 |**2024-02-28**|**Learning to Deblur Polarized Images**|Chu Zhou et.al.|[2402.18134](http://arxiv.org/abs/2402.18134)|null|
@@ -642,6 +653,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-12**|**Efficient Diffusion Model for Image Restoration by Residual Shifting**|Zongsheng Yue et.al.|[2403.07319](http://arxiv.org/abs/2403.07319)|**[link](https://github.com/zsyoaoa/resshift)**|
+|**2024-03-12**|**Continual All-in-One Adverse Weather Removal with Knowledge Replay on a Unified Network Structure**|De Cheng et.al.|[2403.07292](http://arxiv.org/abs/2403.07292)|**[link](https://github.com/xiaojihh/cl_all-in-one)**|
 |**2024-03-11**|**Boosting Image Restoration via Priors from Pre-trained Models**|Xiaogang Xu et.al.|[2403.06793](http://arxiv.org/abs/2403.06793)|null|
 |**2024-03-10**|**Implicit Image-to-Image Schrodinger Bridge for CT Super-Resolution and Denoising**|Yuang Wang et.al.|[2403.06069](http://arxiv.org/abs/2403.06069)|null|
 |**2024-03-12**|**Decoupled Data Consistency with Diffusion Purification for Image Restoration**|Xiang Li et.al.|[2403.06054](http://arxiv.org/abs/2403.06054)|null|
@@ -714,8 +727,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-12**|**BraSyn 2023 challenge: Missing MRI synthesis and the effect of different learning objectives**|Ivo M. Baltruschat et.al.|[2403.07800](http://arxiv.org/abs/2403.07800)|null|
+|**2024-03-12**|**Towards Model Extraction Attacks in GAN-Based Image Translation via Domain Shift Mitigation**|Di Mi et.al.|[2403.07673](http://arxiv.org/abs/2403.07673)|null|
 |**2024-03-09**|**Generalizing to Out-of-Sample Degradations via Model Reprogramming**|Runhua Jiang et.al.|[2403.05886](http://arxiv.org/abs/2403.05886)|**[link](https://github.com/ddghjikle/out-of-sample-restoration)**|
-|**2024-03-08**|**Spectrum Translation for Refinement of Image Generation (STIG) Based on Contrastive Learning and Spectral Filter Profile**|Seokjun Lee et.al.|[2403.05093](http://arxiv.org/abs/2403.05093)|null|
+|**2024-03-08**|**Spectrum Translation for Refinement of Image Generation (STIG) Based on Contrastive Learning and Spectral Filter Profile**|Seokjun Lee et.al.|[2403.05093](http://arxiv.org/abs/2403.05093)|**[link](https://github.com/ykykyk112/STIG)**|
 |**2024-03-05**|**(Un)paired signal-to-signal translation with 1D conditional GANs**|Eric Easthope et.al.|[2403.04800](http://arxiv.org/abs/2403.04800)|null|
 |**2024-03-08**|**Pix2Gif: Motion-Guided Diffusion for GIF Generation**|Hitesh Kandala et.al.|[2403.04634](http://arxiv.org/abs/2403.04634)|null|
 |**2024-03-07**|**DLP-GAN: learning to draw modern Chinese landscape photos with generative adversarial network**|Xiangquan Gui et.al.|[2403.03456](http://arxiv.org/abs/2403.03456)|null|
