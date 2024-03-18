@@ -22,6 +22,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-15**|**Lodge: A Coarse to Fine Diffusion Network for Long Dance Generation Guided by the Characteristic Dance Primitives**|Ronghui Li et.al.|[2403.10518](http://arxiv.org/abs/2403.10518)|**[link](https://github.com/li-ronghui/LODGE)**|
+|**2024-03-15**|**Isotropic3D: Image-to-3D Generation Based on a Single CLIP Embedding**|Pengkun Liu et.al.|[2403.10395](http://arxiv.org/abs/2403.10395)|**[link](https://github.com/pkunliu/isotropic3d)**|
+|**2024-03-15**|**Denoising Task Difficulty-based Curriculum for Training Diffusion Models**|Jin-Young Kim et.al.|[2403.10348](http://arxiv.org/abs/2403.10348)|null|
+|**2024-03-15**|**Optimal Control of Stationary Doubly Diffusive Flows on Two and Three Dimensional Bounded Lipschitz Domains: Numerical Analysis**|Jai Tushar et.al.|[2403.10282](http://arxiv.org/abs/2403.10282)|null|
+|**2024-03-15**|**Arbitrary-Scale Image Generation and Upsampling using Latent Diffusion Model and Implicit Neural Decoder**|Jinseok Kim et.al.|[2403.10255](http://arxiv.org/abs/2403.10255)|null|
+|**2024-03-15**|**FDGaussian: Fast Gaussian Splatting from Single Image via Geometric-aware Diffusion Model**|Qijun Feng et.al.|[2403.10242](http://arxiv.org/abs/2403.10242)|null|
+|**2024-03-15**|**BlindDiff: Empowering Degradation Modelling in Diffusion Models for Blind Image Super-Resolution**|Feng Li et.al.|[2403.10211](http://arxiv.org/abs/2403.10211)|**[link](https://github.com/lifengcs/blinddiff)**|
+|**2024-03-15**|**Spectral CT Two-step and One-step Material Decomposition using Diffusion Posterior Sampling**|Corentin Vazia et.al.|[2403.10183](http://arxiv.org/abs/2403.10183)|null|
+|**2024-03-15**|**Animate Your Motion: Turning Still Images into Dynamic Videos**|Mingxiao Li et.al.|[2403.10179](http://arxiv.org/abs/2403.10179)|null|
+|**2024-03-15**|**Being heterogeneous is disadvantageous: Brownian non-Gaussian searches**|Vittoria Sposini et.al.|[2403.10138](http://arxiv.org/abs/2403.10138)|null|
 |**2024-03-14**|**SCP-Diff: Photo-Realistic Semantic Image Synthesis with Spatial-Categorical Joint Prior**|Huan-ang Gao et.al.|[2403.09638](http://arxiv.org/abs/2403.09638)|null|
 |**2024-03-14**|**3D-VLA: A 3D Vision-Language-Action Generative World Model**|Haoyu Zhen et.al.|[2403.09631](http://arxiv.org/abs/2403.09631)|null|
 |**2024-03-14**|**Generalized Predictive Model for Autonomous Driving**|Jiazhi Yang et.al.|[2403.09630](http://arxiv.org/abs/2403.09630)|**[link](https://github.com/opendrivelab/driveagi)**|
@@ -571,8 +581,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-15**|**SWAG: Splatting in the Wild images with Appearance-conditioned Gaussians**|Hiba Dahmani et.al.|[2403.10427](http://arxiv.org/abs/2403.10427)|null|
+|**2024-03-15**|**Arbitrary-Scale Image Generation and Upsampling using Latent Diffusion Model and Implicit Neural Decoder**|Jinseok Kim et.al.|[2403.10255](http://arxiv.org/abs/2403.10255)|null|
 |**2024-03-14**|**SketchINR: A First Look into Sketches as Implicit Neural Representations**|Hmrishav Bandyopadhyay et.al.|[2403.09344](http://arxiv.org/abs/2403.09344)|null|
-|**2024-03-13**|**Representing Anatomical Trees by Denoising Diffusion of Implicit Neural Fields**|Ashish Sinha et.al.|[2403.08974](http://arxiv.org/abs/2403.08974)|null|
+|**2024-03-13**|**Representing Anatomical Trees by Denoising Diffusion of Implicit Neural Fields**|Ashish Sinha et.al.|[2403.08974](http://arxiv.org/abs/2403.08974)|**[link](https://github.com/sinashish/treediffusion)**|
 |**2024-03-13**|**A Novel Implicit Neural Representation for Volume Data**|Armin Sheibanifard et.al.|[2403.08566](http://arxiv.org/abs/2403.08566)|null|
 |**2024-03-14**|**GaussianImage: 1000 FPS Image Representation and Compression by 2D Gaussian Splatting**|Xinjie Zhang et.al.|[2403.08551](http://arxiv.org/abs/2403.08551)|null|
 |**2024-03-13**|**CINA: Conditional Implicit Neural Atlas for Spatio-Temporal Representation of Fetal Brains**|Maik Dannecker et.al.|[2403.08550](http://arxiv.org/abs/2403.08550)|null|
@@ -656,7 +668,7 @@
 |---|---|---|---|---|
 |**2024-03-12**|**NightHaze: Nighttime Image Dehazing via Self-Prior Learning**|Beibei Lin et.al.|[2403.07408](http://arxiv.org/abs/2403.07408)|null|
 |**2024-03-07**|**FriendNet: Detection-Friendly Dehazing Network**|Yihua Fan et.al.|[2403.04443](http://arxiv.org/abs/2403.04443)|null|
-|**2024-03-02**|**Depth Information Assisted Collaborative Mutual Promotion Network for Single Image Dehazing**|Yafei Zhang et.al.|[2403.01105](http://arxiv.org/abs/2403.01105)|null|
+|**2024-03-02**|**Depth Information Assisted Collaborative Mutual Promotion Network for Single Image Dehazing**|Yafei Zhang et.al.|[2403.01105](http://arxiv.org/abs/2403.01105)|**[link](https://github.com/zhoushen1/diacmpn)**|
 |**2024-02-28**|**Learning to Deblur Polarized Images**|Chu Zhou et.al.|[2402.18134](http://arxiv.org/abs/2402.18134)|null|
 |**2024-02-07**|**Physics Informed and Data Driven Simulation of Underwater Images via Residual Learning**|Tanmoy Mondal et.al.|[2402.05281](http://arxiv.org/abs/2402.05281)|**[link](https://github.com/anoynymreview/underwater_simulation)**|
 |**2024-02-16**|**U-shaped Vision Mamba for Single Image Dehazing**|Zhuoran Zheng et.al.|[2402.04139](http://arxiv.org/abs/2402.04139)|**[link](https://github.com/zzr-idam/uvm-net)**|
@@ -678,6 +690,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-15**|**How Powerful Potential of Attention on Image Restoration?**|Cong Wang et.al.|[2403.10336](http://arxiv.org/abs/2403.10336)|null|
+|**2024-03-15**|**BlindDiff: Empowering Degradation Modelling in Diffusion Models for Blind Image Super-Resolution**|Feng Li et.al.|[2403.10211](http://arxiv.org/abs/2403.10211)|**[link](https://github.com/lifengcs/blinddiff)**|
 |**2024-03-14**|**D-YOLO a robust framework for object detection in adverse weather conditions**|Zihan Chu et.al.|[2403.09233](http://arxiv.org/abs/2403.09233)|null|
 |**2024-03-13**|**Ambient Diffusion Posterior Sampling: Solving Inverse Problems with Diffusion Models trained on Corrupted Data**|Asad Aali et.al.|[2403.08728](http://arxiv.org/abs/2403.08728)|**[link](https://github.com/utcsilab/ambient-diffusion-mri)**|
 |**2024-03-12**|**Efficient Diffusion Model for Image Restoration by Residual Shifting**|Zongsheng Yue et.al.|[2403.07319](http://arxiv.org/abs/2403.07319)|**[link](https://github.com/zsyoaoa/resshift)**|
