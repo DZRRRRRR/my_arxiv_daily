@@ -22,6 +22,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-19**|**FouriScale: A Frequency Perspective on Training-Free High-Resolution Image Synthesis**|Linjiang Huang et.al.|[2403.12963](http://arxiv.org/abs/2403.12963)|**[link](https://github.com/leonhlj/fouriscale)**|
+|**2024-03-19**|**FRESCO: Spatial-Temporal Correspondence for Zero-Shot Video Translation**|Shuai Yang et.al.|[2403.12962](http://arxiv.org/abs/2403.12962)|**[link](https://github.com/williamyang1991/fresco)**|
+|**2024-03-19**|**Zero-Reference Low-Light Enhancement via Physical Quadruple Priors**|Wenjing Wang et.al.|[2403.12933](http://arxiv.org/abs/2403.12933)|null|
+|**2024-03-19**|**Ultra-High-Resolution Image Synthesis with Pyramid Diffusion Model**|Jiajie Yang et.al.|[2403.12915](http://arxiv.org/abs/2403.12915)|**[link](https://github.com/rando11199/pyramid-diffusion)**|
+|**2024-03-19**|**D-Cubed: Latent Diffusion Trajectory Optimisation for Dexterous Deformable Manipulation**|Jun Yamada et.al.|[2403.12861](http://arxiv.org/abs/2403.12861)|null|
+|**2024-03-19**|**Generative Enhancement for 3D Medical Images**|Lingting Zhu et.al.|[2403.12852](http://arxiv.org/abs/2403.12852)|**[link](https://github.com/hku-medai/gem-3d)**|
+|**2024-03-19**|**Compositional 3D Scene Synthesis with Scene Graph Guided Layout-Shape Generation**|Yao Wei et.al.|[2403.12848](http://arxiv.org/abs/2403.12848)|null|
+|**2024-03-19**|**DreamDA: Generative Data Augmentation with Diffusion Models**|Yunxiang Fu et.al.|[2403.12803](http://arxiv.org/abs/2403.12803)|**[link](https://github.com/yunxiangfu2001/dreamda)**|
+|**2024-03-19**|**WaveFace: Authentic Face Restoration with Efficient Frequency Recovery**|Yunqi Miao et.al.|[2403.12760](http://arxiv.org/abs/2403.12760)|null|
+|**2024-03-19**|**Towards Controllable Face Generation with Semantic Latent Diffusion Models**|Alex Ergasti et.al.|[2403.12743](http://arxiv.org/abs/2403.12743)|**[link](https://github.com/ergastialex/ldm-diffusion-sem)**|
 |**2024-03-18**|**Generalized Multi-Source Inference for Text Conditioned Music Diffusion Models**|Emilian Postolache et.al.|[2403.11706](http://arxiv.org/abs/2403.11706)|**[link](https://github.com/gladia-research-group/gmsdi)**|
 |**2024-03-19**|**Urban Scene Diffusion through Semantic Occupancy Map**|Junge Zhang et.al.|[2403.11697](http://arxiv.org/abs/2403.11697)|null|
 |**2024-03-18**|**Binary Noise for Binary Tasks: Masked Bernoulli Diffusion for Unsupervised Anomaly Detection**|Julia Wolleb et.al.|[2403.11667](http://arxiv.org/abs/2403.11667)|null|
@@ -591,6 +601,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-19**|**VQ-NeRV: A Vector Quantized Neural Representation for Videos**|Yunjie Xu et.al.|[2403.12401](http://arxiv.org/abs/2403.12401)|**[link](https://github.com/magicffourier/vq-nerv)**|
+|**2024-03-18**|**Reachability-based Trajectory Design via Exact Formulation of Implicit Neural Signed Distance Functions**|Jonathan Michaux et.al.|[2403.12280](http://arxiv.org/abs/2403.12280)|null|
+|**2024-03-18**|**Graph Neural Networks for Learning Equivariant Representations of Neural Networks**|Miltiadis Kofinas et.al.|[2403.12143](http://arxiv.org/abs/2403.12143)|**[link](https://github.com/mkofinas/neural-graphs)**|
 |**2024-03-18**|**3DGS-Calib: 3D Gaussian Splatting for Multimodal SpatioTemporal Calibration**|Quentin Herau et.al.|[2403.11577](http://arxiv.org/abs/2403.11577)|null|
 |**2024-03-17**|**STAIR: Semantic-Targeted Active Implicit Reconstruction**|Liren Jin et.al.|[2403.11233](http://arxiv.org/abs/2403.11233)|null|
 |**2024-03-16**|**MicroDiffusion: Implicit Representation-Guided Diffusion for 3D Reconstruction from Limited 2D Microscopy Projections**|Mude Hui et.al.|[2403.10815](http://arxiv.org/abs/2403.10815)|**[link](https://github.com/ucsc-vlaa/microdiffusion)**|
@@ -679,6 +692,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-07**|**Haze Removal via Regional Saturation-Value Translation and Soft Segmentation**|Le-Anh Tran et.al.|[2403.12054](http://arxiv.org/abs/2403.12054)|null|
 |**2024-03-12**|**NightHaze: Nighttime Image Dehazing via Self-Prior Learning**|Beibei Lin et.al.|[2403.07408](http://arxiv.org/abs/2403.07408)|null|
 |**2024-03-07**|**FriendNet: Detection-Friendly Dehazing Network**|Yihua Fan et.al.|[2403.04443](http://arxiv.org/abs/2403.04443)|null|
 |**2024-03-02**|**Depth Information Assisted Collaborative Mutual Promotion Network for Single Image Dehazing**|Yafei Zhang et.al.|[2403.01105](http://arxiv.org/abs/2403.01105)|**[link](https://github.com/zhoushen1/diacmpn)**|
@@ -703,6 +717,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-19**|**Multispectral Image Restoration by Generalized Opponent Transformation Total Variation**|Zhantao Ma et.al.|[2403.12770](http://arxiv.org/abs/2403.12770)|null|
 |**2024-03-18**|**CasSR: Activating Image Power for Real-World Image Super-Resolution**|Haolan Chen et.al.|[2403.11451](http://arxiv.org/abs/2403.11451)|null|
 |**2024-03-18**|**VmambaIR: Visual State Space Model for Image Restoration**|Yuan Shi et.al.|[2403.11423](http://arxiv.org/abs/2403.11423)|**[link](https://github.com/alphacatplus/vmambair)**|
 |**2024-03-18**|**Divide-and-Conquer Posterior Sampling for Denoising Diffusion Priors**|Yazid Janati et.al.|[2403.11407](http://arxiv.org/abs/2403.11407)|null|
@@ -787,6 +802,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-19**|**Generalized Consistency Trajectory Models for Image Manipulation**|Beomsu Kim et.al.|[2403.12510](http://arxiv.org/abs/2403.12510)|**[link](https://github.com/1202kbs/gctm)**|
+|**2024-03-18**|**One-Step Image Translation with Text-to-Image Models**|Gaurav Parmar et.al.|[2403.12036](http://arxiv.org/abs/2403.12036)|null|
 |**2024-03-16**|**Could We Generate Cytology Images from Histopathology Images? An Empirical Study**|Soumyajyoti Dey et.al.|[2403.10885](http://arxiv.org/abs/2403.10885)|null|
 |**2024-03-16**|**ContourDiff: Unpaired Image Translation with Contour-Guided Diffusion Models**|Yuwen Chen et.al.|[2403.10786](http://arxiv.org/abs/2403.10786)|null|
 |**2024-03-13**|**CART: Caltech Aerial RGB-Thermal Dataset in the Wild**|Connor Lee et.al.|[2403.08997](http://arxiv.org/abs/2403.08997)|**[link](https://github.com/aerorobotics/caltech-aerial-rgbt-dataset)**|
