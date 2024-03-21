@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.20
+## Updated on 2024.03.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -595,7 +595,7 @@
 |**2023-12-16**|**Image Restoration Through Generalized Ornstein-Uhlenbeck Bridge**|Conghan Yue et.al.|[2312.10299](http://arxiv.org/abs/2312.10299)|**[link](https://github.com/Hammour-steak/GOUB)**|
 |**2023-12-15**|**Two simple criterion to prove the existence of patterns in reaction-diffusion models of two components**|Francisco J. Vielma-Leal et.al.|[2312.10231](http://arxiv.org/abs/2312.10231)|null|
 
-<p align=right>(<a href=#updated-on-20240320>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240321>back to top</a>)</p>
 
 ## Implicit
 
@@ -603,7 +603,7 @@
 |---|---|---|---|---|
 |**2024-03-19**|**VQ-NeRV: A Vector Quantized Neural Representation for Videos**|Yunjie Xu et.al.|[2403.12401](http://arxiv.org/abs/2403.12401)|**[link](https://github.com/magicffourier/vq-nerv)**|
 |**2024-03-18**|**Reachability-based Trajectory Design via Exact Formulation of Implicit Neural Signed Distance Functions**|Jonathan Michaux et.al.|[2403.12280](http://arxiv.org/abs/2403.12280)|null|
-|**2024-03-18**|**Graph Neural Networks for Learning Equivariant Representations of Neural Networks**|Miltiadis Kofinas et.al.|[2403.12143](http://arxiv.org/abs/2403.12143)|**[link](https://github.com/mkofinas/neural-graphs)**|
+|**2024-03-20**|**Graph Neural Networks for Learning Equivariant Representations of Neural Networks**|Miltiadis Kofinas et.al.|[2403.12143](http://arxiv.org/abs/2403.12143)|**[link](https://github.com/mkofinas/neural-graphs)**|
 |**2024-03-18**|**3DGS-Calib: 3D Gaussian Splatting for Multimodal SpatioTemporal Calibration**|Quentin Herau et.al.|[2403.11577](http://arxiv.org/abs/2403.11577)|null|
 |**2024-03-17**|**STAIR: Semantic-Targeted Active Implicit Reconstruction**|Liren Jin et.al.|[2403.11233](http://arxiv.org/abs/2403.11233)|null|
 |**2024-03-16**|**MicroDiffusion: Implicit Representation-Guided Diffusion for 3D Reconstruction from Limited 2D Microscopy Projections**|Mude Hui et.al.|[2403.10815](http://arxiv.org/abs/2403.10815)|**[link](https://github.com/ucsc-vlaa/microdiffusion)**|
@@ -673,20 +673,20 @@
 |**2023-12-07**|**Hiding Functions within Functions: Steganography by Implicit Neural Representations**|Jia Liu et.al.|[2312.04743](http://arxiv.org/abs/2312.04743)|null|
 |**2023-12-07**|**ImFace++: A Sophisticated Nonlinear 3D Morphable Face Model with Implicit Neural Representations**|Mingwu Zheng et.al.|[2312.04028](http://arxiv.org/abs/2312.04028)|**[link](https://github.com/mingwuzheng/imface)**|
 
-<p align=right>(<a href=#updated-on-20240320>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240321>back to top</a>)</p>
 
 ## UnderWater
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-10-31**|**UWFormer: Underwater Image Enhancement via a Semi-Supervised Multi-Scale Transformer**|Xuhang Chen et.al.|[2310.20210](http://arxiv.org/abs/2310.20210)|null|
+|**2024-03-20**|**UWFormer: Underwater Image Enhancement via a Semi-Supervised Multi-Scale Transformer**|Yingtie Lei et.al.|[2310.20210](http://arxiv.org/abs/2310.20210)|null|
 |**2023-09-07**|**Underwater Image Enhancement by Transformer-based Diffusion Model with Non-uniform Sampling for Skip Strategy**|Yi Tang et.al.|[2309.03445](http://arxiv.org/abs/2309.03445)|**[link](https://github.com/piggy2009/dm_underwater)**|
 |**2023-09-03**|**Dual Adversarial Resilience for Collaborating Robust Underwater Image Enhancement and Perception**|Zengxi Zhang et.al.|[2309.01102](http://arxiv.org/abs/2309.01102)|null|
 |**2022-08-04**|**Underwater enhancement based on a self-learning strategy and attention mechanism for high-intensity regions**|Claudio D. Mello Jr. et.al.|[2208.03319](http://arxiv.org/abs/2208.03319)|null|
 |**2022-04-06**|**Medium Transmission Map Matters for Learning to Restore Real-World Underwater Images**|Yan Kai et.al.|[2203.09414](http://arxiv.org/abs/2203.09414)|**[link](https://github.com/groupg-yk/mtur-net)**|
 |**2019-03-06**|**Real-world Underwater Enhancement: Challenges, Benchmarks, and Solutions**|Risheng Liu et.al.|[1901.05320](http://arxiv.org/abs/1901.05320)|**[link](https://github.com/dlut-dimt/Realworld-Underwater-Image-Enhancement-RUIE-Benchmark)**|
 
-<p align=right>(<a href=#updated-on-20240320>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240321>back to top</a>)</p>
 
 ## image_dehaze
 
@@ -711,7 +711,7 @@
 |**2023-08-14**|**Mutual Information-driven Triple Interaction Network for Efficient Image Dehazing**|Hao Shen et.al.|[2308.06998](http://arxiv.org/abs/2308.06998)|**[link](https://github.com/it-hao/mitnet)**|
 |**2023-08-01**|**Decomposition Ascribed Synergistic Learning for Unified Image Restoration**|Jinghao Zhang et.al.|[2308.00759](http://arxiv.org/abs/2308.00759)|null|
 
-<p align=right>(<a href=#updated-on-20240320>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240321>back to top</a>)</p>
 
 ## Restoration
 
@@ -726,7 +726,7 @@
 |**2024-03-15**|**Solving General Noisy Inverse Problem via Posterior Sampling: A Policy Gradient Viewpoint**|Haoyue Tang et.al.|[2403.10585](http://arxiv.org/abs/2403.10585)|null|
 |**2024-03-15**|**How Powerful Potential of Attention on Image Restoration?**|Cong Wang et.al.|[2403.10336](http://arxiv.org/abs/2403.10336)|null|
 |**2024-03-15**|**BlindDiff: Empowering Degradation Modelling in Diffusion Models for Blind Image Super-Resolution**|Feng Li et.al.|[2403.10211](http://arxiv.org/abs/2403.10211)|**[link](https://github.com/lifengcs/blinddiff)**|
-|**2024-03-14**|**D-YOLO a robust framework for object detection in adverse weather conditions**|Zihan Chu et.al.|[2403.09233](http://arxiv.org/abs/2403.09233)|null|
+|**2024-03-20**|**D-YOLO a robust framework for object detection in adverse weather conditions**|Zihan Chu et.al.|[2403.09233](http://arxiv.org/abs/2403.09233)|null|
 |**2024-03-13**|**Ambient Diffusion Posterior Sampling: Solving Inverse Problems with Diffusion Models trained on Corrupted Data**|Asad Aali et.al.|[2403.08728](http://arxiv.org/abs/2403.08728)|**[link](https://github.com/utcsilab/ambient-diffusion-mri)**|
 |**2024-03-12**|**Efficient Diffusion Model for Image Restoration by Residual Shifting**|Zongsheng Yue et.al.|[2403.07319](http://arxiv.org/abs/2403.07319)|**[link](https://github.com/zsyoaoa/resshift)**|
 |**2024-03-12**|**Continual All-in-One Adverse Weather Removal with Knowledge Replay on a Unified Network Structure**|De Cheng et.al.|[2403.07292](http://arxiv.org/abs/2403.07292)|**[link](https://github.com/xiaojihh/cl_all-in-one)**|
@@ -796,7 +796,7 @@
 |**2023-12-12**|**WaterHE-NeRF: Water-ray Tracing Neural Radiance Fields for Underwater Scene Reconstruction**|Jingchun Zhou et.al.|[2312.06946](http://arxiv.org/abs/2312.06946)|null|
 |**2023-12-11**|**Textual Prompt Guided Image Restoration**|Qiuhai Yan et.al.|[2312.06162](http://arxiv.org/abs/2312.06162)|**[link](https://github.com/motong-ai-studio/textpromptir)**|
 
-<p align=right>(<a href=#updated-on-20240320>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240321>back to top</a>)</p>
 
 ## Image_Translation
 
@@ -860,7 +860,7 @@
 |**2023-11-30**|**S2ST: Image-to-Image Translation in the Seed Space of Latent Diffusion**|Or Greenberg et.al.|[2312.00116](http://arxiv.org/abs/2312.00116)|null|
 |**2023-11-30**|**Towards Unsupervised Representation Learning: Learning, Evaluating and Transferring Visual Representations**|Bonifaz Stuhr et.al.|[2312.00101](http://arxiv.org/abs/2312.00101)|**[link](https://github.com/bonifazstuhr/feamgan)**|
 
-<p align=right>(<a href=#updated-on-20240320>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240321>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
