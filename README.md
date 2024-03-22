@@ -22,6 +22,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-21**|**GRM: Large Gaussian Reconstruction Model for Efficient 3D Reconstruction and Generation**|Yinghao Xu et.al.|[2403.14621](http://arxiv.org/abs/2403.14621)|**[link](https://github.com/justimyhxu/grm)**|
+|**2024-03-21**|**DreamReward: Text-to-3D Generation with Human Preference**|Junliang Ye et.al.|[2403.14613](http://arxiv.org/abs/2403.14613)|null|
+|**2024-03-21**|**ReNoise: Real Image Inversion Through Iterative Noising**|Daniel Garibi et.al.|[2403.14602](http://arxiv.org/abs/2403.14602)|null|
+|**2024-03-21**|**Denoising Diffusion Models for 3D Healthy Brain Tissue Inpainting**|Alicia Durrer et.al.|[2403.14499](http://arxiv.org/abs/2403.14499)|null|
+|**2024-03-21**|**Style-Extracting Diffusion Models for Semi-Supervised Histopathology Segmentation**|Mathias Öttl et.al.|[2403.14429](http://arxiv.org/abs/2403.14429)|null|
+|**2024-03-21**|**DP-RDM: Adapting Diffusion Models to Private Domains Without Fine-Tuning**|Jonathan Lebensold et.al.|[2403.14421](http://arxiv.org/abs/2403.14421)|null|
+|**2024-03-21**|**Physics-Informed Diffusion Models**|Jan-Hendrik Bastek et.al.|[2403.14404](http://arxiv.org/abs/2403.14404)|null|
+|**2024-03-21**|**Open-Vocabulary Attention Maps with Token Optimization for Semantic Segmentation in Diffusion Models**|Pablo Marcos-Manchón et.al.|[2403.14291](http://arxiv.org/abs/2403.14291)|**[link](https://github.com/vpulab/ovam)**|
+|**2024-03-21**|**Zero123-6D: Zero-shot Novel View Synthesis for RGB Category-level 6D Pose Estimation**|Francesco Di Felice et.al.|[2403.14279](http://arxiv.org/abs/2403.14279)|null|
+|**2024-03-21**|**Diffusion Models with Ensembled Structure-Based Anomaly Scoring for Unsupervised Anomaly Detection**|Finn Behrendt et.al.|[2403.14262](http://arxiv.org/abs/2403.14262)|**[link](https://github.com/finnbehrendt/ensembled-ssim-for-unsupervised-anomaly-detection)**|
 |**2024-03-20**|**Editing Massive Concepts in Text-to-Image Diffusion Models**|Tianwei Xiong et.al.|[2403.13807](http://arxiv.org/abs/2403.13807)|null|
 |**2024-03-20**|**ZigMa: Zigzag Mamba Diffusion Model**|Vincent Tao Hu et.al.|[2403.13802](http://arxiv.org/abs/2403.13802)|null|
 |**2024-03-20**|**TimeRewind: Rewinding Time with Image-and-Events Video Diffusion**|Jingxi Chen et.al.|[2403.13800](http://arxiv.org/abs/2403.13800)|null|
@@ -611,6 +621,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-21**|**Toward Multi-class Anomaly Detection: Exploring Class-aware Unified Model against Inter-class Interference**|Xi Jiang et.al.|[2403.14213](http://arxiv.org/abs/2403.14213)|null|
+|**2024-03-20**|**Visual Imitation Learning of Task-Oriented Object Grasping and Rearrangement**|Yichen Cai et.al.|[2403.14000](http://arxiv.org/abs/2403.14000)|null|
 |**2024-03-20**|**MIMO Channel as a Neural Function: Implicit Neural Representations for Extreme CSI Compression in Massive MIMO Systems**|Haotian Wu et.al.|[2403.13615](http://arxiv.org/abs/2403.13615)|null|
 |**2024-03-19**|**VQ-NeRV: A Vector Quantized Neural Representation for Videos**|Yunjie Xu et.al.|[2403.12401](http://arxiv.org/abs/2403.12401)|**[link](https://github.com/magicffourier/vq-nerv)**|
 |**2024-03-18**|**Reachability-based Trajectory Design via Exact Formulation of Implicit Neural Signed Distance Functions**|Jonathan Michaux et.al.|[2403.12280](http://arxiv.org/abs/2403.12280)|null|
@@ -728,6 +740,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-21**|**AdaIR: Adaptive All-in-One Image Restoration via Frequency Mining and Modulation**|Yuning Cui et.al.|[2403.14614](http://arxiv.org/abs/2403.14614)|null|
 |**2024-03-20**|**Step-Calibrated Diffusion for Biomedical Optical Image Restoration**|Yiwei Lyu et.al.|[2403.13680](http://arxiv.org/abs/2403.13680)|null|
 |**2024-03-20**|**A multilevel framework for accelerating uSARA in radio-interferometric imaging**|Guillaume Lauga et.al.|[2403.13385](http://arxiv.org/abs/2403.13385)|null|
 |**2024-03-19**|**Multispectral Image Restoration by Generalized Opponent Transformation Total Variation**|Zhantao Ma et.al.|[2403.12770](http://arxiv.org/abs/2403.12770)|null|
@@ -815,6 +828,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-21**|**Learning to Project for Cross-Task Knowledge Distillation**|Dylan Auty et.al.|[2403.14494](http://arxiv.org/abs/2403.14494)|null|
+|**2024-03-20**|**Enhancing Fingerprint Image Synthesis with GANs, Diffusion Models, and Style Transfer Techniques**|W. Tang et.al.|[2403.13916](http://arxiv.org/abs/2403.13916)|null|
 |**2024-03-19**|**Generalized Consistency Trajectory Models for Image Manipulation**|Beomsu Kim et.al.|[2403.12510](http://arxiv.org/abs/2403.12510)|**[link](https://github.com/1202kbs/gctm)**|
 |**2024-03-18**|**One-Step Image Translation with Text-to-Image Models**|Gaurav Parmar et.al.|[2403.12036](http://arxiv.org/abs/2403.12036)|**[link](https://github.com/gaparmar/img2img-turbo)**|
 |**2024-03-16**|**Could We Generate Cytology Images from Histopathology Images? An Empirical Study**|Soumyajyoti Dey et.al.|[2403.10885](http://arxiv.org/abs/2403.10885)|null|
