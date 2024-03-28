@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.27
+## Updated on 2024.03.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
@@ -764,7 +764,7 @@ layout: default
 |**2024-03-22**|**Latent Neural Cellular Automata for Resource-Efficient Image Restoration**|Andrea Menta et.al.|[2403.15525](http://arxiv.org/abs/2403.15525)|null|
 |**2024-03-21**|**Osmosis: RGBD Diffusion Prior for Underwater Image Restoration**|Opher Bar Nathan et.al.|[2403.14837](http://arxiv.org/abs/2403.14837)|null|
 |**2024-03-21**|**AdaIR: Adaptive All-in-One Image Restoration via Frequency Mining and Modulation**|Yuning Cui et.al.|[2403.14614](http://arxiv.org/abs/2403.14614)|**[link](https://github.com/c-yn/adair)**|
-|**2024-03-20**|**Step-Calibrated Diffusion for Biomedical Optical Image Restoration**|Yiwei Lyu et.al.|[2403.13680](http://arxiv.org/abs/2403.13680)|**[link](https://github.com/mlneurosurg/restorative_step-calibrated_diffusion)**|
+|**2024-03-26**|**Step-Calibrated Diffusion for Biomedical Optical Image Restoration**|Yiwei Lyu et.al.|[2403.13680](http://arxiv.org/abs/2403.13680)|**[link](https://github.com/mlneurosurg/restorative_step-calibrated_diffusion)**|
 |**2024-03-20**|**A multilevel framework for accelerating uSARA in radio-interferometric imaging**|Guillaume Lauga et.al.|[2403.13385](http://arxiv.org/abs/2403.13385)|null|
 |**2024-03-19**|**Multispectral Image Restoration by Generalized Opponent Transformation Total Variation**|Zhantao Ma et.al.|[2403.12770](http://arxiv.org/abs/2403.12770)|null|
 |**2024-03-18**|**CasSR: Activating Image Power for Real-World Image Super-Resolution**|Haolan Chen et.al.|[2403.11451](http://arxiv.org/abs/2403.11451)|null|
