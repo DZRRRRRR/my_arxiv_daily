@@ -27,7 +27,7 @@
 |**2024-03-29**|**FreeSeg-Diff: Training-Free Open-Vocabulary Segmentation with Diffusion Models**|Barbara Toniella Corradini et.al.|[2403.20105](http://arxiv.org/abs/2403.20105)|null|
 |**2024-03-29**|**SGD: Street View Synthesis with Gaussian Splatting and Diffusion Prior**|Zhongrui Yu et.al.|[2403.20079](http://arxiv.org/abs/2403.20079)|null|
 |**2024-03-29**|**Probing solar modulation analytic models with cosmic ray periodic spectra**|Wei-Cheng Long et.al.|[2403.20038](http://arxiv.org/abs/2403.20038)|null|
-|**2024-03-29**|**Structure Matters: Tackling the Semantic Discrepancy in Diffusion Models for Image Inpainting**|Haipeng Liu et.al.|[2403.19898](http://arxiv.org/abs/2403.19898)|**[link](https://github.com/htyjers/strdiffusion)**|
+|**2024-04-01**|**Structure Matters: Tackling the Semantic Discrepancy in Diffusion Models for Image Inpainting**|Haipeng Liu et.al.|[2403.19898](http://arxiv.org/abs/2403.19898)|**[link](https://github.com/htyjers/strdiffusion)**|
 |**2024-03-28**|**Vision-Language Synthetic Data Enhances Echocardiography Downstream Tasks**|Pooria Ashrafian et.al.|[2403.19880](http://arxiv.org/abs/2403.19880)|**[link](https://github.com/pooria90/diffecho)**|
 |**2024-03-28**|**ShapeFusion: A 3D diffusion model for localized shape editing**|Rolandos Alexandros Potamias et.al.|[2403.19773](http://arxiv.org/abs/2403.19773)|null|
 |**2024-03-28**|**Detecting Image Attribution for Text-to-Image Diffusion Models in RGB and Beyond**|Katherine Xu et.al.|[2403.19653](http://arxiv.org/abs/2403.19653)|**[link](https://github.com/k8xu/imageattribution)**|
@@ -906,7 +906,7 @@
 |**2024-03-27**|**Do High-Performance Image-to-Image Translation Networks Enable the Discovery of Radiomic Features? Application to MRI Synthesis from Ultrasound in Prostate Cancer**|Mohammad R. Salmanpour et.al.|[2403.18651](http://arxiv.org/abs/2403.18651)|null|
 |**2024-03-27**|**HEMIT: H&E to Multiplex-immunohistochemistry Image Translation with Dual-Branch Pix2pix Generator**|Chang Bian et.al.|[2403.18501](http://arxiv.org/abs/2403.18501)|null|
 |**2024-03-27**|**Imaging radar and LiDAR image translation for 3-DOF extrinsic calibration**|Sangwoo Jung et.al.|[2403.18358](http://arxiv.org/abs/2403.18358)|null|
-|**2024-03-26**|**High-Resolution Image Translation Model Based on Grayscale Redefinition**|Xixian Wu et.al.|[2403.17639](http://arxiv.org/abs/2403.17639)|null|
+|**2024-04-01**|**High-Resolution Image Translation Model Based on Grayscale Redefinition**|Xixian Wu et.al.|[2403.17639](http://arxiv.org/abs/2403.17639)|null|
 |**2024-03-26**|**Practical Applications of Advanced Cloud Services and Generative AI Systems in Medical Image Analysis**|Jingyu Xu et.al.|[2403.17549](http://arxiv.org/abs/2403.17549)|null|
 |**2024-03-25**|**SDXS: Real-Time One-Step Latent Diffusion Models with Image Conditions**|Yuda Song et.al.|[2403.16627](http://arxiv.org/abs/2403.16627)|**[link](https://github.com/IDKiro/sdxs)**|
 |**2024-03-22**|**Shadow Generation for Composite Image Using Diffusion model**|Qingyang Liu et.al.|[2403.15234](http://arxiv.org/abs/2403.15234)|**[link](https://github.com/bcmi/object-shadow-generation-dataset-desobav2)**|
