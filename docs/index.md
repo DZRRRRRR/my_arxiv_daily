@@ -788,7 +788,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-03-20**|**UWFormer: Underwater Image Enhancement via a Semi-Supervised Multi-Scale Transformer**|Yingtie Lei et.al.|[2310.20210](http://arxiv.org/abs/2310.20210)|null|
+|**2024-03-20**|**UWFormer: Underwater Image Enhancement via a Semi-Supervised Multi-Scale Transformer**|Yingtie Lei et.al.|[2310.20210](http://arxiv.org/abs/2310.20210)|**[link](https://github.com/leiyingtie/UWFormer)**|
 |**2023-09-07**|**Underwater Image Enhancement by Transformer-based Diffusion Model with Non-uniform Sampling for Skip Strategy**|Yi Tang et.al.|[2309.03445](http://arxiv.org/abs/2309.03445)|**[link](https://github.com/piggy2009/dm_underwater)**|
 |**2023-09-03**|**Dual Adversarial Resilience for Collaborating Robust Underwater Image Enhancement and Perception**|Zengxi Zhang et.al.|[2309.01102](http://arxiv.org/abs/2309.01102)|null|
 |**2022-08-04**|**Underwater enhancement based on a self-learning strategy and attention mechanism for high-intensity regions**|Claudio D. Mello Jr. et.al.|[2208.03319](http://arxiv.org/abs/2208.03319)|null|
