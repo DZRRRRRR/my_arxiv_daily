@@ -14,6 +14,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-05**|**Identity Decoupling for Multi-Subject Personalization of Text-to-Image Models**|Sangwon Jang et.al.|[2404.04243](http://arxiv.org/abs/2404.04243)|null|
+|**2024-04-05**|**ToolEENet: Tool Affordance 6D Pose Estimation**|Yunlong Wang et.al.|[2404.04193](http://arxiv.org/abs/2404.04193)|null|
+|**2024-04-05**|**Dynamic Prompt Optimizing for Text-to-Image Generation**|Wenyi Mo et.al.|[2404.04095](http://arxiv.org/abs/2404.04095)|**[link](https://github.com/mowenyii/pae)**|
+|**2024-04-05**|**Score identity Distillation: Exponentially Fast Distillation of Pretrained Diffusion Models for One-Step Generation**|Mingyuan Zhou et.al.|[2404.04057](http://arxiv.org/abs/2404.04057)|null|
+|**2024-04-05**|**Concept Weaver: Enabling Multi-Concept Fusion in Text-to-Image Models**|Gihyun Kwon et.al.|[2404.03913](http://arxiv.org/abs/2404.03913)|null|
 |**2024-04-04**|**MVD-Fusion: Single-view 3D via Depth-consistent Multi-view Generation**|Hanzhe Hu et.al.|[2404.03656](http://arxiv.org/abs/2404.03656)|null|
 |**2024-04-04**|**CoMat: Aligning Text-to-Image Diffusion Model with Image-to-Text Concept Matching**|Dongzhi Jiang et.al.|[2404.03653](http://arxiv.org/abs/2404.03653)|**[link](https://github.com/Karine-Huang/T2I-CompBench)**|
 |**2024-04-04**|**The More You See in 2D, the More You Perceive in 3D**|Xinyang Han et.al.|[2404.03652](http://arxiv.org/abs/2404.03652)|null|
@@ -699,6 +704,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-05**|**Deep Phase Coded Image Prior**|Nimrod Shabtay et.al.|[2404.03906](http://arxiv.org/abs/2404.03906)|null|
 |**2024-04-04**|**CSR-dMRI: Continuous Super-Resolution of Diffusion MRI with Anatomical Structure-assisted Implicit Neural Representation Learning**|Ruoyou Wu et.al.|[2404.03209](http://arxiv.org/abs/2404.03209)|null|
 |**2024-04-03**|**Unsupervised Occupancy Learning from Sparse Point Cloud**|Amine Ouasfi et.al.|[2404.02759](http://arxiv.org/abs/2404.02759)|null|
 |**2024-04-02**|**Unmasking Correlations in Nuclear Cross Sections with Graph Neural Networks**|Sinjini Mitra et.al.|[2404.02332](http://arxiv.org/abs/2404.02332)|null|
@@ -926,6 +932,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-05**|**Dynamic Conditional Optimal Transport through Simulation-Free Flows**|Gavin Kerrigan et.al.|[2404.04240](http://arxiv.org/abs/2404.04240)|null|
 |**2024-04-03**|**GenN2N: Generative NeRF2NeRF Translation**|Xiangyue Liu et.al.|[2404.02788](http://arxiv.org/abs/2404.02788)|null|
 |**2024-04-01**|**FireANTs: Adaptive Riemannian Optimization for Multi-Scale Diffeomorphic Registration**|Rohit Jena et.al.|[2404.01249](http://arxiv.org/abs/2404.01249)|null|
 |**2024-04-01**|**Diffusion based Zero-shot Medical Image-to-Image Translation for Cross Modality Segmentation**|Zihao Wang et.al.|[2404.01102](http://arxiv.org/abs/2404.01102)|null|
