@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.09
+## Updated on 2024.04.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
@@ -845,7 +845,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-04-07**|**STAIC regularization for spatio-temporal image reconstruction**|Deepak G Skariah et.al.|[2404.05070](http://arxiv.org/abs/2404.05070)|null|
-|**2024-04-06**|**Empowering Image Recovery_ A Multi-Attention Approach**|Juan Wen et.al.|[2404.04617](http://arxiv.org/abs/2404.04617)|null|
+|**2024-04-09**|**Empowering Image Recovery_ A Multi-Attention Approach**|Juan Wen et.al.|[2404.04617](http://arxiv.org/abs/2404.04617)|null|
 |**2024-04-04**|**DiffBody: Human Body Restoration by Imagining with Generative Diffusion Prior**|Yiming Zhang et.al.|[2404.03642](http://arxiv.org/abs/2404.03642)|null|
 |**2024-04-02**|**Dynamic Pre-training: Towards Efficient and Scalable All-in-One Image Restoration**|Akshay Dudhane et.al.|[2404.02154](http://arxiv.org/abs/2404.02154)|**[link](https://github.com/akshaydudhane16/dynet)**|
 |**2024-03-31**|**GAMA-IR: Global Additive Multidimensional Averaging for Fast Image Restoration**|Youssef Mansour et.al.|[2404.00807](http://arxiv.org/abs/2404.00807)|null|
