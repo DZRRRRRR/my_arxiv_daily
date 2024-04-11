@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.10
+## Updated on 2024.04.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -25,7 +25,7 @@
 |**2024-04-09**|**GeoDirDock: Guiding Docking Along Geodesic Paths**|Raúl Miñán et.al.|[2404.06481](http://arxiv.org/abs/2404.06481)|null|
 |**2024-04-09**|**Magic-Boost: Boost 3D Generation with Mutli-View Conditioned Diffusion**|Fan Yang et.al.|[2404.06429](http://arxiv.org/abs/2404.06429)|null|
 |**2024-04-09**|**ZeST: Zero-Shot Material Transfer from a Single Image**|Ta-Ying Cheng et.al.|[2404.06425](http://arxiv.org/abs/2404.06425)|null|
-|**2024-04-09**|**Policy-Guided Diffusion**|Matthew Thomas Jackson et.al.|[2404.06356](http://arxiv.org/abs/2404.06356)|null|
+|**2024-04-09**|**Policy-Guided Diffusion**|Matthew Thomas Jackson et.al.|[2404.06356](http://arxiv.org/abs/2404.06356)|**[link](https://github.com/emptyjackson/policy-guided-diffusion)**|
 |**2024-04-09**|**Quantum State Generation with Structure-Preserving Diffusion Model**|Yuchen Zhu et.al.|[2404.06336](http://arxiv.org/abs/2404.06336)|null|
 |**2024-04-09**|**DiffHarmony: Latent Diffusion Model Meets Image Harmonization**|Pengfei Zhou et.al.|[2404.06139](http://arxiv.org/abs/2404.06139)|null|
 |**2024-04-09**|**Hash3D: Training-free Acceleration for 3D Generation**|Xingyi Yang et.al.|[2404.06091](http://arxiv.org/abs/2404.06091)|**[link](https://github.com/Adamdad/hash3D)**|
@@ -728,16 +728,16 @@
 |**2023-12-16**|**Image Restoration Through Generalized Ornstein-Uhlenbeck Bridge**|Conghan Yue et.al.|[2312.10299](http://arxiv.org/abs/2312.10299)|**[link](https://github.com/Hammour-steak/GOUB)**|
 |**2023-12-15**|**Two simple criterion to prove the existence of patterns in reaction-diffusion models of two components**|Francisco J. Vielma-Leal et.al.|[2312.10231](http://arxiv.org/abs/2312.10231)|null|
 
-<p align=right>(<a href=#updated-on-20240410>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240411>back to top</a>)</p>
 
 ## Implicit
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-04-09**|**Studying the Impact of Latent Representations in Implicit Neural Networks for Scientific Continuous Field Reconstruction**|Wei Xu et.al.|[2404.06418](http://arxiv.org/abs/2404.06418)|null|
-|**2024-04-03**|**JDEC: JPEG Decoding via Enhanced Continuous Cosine Coefficients**|Woo Kyoung Han et.al.|[2404.05558](http://arxiv.org/abs/2404.05558)|null|
+|**2024-04-03**|**JDEC: JPEG Decoding via Enhanced Continuous Cosine Coefficients**|Woo Kyoung Han et.al.|[2404.05558](http://arxiv.org/abs/2404.05558)|**[link](https://github.com/wookyounghan/jdec)**|
 |**2024-04-07**|**CycleINR: Cycle Implicit Neural Representation for Arbitrary-Scale Volumetric Super-Resolution of Medical Data**|Wei Fang et.al.|[2404.04878](http://arxiv.org/abs/2404.04878)|null|
-|**2024-04-05**|**Rethinking Non-Negative Matrix Factorization with Implicit Neural Representations**|Krishna Subramani et.al.|[2404.04439](http://arxiv.org/abs/2404.04439)|null|
+|**2024-04-05**|**Rethinking Non-Negative Matrix Factorization with Implicit Neural Representations**|Krishna Subramani et.al.|[2404.04439](http://arxiv.org/abs/2404.04439)|**[link](https://github.com/subramanikrishna/in-nmf)**|
 |**2024-04-05**|**Deep Phase Coded Image Prior**|Nimrod Shabtay et.al.|[2404.03906](http://arxiv.org/abs/2404.03906)|null|
 |**2024-04-04**|**CSR-dMRI: Continuous Super-Resolution of Diffusion MRI with Anatomical Structure-assisted Implicit Neural Representation Learning**|Ruoyou Wu et.al.|[2404.03209](http://arxiv.org/abs/2404.03209)|null|
 |**2024-04-03**|**Unsupervised Occupancy Learning from Sparse Point Cloud**|Amine Ouasfi et.al.|[2404.02759](http://arxiv.org/abs/2404.02759)|null|
@@ -824,7 +824,7 @@
 |**2023-12-07**|**Hiding Functions within Functions: Steganography by Implicit Neural Representations**|Jia Liu et.al.|[2312.04743](http://arxiv.org/abs/2312.04743)|null|
 |**2023-12-07**|**ImFace++: A Sophisticated Nonlinear 3D Morphable Face Model with Implicit Neural Representations**|Mingwu Zheng et.al.|[2312.04028](http://arxiv.org/abs/2312.04028)|**[link](https://github.com/mingwuzheng/imface)**|
 
-<p align=right>(<a href=#updated-on-20240410>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240411>back to top</a>)</p>
 
 ## UnderWater
 
@@ -837,7 +837,7 @@
 |**2022-04-06**|**Medium Transmission Map Matters for Learning to Restore Real-World Underwater Images**|Yan Kai et.al.|[2203.09414](http://arxiv.org/abs/2203.09414)|**[link](https://github.com/groupg-yk/mtur-net)**|
 |**2019-03-06**|**Real-world Underwater Enhancement: Challenges, Benchmarks, and Solutions**|Risheng Liu et.al.|[1901.05320](http://arxiv.org/abs/1901.05320)|**[link](https://github.com/dlut-dimt/Realworld-Underwater-Image-Enhancement-RUIE-Benchmark)**|
 
-<p align=right>(<a href=#updated-on-20240410>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240411>back to top</a>)</p>
 
 ## image_dehaze
 
@@ -865,7 +865,7 @@
 |**2023-08-14**|**Mutual Information-driven Triple Interaction Network for Efficient Image Dehazing**|Hao Shen et.al.|[2308.06998](http://arxiv.org/abs/2308.06998)|**[link](https://github.com/it-hao/mitnet)**|
 |**2023-08-01**|**Decomposition Ascribed Synergistic Learning for Unified Image Restoration**|Jinghao Zhang et.al.|[2308.00759](http://arxiv.org/abs/2308.00759)|null|
 
-<p align=right>(<a href=#updated-on-20240410>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240411>back to top</a>)</p>
 
 ## Restoration
 
@@ -970,7 +970,7 @@
 |**2023-12-12**|**WaterHE-NeRF: Water-ray Tracing Neural Radiance Fields for Underwater Scene Reconstruction**|Jingchun Zhou et.al.|[2312.06946](http://arxiv.org/abs/2312.06946)|null|
 |**2023-12-11**|**Textual Prompt Guided Image Restoration**|Qiuhai Yan et.al.|[2312.06162](http://arxiv.org/abs/2312.06162)|**[link](https://github.com/motong-ai-studio/textpromptir)**|
 
-<p align=right>(<a href=#updated-on-20240410>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240411>back to top</a>)</p>
 
 ## Image_Translation
 
@@ -979,13 +979,13 @@
 |**2024-04-09**|**DiffHarmony: Latent Diffusion Model Meets Image Harmonization**|Pengfei Zhou et.al.|[2404.06139](http://arxiv.org/abs/2404.06139)|null|
 |**2024-04-09**|**Tackling Structural Hallucination in Image Translation with Local Diffusion**|Seunghoi Kim et.al.|[2404.05980](http://arxiv.org/abs/2404.05980)|null|
 |**2024-04-08**|**MoMA: Multimodal LLM Adapter for Fast Personalized Image Generation**|Kunpeng Song et.al.|[2404.05674](http://arxiv.org/abs/2404.05674)|null|
-|**2024-04-08**|**Anatomical Conditioning for Contrastive Unpaired Image-to-Image Translation of Optical Coherence Tomography Images**|Marc S. Seibel et.al.|[2404.05409](http://arxiv.org/abs/2404.05409)|null|
+|**2024-04-08**|**Anatomical Conditioning for Contrastive Unpaired Image-to-Image Translation of Optical Coherence Tomography Images**|Marc S. Seibel et.al.|[2404.05409](http://arxiv.org/abs/2404.05409)|**[link](https://github.com/msseibel/accut)**|
 |**2024-04-06**|**RoNet: Rotation-oriented Continuous Image Translation**|Yi Li et.al.|[2404.04474](http://arxiv.org/abs/2404.04474)|null|
 |**2024-04-03**|**Translation-based Video-to-Video Synthesis**|Pratim Saha et.al.|[2404.04283](http://arxiv.org/abs/2404.04283)|null|
 |**2024-04-05**|**Dynamic Conditional Optimal Transport through Simulation-Free Flows**|Gavin Kerrigan et.al.|[2404.04240](http://arxiv.org/abs/2404.04240)|null|
 |**2024-04-03**|**GenN2N: Generative NeRF2NeRF Translation**|Xiangyue Liu et.al.|[2404.02788](http://arxiv.org/abs/2404.02788)|null|
 |**2024-04-01**|**FireANTs: Adaptive Riemannian Optimization for Multi-Scale Diffeomorphic Registration**|Rohit Jena et.al.|[2404.01249](http://arxiv.org/abs/2404.01249)|null|
-|**2024-04-01**|**Diffusion based Zero-shot Medical Image-to-Image Translation for Cross Modality Segmentation**|Zihao Wang et.al.|[2404.01102](http://arxiv.org/abs/2404.01102)|null|
+|**2024-04-09**|**Diffusion based Zero-shot Medical Image-to-Image Translation for Cross Modality Segmentation**|Zihao Wang et.al.|[2404.01102](http://arxiv.org/abs/2404.01102)|null|
 |**2024-03-31**|**GAN with Skip Patch Discriminator for Biological Electron Microscopy Image Generation**|Nishith Ranjon Roy et.al.|[2404.00558](http://arxiv.org/abs/2404.00558)|null|
 |**2024-03-29**|**Unsupervised Tumor-Aware Distillation for Multi-Modal Brain Image Translation**|Chuan Huang et.al.|[2403.20168](http://arxiv.org/abs/2403.20168)|**[link](https://github.com/scut-hc/utad-net)**|
 |**2024-03-29**|**StegoGAN: Leveraging Steganography for Non-Bijective Image-to-Image Translation**|Sidi Wu et.al.|[2403.20142](http://arxiv.org/abs/2403.20142)|null|
@@ -1058,7 +1058,7 @@
 |**2023-11-30**|**S2ST: Image-to-Image Translation in the Seed Space of Latent Diffusion**|Or Greenberg et.al.|[2312.00116](http://arxiv.org/abs/2312.00116)|null|
 |**2023-11-30**|**Towards Unsupervised Representation Learning: Learning, Evaluating and Transferring Visual Representations**|Bonifaz Stuhr et.al.|[2312.00101](http://arxiv.org/abs/2312.00101)|**[link](https://github.com/bonifazstuhr/feamgan)**|
 
-<p align=right>(<a href=#updated-on-20240410>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240411>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
