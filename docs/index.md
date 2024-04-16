@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-15**|**Equipping Diffusion Models with Differentiable Spatial Entropy for Low-Light Image Enhancement**|Wenyi Lian et.al.|[2404.09735](http://arxiv.org/abs/2404.09735)|**[link](https://github.com/shermanlian/spatial-entropy-loss)**|
+|**2024-04-15**|**Photo-Realistic Image Restoration in the Wild with Controlled Vision-Language Models**|Ziwei Luo et.al.|[2404.09732](http://arxiv.org/abs/2404.09732)|**[link](https://github.com/algolzw/daclip-uir)**|
+|**2024-04-15**|**All-in-one simulation-based inference**|Manuel Gloeckler et.al.|[2404.09636](http://arxiv.org/abs/2404.09636)|**[link](https://github.com/mackelab/simformer)**|
+|**2024-04-15**|**TMPQ-DM: Joint Timestep Reduction and Quantization Precision Selection for Efficient Diffusion Models**|Haojun Sun et.al.|[2404.09532](http://arxiv.org/abs/2404.09532)|null|
+|**2024-04-15**|**Magic Clothing: Controllable Garment-Driven Image Synthesis**|Weifeng Chen et.al.|[2404.09512](http://arxiv.org/abs/2404.09512)|**[link](https://github.com/shinechen1024/magicclothing)**|
+|**2024-04-15**|**PhyScene: Physically Interactable 3D Scene Synthesis for Embodied AI**|Yandan Yang et.al.|[2404.09465](http://arxiv.org/abs/2404.09465)|null|
+|**2024-04-15**|**Watermark-embedded Adversarial Examples for Copyright Protection against Diffusion Models**|Peifei Zhu et.al.|[2404.09401](http://arxiv.org/abs/2404.09401)|null|
+|**2024-04-14**|**Fault Detection in Mobile Networks Using Diffusion Models**|Mohamad Nabeel et.al.|[2404.09240](http://arxiv.org/abs/2404.09240)|null|
+|**2024-04-14**|**DreamScape: 3D Scene Creation via Gaussian Splatting joint Correlation Modeling**|Xuening Yuan et.al.|[2404.09227](http://arxiv.org/abs/2404.09227)|null|
+|**2024-04-14**|**LoopAnimate: Loopable Salient Object Animation**|Fanyi Wang et.al.|[2404.09172](http://arxiv.org/abs/2404.09172)|null|
 |**2024-04-12**|**Lossy Image Compression with Foundation Diffusion Models**|Lucas Relic et.al.|[2404.08580](http://arxiv.org/abs/2404.08580)|null|
 |**2024-04-12**|**PiRD: Physics-informed Residual Diffusion for Flow Field Reconstruction**|Siming Shan et.al.|[2404.08412](http://arxiv.org/abs/2404.08412)|null|
 |**2024-04-12**|**Struggle with Adversarial Defense? Try Diffusion**|Yujie Li et.al.|[2404.08273](http://arxiv.org/abs/2404.08273)|null|
@@ -749,6 +759,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-15**|**Q2A: Querying Implicit Fully Continuous Feature Pyramid to Align Features for Medical Image Segmentation**|Jiahao Yu et.al.|[2404.09472](http://arxiv.org/abs/2404.09472)|null|
 |**2024-04-03**|**Dynamic Neural Control Flow Execution: An Agent-Based Deep Equilibrium Approach for Binary Vulnerability Detection**|Litao Li et.al.|[2404.08562](http://arxiv.org/abs/2404.08562)|null|
 |**2024-04-09**|**Studying the Impact of Latent Representations in Implicit Neural Networks for Scientific Continuous Field Reconstruction**|Wei Xu et.al.|[2404.06418](http://arxiv.org/abs/2404.06418)|null|
 |**2024-04-03**|**JDEC: JPEG Decoding via Enhanced Continuous Cosine Coefficients**|Woo Kyoung Han et.al.|[2404.05558](http://arxiv.org/abs/2404.05558)|**[link](https://github.com/wookyounghan/jdec)**|
@@ -855,6 +866,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-14**|**PANet: A Physics-guided Parametric Augmentation Net for Image Dehazing by Hazing**|Chih-Ling Chang et.al.|[2404.09269](http://arxiv.org/abs/2404.09269)|null|
 |**2024-04-11**|**VIFNet: An End-to-end Visible-Infrared Fusion Network for Image Dehazing**|Meng Yu et.al.|[2404.07790](http://arxiv.org/abs/2404.07790)|null|
 |**2024-04-03**|**TSNet:A Two-stage Network for Image Dehazing with Multi-scale Fusion and Adaptive Learning**|Xiaolin Gong et.al.|[2404.02460](http://arxiv.org/abs/2404.02460)|**[link](https://github.com/zzhlovexuexi/tsnet)**|
 |**2024-04-02**|**WaveDH: Wavelet Sub-bands Guided ConvNet for Efficient Image Dehazing**|Seongmin Hwang et.al.|[2404.01604](http://arxiv.org/abs/2404.01604)|**[link](https://github.com/awesomehwang/wavedh)**|
@@ -882,6 +894,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-15**|**Equipping Diffusion Models with Differentiable Spatial Entropy for Low-Light Image Enhancement**|Wenyi Lian et.al.|[2404.09735](http://arxiv.org/abs/2404.09735)|**[link](https://github.com/shermanlian/spatial-entropy-loss)**|
+|**2024-04-15**|**Photo-Realistic Image Restoration in the Wild with Controlled Vision-Language Models**|Ziwei Luo et.al.|[2404.09732](http://arxiv.org/abs/2404.09732)|**[link](https://github.com/algolzw/daclip-uir)**|
 |**2024-04-11**|**TBSN: Transformer-Based Blind-Spot Network for Self-Supervised Image Denoising**|Junyi Li et.al.|[2404.07846](http://arxiv.org/abs/2404.07846)|**[link](https://github.com/nagejacob/tbsn)**|
 |**2024-04-11**|**Joint Conditional Diffusion Model for Image Restoration with Mixed Degradations**|Yufeng Yue et.al.|[2404.07770](http://arxiv.org/abs/2404.07770)|null|
 |**2024-04-10**|**Unfolding ADMM for Enhanced Subspace Clustering of Hyperspectral Images**|Xianlu Li et.al.|[2404.07112](http://arxiv.org/abs/2404.07112)|**[link](https://github.com/lxlscut/Unfolding-ADMM-for-Enhanced-Subspace-Clustering-of-Hyperspectral-Images)**|
@@ -988,6 +1002,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-14**|**SyntStereo2Real: Edge-Aware GAN for Remote Sensing Image-to-Image Translation while Maintaining Stereo Constraint**|Vasudha Venkatesan et.al.|[2404.09277](http://arxiv.org/abs/2404.09277)|null|
 |**2024-04-10**|**Rethinking Perceptual Metrics for Medical Image Translation**|Nicholas Konz et.al.|[2404.07318](http://arxiv.org/abs/2404.07318)|null|
 |**2024-04-10**|**Lost in Translation: Modern Neural Networks Still Struggle With Small Realistic Image Transformations**|Ofir Shifman et.al.|[2404.07153](http://arxiv.org/abs/2404.07153)|null|
 |**2024-04-10**|**Implicit Multi-Spectral Transformer: An Lightweight and Effective Visible to Infrared Image Translation Model**|Yijia Chen et.al.|[2404.07072](http://arxiv.org/abs/2404.07072)|**[link](https://github.com/CXH-Research/IRFormer)**|
