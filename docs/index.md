@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.17
+## Updated on 2024.04.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
@@ -22,8 +22,8 @@ layout: default
 |**2024-04-16**|**StyleCity: Large-Scale 3D Urban Scenes Stylization with Vision-and-Text Reference via Progressive Optimization**|Yingshu Chen et.al.|[2404.10681](http://arxiv.org/abs/2404.10681)|null|
 |**2024-04-16**|**Continual Offline Reinforcement Learning via Diffusion-based Dual Generative Replay**|Jinmei Liu et.al.|[2404.10662](http://arxiv.org/abs/2404.10662)|**[link](https://github.com/nju-rl/cugro)**|
 |**2024-04-16**|**Enhancing 3D Fidelity of Text-to-3D using Cross-View Correspondences**|Seungwook Kim et.al.|[2404.10603](http://arxiv.org/abs/2404.10603)|null|
-|**2024-04-16**|**Do Counterfactual Examples Complicate Adversarial Training?**|Eric Yeats et.al.|[2404.10588](http://arxiv.org/abs/2404.10588)|null|
-|**2024-04-16**|**AAVDiff: Experimental Validation of Enhanced Viability and Diversity in Recombinant Adeno-Associated Virus (AAV) Capsids through Diffusion Generation**|Lijun Liu et.al.|[2404.10573](http://arxiv.org/abs/2404.10573)|null|
+|**2024-04-17**|**Do Counterfactual Examples Complicate Adversarial Training?**|Eric Yeats et.al.|[2404.10588](http://arxiv.org/abs/2404.10588)|null|
+|**2024-04-17**|**AAVDiff: Experimental Validation of Enhanced Viability and Diversity in Recombinant Adeno-Associated Virus (AAV) Capsids through Diffusion Generation**|Lijun Liu et.al.|[2404.10573](http://arxiv.org/abs/2404.10573)|null|
 |**2024-04-15**|**Equipping Diffusion Models with Differentiable Spatial Entropy for Low-Light Image Enhancement**|Wenyi Lian et.al.|[2404.09735](http://arxiv.org/abs/2404.09735)|**[link](https://github.com/shermanlian/spatial-entropy-loss)**|
 |**2024-04-15**|**Photo-Realistic Image Restoration in the Wild with Controlled Vision-Language Models**|Ziwei Luo et.al.|[2404.09732](http://arxiv.org/abs/2404.09732)|**[link](https://github.com/algolzw/daclip-uir)**|
 |**2024-04-15**|**All-in-one simulation-based inference**|Manuel Gloeckler et.al.|[2404.09636](http://arxiv.org/abs/2404.09636)|**[link](https://github.com/mackelab/simformer)**|
@@ -907,7 +907,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-04-16**|**Improving Bracket Image Restoration and Enhancement with Flow-guided Alignment and Enhanced Feature Aggregation**|Wenjie Lin et.al.|[2404.10358](http://arxiv.org/abs/2404.10358)|null|
 |**2024-04-16**|**Referring Flexible Image Restoration**|Runwei Guan et.al.|[2404.10342](http://arxiv.org/abs/2404.10342)|null|
-|**2024-04-16**|**OmniSSR: Zero-shot Omnidirectional Image Super-Resolution using Stable Diffusion Model**|Runyi Li et.al.|[2404.10312](http://arxiv.org/abs/2404.10312)|null|
+|**2024-04-17**|**OmniSSR: Zero-shot Omnidirectional Image Super-Resolution using Stable Diffusion Model**|Runyi Li et.al.|[2404.10312](http://arxiv.org/abs/2404.10312)|null|
 |**2024-04-15**|**The Problem Of Image Super-Resolution, Denoising And Some Image Restoration Methods In Deep Learning Models**|Ngoc-Giau Pham et.al.|[2404.09817](http://arxiv.org/abs/2404.09817)|null|
 |**2024-04-15**|**Equipping Diffusion Models with Differentiable Spatial Entropy for Low-Light Image Enhancement**|Wenyi Lian et.al.|[2404.09735](http://arxiv.org/abs/2404.09735)|**[link](https://github.com/shermanlian/spatial-entropy-loss)**|
 |**2024-04-15**|**Photo-Realistic Image Restoration in the Wild with Controlled Vision-Language Models**|Ziwei Luo et.al.|[2404.09732](http://arxiv.org/abs/2404.09732)|**[link](https://github.com/algolzw/daclip-uir)**|
