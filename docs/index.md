@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.18
+## Updated on 2024.04.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
@@ -23,7 +23,7 @@ layout: default
 |**2024-04-17**|**Towards Highly Realistic Artistic Style Transfer via Stable Diffusion with Step-aware and Layer-aware Prompt**|Zhanjie Zhang et.al.|[2404.11474](http://arxiv.org/abs/2404.11474)|**[link](https://github.com/jamie-cheung/lsast)**|
 |**2024-04-17**|**Closely Interactive Human Reconstruction with Proxemics and Physics-Guided Adaption**|Buzhen Huang et.al.|[2404.11291](http://arxiv.org/abs/2404.11291)|**[link](https://github.com/boycehbz/humaninteraction)**|
 |**2024-04-17**|**Optical Image-to-Image Translation Using Denoising Diffusion Models: Heterogeneous Change Detection as a Use Case**|João Gabriel Vinholi et.al.|[2404.11243](http://arxiv.org/abs/2404.11243)|null|
-|**2024-04-17**|**RiboDiffusion: Tertiary Structure-based RNA Inverse Folding with Generative Diffusion Models**|Han Huang et.al.|[2404.11199](http://arxiv.org/abs/2404.11199)|null|
+|**2024-04-17**|**RiboDiffusion: Tertiary Structure-based RNA Inverse Folding with Generative Diffusion Models**|Han Huang et.al.|[2404.11199](http://arxiv.org/abs/2404.11199)|**[link](https://github.com/ml4bio/ribodiffusion)**|
 |**2024-04-16**|**RefFusion: Reference Adapted Diffusion Models for 3D Scene Inpainting**|Ashkan Mirzaei et.al.|[2404.10765](http://arxiv.org/abs/2404.10765)|null|
 |**2024-04-16**|**LaDiC: Are Diffusion Models Really Inferior to Autoregressive Counterparts for Image-to-Text Generation?**|Yuchi Wang et.al.|[2404.10763](http://arxiv.org/abs/2404.10763)|**[link](https://github.com/wangyuchi369/ladic)**|
 |**2024-04-16**|**GazeHTA: End-to-end Gaze Target Detection with Head-Target Association**|Zhi-Yi Lin et.al.|[2404.10718](http://arxiv.org/abs/2404.10718)|null|
