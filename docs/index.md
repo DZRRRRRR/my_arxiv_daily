@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-23**|**Heat flow, log-concavity, and Lipschitz transport maps**|Giovanni Brigati et.al.|[2404.15205](http://arxiv.org/abs/2404.15205)|null|
+|**2024-04-23**|**CutDiffusion: A Simple, Fast, Cheap, and Strong Diffusion Extrapolation Method**|Mingbao Lin et.al.|[2404.15141](http://arxiv.org/abs/2404.15141)|**[link](https://github.com/lmbxmu/cutdiffusion)**|
+|**2024-04-23**|**Taming Diffusion Probabilistic Models for Character Control**|Rui Chen et.al.|[2404.15121](http://arxiv.org/abs/2404.15121)|null|
+|**2024-04-23**|**Perturbing Attention Gives You More Bang for the Buck: Subtle Imaging Perturbations That Efficiently Fool Customized Diffusion Models**|Jingyao Xu et.al.|[2404.15081](http://arxiv.org/abs/2404.15081)|null|
+|**2024-04-23**|**Music Style Transfer With Diffusion Model**|Hong Huang et.al.|[2404.14771](http://arxiv.org/abs/2404.14771)|null|
+|**2024-04-23**|**Gradient Guidance for Diffusion Models: An Optimization Perspective**|Yingqing Guo et.al.|[2404.14743](http://arxiv.org/abs/2404.14743)|null|
+|**2024-04-23**|**FlashSpeech: Efficient Zero-Shot Speech Synthesis**|Zhen Ye et.al.|[2404.14700](http://arxiv.org/abs/2404.14700)|null|
+|**2024-04-23**|**DreamPBR: Text-driven Generation of High-resolution SVBRDF with Multi-modal Guidance**|Linxuan Xin et.al.|[2404.14676](http://arxiv.org/abs/2404.14676)|null|
+|**2024-04-22**|**UVMap-ID: A Controllable and Personalized UV Map Generative Model**|Weijie Wang et.al.|[2404.14568](http://arxiv.org/abs/2404.14568)|null|
+|**2024-04-22**|**Align Your Steps: Optimizing Sampling Schedules in Diffusion Models**|Amirmojtaba Sabour et.al.|[2404.14507](http://arxiv.org/abs/2404.14507)|null|
 |**2024-04-22**|**Guess The Unseen: Dynamic 3D Scene Reconstruction from Partial 2D Glimpses**|Inhee Lee et.al.|[2404.14410](http://arxiv.org/abs/2404.14410)|null|
 |**2024-04-22**|**GeoDiffuser: Geometry-Based Image Editing with Diffusion Models**|Rahul Sajnani et.al.|[2404.14403](http://arxiv.org/abs/2404.14403)|null|
 |**2024-04-22**|**TAVGBench: Benchmarking Text to Audible-Video Generation**|Yuxin Mao et.al.|[2404.14381](http://arxiv.org/abs/2404.14381)|**[link](https://github.com/opennlplab/tavgbench)**|
@@ -808,6 +818,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-23**|**Fourier-enhanced Implicit Neural Fusion Network for Multispectral and Hyperspectral Image Fusion**|Yu-Jie Liang et.al.|[2404.15174](http://arxiv.org/abs/2404.15174)|null|
+|**2024-04-23**|**HOIN: High-Order Implicit Neural Representations**|Yang Chen et.al.|[2404.14674](http://arxiv.org/abs/2404.14674)|null|
 |**2024-04-22**|**Scene Coordinate Reconstruction: Posing of Image Collections via Incremental Learning of a Relocalizer**|Eric Brachmann et.al.|[2404.14351](http://arxiv.org/abs/2404.14351)|null|
 |**2024-04-18**|**Mapping back and forth between model predictive control and neural networks**|Ross Drummond et.al.|[2404.12030](http://arxiv.org/abs/2404.12030)|null|
 |**2024-04-16**|**Autonomous Implicit Indoor Scene Reconstruction with Frontier Exploration**|Jing Zeng et.al.|[2404.10218](http://arxiv.org/abs/2404.10218)|null|
