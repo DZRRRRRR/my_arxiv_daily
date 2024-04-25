@@ -14,6 +14,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-24**|**Optimizing OOD Detection in Molecular Graphs: A Novel Approach with Diffusion Models**|Xu Shen et.al.|[2404.15625](http://arxiv.org/abs/2404.15625)|null|
+|**2024-04-24**|**A Dynamic Kernel Prior Model for Unsupervised Blind Image Super-Resolution**|Zhixiong Yang et.al.|[2404.15620](http://arxiv.org/abs/2404.15620)|null|
+|**2024-04-23**|**ID-Aligner: Enhancing Identity-Preserving Text-to-Image Generation with Reward Feedback Learning**|Weifeng Chen et.al.|[2404.15449](http://arxiv.org/abs/2404.15449)|null|
+|**2024-04-23**|**GLoD: Composing Global Contexts and Local Details in Image Generation**|Moyuru Yamada et.al.|[2404.15447](http://arxiv.org/abs/2404.15447)|null|
+|**2024-04-23**|**ControlTraj: Controllable Trajectory Generation with Topology-Constrained Diffusion Model**|Yuanshao Zhu et.al.|[2404.15380](http://arxiv.org/abs/2404.15380)|null|
 |**2024-04-23**|**Heat flow, log-concavity, and Lipschitz transport maps**|Giovanni Brigati et.al.|[2404.15205](http://arxiv.org/abs/2404.15205)|null|
 |**2024-04-23**|**CutDiffusion: A Simple, Fast, Cheap, and Strong Diffusion Extrapolation Method**|Mingbao Lin et.al.|[2404.15141](http://arxiv.org/abs/2404.15141)|**[link](https://github.com/lmbxmu/cutdiffusion)**|
 |**2024-04-23**|**Taming Diffusion Probabilistic Models for Character Control**|Rui Chen et.al.|[2404.15121](http://arxiv.org/abs/2404.15121)|null|
@@ -919,7 +924,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-04-07**|**UWFormer: Underwater Image Enhancement via a Semi-Supervised Multi-Scale Transformer**|Weiwen Chen et.al.|[2310.20210](http://arxiv.org/abs/2310.20210)|**[link](https://github.com/leiyingtie/UWFormer)**|
+|**2024-04-24**|**UWFormer: Underwater Image Enhancement via a Semi-Supervised Multi-Scale Transformer**|Weiwen Chen et.al.|[2310.20210](http://arxiv.org/abs/2310.20210)|**[link](https://github.com/leiyingtie/UWFormer)**|
 |**2023-09-07**|**Underwater Image Enhancement by Transformer-based Diffusion Model with Non-uniform Sampling for Skip Strategy**|Yi Tang et.al.|[2309.03445](http://arxiv.org/abs/2309.03445)|**[link](https://github.com/piggy2009/dm_underwater)**|
 |**2023-09-03**|**Dual Adversarial Resilience for Collaborating Robust Underwater Image Enhancement and Perception**|Zengxi Zhang et.al.|[2309.01102](http://arxiv.org/abs/2309.01102)|null|
 |**2022-08-04**|**Underwater enhancement based on a self-learning strategy and attention mechanism for high-intensity regions**|Claudio D. Mello Jr. et.al.|[2208.03319](http://arxiv.org/abs/2208.03319)|null|
@@ -958,9 +963,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-24**|**A Dynamic Kernel Prior Model for Unsupervised Blind Image Super-Resolution**|Zhixiong Yang et.al.|[2404.15620](http://arxiv.org/abs/2404.15620)|null|
 |**2024-04-22**|**Face2Face: Label-driven Facial Retouching Restoration**|Guanhua Zhao et.al.|[2404.14177](http://arxiv.org/abs/2404.14177)|null|
 |**2024-04-22**|**CRNet: A Detail-Preserving Network for Unified Image Restoration and Enhancement Task**|Kangzhen Yang et.al.|[2404.14132](http://arxiv.org/abs/2404.14132)|**[link](https://github.com/calvinyang0/crnet)**|
-|**2024-04-21**|**Bracketing Image Restoration and Enhancement with High-Low Frequency Decomposition**|Genggeng Chen et.al.|[2404.13537](http://arxiv.org/abs/2404.13537)|null|
+|**2024-04-24**|**Bracketing Image Restoration and Enhancement with High-Low Frequency Decomposition**|Genggeng Chen et.al.|[2404.13537](http://arxiv.org/abs/2404.13537)|null|
 |**2024-04-20**|**PCQA: A Strong Baseline for AIGC Quality Assessment Based on Prompt Condition**|Xi Fang et.al.|[2404.13299](http://arxiv.org/abs/2404.13299)|null|
 |**2024-04-17**|**CU-Mamba: Selective State Space Models with Channel Learning for Image Restoration**|Rui Deng et.al.|[2404.11778](http://arxiv.org/abs/2404.11778)|null|
 |**2024-04-17**|**AdaIR: Exploiting Underlying Similarities of Image Restoration Tasks with Adapters**|Hao-Wei Chen et.al.|[2404.11475](http://arxiv.org/abs/2404.11475)|null|
