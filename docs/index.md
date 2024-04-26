@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.25
+## Updated on 2024.04.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
@@ -15,7 +15,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-04-24**|**Optimizing OOD Detection in Molecular Graphs: A Novel Approach with Diffusion Models**|Xu Shen et.al.|[2404.15625](http://arxiv.org/abs/2404.15625)|null|
-|**2024-04-24**|**A Dynamic Kernel Prior Model for Unsupervised Blind Image Super-Resolution**|Zhixiong Yang et.al.|[2404.15620](http://arxiv.org/abs/2404.15620)|null|
+|**2024-04-24**|**A Dynamic Kernel Prior Model for Unsupervised Blind Image Super-Resolution**|Zhixiong Yang et.al.|[2404.15620](http://arxiv.org/abs/2404.15620)|**[link](https://github.com/XYLGroup/DKP)**|
 |**2024-04-23**|**ID-Aligner: Enhancing Identity-Preserving Text-to-Image Generation with Reward Feedback Learning**|Weifeng Chen et.al.|[2404.15449](http://arxiv.org/abs/2404.15449)|null|
 |**2024-04-23**|**GLoD: Composing Global Contexts and Local Details in Image Generation**|Moyuru Yamada et.al.|[2404.15447](http://arxiv.org/abs/2404.15447)|null|
 |**2024-04-23**|**ControlTraj: Controllable Trajectory Generation with Topology-Constrained Diffusion Model**|Yuanshao Zhu et.al.|[2404.15380](http://arxiv.org/abs/2404.15380)|null|
@@ -963,10 +963,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-04-24**|**A Dynamic Kernel Prior Model for Unsupervised Blind Image Super-Resolution**|Zhixiong Yang et.al.|[2404.15620](http://arxiv.org/abs/2404.15620)|null|
+|**2024-04-24**|**A Dynamic Kernel Prior Model for Unsupervised Blind Image Super-Resolution**|Zhixiong Yang et.al.|[2404.15620](http://arxiv.org/abs/2404.15620)|**[link](https://github.com/XYLGroup/DKP)**|
 |**2024-04-22**|**Face2Face: Label-driven Facial Retouching Restoration**|Guanhua Zhao et.al.|[2404.14177](http://arxiv.org/abs/2404.14177)|null|
 |**2024-04-22**|**CRNet: A Detail-Preserving Network for Unified Image Restoration and Enhancement Task**|Kangzhen Yang et.al.|[2404.14132](http://arxiv.org/abs/2404.14132)|**[link](https://github.com/calvinyang0/crnet)**|
-|**2024-04-24**|**Bracketing Image Restoration and Enhancement with High-Low Frequency Decomposition**|Genggeng Chen et.al.|[2404.13537](http://arxiv.org/abs/2404.13537)|null|
+|**2024-04-24**|**Bracketing Image Restoration and Enhancement with High-Low Frequency Decomposition**|Genggeng Chen et.al.|[2404.13537](http://arxiv.org/abs/2404.13537)|**[link](https://github.com/chengeng0613/hlnet)**|
 |**2024-04-20**|**PCQA: A Strong Baseline for AIGC Quality Assessment Based on Prompt Condition**|Xi Fang et.al.|[2404.13299](http://arxiv.org/abs/2404.13299)|null|
 |**2024-04-17**|**CU-Mamba: Selective State Space Models with Channel Learning for Image Restoration**|Rui Deng et.al.|[2404.11778](http://arxiv.org/abs/2404.11778)|null|
 |**2024-04-17**|**AdaIR: Exploiting Underlying Similarities of Image Restoration Tasks with Adapters**|Hao-Wei Chen et.al.|[2404.11475](http://arxiv.org/abs/2404.11475)|null|
