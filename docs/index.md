@@ -14,6 +14,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-26**|**MaPa: Text-driven Photorealistic Material Painting for 3D Shapes**|Shangzhan Zhang et.al.|[2404.17569](http://arxiv.org/abs/2404.17569)|null|
+|**2024-04-26**|**Chemotaxis-inspired PDE model for airborne infectious disease transmission: analysis and simulations**|Pierluigi Colli et.al.|[2404.17506](http://arxiv.org/abs/2404.17506)|null|
+|**2024-04-26**|**Multi-view Image Prompted Multi-view Diffusion for Improved 3D Generation**|Seungwook Kim et.al.|[2404.17419](http://arxiv.org/abs/2404.17419)|null|
+|**2024-04-26**|**MV-VTON: Multi-View Virtual Try-On with Diffusion Models**|Haoyu Wang et.al.|[2404.17364](http://arxiv.org/abs/2404.17364)|**[link](https://github.com/hywang2002/mv-vton)**|
+|**2024-04-26**|**Simultaneous Tri-Modal Medical Image Fusion and Super-Resolution using Conditional Diffusion Model**|Yushen Xu et.al.|[2404.17357](http://arxiv.org/abs/2404.17357)|null|
+|**2024-04-26**|**Trinity Detector:text-assisted and attention mechanisms based spectral fusion for diffusion generation image detection**|Jiawei Song et.al.|[2404.17254](http://arxiv.org/abs/2404.17254)|null|
+|**2024-04-26**|**Few-shot Calligraphy Style Learning**|Fangda Chen et.al.|[2404.17199](http://arxiv.org/abs/2404.17199)|**[link](https://github.com/kono-dada/xysffusion)**|
+|**2024-04-25**|**CyNetDiff -- A Python Library for Accelerated Implementation of Network Diffusion Models**|Eliot W. Robson et.al.|[2404.17059](http://arxiv.org/abs/2404.17059)|null|
+|**2024-04-25**|**Universal fragmentation in annihilation reactions with constrained kinetics**|Enrique Rozas Garcia et.al.|[2404.16950](http://arxiv.org/abs/2404.16950)|null|
 |**2024-04-25**|**Inferring solid-state diffusivity in lithium-ion battery active materials: improving upon the classical GITT method**|A. Emir Gumrukcuoglu et.al.|[2404.16658](http://arxiv.org/abs/2404.16658)|null|
 |**2024-04-25**|**MuseumMaker: Continual Style Customization without Catastrophic Forgetting**|Chenxi Liu et.al.|[2404.16612](http://arxiv.org/abs/2404.16612)|null|
 |**2024-04-25**|**Conditional Distribution Modelling for Few-Shot Image Synthesis with Diffusion Models**|Parul Gupta et.al.|[2404.16556](http://arxiv.org/abs/2404.16556)|null|
@@ -975,6 +984,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-26**|**PromptCIR: Blind Compressed Image Restoration with Prompt Learning**|Bingchen Li et.al.|[2404.17433](http://arxiv.org/abs/2404.17433)|**[link](https://github.com/lbc12345/promptcir-ntire24)**|
+|**2024-04-26**|**One-Shot Image Restoration**|Deborah Pereg et.al.|[2404.17426](http://arxiv.org/abs/2404.17426)|null|
 |**2024-04-25**|**NTIRE 2024 Quality Assessment of AI-Generated Content Challenge**|Xiaohong Liu et.al.|[2404.16687](http://arxiv.org/abs/2404.16687)|null|
 |**2024-04-26**|**A Survey on Visual Mamba**|Hanwei Zhang et.al.|[2404.15956](http://arxiv.org/abs/2404.15956)|null|
 |**2024-04-26**|**A Dynamic Kernel Prior Model for Unsupervised Blind Image Super-Resolution**|Zhixiong Yang et.al.|[2404.15620](http://arxiv.org/abs/2404.15620)|**[link](https://github.com/XYLGroup/DKP)**|
