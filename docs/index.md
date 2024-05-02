@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.01
+## Updated on 2024.05.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
@@ -1131,7 +1131,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-04-30**|**Mapping New Realities: Ground Truth Image Creation with Pix2Pix Image-to-Image Translation**|Zhenglin Li et.al.|[2404.19265](http://arxiv.org/abs/2404.19265)|null|
+|**2024-05-01**|**Mapping New Realities: Ground Truth Image Creation with Pix2Pix Image-to-Image Translation**|Zhenglin Li et.al.|[2404.19265](http://arxiv.org/abs/2404.19265)|null|
 |**2024-04-24**|**Quantitative Characterization of Retinal Features in Translated OCTA**|Rashadul Hasan Badhon et.al.|[2404.16133](http://arxiv.org/abs/2404.16133)|null|
 |**2024-04-24**|**SRAGAN: Saliency Regularized and Attended Generative Adversarial Network for Chinese Ink-wash Painting Generation**|Xiang Gao et.al.|[2404.15743](http://arxiv.org/abs/2404.15743)|null|
 |**2024-04-19**|**F2FLDM: Latent Diffusion Models with Histopathology Pre-Trained Embeddings for Unpaired Frozen Section to FFPE Translation**|Man M. Ho et.al.|[2404.12650](http://arxiv.org/abs/2404.12650)|null|
