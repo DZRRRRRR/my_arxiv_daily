@@ -22,6 +22,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-02**|**LocInv: Localization-aware Inversion for Text-Guided Image Editing**|Chuanming Tang et.al.|[2405.01496](http://arxiv.org/abs/2405.01496)|**[link](https://github.com/wangkai930418/DPL)**|
+|**2024-05-02**|**Navigating Heterogeneity and Privacy in One-Shot Federated Learning with Diffusion Models**|Matias Mendieta et.al.|[2405.01494](http://arxiv.org/abs/2405.01494)|null|
+|**2024-05-02**|**Statistical algorithms for low-frequency diffusion data: A PDE approach**|Matteo Giordano et.al.|[2405.01372](http://arxiv.org/abs/2405.01372)|null|
+|**2024-05-02**|**DiffusionPipe: Training Large Diffusion Models with Efficient Pipelines**|Ye Tian et.al.|[2405.01248](http://arxiv.org/abs/2405.01248)|null|
+|**2024-05-02**|**Automated Virtual Product Placement and Assessment in Images using Diffusion Models**|Mohammad Mahmudul Alam et.al.|[2405.01130](http://arxiv.org/abs/2405.01130)|null|
+|**2024-05-02**|**Part-aware Shape Generation with Latent 3D Diffusion of Neural Voxel Fields**|Yuhang Huang et.al.|[2405.00998](http://arxiv.org/abs/2405.00998)|null|
+|**2024-05-02**|**Generative manufacturing systems using diffusion models and ChatGPT**|Xingyu Li et.al.|[2405.00958](http://arxiv.org/abs/2405.00958)|null|
+|**2024-05-02**|**EchoScene: Indoor Scene Generation via Information Echo over Scene Graph Diffusion**|Guangyao Zhai et.al.|[2405.00915](http://arxiv.org/abs/2405.00915)|null|
+|**2024-05-01**|**SonicDiffusion: Audio-Driven Image Generation and Editing with Pretrained Diffusion Models**|Burak Can Biner et.al.|[2405.00878](http://arxiv.org/abs/2405.00878)|null|
+|**2024-05-01**|**Guided Conditional Diffusion Classifier (ConDiff) for Enhanced Prediction of Infection in Diabetic Foot Ulcers**|Palawat Busaranuvong et.al.|[2405.00858](http://arxiv.org/abs/2405.00858)|null|
 |**2024-05-01**|**TexSliders: Diffusion-Based Texture Editing in CLIP Space**|Julia Guerrero-Viu et.al.|[2405.00672](http://arxiv.org/abs/2405.00672)|null|
 |**2024-05-01**|**RGB $\leftrightarrow$ X: Image decomposition and synthesis using material- and lighting-aware diffusion models**|Zheng Zeng et.al.|[2405.00666](http://arxiv.org/abs/2405.00666)|null|
 |**2024-05-01**|**Deep Metric Learning-Based Out-of-Distribution Detection with Synthetic Outlier Exposure**|Assefa Seyoum Wahd et.al.|[2405.00631](http://arxiv.org/abs/2405.00631)|null|
@@ -1160,6 +1170,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-02**|**Towards Inclusive Face Recognition Through Synthetic Ethnicity Alteration**|Praveen Kumar Chandaliya et.al.|[2405.01273](http://arxiv.org/abs/2405.01273)|null|
 |**2024-05-01**|**Mapping New Realities: Ground Truth Image Creation with Pix2Pix Image-to-Image Translation**|Zhenglin Li et.al.|[2404.19265](http://arxiv.org/abs/2404.19265)|null|
 |**2024-04-24**|**Quantitative Characterization of Retinal Features in Translated OCTA**|Rashadul Hasan Badhon et.al.|[2404.16133](http://arxiv.org/abs/2404.16133)|null|
 |**2024-04-24**|**SRAGAN: Saliency Regularized and Attended Generative Adversarial Network for Chinese Ink-wash Painting Generation**|Xiang Gao et.al.|[2404.15743](http://arxiv.org/abs/2404.15743)|null|
