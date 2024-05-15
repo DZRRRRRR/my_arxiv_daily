@@ -14,6 +14,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-14**|**Expensive Multi-Objective Bayesian Optimization Based on Diffusion Models**|Bingdong Li et.al.|[2405.08674](http://arxiv.org/abs/2405.08674)|null|
+|**2024-05-14**|**Towards Multi-Task Generative-AI Edge Services with an Attention-based Diffusion DRL Approach**|Yaju Liu et.al.|[2405.08328](http://arxiv.org/abs/2405.08328)|null|
+|**2024-05-14**|**Compositional Text-to-Image Generation with Dense Blob Representations**|Weili Nie et.al.|[2405.08246](http://arxiv.org/abs/2405.08246)|null|
+|**2024-05-13**|**Infinite Texture: Text-guided High Resolution Diffusion Texture Synthesis**|Yifan Wang et.al.|[2405.08210](http://arxiv.org/abs/2405.08210)|null|
+|**2024-05-13**|**Do Bayesian imaging methods report trustworthy probabilities?**|David Y. W. Thong et.al.|[2405.08179](http://arxiv.org/abs/2405.08179)|null|
+|**2024-05-13**|**DiffTF++: 3D-aware Diffusion Transformer for Large-Vocabulary 3D Generation**|Ziang Cao et.al.|[2405.08055](http://arxiv.org/abs/2405.08055)|null|
+|**2024-05-13**|**Coin3D: Controllable and Interactive 3D Assets Generation with Proxy-Guided Conditioning**|Wenqi Dong et.al.|[2405.08054](http://arxiv.org/abs/2405.08054)|null|
 |**2024-05-13**|**Stable Diffusion-based Data Augmentation for Federated Learning with Non-IID Data**|Mahdi Morafah et.al.|[2405.07925](http://arxiv.org/abs/2405.07925)|null|
 |**2024-05-13**|**CTRLorALTer: Conditional LoRAdapter for Efficient 0-Shot Control & Altering of T2I Models**|Nick Stracke et.al.|[2405.07913](http://arxiv.org/abs/2405.07913)|null|
 |**2024-05-13**|**SAR Image Synthesis with Diffusion Models**|Denisa Qosja et.al.|[2405.07776](http://arxiv.org/abs/2405.07776)|null|
@@ -944,6 +951,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-14**|**Achieving Resolution-Agnostic DNN-based Image Watermarking:A Novel Perspective of Implicit Neural Representation**|Yuchen Wang et.al.|[2405.08340](http://arxiv.org/abs/2405.08340)|null|
 |**2024-05-11**|**Unsupervised Density Neural Representation for CT Metal Artifact Reduction**|Qing Wu et.al.|[2405.07047](http://arxiv.org/abs/2405.07047)|null|
 |**2024-05-10**|**I3DGS: Improve 3D Gaussian Splatting from Multiple Dimensions**|Jinwei Lin et.al.|[2405.06408](http://arxiv.org/abs/2405.06408)|null|
 |**2024-05-10**|**Free-Moving Object Reconstruction and Pose Estimation with Virtual Camera**|Haixin Shi et.al.|[2405.05858](http://arxiv.org/abs/2405.05858)|null|
@@ -1230,6 +1238,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-14**|**Shape-aware synthesis of pathological lung CT scans using CycleGAN for enhanced semi-supervised lung segmentation**|Rezkellah Noureddine Khiati et.al.|[2405.08556](http://arxiv.org/abs/2405.08556)|**[link](https://github.com/noureddinekhiati/semi-supervised-lung-segmentation)**|
+|**2024-05-14**|**Similarity Metrics for MR Image-To-Image Translation**|Melanie Dohmen et.al.|[2405.08431](http://arxiv.org/abs/2405.08431)|null|
 |**2024-05-10**|**Self-Consistent Recursive Diffusion Bridge for Medical Image Translation**|Fuat Arslan et.al.|[2405.06789](http://arxiv.org/abs/2405.06789)|null|
 |**2024-05-10**|**Ensuring UAV Safety: A Vision-only and Real-time Framework for Collision Avoidance Through Object Detection, Tracking, and Distance Estimation**|Vasileios Karampinis et.al.|[2405.06749](http://arxiv.org/abs/2405.06749)|null|
 |**2024-05-09**|**Distilling Diffusion Models into Conditional GANs**|Minguk Kang et.al.|[2405.05967](http://arxiv.org/abs/2405.05967)|null|
