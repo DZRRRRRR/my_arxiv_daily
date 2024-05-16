@@ -22,6 +22,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-15**|**MMFusion: Multi-modality Diffusion Model for Lymph Node Metastasis Diagnosis in Esophageal Cancer**|Chengyu Wu et.al.|[2405.09539](http://arxiv.org/abs/2405.09539)|**[link](https://github.com/wuchengyu123/mmfusion)**|
+|**2024-05-15**|**Diffusion-based Contrastive Learning for Sequential Recommendation**|Ziqiang Cui et.al.|[2405.09369](http://arxiv.org/abs/2405.09369)|null|
+|**2024-05-15**|**Dance Any Beat: Blending Beats with Visuals in Dance Video Generation**|Xuanchen Wang et.al.|[2405.09266](http://arxiv.org/abs/2405.09266)|null|
+|**2024-05-15**|**SOEDiff: Efficient Distillation for Small Object Editing**|Qihe Pan et.al.|[2405.09114](http://arxiv.org/abs/2405.09114)|null|
+|**2024-05-15**|**RSHazeDiff: A Unified Fourier-aware Diffusion Model for Remote Sensing Image Dehazing**|Jiamei Xiong et.al.|[2405.09083](http://arxiv.org/abs/2405.09083)|**[link](https://github.com/jm-xiong/rshazediff)**|
+|**2024-05-15**|**Naturalistic Music Decoding from EEG Data via Latent Diffusion Models**|Emilian Postolache et.al.|[2405.09062](http://arxiv.org/abs/2405.09062)|null|
+|**2024-05-15**|**Response Matching for generating materials and molecules**|Bingqing Cheng et.al.|[2405.09057](http://arxiv.org/abs/2405.09057)|null|
+|**2024-05-15**|**CTS: A Consistency-Based Medical Image Segmentation Model**|Kejia Zhang et.al.|[2405.09056](http://arxiv.org/abs/2405.09056)|null|
 |**2024-05-14**|**Expensive Multi-Objective Bayesian Optimization Based on Diffusion Models**|Bingdong Li et.al.|[2405.08674](http://arxiv.org/abs/2405.08674)|null|
 |**2024-05-14**|**Towards Multi-Task Generative-AI Edge Services with an Attention-based Diffusion DRL Approach**|Yaju Liu et.al.|[2405.08328](http://arxiv.org/abs/2405.08328)|null|
 |**2024-05-14**|**Compositional Text-to-Image Generation with Dense Blob Representations**|Weili Nie et.al.|[2405.08246](http://arxiv.org/abs/2405.08246)|null|
@@ -1090,6 +1098,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-15**|**RSHazeDiff: A Unified Fourier-aware Diffusion Model for Remote Sensing Image Dehazing**|Jiamei Xiong et.al.|[2405.09083](http://arxiv.org/abs/2405.09083)|**[link](https://github.com/jm-xiong/rshazediff)**|
 |**2024-05-13**|**Dehazing Remote Sensing and UAV Imagery: A Review of Deep Learning, Prior-based, and Hybrid Approaches**|Gao Yu Lee et.al.|[2405.07520](http://arxiv.org/abs/2405.07520)|null|
 |**2024-05-09**|**Parallel Cross Strip Attention Network for Single Image Dehazing**|Lihan Tong et.al.|[2405.05811](http://arxiv.org/abs/2405.05811)|null|
 |**2024-04-27**|**ODCR: Orthogonal Decoupling Contrastive Regularization for Unpaired Image Dehazing**|Zhongze Wang et.al.|[2404.17825](http://arxiv.org/abs/2404.17825)|null|
