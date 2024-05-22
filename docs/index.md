@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.21
+## Updated on 2024.05.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
@@ -1155,7 +1155,7 @@ layout: default
 |**2024-05-16**|**NTIRE 2024 Restore Any Image Model (RAIM) in the Wild Challenge**|Jie Liang et.al.|[2405.09923](http://arxiv.org/abs/2405.09923)|null|
 |**2024-05-15**|**Inference in higher-order undirected graphical models and binary polynomial optimization**|Aida Khajavirad et.al.|[2405.09727](http://arxiv.org/abs/2405.09727)|null|
 |**2024-05-13**|**FRRffusion: Unveiling Authenticity with Diffusion-Based Face Retouching Reversal**|Fengchuang Xing et.al.|[2405.07582](http://arxiv.org/abs/2405.07582)|null|
-|**2024-05-09**|**RPBG: Towards Robust Neural Point-based Graphics in the Wild**|Qingtian Zhu et.al.|[2405.05663](http://arxiv.org/abs/2405.05663)|null|
+|**2024-05-09**|**RPBG: Towards Robust Neural Point-based Graphics in the Wild**|Qingtian Zhu et.al.|[2405.05663](http://arxiv.org/abs/2405.05663)|**[link](https://github.com/qt-zhu/rpbg)**|
 |**2024-05-07**|**DocRes: A Generalist Model Toward Unifying Document Image Restoration Tasks**|Jiaxin Zhang et.al.|[2405.04408](http://arxiv.org/abs/2405.04408)|**[link](https://github.com/zzzhang-jx/docres)**|
 |**2024-05-11**|**Residual-Conditioned Optimal Transport: Towards Structure-Preserving Unpaired and Paired Image Restoration**|Xiaole Tang et.al.|[2405.02843](http://arxiv.org/abs/2405.02843)|null|
 |**2024-05-04**|**Deep Image Restoration For Image Anti-Forensics**|Eren Tahir et.al.|[2405.02751](http://arxiv.org/abs/2405.02751)|**[link](https://github.com/99eren99/dirfiaf)**|
