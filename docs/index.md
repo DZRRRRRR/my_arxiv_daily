@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-23**|**Improved Distribution Matching Distillation for Fast Image Synthesis**|Tianwei Yin et.al.|[2405.14867](http://arxiv.org/abs/2405.14867)|null|
+|**2024-05-23**|**Video Diffusion Models are Training-free Motion Interpreter and Controller**|Zeqi Xiao et.al.|[2405.14864](http://arxiv.org/abs/2405.14864)|null|
+|**2024-05-23**|**Adapting to Unknown Low-Dimensional Structures in Score-Based Diffusion Models**|Gen Li et.al.|[2405.14861](http://arxiv.org/abs/2405.14861)|null|
+|**2024-05-23**|**Semantica: An Adaptable Image-Conditioned Diffusion Model**|Manoj Kumar et.al.|[2405.14857](http://arxiv.org/abs/2405.14857)|null|
+|**2024-05-23**|**TerDiT: Ternary Diffusion Models with Transformers**|Xudong Lu et.al.|[2405.14854](http://arxiv.org/abs/2405.14854)|**[link](https://github.com/Lucky-Lance/TerDiT)**|
+|**2024-05-23**|**Direct3D: Scalable Image-to-3D Generation via 3D Latent Diffusion Transformer**|Shuang Wu et.al.|[2405.14832](http://arxiv.org/abs/2405.14832)|null|
+|**2024-05-23**|**Good Seed Makes a Good Crop: Discovering Secret Seeds in Text-to-Image Diffusion Models**|Katherine Xu et.al.|[2405.14828](http://arxiv.org/abs/2405.14828)|null|
+|**2024-05-23**|**PaGoDA: Progressive Growing of a One-Step Generator from a Low-Resolution Diffusion Teacher**|Dongjun Kim et.al.|[2405.14822](http://arxiv.org/abs/2405.14822)|null|
+|**2024-05-23**|**Fast Denoising Diffusion Probabilistic Models for Medical Image-to-Image Generation**|Hongxu Jiang et.al.|[2405.14802](http://arxiv.org/abs/2405.14802)|null|
+|**2024-05-23**|**Membership Inference on Text-to-Image Diffusion Models via Conditional Likelihood Discrepancy**|Shengfang Zhai et.al.|[2405.14800](http://arxiv.org/abs/2405.14800)|null|
 |**2024-05-21**|**Personalized Residuals for Concept-Driven Text-to-Image Generation**|Cusuh Ham et.al.|[2405.12978](http://arxiv.org/abs/2405.12978)|null|
 |**2024-05-21**|**Face Adapter for Pre-Trained Diffusion Models with Fine-Grained ID and Attribute Control**|Yue Han et.al.|[2405.12970](http://arxiv.org/abs/2405.12970)|null|
 |**2024-05-21**|**Impact of inhomogeneous diffusion on secondary cosmic ray and antiproton local spectra**|Álvaro Tovar-Pardo et.al.|[2405.12918](http://arxiv.org/abs/2405.12918)|null|
@@ -994,6 +1004,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-23**|**Multi-view Remote Sensing Image Segmentation With SAM priors**|Zipeng Qi et.al.|[2405.14171](http://arxiv.org/abs/2405.14171)|null|
+|**2024-05-22**|**HR-INR: Continuous Space-Time Video Super-Resolution via Event Camera**|Yunfan Lu et.al.|[2405.13389](http://arxiv.org/abs/2405.13389)|null|
 |**2024-05-20**|**GarmentDreamer: 3DGS Guided Garment Synthesis with Diverse Geometry and Texture Details**|Boqian Li et.al.|[2405.12420](http://arxiv.org/abs/2405.12420)|null|
 |**2024-05-20**|**ASMR: Activation-sharing Multi-resolution Coordinate Networks For Efficient Inference**|Jason Chun Lok Li et.al.|[2405.12398](http://arxiv.org/abs/2405.12398)|**[link](https://github.com/stevolopolis/asmr)**|
 |**2024-05-19**|**Point Cloud Compression with Implicit Neural Representations: A Unified Framework**|Hongning Ruan et.al.|[2405.11493](http://arxiv.org/abs/2405.11493)|null|
@@ -1158,6 +1170,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-23**|**Efficient Visual State Space Model for Image Deblurring**|Lingshun Kong et.al.|[2405.14343](http://arxiv.org/abs/2405.14343)|null|
+|**2024-05-22**|**Perceptual Fairness in Image Restoration**|Guy Ohayon et.al.|[2405.13805](http://arxiv.org/abs/2405.13805)|null|
 |**2024-05-21**|**DARK: Denoising, Amplification, Restoration Kit**|Zhuoheng Li et.al.|[2405.12891](http://arxiv.org/abs/2405.12891)|null|
 |**2024-05-21**|**Spatial-aware Attention Generative Adversarial Network for Semi-supervised Anomaly Detection in Medical Image**|Zerui Zhang et.al.|[2405.12872](http://arxiv.org/abs/2405.12872)|null|
 |**2024-05-20**|**A New Cross-Space Total Variation Regularization Model for Color Image Restoration with Quaternion Blur Operator**|Zhigang Jia et.al.|[2405.12114](http://arxiv.org/abs/2405.12114)|null|
@@ -1297,6 +1311,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-23**|**Fast Denoising Diffusion Probabilistic Models for Medical Image-to-Image Generation**|Hongxu Jiang et.al.|[2405.14802](http://arxiv.org/abs/2405.14802)|null|
+|**2024-05-23**|**Metric Flow Matching for Smooth Interpolations on the Data Manifold**|Kacper Kapusniak et.al.|[2405.14780](http://arxiv.org/abs/2405.14780)|null|
 |**2024-05-20**|**Segmentation of dense and multi-species bacterial colonies achieved using models trained on synthetic microscopy images**|Vincent Hickl et.al.|[2405.12407](http://arxiv.org/abs/2405.12407)|null|
 |**2024-05-17**|**Generative Artificial Intelligence: A Systematic Review and Applications**|Sandeep Singh Sengar et.al.|[2405.11029](http://arxiv.org/abs/2405.11029)|null|
 |**2024-05-17**|**Eddeep: Fast eddy-current distortion correction for diffusion MRI with deep learning**|Antoine Legouhy et.al.|[2405.10723](http://arxiv.org/abs/2405.10723)|null|
