@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-29**|**ConceptPrune: Concept Editing in Diffusion Models via Skilled Neuron Pruning**|Ruchika Chavhan et.al.|[2405.19237](http://arxiv.org/abs/2405.19237)|**[link](https://github.com/ruchikachavhan/concept-prune)**|
+|**2024-05-29**|**$E^{3}$ Gen: Efficient, Expressive and Editable Avatars Generation**|Weitian Zhang et.al.|[2405.19203](http://arxiv.org/abs/2405.19203)|null|
+|**2024-05-29**|**Diffusion-based Dynamics Models for Long-Horizon Rollout in Offline Reinforcement Learning**|Hanye Zhao et.al.|[2405.19189](http://arxiv.org/abs/2405.19189)|null|
+|**2024-05-29**|**Tuning-Free Alignment of Diffusion Models with Direct Noise Optimization**|Zhiwei Tang et.al.|[2405.18881](http://arxiv.org/abs/2405.18881)|null|
+|**2024-05-29**|**Principled Probabilistic Imaging using Diffusion Models as Plug-and-Play Priors**|Zihui Wu et.al.|[2405.18782](http://arxiv.org/abs/2405.18782)|null|
+|**2024-05-29**|**RNAFlow: RNA Structure & Sequence Design via Inverse Folding-Based Flow Matching**|Divya Nori et.al.|[2405.18768](http://arxiv.org/abs/2405.18768)|null|
+|**2024-05-29**|**Stationary distribution approximations of Two-island Wright-Fisher and seed-bank models using Stein's method**|Han L. Gan et.al.|[2405.18763](http://arxiv.org/abs/2405.18763)|null|
+|**2024-05-29**|**Preferred-Action-Optimized Diffusion Policies for Offline Reinforcement Learning**|Tianle Zhang et.al.|[2405.18729](http://arxiv.org/abs/2405.18729)|null|
+|**2024-05-29**|**Reverse the auditory processing pathway: Coarse-to-fine audio reconstruction from fMRI**|Che Liu et.al.|[2405.18726](http://arxiv.org/abs/2405.18726)|null|
+|**2024-05-29**|**Learning Diffeomorphism for Image Registration with Time-Continuous Networks using Semigroup Regularization**|Mohammadjavad Matinkia et.al.|[2405.18684](http://arxiv.org/abs/2405.18684)|null|
 |**2024-05-28**|**DiG: Scalable and Efficient Diffusion Models with Gated Linear Attention**|Lianghui Zhu et.al.|[2405.18428](http://arxiv.org/abs/2405.18428)|**[link](https://github.com/hustvl/dig)**|
 |**2024-05-28**|**Phased Consistency Model**|Fu-Yun Wang et.al.|[2405.18407](http://arxiv.org/abs/2405.18407)|null|
 |**2024-05-28**|**RACCooN: Remove, Add, and Change Video Content with Auto-Generated Narratives**|Jaehong Yoon et.al.|[2405.18406](http://arxiv.org/abs/2405.18406)|null|
@@ -1034,6 +1044,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-29**|**Implicit Neural Image Field for Biological Microscopy Image Compression**|Gaole Dai et.al.|[2405.19012](http://arxiv.org/abs/2405.19012)|**[link](https://github.com/pku-hmi/inif)**|
 |**2024-05-28**|**Towards a Sampling Theory for Implicit Neural Representations**|Mahrokh Najaf et.al.|[2405.18410](http://arxiv.org/abs/2405.18410)|null|
 |**2024-05-28**|**A Grid-Free Fluid Solver based on Gaussian Spatial Representation**|Jingrui Xing et.al.|[2405.18133](http://arxiv.org/abs/2405.18133)|null|
 |**2024-05-27**|**UniCompress: Enhancing Multi-Data Medical Image Compression with Knowledge Distillation**|Runzhao Yang et.al.|[2405.16850](http://arxiv.org/abs/2405.16850)|null|
