@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-04**|**Dreamguider: Improved Training free Diffusion-based Conditional Generation**|Nithin Gopalakrishnan Nair et.al.|[2406.02549](http://arxiv.org/abs/2406.02549)|null|
+|**2024-06-04**|**Enhancing Temporal Consistency in Video Editing by Reconstructing Videos with 3D Gaussian Splatting**|Inkyu Shin et.al.|[2406.02541](http://arxiv.org/abs/2406.02541)|null|
+|**2024-06-04**|**CamCo: Camera-Controllable 3D-Consistent Image-to-Video Generation**|Dejia Xu et.al.|[2406.02509](http://arxiv.org/abs/2406.02509)|null|
+|**2024-06-04**|**Guiding a Diffusion Model with a Bad Version of Itself**|Tero Karras et.al.|[2406.02507](http://arxiv.org/abs/2406.02507)|null|
+|**2024-06-04**|**Stable-Pose: Leveraging Transformers for Pose-Guided Text-to-Image Generation**|Jiajun Wang et.al.|[2406.02485](http://arxiv.org/abs/2406.02485)|null|
+|**2024-06-04**|**Inpainting Pathology in Lumbar Spine MRI with Latent Diffusion**|Colin Hansen et.al.|[2406.02477](http://arxiv.org/abs/2406.02477)|null|
+|**2024-06-04**|**Learning Image Priors through Patch-based Diffusion Models for Solving Inverse Problems**|Jason Hu et.al.|[2406.02462](http://arxiv.org/abs/2406.02462)|null|
+|**2024-06-04**|**RoomTex: Texturing Compositional Indoor Scenes via Iterative Inpainting**|Qi Wang et.al.|[2406.02461](http://arxiv.org/abs/2406.02461)|null|
+|**2024-06-04**|**Finding NeMo: Localizing Neurons Responsible For Memorization in Diffusion Models**|Dominik Hintersdorf et.al.|[2406.02366](http://arxiv.org/abs/2406.02366)|**[link](https://github.com/ml-research/localizing_memorization_in_diffusion_models)**|
+|**2024-06-04**|**Flash Diffusion: Accelerating Any Conditional Diffusion Model for Few Steps Image Generation**|Clement Chadebec et.al.|[2406.02347](http://arxiv.org/abs/2406.02347)|null|
 |**2024-05-31**|**Mixed Diffusion for 3D Indoor Scene Synthesis**|Siyi Hu et.al.|[2405.21066](http://arxiv.org/abs/2405.21066)|null|
 |**2024-05-31**|**Unified Directly Denoising for Both Variance Preserving and Variance Exploding Diffusion Models**|Jingjing Wang et.al.|[2405.21059](http://arxiv.org/abs/2405.21059)|null|
 |**2024-05-31**|**Spectrum-Aware Parameter Efficient Fine-Tuning for Diffusion Models**|Xinxi Zhang et.al.|[2405.21050](http://arxiv.org/abs/2405.21050)|null|
@@ -1064,6 +1074,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-04**|**ReLUs Are Sufficient for Learning Implicit Neural Representations**|Joseph Shenouda et.al.|[2406.02529](http://arxiv.org/abs/2406.02529)|**[link](https://github.com/joeshenouda/relu-inrs)**|
+|**2024-06-04**|**Image steganography based on generative implicit neural representation**|Zhong Yangjie et.al.|[2406.01918](http://arxiv.org/abs/2406.01918)|null|
+|**2024-06-01**|**Modeling Randomly Observed Spatiotemporal Dynamical Systems**|Valerii Iakovlev et.al.|[2406.00368](http://arxiv.org/abs/2406.00368)|null|
+|**2024-05-31**|**ImplicitTerrain: a Continuous Surface Model for Terrain Data Analysis**|Haoan Feng et.al.|[2406.00227](http://arxiv.org/abs/2406.00227)|null|
 |**2024-05-31**|**MeshXL: Neural Coordinate Field for Generative 3D Foundation Models**|Sijin Chen et.al.|[2405.20853](http://arxiv.org/abs/2405.20853)|**[link](https://github.com/openmeshlab/meshxl)**|
 |**2024-05-29**|**Implicit Neural Image Field for Biological Microscopy Image Compression**|Gaole Dai et.al.|[2405.19012](http://arxiv.org/abs/2405.19012)|**[link](https://github.com/pku-hmi/inif)**|
 |**2024-05-28**|**Towards a Sampling Theory for Implicit Neural Representations**|Mahrokh Najaf et.al.|[2405.18410](http://arxiv.org/abs/2405.18410)|null|
@@ -1193,6 +1207,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-03**|**Capsule Enhanced Variational AutoEncoder for Underwater Image Reconstruction**|Rita Pucci et.al.|[2406.01294](http://arxiv.org/abs/2406.01294)|null|
 |**2024-04-24**|**UWFormer: Underwater Image Enhancement via a Semi-Supervised Multi-Scale Transformer**|Weiwen Chen et.al.|[2310.20210](http://arxiv.org/abs/2310.20210)|**[link](https://github.com/leiyingtie/UWFormer)**|
 |**2023-09-07**|**Underwater Image Enhancement by Transformer-based Diffusion Model with Non-uniform Sampling for Skip Strategy**|Yi Tang et.al.|[2309.03445](http://arxiv.org/abs/2309.03445)|**[link](https://github.com/piggy2009/dm_underwater)**|
 |**2023-09-03**|**Dual Adversarial Resilience for Collaborating Robust Underwater Image Enhancement and Perception**|Zengxi Zhang et.al.|[2309.01102](http://arxiv.org/abs/2309.01102)|null|
@@ -1204,6 +1219,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-02**|**Correlation Matching Transformation Transformers for UHD Image Restoration**|Cong Wang et.al.|[2406.00629](http://arxiv.org/abs/2406.00629)|**[link](https://github.com/supersupercong/uhdformer)**|
 |**2024-05-23**|**Rethinking the Elementary Function Fusion for Single-Image Dehazing**|Yesian Rohn et.al.|[2405.15817](http://arxiv.org/abs/2405.15817)|null|
 |**2024-05-16**|**RSDehamba: Lightweight Vision Mamba for Remote Sensing Satellite Image Dehazing**|Huiling Zhou et.al.|[2405.10030](http://arxiv.org/abs/2405.10030)|null|
 |**2024-05-15**|**RSHazeDiff: A Unified Fourier-aware Diffusion Model for Remote Sensing Image Dehazing**|Jiamei Xiong et.al.|[2405.09083](http://arxiv.org/abs/2405.09083)|**[link](https://github.com/jm-xiong/rshazediff)**|
@@ -1239,6 +1255,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-04**|**Deep Block Proximal Linearised Minimisation Algorithm for Non-convex Inverse Problems**|Chaoyan Huang et.al.|[2406.02458](http://arxiv.org/abs/2406.02458)|null|
+|**2024-06-02**|**Correlation Matching Transformation Transformers for UHD Image Restoration**|Cong Wang et.al.|[2406.00629](http://arxiv.org/abs/2406.00629)|**[link](https://github.com/supersupercong/uhdformer)**|
 |**2024-05-30**|**Sharing Key Semantics in Transformer Makes Efficient Image Restoration**|Bin Ren et.al.|[2405.20008](http://arxiv.org/abs/2405.20008)|null|
 |**2024-05-30**|**All-In-One Medical Image Restoration via Task-Adaptive Routing**|Zhiwen Yang et.al.|[2405.19769](http://arxiv.org/abs/2405.19769)|**[link](https://github.com/yaziwel/all-in-one-medical-image-restoration-via-task-adaptive-routing)**|
 |**2024-05-29**|**Blind Image Restoration via Fast Diffusion Inversion**|Hamadi Chihaoui et.al.|[2405.19572](http://arxiv.org/abs/2405.19572)|**[link](https://github.com/hamadichihaoui/BIRD)**|
@@ -1388,6 +1406,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-04**|**GeminiFusion: Efficient Pixel-wise Multimodal Fusion for Vision Transformer**|Ding Jia et.al.|[2406.01210](http://arxiv.org/abs/2406.01210)|**[link](https://github.com/jiadingcn/geminifusion)**|
+|**2024-06-03**|**S-CycleGAN: Semantic Segmentation Enhanced CT-Ultrasound Image-to-Image Translation for Robotic Ultrasonography**|Yuhan Song et.al.|[2406.01191](http://arxiv.org/abs/2406.01191)|null|
+|**2024-06-02**|**Stealing Image-to-Image Translation Models With a Single Query**|Nurit Spingarn-Eliezer et.al.|[2406.00828](http://arxiv.org/abs/2406.00828)|null|
 |**2024-05-28**|**CT-based brain ventricle segmentation via diffusion Schrödinger Bridge without target domain ground truths**|Reihaneh Teimouri et.al.|[2405.18267](http://arxiv.org/abs/2405.18267)|null|
 |**2024-05-27**|**PASTA: Pathology-Aware MRI to PET Cross-Modal Translation with Diffusion Models**|Yitong Li et.al.|[2405.16942](http://arxiv.org/abs/2405.16942)|**[link](https://github.com/ai-med/pasta)**|
 |**2024-05-24**|**Diversifying Human Pose in Synthetic Data for Aerial-view Human Detection**|Yi-Ting Shen et.al.|[2405.15939](http://arxiv.org/abs/2405.15939)|null|
