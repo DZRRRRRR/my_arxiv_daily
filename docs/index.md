@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-06**|**Physics3D: Learning Physical Properties of 3D Gaussians via Video Diffusion**|Fangfu Liu et.al.|[2406.04338](http://arxiv.org/abs/2406.04338)|null|
+|**2024-06-06**|**Coherent Zero-Shot Visual Instruction Generation**|Quynh Phung et.al.|[2406.04337](http://arxiv.org/abs/2406.04337)|null|
+|**2024-06-06**|**BitsFusion: 1.99 bits Weight Quantization of Diffusion Model**|Yang Sui et.al.|[2406.04333](http://arxiv.org/abs/2406.04333)|null|
+|**2024-06-06**|**Simplified and Generalized Masked Diffusion for Discrete Data**|Jiaxin Shi et.al.|[2406.04329](http://arxiv.org/abs/2406.04329)|null|
+|**2024-06-06**|**SF-V: Single Forward Video Generation Model**|Zhixing Zhang et.al.|[2406.04324](http://arxiv.org/abs/2406.04324)|null|
+|**2024-06-06**|**ATraDiff: Accelerating Online Reinforcement Learning with Imaginary Trajectories**|Qianlan Yang et.al.|[2406.04323](http://arxiv.org/abs/2406.04323)|null|
+|**2024-06-06**|**DIRECT-3D: Learning Direct Text-to-3D Generation on Massive Noisy 3D Data**|Qihao Liu et.al.|[2406.04322](http://arxiv.org/abs/2406.04322)|**[link](https://github.com/qihao067/direct3d)**|
+|**2024-06-06**|**Step-aware Preference Optimization: Aligning Preference with Denoising Performance at Each Step**|Zhanhao Liang et.al.|[2406.04314](http://arxiv.org/abs/2406.04314)|null|
+|**2024-06-06**|**Everything to the Synthetic: Diffusion-driven Test-time Adaptation via Synthetic-Domain Alignment**|Jiayi Guo et.al.|[2406.04295](http://arxiv.org/abs/2406.04295)|null|
+|**2024-06-06**|**VideoTetris: Towards Compositional Text-to-Video Generation**|Ye Tian et.al.|[2406.04277](http://arxiv.org/abs/2406.04277)|**[link](https://github.com/yangling0818/videotetris)**|
 |**2024-06-05**|**Text-to-Events: Synthetic Event Camera Streams from Conditional Text Input**|Joachim Ott et.al.|[2406.03439](http://arxiv.org/abs/2406.03439)|null|
 |**2024-06-05**|**Text-to-Image Rectified Flow as Plug-and-Play Priors**|Xiaofeng Yang et.al.|[2406.03293](http://arxiv.org/abs/2406.03293)|**[link](https://github.com/yangxiaofeng/rectified_flow_prior)**|
 |**2024-06-05**|**Generative Diffusion Models for Fast Simulations of Particle Collisions at CERN**|Mikołaj Kita et.al.|[2406.03233](http://arxiv.org/abs/2406.03233)|null|
@@ -1084,6 +1094,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-06**|**Conv-INR: Convolutional Implicit Neural Representation for Multimodal Visual Signals**|Zhicheng Cai et.al.|[2406.04249](http://arxiv.org/abs/2406.04249)|null|
+|**2024-06-06**|**Encoding Semantic Priors into the Weights of Implicit Neural Representation**|Zhicheng Cai et.al.|[2406.04178](http://arxiv.org/abs/2406.04178)|null|
+|**2024-06-06**|**C^2RV: Cross-Regional and Cross-View Learning for Sparse-View CBCT Reconstruction**|Yiqun Lin et.al.|[2406.03902](http://arxiv.org/abs/2406.03902)|null|
+|**2024-06-06**|**Quantum Implicit Neural Representations**|Jiaming Zhao et.al.|[2406.03873](http://arxiv.org/abs/2406.03873)|null|
 |**2024-06-04**|**ReLUs Are Sufficient for Learning Implicit Neural Representations**|Joseph Shenouda et.al.|[2406.02529](http://arxiv.org/abs/2406.02529)|**[link](https://github.com/joeshenouda/relu-inrs)**|
 |**2024-06-04**|**Image steganography based on generative implicit neural representation**|Zhong Yangjie et.al.|[2406.01918](http://arxiv.org/abs/2406.01918)|null|
 |**2024-06-01**|**Modeling Randomly Observed Spatiotemporal Dynamical Systems**|Valerii Iakovlev et.al.|[2406.00368](http://arxiv.org/abs/2406.00368)|null|
@@ -1265,6 +1279,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-06**|**Diffusion-based image inpainting with internal learning**|Nicolas Cherel et.al.|[2406.04206](http://arxiv.org/abs/2406.04206)|null|
 |**2024-06-04**|**Deep Block Proximal Linearised Minimisation Algorithm for Non-convex Inverse Problems**|Chaoyan Huang et.al.|[2406.02458](http://arxiv.org/abs/2406.02458)|null|
 |**2024-06-02**|**Correlation Matching Transformation Transformers for UHD Image Restoration**|Cong Wang et.al.|[2406.00629](http://arxiv.org/abs/2406.00629)|**[link](https://github.com/supersupercong/uhdformer)**|
 |**2024-05-30**|**Sharing Key Semantics in Transformer Makes Efficient Image Restoration**|Bin Ren et.al.|[2405.20008](http://arxiv.org/abs/2405.20008)|null|
@@ -1416,6 +1431,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-05**|**Npix2Cpix: A GAN-based Image-to-Image Translation Network with Retrieval-Classification Integration for Watermark Retrieval from Historical Document Images**|Utsab Saha et.al.|[2406.03556](http://arxiv.org/abs/2406.03556)|null|
 |**2024-06-04**|**GeminiFusion: Efficient Pixel-wise Multimodal Fusion for Vision Transformer**|Ding Jia et.al.|[2406.01210](http://arxiv.org/abs/2406.01210)|**[link](https://github.com/jiadingcn/geminifusion)**|
 |**2024-06-03**|**S-CycleGAN: Semantic Segmentation Enhanced CT-Ultrasound Image-to-Image Translation for Robotic Ultrasonography**|Yuhan Song et.al.|[2406.01191](http://arxiv.org/abs/2406.01191)|null|
 |**2024-06-02**|**Stealing Image-to-Image Translation Models With a Single Query**|Nurit Spingarn-Eliezer et.al.|[2406.00828](http://arxiv.org/abs/2406.00828)|null|
