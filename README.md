@@ -22,6 +22,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-07**|**CoNo: Consistency Noise Injection for Tuning-free Long Video Diffusion**|Xingrui Wang et.al.|[2406.05082](http://arxiv.org/abs/2406.05082)|null|
+|**2024-06-07**|**Generative diffusion models for synthetic trajectories of heavy and light particles in turbulence**|Tianyi Li et.al.|[2406.05008](http://arxiv.org/abs/2406.05008)|null|
+|**2024-06-07**|**Learning Divergence Fields for Shift-Robust Graph Representations**|Qitian Wu et.al.|[2406.04963](http://arxiv.org/abs/2406.04963)|**[link](https://github.com/fannie1208/glind)**|
+|**2024-06-07**|**Combinatorial Complex Score-based Diffusion Modelling through Stochastic Differential Equations**|Adrien Carrel et.al.|[2406.04916](http://arxiv.org/abs/2406.04916)|null|
+|**2024-06-07**|**Online Continual Learning of Video Diffusion Models From a Single Video Stream**|Jason Yoo et.al.|[2406.04814](http://arxiv.org/abs/2406.04814)|null|
+|**2024-06-07**|**TEDi Policy: Temporally Entangled Diffusion for Robotic Control**|Sigmund H. Høeg et.al.|[2406.04806](http://arxiv.org/abs/2406.04806)|null|
+|**2024-06-07**|**Diffusion-based Generative Image Outpainting for Recovery of FOV-Truncated CT Images**|Michelle Espranita Liman et.al.|[2406.04769](http://arxiv.org/abs/2406.04769)|null|
+|**2024-06-07**|**PQPP: A Joint Benchmark for Text-to-Image Prompt and Query Performance Prediction**|Eduard Poesina et.al.|[2406.04746](http://arxiv.org/abs/2406.04746)|**[link](https://github.com/eduard6421/pqpp)**|
+|**2024-06-07**|**FlowMM: Generating Materials with Riemannian Flow Matching**|Benjamin Kurt Miller et.al.|[2406.04713](http://arxiv.org/abs/2406.04713)|null|
+|**2024-06-07**|**MeLFusion: Synthesizing Music from Image and Language Cues using Diffusion Models**|Sanjoy Chowdhury et.al.|[2406.04673](http://arxiv.org/abs/2406.04673)|null|
 |**2024-06-07**|**Physics3D: Learning Physical Properties of 3D Gaussians via Video Diffusion**|Fangfu Liu et.al.|[2406.04338](http://arxiv.org/abs/2406.04338)|null|
 |**2024-06-06**|**Coherent Zero-Shot Visual Instruction Generation**|Quynh Phung et.al.|[2406.04337](http://arxiv.org/abs/2406.04337)|null|
 |**2024-06-06**|**BitsFusion: 1.99 bits Weight Quantization of Diffusion Model**|Yang Sui et.al.|[2406.04333](http://arxiv.org/abs/2406.04333)|**[link](https://github.com/huggingface/diffusers)**|
