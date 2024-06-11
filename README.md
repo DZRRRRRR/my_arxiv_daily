@@ -22,6 +22,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-10**|**IllumiNeRF: 3D Relighting without Inverse Rendering**|Xiaoming Zhao et.al.|[2406.06527](http://arxiv.org/abs/2406.06527)|null|
+|**2024-06-10**|**Autoregressive Model Beats Diffusion: Llama for Scalable Image Generation**|Peize Sun et.al.|[2406.06525](http://arxiv.org/abs/2406.06525)|**[link](https://github.com/foundationvision/llamagen)**|
+|**2024-06-10**|**Monkey See, Monkey Do: Harnessing Self-attention in Motion Diffusion for Zero-shot Motion Transfer**|Sigal Raab et.al.|[2406.06508](http://arxiv.org/abs/2406.06508)|**[link](https://github.com/monkeyseedocg/momo-code)**|
+|**2024-06-10**|**AID: Adapting Image2Video Diffusion Models for Instruction-guided Video Prediction**|Zhen Xing et.al.|[2406.06465](http://arxiv.org/abs/2406.06465)|null|
+|**2024-06-10**|**Cometh: A continuous-time discrete-state graph diffusion model**|Antoine Siraudin et.al.|[2406.06449](http://arxiv.org/abs/2406.06449)|null|
+|**2024-06-10**|**Margin-aware Preference Optimization for Aligning Diffusion Models without Reference**|Jiwoo Hong et.al.|[2406.06424](http://arxiv.org/abs/2406.06424)|null|
+|**2024-06-10**|**Diffusion-RPO: Aligning Diffusion Models through Relative Preference Optimization**|Yi Gu et.al.|[2406.06382](http://arxiv.org/abs/2406.06382)|**[link](https://github.com/yigu1008/diffusion-rpo)**|
+|**2024-06-10**|**Improving Deep Learning-based Automatic Cranial Defect Reconstruction by Heavy Data Augmentation: From Image Registration to Latent Diffusion Models**|Marek Wodzinski et.al.|[2406.06372](http://arxiv.org/abs/2406.06372)|null|
+|**2024-06-10**|**MVGamba: Unify 3D Content Generation as State Space Sequence Modeling**|Xuanyu Yi et.al.|[2406.06367](http://arxiv.org/abs/2406.06367)|null|
+|**2024-06-10**|**Tuning-Free Visual Customization via View Iterative Self-Attention Control**|Xiaojie Li et.al.|[2406.06258](http://arxiv.org/abs/2406.06258)|null|
 |**2024-06-07**|**CoNo: Consistency Noise Injection for Tuning-free Long Video Diffusion**|Xingrui Wang et.al.|[2406.05082](http://arxiv.org/abs/2406.05082)|null|
 |**2024-06-07**|**Generative diffusion models for synthetic trajectories of heavy and light particles in turbulence**|Tianyi Li et.al.|[2406.05008](http://arxiv.org/abs/2406.05008)|null|
 |**2024-06-07**|**Learning Divergence Fields for Shift-Robust Graph Representations**|Qitian Wu et.al.|[2406.04963](http://arxiv.org/abs/2406.04963)|**[link](https://github.com/fannie1208/glind)**|
@@ -1114,6 +1124,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-09**|**A Low Rank Neural Representation of Entropy Solutions**|Donsub Rim et.al.|[2406.05694](http://arxiv.org/abs/2406.05694)|null|
 |**2024-06-06**|**Conv-INR: Convolutional Implicit Neural Representation for Multimodal Visual Signals**|Zhicheng Cai et.al.|[2406.04249](http://arxiv.org/abs/2406.04249)|null|
 |**2024-06-06**|**Encoding Semantic Priors into the Weights of Implicit Neural Representation**|Zhicheng Cai et.al.|[2406.04178](http://arxiv.org/abs/2406.04178)|null|
 |**2024-06-06**|**C^2RV: Cross-Regional and Cross-View Learning for Sparse-View CBCT Reconstruction**|Yiqun Lin et.al.|[2406.03902](http://arxiv.org/abs/2406.03902)|**[link](https://github.com/xmed-lab/C2RV-CBCT)**|
@@ -1305,6 +1316,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-07**|**Optimal Eye Surgeon: Finding Image Priors through Sparse Generators at Initialization**|Avrajit Ghosh et.al.|[2406.05288](http://arxiv.org/abs/2406.05288)|**[link](https://github.com/avra98/optimal-eye-surgeon)**|
 |**2024-06-06**|**Diffusion-based image inpainting with internal learning**|Nicolas Cherel et.al.|[2406.04206](http://arxiv.org/abs/2406.04206)|null|
 |**2024-06-04**|**Deep Block Proximal Linearised Minimisation Algorithm for Non-convex Inverse Problems**|Chaoyan Huang et.al.|[2406.02458](http://arxiv.org/abs/2406.02458)|null|
 |**2024-06-02**|**Correlation Matching Transformation Transformers for UHD Image Restoration**|Cong Wang et.al.|[2406.00629](http://arxiv.org/abs/2406.00629)|**[link](https://github.com/supersupercong/uhdformer)**|
