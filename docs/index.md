@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.11
+## Updated on 2024.06.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
@@ -23,7 +23,7 @@ layout: default
 |**2024-06-10**|**Diffusion-RPO: Aligning Diffusion Models through Relative Preference Optimization**|Yi Gu et.al.|[2406.06382](http://arxiv.org/abs/2406.06382)|**[link](https://github.com/yigu1008/diffusion-rpo)**|
 |**2024-06-10**|**Improving Deep Learning-based Automatic Cranial Defect Reconstruction by Heavy Data Augmentation: From Image Registration to Latent Diffusion Models**|Marek Wodzinski et.al.|[2406.06372](http://arxiv.org/abs/2406.06372)|null|
 |**2024-06-10**|**MVGamba: Unify 3D Content Generation as State Space Sequence Modeling**|Xuanyu Yi et.al.|[2406.06367](http://arxiv.org/abs/2406.06367)|null|
-|**2024-06-10**|**Tuning-Free Visual Customization via View Iterative Self-Attention Control**|Xiaojie Li et.al.|[2406.06258](http://arxiv.org/abs/2406.06258)|null|
+|**2024-06-11**|**Tuning-Free Visual Customization via View Iterative Self-Attention Control**|Xiaojie Li et.al.|[2406.06258](http://arxiv.org/abs/2406.06258)|null|
 |**2024-06-07**|**CoNo: Consistency Noise Injection for Tuning-free Long Video Diffusion**|Xingrui Wang et.al.|[2406.05082](http://arxiv.org/abs/2406.05082)|null|
 |**2024-06-07**|**Generative diffusion models for synthetic trajectories of heavy and light particles in turbulence**|Tianyi Li et.al.|[2406.05008](http://arxiv.org/abs/2406.05008)|null|
 |**2024-06-07**|**Learning Divergence Fields for Shift-Robust Graph Representations**|Qitian Wu et.al.|[2406.04963](http://arxiv.org/abs/2406.04963)|**[link](https://github.com/fannie1208/glind)**|
@@ -1120,7 +1120,7 @@ layout: default
 |**2024-06-06**|**C^2RV: Cross-Regional and Cross-View Learning for Sparse-View CBCT Reconstruction**|Yiqun Lin et.al.|[2406.03902](http://arxiv.org/abs/2406.03902)|**[link](https://github.com/xmed-lab/C2RV-CBCT)**|
 |**2024-06-06**|**Quantum Implicit Neural Representations**|Jiaming Zhao et.al.|[2406.03873](http://arxiv.org/abs/2406.03873)|**[link](https://github.com/GGorMM1/QIREN)**|
 |**2024-06-04**|**ReLUs Are Sufficient for Learning Implicit Neural Representations**|Joseph Shenouda et.al.|[2406.02529](http://arxiv.org/abs/2406.02529)|**[link](https://github.com/joeshenouda/relu-inrs)**|
-|**2024-06-04**|**Image steganography based on generative implicit neural representation**|Zhong Yangjie et.al.|[2406.01918](http://arxiv.org/abs/2406.01918)|null|
+|**2024-06-04**|**Image steganography based on generative implicit neural representation**|Zhong Yangjie et.al.|[2406.01918](http://arxiv.org/abs/2406.01918)|**[link](https://github.com/twinlj77/GFNNS)**|
 |**2024-06-01**|**Modeling Randomly Observed Spatiotemporal Dynamical Systems**|Valerii Iakovlev et.al.|[2406.00368](http://arxiv.org/abs/2406.00368)|null|
 |**2024-05-31**|**ImplicitTerrain: a Continuous Surface Model for Terrain Data Analysis**|Haoan Feng et.al.|[2406.00227](http://arxiv.org/abs/2406.00227)|null|
 |**2024-05-31**|**MeshXL: Neural Coordinate Field for Generative 3D Foundation Models**|Sijin Chen et.al.|[2405.20853](http://arxiv.org/abs/2405.20853)|**[link](https://github.com/openmeshlab/meshxl)**|
