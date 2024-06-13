@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-12**|**Words Worth a Thousand Pictures: Measuring and Understanding Perceptual Variability in Text-to-Image Generation**|Raphael Tang et.al.|[2406.08482](http://arxiv.org/abs/2406.08482)|null|
+|**2024-06-12**|**Human 3Diffusion: Realistic Avatar Creation via Explicit 3D Consistent Diffusion Models**|Yuxuan Xue et.al.|[2406.08475](http://arxiv.org/abs/2406.08475)|null|
+|**2024-06-12**|**$\texttt{DiffLense}$ : A Conditional Diffusion Model for Super-Resolution of Gravitational Lensing Data**|Pranath Reddy et.al.|[2406.08442](http://arxiv.org/abs/2406.08442)|null|
+|**2024-06-12**|**Diffusion Soup: Model Merging for Text-to-Image Diffusion Models**|Benjamin Biggs et.al.|[2406.08431](http://arxiv.org/abs/2406.08431)|null|
+|**2024-06-12**|**FontStudio: Shape-Adaptive Diffusion Model for Coherent and Consistent Font Effect Generation**|Xinzhi Mu et.al.|[2406.08392](http://arxiv.org/abs/2406.08392)|null|
+|**2024-06-12**|**Diff-A-Riff: Musical Accompaniment Co-creation via Latent Diffusion Models**|Javier Nistal et.al.|[2406.08384](http://arxiv.org/abs/2406.08384)|null|
+|**2024-06-12**|**2.5D Multi-view Averaging Diffusion Model for 3D Medical Image Translation: Application to Low-count PET Reconstruction with CT-less Attenuation Correction**|Tianqi Chen et.al.|[2406.08374](http://arxiv.org/abs/2406.08374)|null|
+|**2024-06-12**|**WMAdapter: Adding WaterMark Control to Latent Diffusion Models**|Hai Ci et.al.|[2406.08337](http://arxiv.org/abs/2406.08337)|null|
+|**2024-06-12**|**Dataset Enhancement with Instance-Level Augmentations**|Orest Kupyn et.al.|[2406.08249](http://arxiv.org/abs/2406.08249)|null|
+|**2024-06-12**|**Diffusion-Promoted HDR Video Reconstruction**|Yuanshen Guan et.al.|[2406.08204](http://arxiv.org/abs/2406.08204)|null|
 |**2024-06-11**|**An Image is Worth 32 Tokens for Reconstruction and Generation**|Qihang Yu et.al.|[2406.07550](http://arxiv.org/abs/2406.07550)|null|
 |**2024-06-11**|**Ctrl-X: Controlling Structure and Appearance for Text-To-Image Generation Without Guidance**|Kuan Heng Lin et.al.|[2406.07540](http://arxiv.org/abs/2406.07540)|null|
 |**2024-06-11**|**Simple and Effective Masked Diffusion Language Models**|Subham Sekhar Sahoo et.al.|[2406.07524](http://arxiv.org/abs/2406.07524)|**[link](https://github.com/kuleshov-group/mdlm)**|
@@ -1275,6 +1285,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-12**|**Real-world Image Dehazing with Coherence-based Label Generator and Cooperative Unfolding Network**|Chengyu Fang et.al.|[2406.07966](http://arxiv.org/abs/2406.07966)|**[link](https://github.com/cnyvfang/corun-colabator)**|
 |**2024-06-02**|**Correlation Matching Transformation Transformers for UHD Image Restoration**|Cong Wang et.al.|[2406.00629](http://arxiv.org/abs/2406.00629)|**[link](https://github.com/supersupercong/uhdformer)**|
 |**2024-05-23**|**Rethinking the Elementary Function Fusion for Single-Image Dehazing**|Yesian Rohn et.al.|[2405.15817](http://arxiv.org/abs/2405.15817)|null|
 |**2024-05-16**|**RSDehamba: Lightweight Vision Mamba for Remote Sensing Satellite Image Dehazing**|Huiling Zhou et.al.|[2405.10030](http://arxiv.org/abs/2405.10030)|null|
@@ -1311,6 +1322,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-12**|**DDR: Exploiting Deep Degradation Response as Flexible Image Descriptor**|Juncheng Wu et.al.|[2406.08377](http://arxiv.org/abs/2406.08377)|null|
+|**2024-06-12**|**One-Step Effective Diffusion Network for Real-World Image Super-Resolution**|Rongyuan Wu et.al.|[2406.08177](http://arxiv.org/abs/2406.08177)|**[link](https://github.com/cswry/osediff)**|
+|**2024-06-12**|**3D CBCT Challenge 2024: Improved Cone Beam CT Reconstruction using SwinIR-Based Sinogram and Image Enhancement**|Sasidhar Alavala et.al.|[2406.08048](http://arxiv.org/abs/2406.08048)|null|
+|**2024-06-12**|**DemosaicFormer: Coarse-to-Fine Demosaicing Network for HybridEVS Camera**|Senyan Xu et.al.|[2406.07951](http://arxiv.org/abs/2406.07951)|**[link](https://github.com/queahren/demosaicformer)**|
 |**2024-06-11**|**Beware of Aliases -- Signal Preservation is Crucial for Robust Image Restoration**|Shashank Agnihotri et.al.|[2406.07435](http://arxiv.org/abs/2406.07435)|null|
 |**2024-06-11**|**Unleashing the Denoising Capability of Diffusion Prior for Solving Inverse Problems**|Jiawei Zhang et.al.|[2406.06959](http://arxiv.org/abs/2406.06959)|**[link](https://github.com/weigerzan/projdiff)**|
 |**2024-06-07**|**Optimal Eye Surgeon: Finding Image Priors through Sparse Generators at Initialization**|Avrajit Ghosh et.al.|[2406.05288](http://arxiv.org/abs/2406.05288)|**[link](https://github.com/avra98/optimal-eye-surgeon)**|
@@ -1466,6 +1481,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-12**|**2.5D Multi-view Averaging Diffusion Model for 3D Medical Image Translation: Application to Low-count PET Reconstruction with CT-less Attenuation Correction**|Tianqi Chen et.al.|[2406.08374](http://arxiv.org/abs/2406.08374)|null|
 |**2024-06-05**|**Npix2Cpix: A GAN-based Image-to-Image Translation Network with Retrieval-Classification Integration for Watermark Retrieval from Historical Document Images**|Utsab Saha et.al.|[2406.03556](http://arxiv.org/abs/2406.03556)|null|
 |**2024-06-04**|**GeminiFusion: Efficient Pixel-wise Multimodal Fusion for Vision Transformer**|Ding Jia et.al.|[2406.01210](http://arxiv.org/abs/2406.01210)|**[link](https://github.com/jiadingcn/geminifusion)**|
 |**2024-06-03**|**S-CycleGAN: Semantic Segmentation Enhanced CT-Ultrasound Image-to-Image Translation for Robotic Ultrasonography**|Yuhan Song et.al.|[2406.01191](http://arxiv.org/abs/2406.01191)|null|
