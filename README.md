@@ -22,6 +22,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-18**|**Evaluating the design space of diffusion-based generative models**|Yuqing Wang et.al.|[2406.12839](http://arxiv.org/abs/2406.12839)|null|
+|**2024-06-18**|**Neural Approximate Mirror Maps for Constrained Diffusion Models**|Berthy T. Feng et.al.|[2406.12816](http://arxiv.org/abs/2406.12816)|null|
+|**2024-06-18**|**Extracting Training Data from Unconditional Diffusion Models**|Yunhao Chen et.al.|[2406.12752](http://arxiv.org/abs/2406.12752)|null|
+|**2024-06-18**|**Speak in the Scene: Diffusion-based Acoustic Scene Transfer toward Immersive Speech Generation**|Miseul Kim et.al.|[2406.12688](http://arxiv.org/abs/2406.12688)|null|
+|**2024-06-18**|**GeoBench: Benchmarking and Analyzing Monocular Geometry Estimation Models**|Yongtao Ge et.al.|[2406.12671](http://arxiv.org/abs/2406.12671)|**[link](https://github.com/aim-uofa/geobench)**|
+|**2024-06-18**|**Unmasking the Veil: An Investigation into Concept Ablation for Privacy and Copyright Protection in Images**|Shivank Garg et.al.|[2406.12592](http://arxiv.org/abs/2406.12592)|**[link](https://github.com/vlgiitr/unmasking-the-veil)**|
+|**2024-06-18**|**Training Diffusion Models with Federated Learning**|Matthijs de Goede et.al.|[2406.12575](http://arxiv.org/abs/2406.12575)|null|
+|**2024-06-18**|**Variational Distillation of Diffusion Policies into Mixture of Experts**|Hongyi Zhou et.al.|[2406.12538](http://arxiv.org/abs/2406.12538)|null|
+|**2024-06-18**|**HumanSplat: Generalizable Single-Image Human Gaussian Splatting with Structure Priors**|Panwang Pan et.al.|[2406.12459](http://arxiv.org/abs/2406.12459)|**[link](https://github.com/humansplat/humansplat.github.io)**|
+|**2024-06-18**|**Planning Using Schrödinger Bridge Diffusion Models**|Adarsh Srivastava et.al.|[2406.12458](http://arxiv.org/abs/2406.12458)|**[link](https://github.com/adrshsrvstv/bridge_diffusion_planning)**|
 |**2024-06-17**|**Exploring the Role of Large Language Models in Prompt Encoding for Diffusion Models**|Bingqi Ma et.al.|[2406.11831](http://arxiv.org/abs/2406.11831)|null|
 |**2024-06-17**|**MegaScenes: Scene-Level View Synthesis at Scale**|Joseph Tung et.al.|[2406.11819](http://arxiv.org/abs/2406.11819)|null|
 |**2024-06-17**|**DiffMM: Multi-Modal Diffusion Model for Recommendation**|Yangqin Jiang et.al.|[2406.11781](http://arxiv.org/abs/2406.11781)|null|
@@ -1372,6 +1382,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-18**|**Restorer: Solving Multiple Image Restoration Tasks with One Set of Parameters**|Jiawei Mao et.al.|[2406.12587](http://arxiv.org/abs/2406.12587)|null|
 |**2024-06-13**|**DSL-FIQA: Assessing Facial Image Quality via Dual-Set Degradation Learning and Landmark-Guided Transformer**|Wei-Ting Chen et.al.|[2406.09622](http://arxiv.org/abs/2406.09622)|null|
 |**2024-06-13**|**Blind Super-Resolution via Meta-learning and Markov Chain Monte Carlo Simulation**|Jingyuan Xia et.al.|[2406.08896](http://arxiv.org/abs/2406.08896)|**[link](https://github.com/xylgroup/mlmc)**|
 |**2024-06-12**|**LayeredDoc: Domain Adaptive Document Restoration with a Layer Separation Approach**|Maria Pilligua et.al.|[2406.08610](http://arxiv.org/abs/2406.08610)|**[link](https://github.com/mpilligua/layereddoc)**|
