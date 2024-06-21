@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-20**|**A Survey of Multimodal-Guided Image Editing with Text-to-Image Diffusion Models**|Xincheng Shuai et.al.|[2406.14555](http://arxiv.org/abs/2406.14555)|**[link](https://github.com/xinchengshuai/awesome-image-editing)**|
+|**2024-06-20**|**Advancing Fine-Grained Classification by Structure and Subject Preserving Augmentation**|Eyal Michaeli et.al.|[2406.14551](http://arxiv.org/abs/2406.14551)|**[link](https://github.com/eyalmichaeli/saspa-aug)**|
+|**2024-06-20**|**Consistency Models Made Easy**|Zhengyang Geng et.al.|[2406.14548](http://arxiv.org/abs/2406.14548)|**[link](https://github.com/locuslab/ect)**|
+|**2024-06-20**|**Invertible Consistency Distillation for Text-Guided Image Editing in Around 7 Steps**|Nikita Starodubcev et.al.|[2406.14539](http://arxiv.org/abs/2406.14539)|null|
+|**2024-06-20**|**V-LASIK: Consistent Glasses-Removal from Videos Using Synthetic Data**|Rotem Shalev-Arkushin et.al.|[2406.14510](http://arxiv.org/abs/2406.14510)|null|
+|**2024-06-20**|**SafeSora: Towards Safety Alignment of Text2Video Generation via a Human Preference Dataset**|Josef Dai et.al.|[2406.14477](http://arxiv.org/abs/2406.14477)|**[link](https://github.com/pku-alignment/safe-sora)**|
+|**2024-06-20**|**CollaFuse: Collaborative Diffusion Models**|Simeon Allmendinger et.al.|[2406.14429](http://arxiv.org/abs/2406.14429)|**[link](https://github.com/simeonallmendinger/collafuse)**|
+|**2024-06-20**|**Active Diffusion Subsampling**|Oisin Nolan et.al.|[2406.14388](http://arxiv.org/abs/2406.14388)|null|
+|**2024-06-20**|**In Tree Structure Should Sentence Be Generated**|Yaguang Li et.al.|[2406.14189](http://arxiv.org/abs/2406.14189)|**[link](https://github.com/arklyg/sentree)**|
+|**2024-06-20**|**CriDiff: Criss-cross Injection Diffusion Framework via Generative Pre-train for Prostate Segmentation**|Tingwei Liu et.al.|[2406.14186](http://arxiv.org/abs/2406.14186)|null|
 |**2024-06-18**|**Evaluating the design space of diffusion-based generative models**|Yuqing Wang et.al.|[2406.12839](http://arxiv.org/abs/2406.12839)|null|
 |**2024-06-18**|**Neural Approximate Mirror Maps for Constrained Diffusion Models**|Berthy T. Feng et.al.|[2406.12816](http://arxiv.org/abs/2406.12816)|null|
 |**2024-06-18**|**Extracting Training Data from Unconditional Diffusion Models**|Yunhao Chen et.al.|[2406.12752](http://arxiv.org/abs/2406.12752)|null|
@@ -1174,6 +1184,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-19**|**INFusion: Diffusion Regularized Implicit Neural Representations for 2D and 3D accelerated MRI reconstruction**|Yamin Arefeen et.al.|[2406.13895](http://arxiv.org/abs/2406.13895)|null|
+|**2024-06-19**|**Enhance the Image: Super Resolution using Artificial Intelligence in MRI**|Ziyu Li et.al.|[2406.13625](http://arxiv.org/abs/2406.13625)|null|
 |**2024-06-13**|**CodedEvents: Optimal Point-Spread-Function Engineering for 3D-Tracking with Event Cameras**|Sachin Shah et.al.|[2406.09409](http://arxiv.org/abs/2406.09409)|null|
 |**2024-06-13**|**OpenMaterial: A Comprehensive Dataset of Complex Materials for 3D Reconstruction**|Zheng Dang et.al.|[2406.08894](http://arxiv.org/abs/2406.08894)|null|
 |**2024-06-13**|**Generalizable Implicit Neural Representation As a Universal Spatiotemporal Traffic Data Learner**|Tong Nie et.al.|[2406.08743](http://arxiv.org/abs/2406.08743)|null|
@@ -1366,6 +1378,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-19**|**Ultra-High-Definition Restoration: New Benchmarks and A Dual Interaction Prior-Driven Solution**|Liyan Wang et.al.|[2406.13607](http://arxiv.org/abs/2406.13607)|**[link](https://github.com/wlydlut/uhddip)**|
+|**2024-06-19**|**Diffusion Model-based FOD Restoration from High Distortion in dMRI**|Shuo Huang et.al.|[2406.13209](http://arxiv.org/abs/2406.13209)|null|
 |**2024-06-18**|**Restorer: Solving Multiple Image Restoration Tasks with One Set of Parameters**|Jiawei Mao et.al.|[2406.12587](http://arxiv.org/abs/2406.12587)|null|
 |**2024-06-13**|**DSL-FIQA: Assessing Facial Image Quality via Dual-Set Degradation Learning and Landmark-Guided Transformer**|Wei-Ting Chen et.al.|[2406.09622](http://arxiv.org/abs/2406.09622)|null|
 |**2024-06-13**|**Blind Super-Resolution via Meta-learning and Markov Chain Monte Carlo Simulation**|Jingyuan Xia et.al.|[2406.08896](http://arxiv.org/abs/2406.08896)|**[link](https://github.com/xylgroup/mlmc)**|
@@ -1529,6 +1543,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-20**|**Similarity-aware Syncretic Latent Diffusion Model for Medical Image Translation with Representation Learning**|Tingyi Lin et.al.|[2406.13977](http://arxiv.org/abs/2406.13977)|null|
 |**2024-06-17**|**PhyBench: A Physical Commonsense Benchmark for Evaluating Text-to-Image Models**|Fanqing Meng et.al.|[2406.11802](http://arxiv.org/abs/2406.11802)|**[link](https://github.com/opengvlab/phybench)**|
 |**2024-06-17**|**AnyTrans: Translate AnyText in the Image with Large Scale Models**|Zhipeng Qian et.al.|[2406.11432](http://arxiv.org/abs/2406.11432)|null|
 |**2024-06-13**|**Less Cybersickness, Please: Demystifying and Detecting Stereoscopic Visual Inconsistencies in VR Apps**|Shuqing Li et.al.|[2406.09313](http://arxiv.org/abs/2406.09313)|null|
