@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.26
+## Updated on 2024.06.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
@@ -1576,7 +1576,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-06-25**|**Scalp Diagnostic System With Label-Free Segmentation and Training-Free Image Translation**|Youngmin Kim et.al.|[2406.17254](http://arxiv.org/abs/2406.17254)|null|
+|**2024-06-26**|**Scalp Diagnostic System With Label-Free Segmentation and Training-Free Image Translation**|Youngmin Kim et.al.|[2406.17254](http://arxiv.org/abs/2406.17254)|**[link](https://github.com/winston1214/ScalpVision)**|
 |**2024-06-20**|**Regularized Distribution Matching Distillation for One-step Unpaired Image-to-Image Translation**|Denis Rakitin et.al.|[2406.14762](http://arxiv.org/abs/2406.14762)|null|
 |**2024-06-20**|**Similarity-aware Syncretic Latent Diffusion Model for Medical Image Translation with Representation Learning**|Tingyi Lin et.al.|[2406.13977](http://arxiv.org/abs/2406.13977)|null|
 |**2024-06-17**|**PhyBench: A Physical Commonsense Benchmark for Evaluating Text-to-Image Models**|Fanqing Meng et.al.|[2406.11802](http://arxiv.org/abs/2406.11802)|**[link](https://github.com/opengvlab/phybench)**|
