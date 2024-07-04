@@ -22,6 +22,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-03**|**DisCo-Diff: Enhancing Continuous Diffusion Models with Discrete Latents**|Yilun Xu et.al.|[2407.03300](http://arxiv.org/abs/2407.03300)|null|
+|**2024-07-03**|**Improved Noise Schedule for Diffusion Training**|Tiankai Hang et.al.|[2407.03297](http://arxiv.org/abs/2407.03297)|null|
+|**2024-07-03**|**Spatio-Temporal Adaptive Diffusion Models for EEG Super-Resolution in Epilepsy Diagnosis**|Tong Zhou et.al.|[2407.03089](http://arxiv.org/abs/2407.03089)|null|
+|**2024-07-03**|**Electromagnetic Property Sensing Based on Diffusion Model in ISAC System**|Yuhua Jiang et.al.|[2407.03075](http://arxiv.org/abs/2407.03075)|null|
+|**2024-07-03**|**Semantic-Aware Power Allocation for Generative Semantic Communications with Foundation Models**|Chunmei Xu et.al.|[2407.03050](http://arxiv.org/abs/2407.03050)|null|
+|**2024-07-03**|**SlerpFace: Face Template Protection via Spherical Linear Interpolation**|Zhizhou Zhong et.al.|[2407.03043](http://arxiv.org/abs/2407.03043)|null|
+|**2024-07-03**|**Frequency-Controlled Diffusion Model for Versatile Text-Guided Image-to-Image Translation**|Xiang Gao et.al.|[2407.03006](http://arxiv.org/abs/2407.03006)|**[link](https://github.com/xianggao1102/fcdiffusion)**|
+|**2024-07-03**|**VEGS: View Extrapolation of Urban Scenes in 3D Gaussian Splatting using Learned Priors**|Sungwon Hwang et.al.|[2407.02945](http://arxiv.org/abs/2407.02945)|null|
+|**2024-07-03**|**Single Image Rolling Shutter Removal with Diffusion Models**|Zhanglei Yang et.al.|[2407.02906](http://arxiv.org/abs/2407.02906)|null|
+|**2024-07-03**|**Robot Shape and Location Retention in Video Generation Using Diffusion Models**|Peng Wang et.al.|[2407.02873](http://arxiv.org/abs/2407.02873)|null|
 |**2024-07-02**|**Magic Insert: Style-Aware Drag-and-Drop**|Nataniel Ruiz et.al.|[2407.02489](http://arxiv.org/abs/2407.02489)|null|
 |**2024-07-02**|**Boosting Consistency in Story Visualization with Rich-Contextual Conditional Diffusion Models**|Fei Shen et.al.|[2407.02482](http://arxiv.org/abs/2407.02482)|null|
 |**2024-07-02**|**GlyphDraw2: Automatic Generation of Complex Glyph Posters with Diffusion Models and Large Language Models**|Jian Ma et.al.|[2407.02252](http://arxiv.org/abs/2407.02252)|**[link](https://github.com/oppo-mente-lab/glyphdraw2)**|
@@ -1261,6 +1271,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-03**|**IM-MoCo: Self-supervised MRI Motion Correction using Motion-Guided Implicit Neural Representations**|Ziad Al-Haj Hemidi et.al.|[2407.02974](http://arxiv.org/abs/2407.02974)|**[link](https://github.com/mdl-uzl/miccai24_immoco)**|
+|**2024-07-03**|**Highly Accelerated MRI via Implicit Neural Representation Guided Posterior Sampling of Diffusion Models**|Jiayue Chu et.al.|[2407.02744](http://arxiv.org/abs/2407.02744)|null|
 |**2024-07-03**|**BeNeRF: Neural Radiance Fields from a Single Blurry Image and Event Stream**|Wenpu Li et.al.|[2407.02174](http://arxiv.org/abs/2407.02174)|**[link](https://github.com/WU-CVGL/BeNeRF)**|
 |**2024-07-02**|**UltraPixel: Advancing Ultra-High-Resolution Image Synthesis to New Peaks**|Jingjing Ren et.al.|[2407.02158](http://arxiv.org/abs/2407.02158)|null|
 |**2024-07-01**|**Learning 3D Gaussians for Extremely Sparse-View Cone-Beam CT Reconstruction**|Yiqun Lin et.al.|[2407.01090](http://arxiv.org/abs/2407.01090)|**[link](https://github.com/xmed-lab/dif-gaussian)**|
@@ -1476,7 +1488,7 @@
 |**2024-07-01**|**DiffIR2VR-Zero: Zero-Shot Video Restoration with Diffusion-based Image Restoration Models**|Chang-Han Yeh et.al.|[2407.01519](http://arxiv.org/abs/2407.01519)|null|
 |**2024-07-01**|**Unrolling Plug-and-Play Gradient Graph Laplacian Regularizer for Image Restoration**|Jianghe Cai et.al.|[2407.01469](http://arxiv.org/abs/2407.01469)|null|
 |**2024-07-01**|**Blind Inversion using Latent Diffusion Priors**|Weimin Bai et.al.|[2407.01027](http://arxiv.org/abs/2407.01027)|null|
-|**2024-06-30**|**Instruct-IPT: All-in-One Image Processing Transformer via Weight Modulation**|Yuchuan Tian et.al.|[2407.00676](http://arxiv.org/abs/2407.00676)|null|
+|**2024-06-30**|**Instruct-IPT: All-in-One Image Processing Transformer via Weight Modulation**|Yuchuan Tian et.al.|[2407.00676](http://arxiv.org/abs/2407.00676)|**[link](https://github.com/huawei-noah/Pretrained-IPT)**|
 |**2024-06-27**|**Using diffusion model as constraint: Empower Image Restoration Network Training with Diffusion Model**|Jiangtong Tan et.al.|[2406.19030](http://arxiv.org/abs/2406.19030)|null|
 |**2024-06-26**|**Denoising as Adaptation: Noise-Space Domain Adaptation for Image Restoration**|Kang Liao et.al.|[2406.18516](http://arxiv.org/abs/2406.18516)|**[link](https://github.com/kangliao929/noise-da)**|
 |**2024-06-26**|**ConStyle v2: A Strong Prompter for All-in-One Image Restoration**|Dongqi Fan et.al.|[2406.18242](http://arxiv.org/abs/2406.18242)|**[link](https://github.com/Dongqi-Fan/ConStyle_v2)**|
@@ -1649,6 +1661,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-03**|**Frequency-Controlled Diffusion Model for Versatile Text-Guided Image-to-Image Translation**|Xiang Gao et.al.|[2407.03006](http://arxiv.org/abs/2407.03006)|**[link](https://github.com/xianggao1102/fcdiffusion)**|
 |**2024-07-02**|**Generative AI for Synthetic Data Across Multiple Medical Modalities: A Systematic Review of Recent Developments and Challenges**|Mahmoud Ibrahim et.al.|[2407.00116](http://arxiv.org/abs/2407.00116)|null|
 |**2024-06-27**|**Structural Attention: Rethinking Transformer for Unpaired Medical Image Synthesis**|Vu Minh Hieu Phan et.al.|[2406.18967](http://arxiv.org/abs/2406.18967)|**[link](https://github.com/hieuphan33/miccai2024-unest)**|
 |**2024-06-26**|**Repeat and Concatenate: 2D to 3D Image Translation with 3D to 3D Generative Modeling**|Abril Corona-Figueroa et.al.|[2406.18422](http://arxiv.org/abs/2406.18422)|**[link](https://github.com/abrilcf/3d-3d_repeat-concatenate)**|
