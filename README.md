@@ -22,6 +22,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-08**|**JeDi: Joint-Image Diffusion Models for Finetuning-Free Personalized Text-to-Image Generation**|Yu Zeng et.al.|[2407.06187](http://arxiv.org/abs/2407.06187)|null|
+|**2024-07-08**|**The Tug-of-War Between Deepfake Generation and Detection**|Hannah Lee et.al.|[2407.06174](http://arxiv.org/abs/2407.06174)|null|
+|**2024-07-08**|**ANOLE: An Open, Autoregressive, Native Large Multimodal Models for Interleaved Image-Text Generation**|Ethan Chern et.al.|[2407.06135](http://arxiv.org/abs/2407.06135)|**[link](https://github.com/gair-nlp/anole)**|
+|**2024-07-08**|**Structured Generations: Using Hierarchical Clusters to guide Diffusion Models**|Jorge da Silva Goncalves et.al.|[2407.06124](http://arxiv.org/abs/2407.06124)|null|
+|**2024-07-08**|**PerlDiff: Controllable Street View Synthesis Using Perspective-Layout Diffusion Models**|Jinhua Zhang et.al.|[2407.06109](http://arxiv.org/abs/2407.06109)|**[link](https://github.com/labshuhanggu/perldiff)**|
+|**2024-07-08**|**Accelerating Diffusion for SAR-to-Optical Image Translation via Adversarial Consistency Distillation**|Xinyu Bai et.al.|[2407.06095](http://arxiv.org/abs/2407.06095)|null|
+|**2024-07-08**|**Layered Diffusion Model for One-Shot High Resolution Text-to-Image Synthesis**|Emaad Khwaja et.al.|[2407.06079](http://arxiv.org/abs/2407.06079)|null|
+|**2024-07-08**|**Analysis and finite element approximation of a diffuse interface approach to the Stokes--Biot coupling**|Francis R. A. Aznaran et.al.|[2407.05949](http://arxiv.org/abs/2407.05949)|null|
+|**2024-07-08**|**Minutes to Seconds: Speeded-up DDPM-based Image Inpainting with Coarse-to-Fine Sampling**|Lintao Zhang et.al.|[2407.05875](http://arxiv.org/abs/2407.05875)|**[link](https://github.com/linghuyuhangyuan/m2s)**|
+|**2024-07-08**|**RadiomicsFill-Mammo: Synthetic Mammogram Mass Manipulation with Radiomics Features**|Inye Na et.al.|[2407.05683](http://arxiv.org/abs/2407.05683)|**[link](https://github.com/nainye/radiomicsfill)**|
 |**2024-07-05**|**Structural Constraint Integration in Generative Model for Discovery of Quantum Material Candidates**|Ryotaro Okabe et.al.|[2407.04557](http://arxiv.org/abs/2407.04557)|null|
 |**2024-07-05**|**Unified continuous-time q-learning for mean-field game and mean-field control problems**|Xiaoli Wei et.al.|[2407.04521](http://arxiv.org/abs/2407.04521)|null|
 |**2024-07-08**|**Speed-accuracy trade-off for the diffusion models: Wisdom from nonequilibrium thermodynamics and optimal transport**|Kotaro Ikeda et.al.|[2407.04495](http://arxiv.org/abs/2407.04495)|null|
@@ -1281,6 +1291,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-08**|**LINEAR: Learning Implicit Neural Representation With Explicit Physical Priors for Accelerated Quantitative T1rho Mapping**|Yuanyuan Liu et.al.|[2407.05617](http://arxiv.org/abs/2407.05617)|null|
 |**2024-07-03**|**IM-MoCo: Self-supervised MRI Motion Correction using Motion-Guided Implicit Neural Representations**|Ziad Al-Haj Hemidi et.al.|[2407.02974](http://arxiv.org/abs/2407.02974)|**[link](https://github.com/mdl-uzl/miccai24_immoco)**|
 |**2024-07-03**|**Highly Accelerated MRI via Implicit Neural Representation Guided Posterior Sampling of Diffusion Models**|Jiayue Chu et.al.|[2407.02744](http://arxiv.org/abs/2407.02744)|null|
 |**2024-07-03**|**BeNeRF: Neural Radiance Fields from a Single Blurry Image and Event Stream**|Wenpu Li et.al.|[2407.02174](http://arxiv.org/abs/2407.02174)|**[link](https://github.com/WU-CVGL/BeNeRF)**|
@@ -1450,6 +1461,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-24**|**DehazeDCT: Towards Effective Non-Homogeneous Dehazing via Deformable Convolutional Transformer**|Wei Dong et.al.|[2407.05169](http://arxiv.org/abs/2407.05169)|null|
 |**2024-07-01**|**FALCON: Frequency Adjoint Link with CONtinuous Density Mask for Fast Single Image Dehazing**|Donghyun Kim et.al.|[2407.00972](http://arxiv.org/abs/2407.00972)|null|
 |**2024-06-28**|**Vision Transformer with Key-select Routing Attention for Single Image Dehazing**|Lihan Tong et.al.|[2406.19703](http://arxiv.org/abs/2406.19703)|null|
 |**2024-06-13**|**RobustSAM: Segment Anything Robustly on Degraded Images**|Wei-Ting Chen et.al.|[2406.09627](http://arxiv.org/abs/2406.09627)|null|
@@ -1492,6 +1504,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-07**|**Multi-scale Conditional Generative Modeling for Microscopic Image Restoration**|Luzhe Huang et.al.|[2407.05259](http://arxiv.org/abs/2407.05259)|null|
+|**2024-07-06**|**Robust Skin Color Driven Privacy Preserving Face Recognition via Function Secret Sharing**|Dong Han et.al.|[2407.05045](http://arxiv.org/abs/2407.05045)|null|
 |**2024-07-05**|**On a nonlinear nonlocal reaction-diffusion system applied to image restoration**|Yuhang Li et.al.|[2407.04347](http://arxiv.org/abs/2407.04347)|null|
 |**2024-07-04**|**Diff-Restorer: Unleashing Visual Prompts for Diffusion-based Universal Image Restoration**|Yuhong Zhang et.al.|[2407.03636](http://arxiv.org/abs/2407.03636)|null|
 |**2024-07-04**|**MRIR: Integrating Multimodal Insights for Diffusion-based Realistic Image Restoration**|Yuhong Zhang et.al.|[2407.03635](http://arxiv.org/abs/2407.03635)|null|
@@ -1674,6 +1688,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-08**|**Accelerating Diffusion for SAR-to-Optical Image Translation via Adversarial Consistency Distillation**|Xinyu Bai et.al.|[2407.06095](http://arxiv.org/abs/2407.06095)|null|
+|**2024-07-06**|**A Domain Adaptation Model for Carotid Ultrasound: Image Harmonization, Noise Reduction, and Impact on Cardiovascular Risk Markers**|Mohd Usama et.al.|[2407.05163](http://arxiv.org/abs/2407.05163)|null|
+|**2024-07-06**|**Slice-Consistent 3D Volumetric Brain CT-to-MRI Translation with 2D Brownian Bridge Diffusion Model**|Kyobin Choo et.al.|[2407.05059](http://arxiv.org/abs/2407.05059)|null|
 |**2024-07-05**|**Every Pixel Has its Moments: Ultra-High-Resolution Unpaired Image-to-Image Translation via Dense Normalization**|Ming-Yang Ho et.al.|[2407.04245](http://arxiv.org/abs/2407.04245)|null|
 |**2024-07-03**|**Frequency-Controlled Diffusion Model for Versatile Text-Guided Image-to-Image Translation**|Xiang Gao et.al.|[2407.03006](http://arxiv.org/abs/2407.03006)|**[link](https://github.com/xianggao1102/fcdiffusion)**|
 |**2024-07-02**|**Generative AI for Synthetic Data Across Multiple Medical Modalities: A Systematic Review of Recent Developments and Challenges**|Mahmoud Ibrahim et.al.|[2407.00116](http://arxiv.org/abs/2407.00116)|null|
