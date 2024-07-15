@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.14
+## Updated on 2024.07.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
@@ -1311,7 +1311,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-07-11**|**Neural Poisson Solver: A Universal and Continuous Framework for Natural Signal Blending**|Delong Wu et.al.|[2407.08457](http://arxiv.org/abs/2407.08457)|null|
+|**2024-07-12**|**Neural Poisson Solver: A Universal and Continuous Framework for Natural Signal Blending**|Delong Wu et.al.|[2407.08457](http://arxiv.org/abs/2407.08457)|null|
 |**2024-07-09**|**PDEformer-1: A Foundation Model for One-Dimensional Partial Differential Equations**|Zhanhong Ye et.al.|[2407.06664](http://arxiv.org/abs/2407.06664)|null|
 |**2024-07-09**|**Implicit Regression in Subspace for High-Sensitivity CEST Imaging**|Chu Chen et.al.|[2407.06614](http://arxiv.org/abs/2407.06614)|null|
 |**2024-07-08**|**LINEAR: Learning Implicit Neural Representation With Explicit Physical Priors for Accelerated Quantitative T1rho Mapping**|Yuanyuan Liu et.al.|[2407.05617](http://arxiv.org/abs/2407.05617)|null|
