@@ -22,6 +22,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-12**|**Any-Property-Conditional Molecule Generation with Self-Criticism using Spanning Trees**|Alexia Jolicoeur-Martineau et.al.|[2407.09357](http://arxiv.org/abs/2407.09357)|null|
+|**2024-07-12**|**PID: Physics-Informed Diffusion Model for Infrared Image Generation**|Fangyuan Mao et.al.|[2407.09299](http://arxiv.org/abs/2407.09299)|**[link](https://github.com/fangyuanmao/pid)**|
+|**2024-07-12**|**Salt & Pepper Heatmaps: Diffusion-informed Landmark Detection Strategy**|Julian Wyatt et.al.|[2407.09192](http://arxiv.org/abs/2407.09192)|null|
+|**2024-07-12**|**Aligning Diffusion Behaviors with Q-functions for Efficient Continuous Control**|Huayu Chen et.al.|[2407.09024](http://arxiv.org/abs/2407.09024)|null|
+|**2024-07-12**|**TCAN: Animating Human Images with Temporally Consistent Pose Guidance using Diffusion Models**|Jeongho Kim et.al.|[2407.09012](http://arxiv.org/abs/2407.09012)|null|
+|**2024-07-12**|**Your Diffusion Model is Secretly a Noise Classifier and Benefits from Contrastive Training**|Yunshu Wu et.al.|[2407.08946](http://arxiv.org/abs/2407.08946)|null|
+|**2024-07-12**|**Bora: Biomedical Generalist Video Generation Model**|Weixiang Sun et.al.|[2407.08944](http://arxiv.org/abs/2407.08944)|null|
+|**2024-07-12**|**LightenDiffusion: Unsupervised Low-Light Image Enhancement with Latent-Retinex Diffusion Models**|Hai Jiang et.al.|[2407.08939](http://arxiv.org/abs/2407.08939)|**[link](https://github.com/jianghaiscu/lightendiffusion)**|
+|**2024-07-12**|**Multi-objective Aerial Collaborative Secure Communication Optimization via Generative Diffusion Model-enabled Deep Reinforcement Learning**|Chuang Zhang et.al.|[2407.08914](http://arxiv.org/abs/2407.08914)|null|
+|**2024-07-12**|**AirSketch: Generative Motion to Sketch**|Hui Xian Grace Lim et.al.|[2407.08906](http://arxiv.org/abs/2407.08906)|null|
 |**2024-07-11**|**Video Diffusion Alignment via Reward Gradients**|Mihir Prabhudesai et.al.|[2407.08737](http://arxiv.org/abs/2407.08737)|**[link](https://github.com/mihirp1998/vader)**|
 |**2024-07-11**|**Live2Diff: Live Stream Translation via Uni-directional Attention in Video Diffusion Models**|Zhening Xing et.al.|[2407.08701](http://arxiv.org/abs/2407.08701)|null|
 |**2024-07-11**|**Controlling the Fidelity and Diversity of Deep Generative Models via Pseudo Density**|Shuangqi Li et.al.|[2407.08659](http://arxiv.org/abs/2407.08659)|null|
@@ -1537,6 +1547,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-12**|**Region Attention Transformer for Medical Image Restoration**|Zhiwen Yang et.al.|[2407.09268](http://arxiv.org/abs/2407.09268)|**[link](https://github.com/yaziwel/region-attention-transformer-for-medical-image-restoration)**|
+|**2024-07-12**|**Exploring Richer and More Accurate Information via Frequency Selection for Image Restoration**|Hu Gao et.al.|[2407.08950](http://arxiv.org/abs/2407.08950)|null|
+|**2024-07-11**|**Single-Image Shadow Removal Using Deep Learning: A Comprehensive Survey**|Laniqng Guo et.al.|[2407.08865](http://arxiv.org/abs/2407.08865)|null|
 |**2024-07-11**|**Haar Nuclear Norms with Applications to Remote Sensing Imagery Restoration**|Shuang Xu et.al.|[2407.08509](http://arxiv.org/abs/2407.08509)|null|
 |**2024-07-10**|**Aging-Resistant Wideband Precoding in 5G and Beyond Using 3D Convolutional Neural Networks**|Alejandro Villena-Rodriguez et.al.|[2407.07434](http://arxiv.org/abs/2407.07434)|null|
 |**2024-07-10**|**Asymmetric Mask Scheme for Self-Supervised Real Image Denoising**|Xiangyu Liao et.al.|[2407.06514](http://arxiv.org/abs/2407.06514)|**[link](https://github.com/lll143653/amsnet)**|
@@ -1724,6 +1737,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-12**|**PID: Physics-Informed Diffusion Model for Infrared Image Generation**|Fangyuan Mao et.al.|[2407.09299](http://arxiv.org/abs/2407.09299)|**[link](https://github.com/fangyuanmao/pid)**|
 |**2024-07-10**|**Synthetic to Authentic: Transferring Realism to 3D Face Renderings for Boosting Face Recognition**|Parsa Rahimi et.al.|[2407.07627](http://arxiv.org/abs/2407.07627)|null|
 |**2024-07-10**|**Trustworthy Contrast-enhanced Brain MRI Synthesis**|Jiyao Liu et.al.|[2407.07372](http://arxiv.org/abs/2407.07372)|null|
 |**2024-07-08**|**Accelerating Diffusion for SAR-to-Optical Image Translation via Adversarial Consistency Distillation**|Xinyu Bai et.al.|[2407.06095](http://arxiv.org/abs/2407.06095)|null|
