@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-15**|**Make-An-Agent: A Generalizable Policy Network Generator with Behavior-Prompted Diffusion**|Yongyuan Liang et.al.|[2407.10973](http://arxiv.org/abs/2407.10973)|null|
+|**2024-07-15**|**InVi: Object Insertion In Videos Using Off-the-Shelf Diffusion Models**|Nirat Saini et.al.|[2407.10958](http://arxiv.org/abs/2407.10958)|null|
+|**2024-07-15**|**DataDream: Few-shot Guided Dataset Generation**|Jae Myung Kim et.al.|[2407.10910](http://arxiv.org/abs/2407.10910)|**[link](https://github.com/explainableml/datadream)**|
+|**2024-07-15**|**Optical Diffusion Models for Image Generation**|Ilker Oguz et.al.|[2407.10897](http://arxiv.org/abs/2407.10897)|null|
+|**2024-07-15**|**R3D-AD: Reconstruction via Diffusion for 3D Anomaly Detection**|Zheyuan Zhou et.al.|[2407.10862](http://arxiv.org/abs/2407.10862)|null|
+|**2024-07-15**|**Physics-Inspired Generative Models in Medical Imaging: A Review**|Dennis Hein et.al.|[2407.10856](http://arxiv.org/abs/2407.10856)|null|
+|**2024-07-15**|**Conditional Guided Generative Diffusion for Particle Accelerator Beam Diagnostics**|Alexander Scheinker et.al.|[2407.10693](http://arxiv.org/abs/2407.10693)|null|
+|**2024-07-15**|**Addressing Image Hallucination in Text-to-Image Generation through Factual Image Retrieval**|Youngsun Lim et.al.|[2407.10683](http://arxiv.org/abs/2407.10683)|null|
+|**2024-07-15**|**Temporal Residual Guided Diffusion Framework for Event-Driven Video Reconstruction**|Lin Zhu et.al.|[2407.10636](http://arxiv.org/abs/2407.10636)|null|
+|**2024-07-15**|**WildVidFit: Video Virtual Try-On in the Wild via Image-Based Controlled Diffusion Models**|Zijian He et.al.|[2407.10625](http://arxiv.org/abs/2407.10625)|null|
 |**2024-07-12**|**Any-Property-Conditional Molecule Generation with Self-Criticism using Spanning Trees**|Alexia Jolicoeur-Martineau et.al.|[2407.09357](http://arxiv.org/abs/2407.09357)|null|
 |**2024-07-12**|**PID: Physics-Informed Diffusion Model for Infrared Image Generation**|Fangyuan Mao et.al.|[2407.09299](http://arxiv.org/abs/2407.09299)|**[link](https://github.com/fangyuanmao/pid)**|
 |**2024-07-12**|**Salt & Pepper Heatmaps: Diffusion-informed Landmark Detection Strategy**|Julian Wyatt et.al.|[2407.09192](http://arxiv.org/abs/2407.09192)|null|
@@ -1490,6 +1500,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-14**|**Addressing Domain Discrepancy: A Dual-branch Collaborative Model to Unsupervised Dehazing**|Shuaibin Fan et.al.|[2407.10226](http://arxiv.org/abs/2407.10226)|**[link](https://github.com/fan-pixel/dcm-dehaze)**|
+|**2024-07-13**|**Prototype Clustered Diffusion Models for Versatile Inverse Problems**|Jinghao Zhang et.al.|[2407.09768](http://arxiv.org/abs/2407.09768)|null|
 |**2024-05-24**|**DehazeDCT: Towards Effective Non-Homogeneous Dehazing via Deformable Convolutional Transformer**|Wei Dong et.al.|[2407.05169](http://arxiv.org/abs/2407.05169)|null|
 |**2024-07-01**|**FALCON: Frequency Adjoint Link with CONtinuous Density Mask for Fast Single Image Dehazing**|Donghyun Kim et.al.|[2407.00972](http://arxiv.org/abs/2407.00972)|null|
 |**2024-06-28**|**Vision Transformer with Key-select Routing Attention for Single Image Dehazing**|Lihan Tong et.al.|[2406.19703](http://arxiv.org/abs/2406.19703)|null|
@@ -1531,8 +1543,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-15**|**In-Loop Filtering via Trained Look-Up Tables**|Zhuoyuan Li et.al.|[2407.10926](http://arxiv.org/abs/2407.10926)|null|
+|**2024-07-15**|**MoE-DiffIR: Task-customized Diffusion Priors for Universal Compressed Image Restoration**|Yulin Ren et.al.|[2407.10833](http://arxiv.org/abs/2407.10833)|null|
+|**2024-07-14**|**Restoring Images in Adverse Weather Conditions via Histogram Transformer**|Shangquan Sun et.al.|[2407.10172](http://arxiv.org/abs/2407.10172)|null|
 |**2024-07-12**|**Region Attention Transformer for Medical Image Restoration**|Zhiwen Yang et.al.|[2407.09268](http://arxiv.org/abs/2407.09268)|**[link](https://github.com/yaziwel/region-attention-transformer-for-medical-image-restoration)**|
-|**2024-07-12**|**Exploring Richer and More Accurate Information via Frequency Selection for Image Restoration**|Hu Gao et.al.|[2407.08950](http://arxiv.org/abs/2407.08950)|null|
+|**2024-07-12**|**Exploring Richer and More Accurate Information via Frequency Selection for Image Restoration**|Hu Gao et.al.|[2407.08950](http://arxiv.org/abs/2407.08950)|**[link](https://github.com/Tombs98/MSFSNet_)**|
 |**2024-07-11**|**Single-Image Shadow Removal Using Deep Learning: A Comprehensive Survey**|Laniqng Guo et.al.|[2407.08865](http://arxiv.org/abs/2407.08865)|null|
 |**2024-07-11**|**Haar Nuclear Norms with Applications to Remote Sensing Imagery Restoration**|Shuang Xu et.al.|[2407.08509](http://arxiv.org/abs/2407.08509)|null|
 |**2024-07-10**|**Aging-Resistant Wideband Precoding in 5G and Beyond Using 3D Convolutional Neural Networks**|Alejandro Villena-Rodriguez et.al.|[2407.07434](http://arxiv.org/abs/2407.07434)|null|
@@ -1719,6 +1734,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-15**|**When Synthetic Traces Hide Real Content: Analysis of Stable Diffusion Image Laundering**|Sara Mandelli et.al.|[2407.10736](http://arxiv.org/abs/2407.10736)|null|
 |**2024-07-12**|**PID: Physics-Informed Diffusion Model for Infrared Image Generation**|Fangyuan Mao et.al.|[2407.09299](http://arxiv.org/abs/2407.09299)|**[link](https://github.com/fangyuanmao/pid)**|
 |**2024-07-10**|**Synthetic to Authentic: Transferring Realism to 3D Face Renderings for Boosting Face Recognition**|Parsa Rahimi et.al.|[2407.07627](http://arxiv.org/abs/2407.07627)|null|
 |**2024-07-10**|**Trustworthy Contrast-enhanced Brain MRI Synthesis**|Jiyao Liu et.al.|[2407.07372](http://arxiv.org/abs/2407.07372)|null|
