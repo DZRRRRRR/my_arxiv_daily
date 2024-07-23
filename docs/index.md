@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.22
+## Updated on 2024.07.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
@@ -1593,7 +1593,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-07-18**|**Any Image Restoration with Efficient Automatic Degradation Adaptation**|Bin Ren et.al.|[2407.13372](http://arxiv.org/abs/2407.13372)|**[link](https://github.com/Amazingren/AnyIR)**|
 |**2024-07-18**|**Training-Free Large Model Priors for Multiple-in-One Image Restoration**|Xuanhua He et.al.|[2407.13181](http://arxiv.org/abs/2407.13181)|null|
-|**2024-07-18**|**HPPP: Halpern-type Preconditioned Proximal Point Algorithms and Applications to Image Restoration**|Shuchang Zhang et.al.|[2407.13120](http://arxiv.org/abs/2407.13120)|null|
+|**2024-07-21**|**HPPP: Halpern-type Preconditioned Proximal Point Algorithms and Applications to Image Restoration**|Shuchang Zhang et.al.|[2407.13120](http://arxiv.org/abs/2407.13120)|null|
 |**2024-07-17**|**GRIDS: Grouped Multiple-Degradation Restoration with Image Degradation Similarity**|Shuo Cao et.al.|[2407.12273](http://arxiv.org/abs/2407.12273)|null|
 |**2024-07-16**|**Haze-Aware Attention Network for Single-Image Dehazing**|Lihan Tong et.al.|[2407.11505](http://arxiv.org/abs/2407.11505)|null|
 |**2024-07-14**|**Restore-RWKV: Efficient and Effective Medical Image Restoration with RWKV**|Zhiwen Yang et.al.|[2407.11087](http://arxiv.org/abs/2407.11087)|**[link](https://github.com/yaziwel/restore-rwkv)**|
