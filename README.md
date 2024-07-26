@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.25
+## Updated on 2024.07.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -24,7 +24,7 @@
 |---|---|---|---|---|
 |**2024-07-24**|**SV4D: Dynamic 3D Content Generation with Multi-Frame and Multi-View Consistency**|Yiming Xie et.al.|[2407.17470](http://arxiv.org/abs/2407.17470)|null|
 |**2024-07-24**|**CDDIP: Constrained Diffusion-Driven Deep Image Prior for Seismic Image Reconstruction**|Paul Goyes-Peñafiel et.al.|[2407.17402](http://arxiv.org/abs/2407.17402)|null|
-|**2024-07-24**|**LPGen: Enhancing High-Fidelity Landscape Painting Generation through Diffusion Model**|Wanggong Yang et.al.|[2407.17229](http://arxiv.org/abs/2407.17229)|null|
+|**2024-07-25**|**LPGen: Enhancing High-Fidelity Landscape Painting Generation through Diffusion Model**|Wanggong Yang et.al.|[2407.17229](http://arxiv.org/abs/2407.17229)|null|
 |**2024-07-24**|**Unpaired Photo-realistic Image Deraining with Energy-informed Diffusion Model**|Yuanbo Wen et.al.|[2407.17193](http://arxiv.org/abs/2407.17193)|null|
 |**2024-07-24**|**MemBench: Memorized Image Trigger Prompt Dataset for Diffusion Models**|Chunsan Hong et.al.|[2407.17095](http://arxiv.org/abs/2407.17095)|null|
 |**2024-07-24**|**Sparse Inducing Points in Deep Gaussian Processes: Enhancing Modeling with Denoising Diffusion Variational Inference**|Jian Xu et.al.|[2407.17033](http://arxiv.org/abs/2407.17033)|null|
@@ -1404,7 +1404,7 @@
 |**2023-12-16**|**Image Restoration Through Generalized Ornstein-Uhlenbeck Bridge**|Conghan Yue et.al.|[2312.10299](http://arxiv.org/abs/2312.10299)|**[link](https://github.com/Hammour-steak/GOUB)**|
 |**2023-12-15**|**Two simple criterion to prove the existence of patterns in reaction-diffusion models of two components**|Francisco J. Vielma-Leal et.al.|[2312.10231](http://arxiv.org/abs/2312.10231)|null|
 
-<p align=right>(<a href=#updated-on-20240725>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240726>back to top</a>)</p>
 
 ## Implicit
 
@@ -1571,7 +1571,7 @@
 |**2023-12-07**|**Hiding Functions within Functions: Steganography by Implicit Neural Representations**|Jia Liu et.al.|[2312.04743](http://arxiv.org/abs/2312.04743)|null|
 |**2023-12-07**|**ImFace++: A Sophisticated Nonlinear 3D Morphable Face Model with Implicit Neural Representations**|Mingwu Zheng et.al.|[2312.04028](http://arxiv.org/abs/2312.04028)|**[link](https://github.com/mingwuzheng/imface)**|
 
-<p align=right>(<a href=#updated-on-20240725>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240726>back to top</a>)</p>
 
 ## UnderWater
 
@@ -1585,14 +1585,14 @@
 |**2022-04-06**|**Medium Transmission Map Matters for Learning to Restore Real-World Underwater Images**|Yan Kai et.al.|[2203.09414](http://arxiv.org/abs/2203.09414)|**[link](https://github.com/groupg-yk/mtur-net)**|
 |**2019-03-06**|**Real-world Underwater Enhancement: Challenges, Benchmarks, and Solutions**|Risheng Liu et.al.|[1901.05320](http://arxiv.org/abs/1901.05320)|**[link](https://github.com/dlut-dimt/Realworld-Underwater-Image-Enhancement-RUIE-Benchmark)**|
 
-<p align=right>(<a href=#updated-on-20240725>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240726>back to top</a>)</p>
 
 ## image_dehaze
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-07-20**|**Dual High-Order Total Variation Model for Underwater Image Restoration**|Yuemei Li et.al.|[2407.14868](http://arxiv.org/abs/2407.14868)|**[link](https://github.com/hou-guojia/udhtv)**|
-|**2024-07-20**|**CrossDehaze: Scaling Up Image Dehazing with Cross-Data Vision Alignment and Augmentation**|Yukai Shi et.al.|[2407.14823](http://arxiv.org/abs/2407.14823)|null|
+|**2024-07-20**|**CrossDehaze: Scaling Up Image Dehazing with Cross-Data Vision Alignment and Augmentation**|Yukai Shi et.al.|[2407.14823](http://arxiv.org/abs/2407.14823)|**[link](https://github.com/wengzp1/scaleupdehazing)**|
 |**2024-07-18**|**HazeCLIP: Towards Language Guided Real-World Image Dehazing**|Ruiyi Wang et.al.|[2407.13719](http://arxiv.org/abs/2407.13719)|**[link](https://github.com/Troivyn/HazeCLIP)**|
 |**2024-07-16**|**Haze-Aware Attention Network for Single-Image Dehazing**|Lihan Tong et.al.|[2407.11505](http://arxiv.org/abs/2407.11505)|null|
 |**2024-07-14**|**Addressing Domain Discrepancy: A Dual-branch Collaborative Model to Unsupervised Dehazing**|Shuaibin Fan et.al.|[2407.10226](http://arxiv.org/abs/2407.10226)|**[link](https://github.com/fan-pixel/dcm-dehaze)**|
@@ -1634,7 +1634,7 @@
 |**2023-08-14**|**Mutual Information-driven Triple Interaction Network for Efficient Image Dehazing**|Hao Shen et.al.|[2308.06998](http://arxiv.org/abs/2308.06998)|**[link](https://github.com/it-hao/mitnet)**|
 |**2023-08-01**|**Decomposition Ascribed Synergistic Learning for Unified Image Restoration**|Jinghao Zhang et.al.|[2308.00759](http://arxiv.org/abs/2308.00759)|null|
 
-<p align=right>(<a href=#updated-on-20240725>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240726>back to top</a>)</p>
 
 ## Restoration
 
@@ -1837,7 +1837,7 @@
 |**2023-12-12**|**WaterHE-NeRF: Water-ray Tracing Neural Radiance Fields for Underwater Scene Reconstruction**|Jingchun Zhou et.al.|[2312.06946](http://arxiv.org/abs/2312.06946)|null|
 |**2023-12-11**|**Textual Prompt Guided Image Restoration**|Qiuhai Yan et.al.|[2312.06162](http://arxiv.org/abs/2312.06162)|**[link](https://github.com/motong-ai-studio/textpromptir)**|
 
-<p align=right>(<a href=#updated-on-20240725>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240726>back to top</a>)</p>
 
 ## Image_Translation
 
@@ -1849,7 +1849,7 @@
 |**2024-07-16**|**Efficient Training with Denoised Neural Weights**|Yifan Gong et.al.|[2407.11966](http://arxiv.org/abs/2407.11966)|null|
 |**2024-07-16**|**Novel Hybrid Integrated Pix2Pix and WGAN Model with Gradient Penalty for Binary Images Denoising**|Luca Tirel et.al.|[2407.11865](http://arxiv.org/abs/2407.11865)|**[link](https://github.com/lucatirel/pix2pix-wgangp)**|
 |**2024-07-16**|**Magnetogram-to-Magnetogram: Generative Forecasting of Solar Evolution**|Francesco Pio Ramunno et.al.|[2407.11659](http://arxiv.org/abs/2407.11659)|**[link](https://github.com/fpramunno/MAG2MAG)**|
-|**2024-07-16**|**CCVA-FL: Cross-Client Variations Adaptive Federated Learning for Medical Imaging**|Sunny Gupta et.al.|[2407.11652](http://arxiv.org/abs/2407.11652)|null|
+|**2024-07-25**|**CCVA-FL: Cross-Client Variations Adaptive Federated Learning for Medical Imaging**|Sunny Gupta et.al.|[2407.11652](http://arxiv.org/abs/2407.11652)|null|
 |**2024-07-17**|**DD_RoTIR: Dual-Domain Image Registration via Image Translation and Hierarchical Feature-matching**|Ruixiong Wang et.al.|[2407.11223](http://arxiv.org/abs/2407.11223)|null|
 |**2024-07-15**|**When Synthetic Traces Hide Real Content: Analysis of Stable Diffusion Image Laundering**|Sara Mandelli et.al.|[2407.10736](http://arxiv.org/abs/2407.10736)|null|
 |**2024-07-12**|**PID: Physics-Informed Diffusion Model for Infrared Image Generation**|Fangyuan Mao et.al.|[2407.09299](http://arxiv.org/abs/2407.09299)|**[link](https://github.com/fangyuanmao/pid)**|
@@ -1986,7 +1986,7 @@
 |**2023-11-30**|**S2ST: Image-to-Image Translation in the Seed Space of Latent Diffusion**|Or Greenberg et.al.|[2312.00116](http://arxiv.org/abs/2312.00116)|null|
 |**2023-11-30**|**Towards Unsupervised Representation Learning: Learning, Evaluating and Transferring Visual Representations**|Bonifaz Stuhr et.al.|[2312.00101](http://arxiv.org/abs/2312.00101)|**[link](https://github.com/bonifazstuhr/feamgan)**|
 
-<p align=right>(<a href=#updated-on-20240725>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240726>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

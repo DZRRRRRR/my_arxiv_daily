@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.25
+## Updated on 2024.07.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
@@ -16,7 +16,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-07-24**|**SV4D: Dynamic 3D Content Generation with Multi-Frame and Multi-View Consistency**|Yiming Xie et.al.|[2407.17470](http://arxiv.org/abs/2407.17470)|null|
 |**2024-07-24**|**CDDIP: Constrained Diffusion-Driven Deep Image Prior for Seismic Image Reconstruction**|Paul Goyes-Peñafiel et.al.|[2407.17402](http://arxiv.org/abs/2407.17402)|null|
-|**2024-07-24**|**LPGen: Enhancing High-Fidelity Landscape Painting Generation through Diffusion Model**|Wanggong Yang et.al.|[2407.17229](http://arxiv.org/abs/2407.17229)|null|
+|**2024-07-25**|**LPGen: Enhancing High-Fidelity Landscape Painting Generation through Diffusion Model**|Wanggong Yang et.al.|[2407.17229](http://arxiv.org/abs/2407.17229)|null|
 |**2024-07-24**|**Unpaired Photo-realistic Image Deraining with Energy-informed Diffusion Model**|Yuanbo Wen et.al.|[2407.17193](http://arxiv.org/abs/2407.17193)|null|
 |**2024-07-24**|**MemBench: Memorized Image Trigger Prompt Dataset for Diffusion Models**|Chunsan Hong et.al.|[2407.17095](http://arxiv.org/abs/2407.17095)|null|
 |**2024-07-24**|**Sparse Inducing Points in Deep Gaussian Processes: Enhancing Modeling with Denoising Diffusion Variational Inference**|Jian Xu et.al.|[2407.17033](http://arxiv.org/abs/2407.17033)|null|
@@ -1578,7 +1578,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-07-20**|**Dual High-Order Total Variation Model for Underwater Image Restoration**|Yuemei Li et.al.|[2407.14868](http://arxiv.org/abs/2407.14868)|**[link](https://github.com/hou-guojia/udhtv)**|
-|**2024-07-20**|**CrossDehaze: Scaling Up Image Dehazing with Cross-Data Vision Alignment and Augmentation**|Yukai Shi et.al.|[2407.14823](http://arxiv.org/abs/2407.14823)|null|
+|**2024-07-20**|**CrossDehaze: Scaling Up Image Dehazing with Cross-Data Vision Alignment and Augmentation**|Yukai Shi et.al.|[2407.14823](http://arxiv.org/abs/2407.14823)|**[link](https://github.com/wengzp1/scaleupdehazing)**|
 |**2024-07-18**|**HazeCLIP: Towards Language Guided Real-World Image Dehazing**|Ruiyi Wang et.al.|[2407.13719](http://arxiv.org/abs/2407.13719)|**[link](https://github.com/Troivyn/HazeCLIP)**|
 |**2024-07-16**|**Haze-Aware Attention Network for Single-Image Dehazing**|Lihan Tong et.al.|[2407.11505](http://arxiv.org/abs/2407.11505)|null|
 |**2024-07-14**|**Addressing Domain Discrepancy: A Dual-branch Collaborative Model to Unsupervised Dehazing**|Shuaibin Fan et.al.|[2407.10226](http://arxiv.org/abs/2407.10226)|**[link](https://github.com/fan-pixel/dcm-dehaze)**|
@@ -1831,7 +1831,7 @@ layout: default
 |**2024-07-16**|**Efficient Training with Denoised Neural Weights**|Yifan Gong et.al.|[2407.11966](http://arxiv.org/abs/2407.11966)|null|
 |**2024-07-16**|**Novel Hybrid Integrated Pix2Pix and WGAN Model with Gradient Penalty for Binary Images Denoising**|Luca Tirel et.al.|[2407.11865](http://arxiv.org/abs/2407.11865)|**[link](https://github.com/lucatirel/pix2pix-wgangp)**|
 |**2024-07-16**|**Magnetogram-to-Magnetogram: Generative Forecasting of Solar Evolution**|Francesco Pio Ramunno et.al.|[2407.11659](http://arxiv.org/abs/2407.11659)|**[link](https://github.com/fpramunno/MAG2MAG)**|
-|**2024-07-16**|**CCVA-FL: Cross-Client Variations Adaptive Federated Learning for Medical Imaging**|Sunny Gupta et.al.|[2407.11652](http://arxiv.org/abs/2407.11652)|null|
+|**2024-07-25**|**CCVA-FL: Cross-Client Variations Adaptive Federated Learning for Medical Imaging**|Sunny Gupta et.al.|[2407.11652](http://arxiv.org/abs/2407.11652)|null|
 |**2024-07-17**|**DD_RoTIR: Dual-Domain Image Registration via Image Translation and Hierarchical Feature-matching**|Ruixiong Wang et.al.|[2407.11223](http://arxiv.org/abs/2407.11223)|null|
 |**2024-07-15**|**When Synthetic Traces Hide Real Content: Analysis of Stable Diffusion Image Laundering**|Sara Mandelli et.al.|[2407.10736](http://arxiv.org/abs/2407.10736)|null|
 |**2024-07-12**|**PID: Physics-Informed Diffusion Model for Infrared Image Generation**|Fangyuan Mao et.al.|[2407.09299](http://arxiv.org/abs/2407.09299)|**[link](https://github.com/fangyuanmao/pid)**|
