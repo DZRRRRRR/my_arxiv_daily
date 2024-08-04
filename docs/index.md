@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-01**|**Optimizing Diffusion Models for Joint Trajectory Prediction and Controllable Generation**|Yixiao Wang et.al.|[2408.00766](http://arxiv.org/abs/2408.00766)|null|
+|**2024-08-01**|**Smoothed Energy Guidance: Guiding Diffusion Models with Reduced Energy Curvature of Attention**|Susung Hong et.al.|[2408.00760](http://arxiv.org/abs/2408.00760)|null|
+|**2024-08-01**|**TurboEdit: Text-Based Image Editing Using Few-Step Diffusion Models**|Gilad Deutch et.al.|[2408.00735](http://arxiv.org/abs/2408.00735)|null|
+|**2024-08-01**|**MotionFix: Text-Driven 3D Human Motion Editing**|Nikos Athanasiou et.al.|[2408.00712](http://arxiv.org/abs/2408.00712)|null|
+|**2024-08-01**|**Evaluation Metrics and Methods for Generative Models in the Wireless PHY Layer**|Michael Baur et.al.|[2408.00634](http://arxiv.org/abs/2408.00634)|null|
+|**2024-08-01**|**Illustrating Classic Brazilian Books using a Text-To-Image Diffusion Model**|Felipe Mahlow et.al.|[2408.00544](http://arxiv.org/abs/2408.00544)|null|
+|**2024-08-01**|**Towards Reliable Advertising Image Generation Using Human Feedback**|Zhenbang Du et.al.|[2408.00418](http://arxiv.org/abs/2408.00418)|null|
+|**2024-08-01**|**Deepfake Media Forensics: State of the Art and Challenges Ahead**|Irene Amerini et.al.|[2408.00388](http://arxiv.org/abs/2408.00388)|null|
+|**2024-08-01**|**On the Limitations and Prospects of Machine Unlearning for Generative AI**|Shiji Zhou et.al.|[2408.00376](http://arxiv.org/abs/2408.00376)|null|
+|**2024-08-01**|**DiM-Gesture: Co-Speech Gesture Generation with Adaptive Layer Normalization Mamba-2 framework**|Fan Zhang et.al.|[2408.00370](http://arxiv.org/abs/2408.00370)|null|
 |**2024-07-31**|**Detecting, Explaining, and Mitigating Memorization in Diffusion Models**|Yuxin Wen et.al.|[2407.21720](http://arxiv.org/abs/2407.21720)|null|
 |**2024-07-31**|**Tora: Trajectory-oriented Diffusion Transformer for Video Generation**|Zhenghao Zhang et.al.|[2407.21705](http://arxiv.org/abs/2407.21705)|null|
 |**2024-07-31**|**Generative Diffusion Model for Seismic Imaging Improvement of Sparsely Acquired Data and Uncertainty Quantification**|Xingchen Shi et.al.|[2407.21683](http://arxiv.org/abs/2407.21683)|null|
@@ -1680,6 +1690,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-01**|**A Prior Embedding-Driven Architecture for Long Distance Blind Iris Recognition**|Qi Xiong et.al.|[2408.00210](http://arxiv.org/abs/2408.00210)|null|
 |**2024-07-30**|**UniProcessor: A Text-induced Unified Low-level Image Processor**|Huiyu Duan et.al.|[2407.20928](http://arxiv.org/abs/2407.20928)|**[link](https://github.com/intmegroup/uniprocessor)**|
 |**2024-07-27**|**Inverse Problems with Diffusion Models: A MAP Estimation Perspective**|Sai bharath chandra Gutha et.al.|[2407.20784](http://arxiv.org/abs/2407.20784)|null|
 |**2024-07-27**|**Multi-Expert Adaptive Selection: Task-Balancing for All-in-One Image Restoration**|Xiaoyan Yu et.al.|[2407.19139](http://arxiv.org/abs/2407.19139)|null|
