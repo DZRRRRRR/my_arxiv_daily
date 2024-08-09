@@ -22,6 +22,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-08**|**Puppet-Master: Scaling Interactive Video Generation as a Motion Prior for Part-Level Dynamics**|Ruining Li et.al.|[2408.04631](http://arxiv.org/abs/2408.04631)|null|
+|**2024-08-08**|**Sketch2Scene: Automatic Generation of Interactive 3D Game Scenes from User's Casual Sketches**|Yongzhi Xu et.al.|[2408.04567](http://arxiv.org/abs/2408.04567)|null|
+|**2024-08-08**|**Deep Generative Models in Robotics: A Survey on Learning from Multimodal Demonstrations**|Julen Urain et.al.|[2408.04380](http://arxiv.org/abs/2408.04380)|null|
+|**2024-08-08**|**InstantStyleGaussian: Efficient Art Style Transfer with 3D Gaussian Splatting**|Xin-Yi Yu et.al.|[2408.04249](http://arxiv.org/abs/2408.04249)|null|
+|**2024-08-08**|**LLDif: Diffusion Models for Low-light Emotion Recognition**|Zhifeng Wang et.al.|[2408.04235](http://arxiv.org/abs/2408.04235)|null|
+|**2024-08-08**|**Connective Viewpoints of Signal-to-Noise Diffusion Models**|Khanh Doan et.al.|[2408.04221](http://arxiv.org/abs/2408.04221)|null|
+|**2024-08-08**|**Diffusion Guided Language Modeling**|Justin Lovelace et.al.|[2408.04220](http://arxiv.org/abs/2408.04220)|**[link](https://github.com/justinlovelace/diffusion-guided-lm)**|
 |**2024-08-07**|**Data Generation Scheme for Thermal Modality with Edge-Guided Adversarial Conditional Diffusion Model**|Guoqing Zhu et.al.|[2408.03748](http://arxiv.org/abs/2408.03748)|**[link](https://github.com/lengmo1996/ECDM)**|
 |**2024-08-07**|**Unsupervised Detection of Fetal Brain Anomalies using Denoising Diffusion Models**|Markus Ditlev Sjøgren Olsen et.al.|[2408.03654](http://arxiv.org/abs/2408.03654)|null|
 |**2024-08-07**|**TALE: Training-free Cross-domain Image Composition via Adaptive Latent Manipulation and Energy-guided Optimization**|Kien T. Pham et.al.|[2408.03637](http://arxiv.org/abs/2408.03637)|null|
@@ -1744,6 +1751,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-08**|**Physical prior guided cooperative learning framework for joint turbulence degradation estimation and infrared video restoration**|Ziran Zhang et.al.|[2408.04227](http://arxiv.org/abs/2408.04227)|null|
+|**2024-08-08**|**MultiColor: Image Colorization by Learning from Multiple Color Spaces**|Xiangcheng Du et.al.|[2408.04172](http://arxiv.org/abs/2408.04172)|null|
 |**2024-08-05**|**Multi-weather Cross-view Geo-localization Using Denoising Diffusion Models**|Tongtong Feng et.al.|[2408.02408](http://arxiv.org/abs/2408.02408)|null|
 |**2024-08-02**|**Contribution-based Low-Rank Adaptation with Pre-training Model for Real Image Restoration**|Donwon Park et.al.|[2408.01099](http://arxiv.org/abs/2408.01099)|null|
 |**2024-08-01**|**A Prior Embedding-Driven Architecture for Long Distance Blind Iris Recognition**|Qi Xiong et.al.|[2408.00210](http://arxiv.org/abs/2408.00210)|null|
@@ -1956,6 +1965,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-07**|**The Quest for Early Detection of Retinal Disease: 3D CycleGAN-based Translation of Optical Coherence Tomography into Confocal Microscopy**|Xin Tian et.al.|[2408.04091](http://arxiv.org/abs/2408.04091)|null|
 |**2024-08-07**|**CLIP-based Point Cloud Classification via Point Cloud to Image Translation**|Shuvozit Ghose et.al.|[2408.03545](http://arxiv.org/abs/2408.03545)|null|
 |**2024-08-06**|**Static IR Drop Prediction with Attention U-Net and Saliency-Based Explainability**|Lizi Zhang et.al.|[2408.03292](http://arxiv.org/abs/2408.03292)|null|
 |**2024-08-04**|**Decision Support System to triage of liver trauma**|Ali Jamali et.al.|[2408.02012](http://arxiv.org/abs/2408.02012)|null|
