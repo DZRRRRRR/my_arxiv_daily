@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.20
+## Updated on 2024.08.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -1564,7 +1564,7 @@
 |**2023-12-16**|**Image Restoration Through Generalized Ornstein-Uhlenbeck Bridge**|Conghan Yue et.al.|[2312.10299](http://arxiv.org/abs/2312.10299)|**[link](https://github.com/Hammour-steak/GOUB)**|
 |**2023-12-15**|**Two simple criterion to prove the existence of patterns in reaction-diffusion models of two components**|Francisco J. Vielma-Leal et.al.|[2312.10231](http://arxiv.org/abs/2312.10231)|null|
 
-<p align=right>(<a href=#updated-on-20240820>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240821>back to top</a>)</p>
 
 ## Implicit
 
@@ -1575,7 +1575,7 @@
 |**2024-08-12**|**Implicit Neural Representation For Accurate CFD Flow Field Prediction**|Laurent de Vito et.al.|[2408.06486](http://arxiv.org/abs/2408.06486)|null|
 |**2024-08-12**|**Uncertainty-Informed Volume Visualization using Implicit Neural Representation**|Shanu Saklani et.al.|[2408.06018](http://arxiv.org/abs/2408.06018)|null|
 |**2024-08-10**|**Residual-INR: Communication Efficient On-Device Learning Using Implicit Neural Representation**|Hanqiu Chen et.al.|[2408.05617](http://arxiv.org/abs/2408.05617)|**[link](https://github.com/sharc-lab/residual-inr)**|
-|**2024-08-10**|**Scene123: One Prompt to 3D Scene Generation via Video-Assisted and Consistency-Enhanced MAE**|Yiying Yang et.al.|[2408.05477](http://arxiv.org/abs/2408.05477)|null|
+|**2024-08-20**|**Scene123: One Prompt to 3D Scene Generation via Video-Assisted and Consistency-Enhanced MAE**|Yiying Yang et.al.|[2408.05477](http://arxiv.org/abs/2408.05477)|null|
 |**2024-08-09**|**EclipseNETs: a differentiable description of irregular eclipse conditions**|Giacomo Acciarini et.al.|[2408.05387](http://arxiv.org/abs/2408.05387)|null|
 |**2024-08-07**|**PHOCUS: Physics-Based Deconvolution for Ultrasound Resolution Enhancement**|Felix Duelmer et.al.|[2408.03657](http://arxiv.org/abs/2408.03657)|null|
 |**2024-08-06**|**Fast Point Cloud Geometry Compression with Context-based Residual Coding and INR-based Refinement**|Hao Xu et.al.|[2408.02966](http://arxiv.org/abs/2408.02966)|null|
@@ -1751,7 +1751,7 @@
 |**2023-12-07**|**Hiding Functions within Functions: Steganography by Implicit Neural Representations**|Jia Liu et.al.|[2312.04743](http://arxiv.org/abs/2312.04743)|null|
 |**2023-12-07**|**ImFace++: A Sophisticated Nonlinear 3D Morphable Face Model with Implicit Neural Representations**|Mingwu Zheng et.al.|[2312.04028](http://arxiv.org/abs/2312.04028)|**[link](https://github.com/mingwuzheng/imface)**|
 
-<p align=right>(<a href=#updated-on-20240820>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240821>back to top</a>)</p>
 
 ## UnderWater
 
@@ -1765,7 +1765,7 @@
 |**2022-04-06**|**Medium Transmission Map Matters for Learning to Restore Real-World Underwater Images**|Yan Kai et.al.|[2203.09414](http://arxiv.org/abs/2203.09414)|**[link](https://github.com/groupg-yk/mtur-net)**|
 |**2019-03-06**|**Real-world Underwater Enhancement: Challenges, Benchmarks, and Solutions**|Risheng Liu et.al.|[1901.05320](http://arxiv.org/abs/1901.05320)|**[link](https://github.com/dlut-dimt/Realworld-Underwater-Image-Enhancement-RUIE-Benchmark)**|
 
-<p align=right>(<a href=#updated-on-20240820>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240821>back to top</a>)</p>
 
 ## image_dehaze
 
@@ -1815,7 +1815,7 @@
 |**2023-08-14**|**Mutual Information-driven Triple Interaction Network for Efficient Image Dehazing**|Hao Shen et.al.|[2308.06998](http://arxiv.org/abs/2308.06998)|**[link](https://github.com/it-hao/mitnet)**|
 |**2023-08-01**|**Decomposition Ascribed Synergistic Learning for Unified Image Restoration**|Jinghao Zhang et.al.|[2308.00759](http://arxiv.org/abs/2308.00759)|null|
 
-<p align=right>(<a href=#updated-on-20240820>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240821>back to top</a>)</p>
 
 ## Restoration
 
@@ -2037,7 +2037,7 @@
 |**2023-12-12**|**WaterHE-NeRF: Water-ray Tracing Neural Radiance Fields for Underwater Scene Reconstruction**|Jingchun Zhou et.al.|[2312.06946](http://arxiv.org/abs/2312.06946)|null|
 |**2023-12-11**|**Textual Prompt Guided Image Restoration**|Qiuhai Yan et.al.|[2312.06162](http://arxiv.org/abs/2312.06162)|**[link](https://github.com/motong-ai-studio/textpromptir)**|
 
-<p align=right>(<a href=#updated-on-20240820>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240821>back to top</a>)</p>
 
 ## Image_Translation
 
@@ -2046,11 +2046,11 @@
 |**2024-08-19**|**Structure-preserving Image Translation for Depth Estimation in Colonoscopy Video**|Shuxian Wang et.al.|[2408.10153](http://arxiv.org/abs/2408.10153)|null|
 |**2024-08-19**|**Fashion Image-to-Image Translation for Complementary Item Retrieval**|Matteo Attimonelli et.al.|[2408.09847](http://arxiv.org/abs/2408.09847)|null|
 |**2024-08-19**|**SurgicaL-CD: Generating Surgical Images via Unpaired Image Translation with Latent Consistency Diffusion Models**|Danush Kumar Venkatesh et.al.|[2408.09822](http://arxiv.org/abs/2408.09822)|null|
-|**2024-08-17**|**A Fast and Computationally Inexpensive Method For Image Translation of 3D Volume Patient Data**|Cho Yang et.al.|[2408.09218](http://arxiv.org/abs/2408.09218)|null|
+|**2024-08-20**|**A Fast and Computationally Inexpensive Method For Image Translation of 3D Volume Patient Data**|Cho Yang et.al.|[2408.09218](http://arxiv.org/abs/2408.09218)|null|
 |**2024-08-16**|**Image Class Translation Distance: A Novel Interpretable Feature for Image Classification**|Mikyla K. Bowen et.al.|[2408.08973](http://arxiv.org/abs/2408.08973)|null|
 |**2024-08-16**|**Efficient Image-to-Image Diffusion Classifier for Adversarial Robustness**|Hefei Mei et.al.|[2408.08502](http://arxiv.org/abs/2408.08502)|**[link](https://github.com/hfmei/idc)**|
 |**2024-08-15**|**The Dawn of KAN in Image-to-Image (I2I) Translation: Integrating Kolmogorov-Arnold Networks with GANs for Unpaired I2I Translation**|Arpan Mahara et.al.|[2408.08216](http://arxiv.org/abs/2408.08216)|null|
-|**2024-08-15**|**Conditional Brownian Bridge Diffusion Model for VHR SAR to Optical Image Translation**|Seon-Hoon Kim et.al.|[2408.07947](http://arxiv.org/abs/2408.07947)|null|
+|**2024-08-20**|**Conditional Brownian Bridge Diffusion Model for VHR SAR to Optical Image Translation**|Seon-Hoon Kim et.al.|[2408.07947](http://arxiv.org/abs/2408.07947)|null|
 |**2024-08-12**|**An Analysis for Image-to-Image Translation and Style Transfer**|Xiaoming Yu et.al.|[2408.06000](http://arxiv.org/abs/2408.06000)|null|
 |**2024-08-11**|**Seg-CycleGAN : SAR-to-optical image translation guided by a downstream task**|Hannuo Zhang et.al.|[2408.05777](http://arxiv.org/abs/2408.05777)|null|
 |**2024-08-07**|**The Quest for Early Detection of Retinal Disease: 3D CycleGAN-based Translation of Optical Coherence Tomography into Confocal Microscopy**|Xin Tian et.al.|[2408.04091](http://arxiv.org/abs/2408.04091)|null|
@@ -2205,7 +2205,7 @@
 |**2023-11-30**|**S2ST: Image-to-Image Translation in the Seed Space of Latent Diffusion**|Or Greenberg et.al.|[2312.00116](http://arxiv.org/abs/2312.00116)|null|
 |**2023-11-30**|**Towards Unsupervised Representation Learning: Learning, Evaluating and Transferring Visual Representations**|Bonifaz Stuhr et.al.|[2312.00101](http://arxiv.org/abs/2312.00101)|**[link](https://github.com/bonifazstuhr/feamgan)**|
 
-<p align=right>(<a href=#updated-on-20240820>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240821>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

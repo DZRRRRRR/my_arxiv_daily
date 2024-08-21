@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.20
+## Updated on 2024.08.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
@@ -1565,7 +1565,7 @@ layout: default
 |**2024-08-12**|**Implicit Neural Representation For Accurate CFD Flow Field Prediction**|Laurent de Vito et.al.|[2408.06486](http://arxiv.org/abs/2408.06486)|null|
 |**2024-08-12**|**Uncertainty-Informed Volume Visualization using Implicit Neural Representation**|Shanu Saklani et.al.|[2408.06018](http://arxiv.org/abs/2408.06018)|null|
 |**2024-08-10**|**Residual-INR: Communication Efficient On-Device Learning Using Implicit Neural Representation**|Hanqiu Chen et.al.|[2408.05617](http://arxiv.org/abs/2408.05617)|**[link](https://github.com/sharc-lab/residual-inr)**|
-|**2024-08-10**|**Scene123: One Prompt to 3D Scene Generation via Video-Assisted and Consistency-Enhanced MAE**|Yiying Yang et.al.|[2408.05477](http://arxiv.org/abs/2408.05477)|null|
+|**2024-08-20**|**Scene123: One Prompt to 3D Scene Generation via Video-Assisted and Consistency-Enhanced MAE**|Yiying Yang et.al.|[2408.05477](http://arxiv.org/abs/2408.05477)|null|
 |**2024-08-09**|**EclipseNETs: a differentiable description of irregular eclipse conditions**|Giacomo Acciarini et.al.|[2408.05387](http://arxiv.org/abs/2408.05387)|null|
 |**2024-08-07**|**PHOCUS: Physics-Based Deconvolution for Ultrasound Resolution Enhancement**|Felix Duelmer et.al.|[2408.03657](http://arxiv.org/abs/2408.03657)|null|
 |**2024-08-06**|**Fast Point Cloud Geometry Compression with Context-based Residual Coding and INR-based Refinement**|Hao Xu et.al.|[2408.02966](http://arxiv.org/abs/2408.02966)|null|
@@ -2028,11 +2028,11 @@ layout: default
 |**2024-08-19**|**Structure-preserving Image Translation for Depth Estimation in Colonoscopy Video**|Shuxian Wang et.al.|[2408.10153](http://arxiv.org/abs/2408.10153)|null|
 |**2024-08-19**|**Fashion Image-to-Image Translation for Complementary Item Retrieval**|Matteo Attimonelli et.al.|[2408.09847](http://arxiv.org/abs/2408.09847)|null|
 |**2024-08-19**|**SurgicaL-CD: Generating Surgical Images via Unpaired Image Translation with Latent Consistency Diffusion Models**|Danush Kumar Venkatesh et.al.|[2408.09822](http://arxiv.org/abs/2408.09822)|null|
-|**2024-08-17**|**A Fast and Computationally Inexpensive Method For Image Translation of 3D Volume Patient Data**|Cho Yang et.al.|[2408.09218](http://arxiv.org/abs/2408.09218)|null|
+|**2024-08-20**|**A Fast and Computationally Inexpensive Method For Image Translation of 3D Volume Patient Data**|Cho Yang et.al.|[2408.09218](http://arxiv.org/abs/2408.09218)|null|
 |**2024-08-16**|**Image Class Translation Distance: A Novel Interpretable Feature for Image Classification**|Mikyla K. Bowen et.al.|[2408.08973](http://arxiv.org/abs/2408.08973)|null|
 |**2024-08-16**|**Efficient Image-to-Image Diffusion Classifier for Adversarial Robustness**|Hefei Mei et.al.|[2408.08502](http://arxiv.org/abs/2408.08502)|**[link](https://github.com/hfmei/idc)**|
 |**2024-08-15**|**The Dawn of KAN in Image-to-Image (I2I) Translation: Integrating Kolmogorov-Arnold Networks with GANs for Unpaired I2I Translation**|Arpan Mahara et.al.|[2408.08216](http://arxiv.org/abs/2408.08216)|null|
-|**2024-08-15**|**Conditional Brownian Bridge Diffusion Model for VHR SAR to Optical Image Translation**|Seon-Hoon Kim et.al.|[2408.07947](http://arxiv.org/abs/2408.07947)|null|
+|**2024-08-20**|**Conditional Brownian Bridge Diffusion Model for VHR SAR to Optical Image Translation**|Seon-Hoon Kim et.al.|[2408.07947](http://arxiv.org/abs/2408.07947)|null|
 |**2024-08-12**|**An Analysis for Image-to-Image Translation and Style Transfer**|Xiaoming Yu et.al.|[2408.06000](http://arxiv.org/abs/2408.06000)|null|
 |**2024-08-11**|**Seg-CycleGAN : SAR-to-optical image translation guided by a downstream task**|Hannuo Zhang et.al.|[2408.05777](http://arxiv.org/abs/2408.05777)|null|
 |**2024-08-07**|**The Quest for Early Detection of Retinal Disease: 3D CycleGAN-based Translation of Optical Coherence Tomography into Confocal Microscopy**|Xin Tian et.al.|[2408.04091](http://arxiv.org/abs/2408.04091)|null|
