@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.21
+## Updated on 2024.08.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
@@ -1570,7 +1570,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-08-16**|**Modeling the Neonatal Brain Development Using Implicit Neural Representations**|Florentin Bieder et.al.|[2408.08647](http://arxiv.org/abs/2408.08647)|null|
+|**2024-08-16**|**Modeling the Neonatal Brain Development Using Implicit Neural Representations**|Florentin Bieder et.al.|[2408.08647](http://arxiv.org/abs/2408.08647)|**[link](https://github.com/florentinbieder/neonatal-development-inr)**|
 |**2024-08-16**|**Reference-free Axial Super-resolution of 3D Microscopy Images using Implicit Neural Representation with a 2D Diffusion Prior**|Kyungryun Lee et.al.|[2408.08616](http://arxiv.org/abs/2408.08616)|**[link](https://github.com/hvcl/inr-diffusion)**|
 |**2024-08-12**|**Implicit Neural Representation For Accurate CFD Flow Field Prediction**|Laurent de Vito et.al.|[2408.06486](http://arxiv.org/abs/2408.06486)|null|
 |**2024-08-12**|**Uncertainty-Informed Volume Visualization using Implicit Neural Representation**|Shanu Saklani et.al.|[2408.06018](http://arxiv.org/abs/2408.06018)|null|
