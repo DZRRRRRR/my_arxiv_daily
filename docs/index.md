@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.22
+## Updated on 2024.08.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
@@ -2050,7 +2050,7 @@ layout: default
 |**2024-08-19**|**Structure-preserving Image Translation for Depth Estimation in Colonoscopy Video**|Shuxian Wang et.al.|[2408.10153](http://arxiv.org/abs/2408.10153)|null|
 |**2024-08-19**|**Fashion Image-to-Image Translation for Complementary Item Retrieval**|Matteo Attimonelli et.al.|[2408.09847](http://arxiv.org/abs/2408.09847)|null|
 |**2024-08-19**|**SurgicaL-CD: Generating Surgical Images via Unpaired Image Translation with Latent Consistency Diffusion Models**|Danush Kumar Venkatesh et.al.|[2408.09822](http://arxiv.org/abs/2408.09822)|null|
-|**2024-08-20**|**A Fast and Computationally Inexpensive Method For Image Translation of 3D Volume Patient Data**|Cho Yang et.al.|[2408.09218](http://arxiv.org/abs/2408.09218)|null|
+|**2024-08-22**|**FQGA-single: Towards Fewer Training Epochs and Fewer Model Parameters for Image-to-Image Translation Tasks**|Cho Yang et.al.|[2408.09218](http://arxiv.org/abs/2408.09218)|null|
 |**2024-08-16**|**Image Class Translation Distance: A Novel Interpretable Feature for Image Classification**|Mikyla K. Bowen et.al.|[2408.08973](http://arxiv.org/abs/2408.08973)|null|
 |**2024-08-16**|**Efficient Image-to-Image Diffusion Classifier for Adversarial Robustness**|Hefei Mei et.al.|[2408.08502](http://arxiv.org/abs/2408.08502)|**[link](https://github.com/hfmei/idc)**|
 |**2024-08-15**|**The Dawn of KAN in Image-to-Image (I2I) Translation: Integrating Kolmogorov-Arnold Networks with GANs for Unpaired I2I Translation**|Arpan Mahara et.al.|[2408.08216](http://arxiv.org/abs/2408.08216)|null|
