@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-22**|**xGen-VideoSyn-1: High-fidelity Text-to-Video Synthesis with Compressed Representations**|Can Qin et.al.|[2408.12590](http://arxiv.org/abs/2408.12590)|null|
+|**2024-08-22**|**ssProp: Energy-Efficient Training for Convolutional Neural Networks with Scheduled Sparse Back Propagation**|Lujia Zhong et.al.|[2408.12561](http://arxiv.org/abs/2408.12561)|**[link](https://github.com/lujiazho/ssprop)**|
+|**2024-08-22**|**Show-o: One Single Transformer to Unify Multimodal Understanding and Generation**|Jinheng Xie et.al.|[2408.12528](http://arxiv.org/abs/2408.12528)|**[link](https://github.com/showlab/show-o)**|
+|**2024-08-22**|**FlexEdit: Marrying Free-Shape Masks to VLLM for Flexible Image Editing**|Jue Wang et.al.|[2408.12429](http://arxiv.org/abs/2408.12429)|**[link](https://github.com/a-new-b/flex_edit)**|
+|**2024-08-22**|**4D Diffusion for Dynamic Protein Structure Prediction with Reference Guided Motion Alignment**|Kaihui Cheng et.al.|[2408.12419](http://arxiv.org/abs/2408.12419)|null|
+|**2024-08-22**|**CODE: Confident Ordinary Differential Editing**|Bastien van Delft et.al.|[2408.12418](http://arxiv.org/abs/2408.12418)|**[link](https://github.com/vita-epfl/code)**|
+|**2024-08-22**|**Dynamic PDB: A New Dataset and a SE(3) Model Extension by Integrating Dynamic Behaviors and Physical Properties in Protein Structures**|Ce Liu et.al.|[2408.12413](http://arxiv.org/abs/2408.12413)|null|
+|**2024-08-22**|**LCM-SVC: Latent Diffusion Model Based Singing Voice Conversion with Inference Acceleration via Latent Consistency Distillation**|Shihao Chen et.al.|[2408.12354](http://arxiv.org/abs/2408.12354)|null|
+|**2024-08-22**|**GarmentAligner: Text-to-Garment Generation via Retrieval-augmented Multi-level Corrections**|Shiyue Zhang et.al.|[2408.12352](http://arxiv.org/abs/2408.12352)|null|
+|**2024-08-22**|**Variance reduction of diffusion model's gradients with Taylor approximation-based control variate**|Paul Jeha et.al.|[2408.12270](http://arxiv.org/abs/2408.12270)|null|
 |**2024-08-21**|**Pixel Is Not A Barrier: An Effective Evasion Attack for Pixel-Domain Diffusion Models**|Chun-Yen Shih et.al.|[2408.11810](http://arxiv.org/abs/2408.11810)|null|
 |**2024-08-21**|**Timeline and Boundary Guided Diffusion Network for Video Shadow Detection**|Haipeng Zhou et.al.|[2408.11785](http://arxiv.org/abs/2408.11785)|**[link](https://github.com/haipengzhou856/tbgdiff)**|
 |**2024-08-21**|**JieHua Paintings Style Feature Extracting Model using Stable Diffusion with ControlNet**|Yujia Gu et.al.|[2408.11744](http://arxiv.org/abs/2408.11744)|null|
@@ -1777,6 +1787,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-22**|**Adapt CLIP as Aggregation Instructor for Image Dehazing**|Xiaozhe Zhang et.al.|[2408.12317](http://arxiv.org/abs/2408.12317)|null|
 |**2024-08-11**|**Single Image Dehazing Using Scene Depth Ordering**|Pengyang Ling et.al.|[2408.05683](http://arxiv.org/abs/2408.05683)|null|
 |**2024-07-20**|**Dual High-Order Total Variation Model for Underwater Image Restoration**|Yuemei Li et.al.|[2407.14868](http://arxiv.org/abs/2407.14868)|**[link](https://github.com/hou-guojia/udhtv)**|
 |**2024-07-20**|**CrossDehaze: Scaling Up Image Dehazing with Cross-Data Vision Alignment and Augmentation**|Yukai Shi et.al.|[2407.14823](http://arxiv.org/abs/2407.14823)|**[link](https://github.com/wengzp1/scaleupdehazing)**|
@@ -1825,6 +1836,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-22**|**CODE: Confident Ordinary Differential Editing**|Bastien van Delft et.al.|[2408.12418](http://arxiv.org/abs/2408.12418)|**[link](https://github.com/vita-epfl/code)**|
 |**2024-08-21**|**OAPT: Offset-Aware Partition Transformer for Double JPEG Artifacts Removal**|Qiao Mo et.al.|[2408.11480](http://arxiv.org/abs/2408.11480)|**[link](https://github.com/qmoq/oapt)**|
 |**2024-08-21**|**Taming Generative Diffusion for Universal Blind Image Restoration**|Siwei Tu et.al.|[2408.11287](http://arxiv.org/abs/2408.11287)|null|
 |**2024-08-19**|**Multi-Scale Representation Learning for Image Restoration with State-Space Model**|Yuhong He et.al.|[2408.10145](http://arxiv.org/abs/2408.10145)|null|
@@ -2049,11 +2061,11 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-08-19**|**Structure-preserving Image Translation for Depth Estimation in Colonoscopy Video**|Shuxian Wang et.al.|[2408.10153](http://arxiv.org/abs/2408.10153)|null|
 |**2024-08-19**|**Fashion Image-to-Image Translation for Complementary Item Retrieval**|Matteo Attimonelli et.al.|[2408.09847](http://arxiv.org/abs/2408.09847)|null|
-|**2024-08-19**|**SurgicaL-CD: Generating Surgical Images via Unpaired Image Translation with Latent Consistency Diffusion Models**|Danush Kumar Venkatesh et.al.|[2408.09822](http://arxiv.org/abs/2408.09822)|null|
+|**2024-08-19**|**SurgicaL-CD: Generating Surgical Images via Unpaired Image Translation with Latent Consistency Diffusion Models**|Danush Kumar Venkatesh et.al.|[2408.09822](http://arxiv.org/abs/2408.09822)|**[link](https://gitlab.com/nct_tso_public/gan2diffusion)**|
 |**2024-08-22**|**FQGA-single: Towards Fewer Training Epochs and Fewer Model Parameters for Image-to-Image Translation Tasks**|Cho Yang et.al.|[2408.09218](http://arxiv.org/abs/2408.09218)|null|
 |**2024-08-16**|**Image Class Translation Distance: A Novel Interpretable Feature for Image Classification**|Mikyla K. Bowen et.al.|[2408.08973](http://arxiv.org/abs/2408.08973)|null|
 |**2024-08-16**|**Efficient Image-to-Image Diffusion Classifier for Adversarial Robustness**|Hefei Mei et.al.|[2408.08502](http://arxiv.org/abs/2408.08502)|**[link](https://github.com/hfmei/idc)**|
-|**2024-08-15**|**The Dawn of KAN in Image-to-Image (I2I) Translation: Integrating Kolmogorov-Arnold Networks with GANs for Unpaired I2I Translation**|Arpan Mahara et.al.|[2408.08216](http://arxiv.org/abs/2408.08216)|null|
+|**2024-08-15**|**The Dawn of KAN in Image-to-Image (I2I) Translation: Integrating Kolmogorov-Arnold Networks with GANs for Unpaired I2I Translation**|Arpan Mahara et.al.|[2408.08216](http://arxiv.org/abs/2408.08216)|**[link](https://github.com/amaha7984/kan-cut)**|
 |**2024-08-20**|**Conditional Brownian Bridge Diffusion Model for VHR SAR to Optical Image Translation**|Seon-Hoon Kim et.al.|[2408.07947](http://arxiv.org/abs/2408.07947)|null|
 |**2024-08-12**|**An Analysis for Image-to-Image Translation and Style Transfer**|Xiaoming Yu et.al.|[2408.06000](http://arxiv.org/abs/2408.06000)|null|
 |**2024-08-11**|**Seg-CycleGAN : SAR-to-optical image translation guided by a downstream task**|Hannuo Zhang et.al.|[2408.05777](http://arxiv.org/abs/2408.05777)|null|
