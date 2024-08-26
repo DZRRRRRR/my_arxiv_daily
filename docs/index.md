@@ -35,7 +35,7 @@ layout: default
 |**2024-08-21**|**Video Diffusion Models are Strong Video Inpainter**|Minhyeok Lee et.al.|[2408.11402](http://arxiv.org/abs/2408.11402)|null|
 |**2024-08-21**|**Generative AI based Secure Wireless Sensing for ISAC Networks**|Jiacheng Wang et.al.|[2408.11398](http://arxiv.org/abs/2408.11398)|null|
 |**2024-08-20**|**Transfusion: Predict the Next Token and Diffuse Images with One Multi-Modal Model**|Chunting Zhou et.al.|[2408.11039](http://arxiv.org/abs/2408.11039)|null|
-|**2024-08-20**|**MegaFusion: Extend Diffusion Models towards Higher-resolution Image Generation without Further Tuning**|Haoning Wu et.al.|[2408.11001](http://arxiv.org/abs/2408.11001)|null|
+|**2024-08-20**|**MegaFusion: Extend Diffusion Models towards Higher-resolution Image Generation without Further Tuning**|Haoning Wu et.al.|[2408.11001](http://arxiv.org/abs/2408.11001)|**[link](https://github.com/ShaochengShen/MegaFusion)**|
 |**2024-08-20**|**GreediRIS: Scalable Influence Maximization using Distributed Streaming Maximum Cover**|Reet Barik et.al.|[2408.10982](http://arxiv.org/abs/2408.10982)|null|
 |**2024-08-20**|**Kilometer-Scale Convection Allowing Model Emulation using Generative Diffusion Modeling**|Jaideep Pathak et.al.|[2408.10958](http://arxiv.org/abs/2408.10958)|null|
 |**2024-08-20**|**Large Point-to-Gaussian Model for Image-to-3D Generation**|Longfei Lu et.al.|[2408.10935](http://arxiv.org/abs/2408.10935)|null|
@@ -48,16 +48,16 @@ layout: default
 |**2024-08-19**|**SpaRP: Fast 3D Object Reconstruction and Pose Estimation from Sparse Views**|Chao Xu et.al.|[2408.10195](http://arxiv.org/abs/2408.10195)|null|
 |**2024-08-19**|**Multi-layer diffusion model of photovoltaic installations**|Tomasz Weron et.al.|[2408.09904](http://arxiv.org/abs/2408.09904)|null|
 |**2024-08-19**|**Instruction-Based Molecular Graph Generation with Unified Text-Graph Diffusion Model**|Yuran Xiang et.al.|[2408.09896](http://arxiv.org/abs/2408.09896)|**[link](https://github.com/ran1812/utgdiff)**|
-|**2024-08-19**|**SurgicaL-CD: Generating Surgical Images via Unpaired Image Translation with Latent Consistency Diffusion Models**|Danush Kumar Venkatesh et.al.|[2408.09822](http://arxiv.org/abs/2408.09822)|null|
+|**2024-08-19**|**SurgicaL-CD: Generating Surgical Images via Unpaired Image Translation with Latent Consistency Diffusion Models**|Danush Kumar Venkatesh et.al.|[2408.09822](http://arxiv.org/abs/2408.09822)|**[link](https://gitlab.com/nct_tso_public/gan2diffusion)**|
 |**2024-08-19**|**Latent Diffusion for Guided Document Table Generation**|Syed Jawwad Haider Hamdani et.al.|[2408.09800](http://arxiv.org/abs/2408.09800)|null|
-|**2024-08-19**|**Unsupervised Composable Representations for Audio**|Giovanni Bindi et.al.|[2408.09792](http://arxiv.org/abs/2408.09792)|null|
+|**2024-08-19**|**Unsupervised Composable Representations for Audio**|Giovanni Bindi et.al.|[2408.09792](http://arxiv.org/abs/2408.09792)|**[link](https://github.com/ismir-24-sub/unsupervised_compositional_representations)**|
 |**2024-08-19**|**Propagating the prior from shallow to deep with a pre-trained velocity-model Generative Transformer network**|Randy Harsuko et.al.|[2408.09767](http://arxiv.org/abs/2408.09767)|null|
 |**2024-08-19**|**Photorealistic Object Insertion with Diffusion-Guided Inverse Rendering**|Ruofan Liang et.al.|[2408.09702](http://arxiv.org/abs/2408.09702)|null|
 |**2024-08-19**|**ExpoMamba: Exploiting Frequency SSM Blocks for Efficient and Effective Image Enhancement**|Eashan Adhikarla et.al.|[2408.09650](http://arxiv.org/abs/2408.09650)|**[link](https://github.com/eashanadhikarla/expomamba)**|
 |**2024-08-16**|**PFDiff: Training-free Acceleration of Diffusion Models through the Gradient Guidance of Past and Future**|Guangyi Wang et.al.|[2408.08822](http://arxiv.org/abs/2408.08822)|null|
 |**2024-08-16**|**Comparative Analysis of Generative Models: Enhancing Image Synthesis with VAEs, GANs, and Stable Diffusion**|Sanchayan Vivekananthan et.al.|[2408.08751](http://arxiv.org/abs/2408.08751)|null|
 |**2024-08-16**|**An End-to-End Model for Photo-Sharing Multi-modal Dialogue Generation**|Peiming Guo et.al.|[2408.08650](http://arxiv.org/abs/2408.08650)|null|
-|**2024-08-16**|**Modeling the Neonatal Brain Development Using Implicit Neural Representations**|Florentin Bieder et.al.|[2408.08647](http://arxiv.org/abs/2408.08647)|null|
+|**2024-08-16**|**Modeling the Neonatal Brain Development Using Implicit Neural Representations**|Florentin Bieder et.al.|[2408.08647](http://arxiv.org/abs/2408.08647)|**[link](https://github.com/florentinbieder/neonatal-development-inr)**|
 |**2024-08-16**|**Sampling effects on Lasso estimation of drift functions in high-dimensional diffusion processes**|Chiara Amorino et.al.|[2408.08638](http://arxiv.org/abs/2408.08638)|null|
 |**2024-08-16**|**Generative Dataset Distillation Based on Diffusion Model**|Duo Su et.al.|[2408.08610](http://arxiv.org/abs/2408.08610)|**[link](https://github.com/guang000/banko)**|
 |**2024-08-16**|**RadioDiff: An Effective Generative Diffusion Model for Sampling-Free Dynamic Radio Map Construction**|Xiucheng Wang et.al.|[2408.08593](http://arxiv.org/abs/2408.08593)|**[link](https://github.com/unic-lab/radiodiff)**|
@@ -65,10 +65,10 @@ layout: default
 |**2024-08-16**|**Linear combinations of latents in diffusion models: interpolation and beyond**|Erik Bodin et.al.|[2408.08558](http://arxiv.org/abs/2408.08558)|null|
 |**2024-08-16**|**Inverse design with conditional cascaded diffusion models**|Milad Habibi et.al.|[2408.08526](http://arxiv.org/abs/2408.08526)|null|
 |**2024-08-15**|**Accelerated Image-Aware Generative Diffusion Modeling**|Tanmay Asthana et.al.|[2408.08306](http://arxiv.org/abs/2408.08306)|null|
-|**2024-08-15**|**Derivative-Free Guidance in Continuous and Discrete Diffusion Models with Soft Value-Based Decoding**|Xiner Li et.al.|[2408.08252](http://arxiv.org/abs/2408.08252)|null|
+|**2024-08-15**|**Derivative-Free Guidance in Continuous and Discrete Diffusion Models with Soft Value-Based Decoding**|Xiner Li et.al.|[2408.08252](http://arxiv.org/abs/2408.08252)|**[link](https://github.com/masa-ue/svdd)**|
 |**2024-08-15**|**Not Every Image is Worth a Thousand Words: Quantifying Originality in Stable Diffusion**|Adi Haviv et.al.|[2408.08184](http://arxiv.org/abs/2408.08184)|null|
 |**2024-08-15**|**Conditional Brownian Bridge Diffusion Model for VHR SAR to Optical Image Translation**|Seon-Hoon Kim et.al.|[2408.07947](http://arxiv.org/abs/2408.07947)|null|
-|**2024-08-14**|**Moderator: Moderating Text-to-Image Diffusion Models through Fine-grained Context-based Policies**|Peiran Wang et.al.|[2408.07728](http://arxiv.org/abs/2408.07728)|null|
+|**2024-08-14**|**Moderator: Moderating Text-to-Image Diffusion Models through Fine-grained Context-based Policies**|Peiran Wang et.al.|[2408.07728](http://arxiv.org/abs/2408.07728)|**[link](https://github.com/DataSmithLab/Moderator)**|
 |**2024-08-14**|**Drug Discovery SMILES-to-Pharmacokinetics Diffusion Models with Deep Molecular Understanding**|Bing Hu et.al.|[2408.07636](http://arxiv.org/abs/2408.07636)|null|
 |**2024-08-14**|**Anisotropic Diffusion Model of Communication in 2D Biofilm**|Yanahan Paramalingam et.al.|[2408.07626](http://arxiv.org/abs/2408.07626)|null|
 |**2024-08-14**|**DifuzCam: Replacing Camera Lens with a Mask and a Diffusion Model**|Erez Yosef et.al.|[2408.07541](http://arxiv.org/abs/2408.07541)|null|
@@ -350,7 +350,7 @@ layout: default
 |**2024-07-03**|**Semantic-Aware Power Allocation for Generative Semantic Communications with Foundation Models**|Chunmei Xu et.al.|[2407.03050](http://arxiv.org/abs/2407.03050)|null|
 |**2024-07-03**|**SlerpFace: Face Template Protection via Spherical Linear Interpolation**|Zhizhou Zhong et.al.|[2407.03043](http://arxiv.org/abs/2407.03043)|null|
 |**2024-07-03**|**Frequency-Controlled Diffusion Model for Versatile Text-Guided Image-to-Image Translation**|Xiang Gao et.al.|[2407.03006](http://arxiv.org/abs/2407.03006)|**[link](https://github.com/xianggao1102/fcdiffusion)**|
-|**2024-07-04**|**VEGS: View Extrapolation of Urban Scenes in 3D Gaussian Splatting using Learned Priors**|Sungwon Hwang et.al.|[2407.02945](http://arxiv.org/abs/2407.02945)|null|
+|**2024-07-04**|**VEGS: View Extrapolation of Urban Scenes in 3D Gaussian Splatting using Learned Priors**|Sungwon Hwang et.al.|[2407.02945](http://arxiv.org/abs/2407.02945)|**[link](https://github.com/deepshwang/vegs)**|
 |**2024-07-03**|**Single Image Rolling Shutter Removal with Diffusion Models**|Zhanglei Yang et.al.|[2407.02906](http://arxiv.org/abs/2407.02906)|null|
 |**2024-07-03**|**Robot Shape and Location Retention in Video Generation Using Diffusion Models**|Peng Wang et.al.|[2407.02873](http://arxiv.org/abs/2407.02873)|**[link](https://github.com/pengpaulwang/diffusion-robots)**|
 |**2024-07-02**|**Magic Insert: Style-Aware Drag-and-Drop**|Nataniel Ruiz et.al.|[2407.02489](http://arxiv.org/abs/2407.02489)|null|
@@ -441,7 +441,7 @@ layout: default
 |**2024-06-18**|**HumanSplat: Generalizable Single-Image Human Gaussian Splatting with Structure Priors**|Panwang Pan et.al.|[2406.12459](http://arxiv.org/abs/2406.12459)|**[link](https://github.com/humansplat/humansplat.github.io)**|
 |**2024-06-18**|**Planning Using Schrödinger Bridge Diffusion Models**|Adarsh Srivastava et.al.|[2406.12458](http://arxiv.org/abs/2406.12458)|**[link](https://github.com/adrshsrvstv/bridge_diffusion_planning)**|
 |**2024-06-17**|**Exploring the Role of Large Language Models in Prompt Encoding for Diffusion Models**|Bingqi Ma et.al.|[2406.11831](http://arxiv.org/abs/2406.11831)|null|
-|**2024-06-17**|**MegaScenes: Scene-Level View Synthesis at Scale**|Joseph Tung et.al.|[2406.11819](http://arxiv.org/abs/2406.11819)|null|
+|**2024-06-17**|**MegaScenes: Scene-Level View Synthesis at Scale**|Joseph Tung et.al.|[2406.11819](http://arxiv.org/abs/2406.11819)|**[link](https://github.com/MegaScenes/nvs)**|
 |**2024-06-17**|**DiffMM: Multi-Modal Diffusion Model for Recommendation**|Yangqin Jiang et.al.|[2406.11781](http://arxiv.org/abs/2406.11781)|**[link](https://github.com/hkuds/diffmm)**|
 |**2024-06-17**|**Latent Denoising Diffusion GAN: Faster sampling, Higher image quality**|Luan Thanh Trinh et.al.|[2406.11713](http://arxiv.org/abs/2406.11713)|**[link](https://github.com/thanhluantrinh/lddgan)**|
 |**2024-06-17**|**MusicScore: A Dataset for Music Score Modeling and Generation**|Yuheng Lin et.al.|[2406.11462](http://arxiv.org/abs/2406.11462)|**[link](https://github.com/dzq84/MusicScore-script)**|
@@ -1267,7 +1267,7 @@ layout: default
 |**2024-02-11**|**Stitching Sub-Trajectories with Conditional Diffusion Model for Goal-Conditioned Offline RL**|Sungyoon Kim et.al.|[2402.07226](http://arxiv.org/abs/2402.07226)|**[link](https://github.com/rlatjddbs/ssd)**|
 |**2024-02-11**|**Towards Fast Stochastic Sampling in Diffusion Generative Models**|Kushagra Pandey et.al.|[2402.07211](http://arxiv.org/abs/2402.07211)|null|
 |**2024-02-10**|**Synthesizing CTA Image Data for Type-B Aortic Dissection using Stable Diffusion Models**|Ayman Abaid et.al.|[2402.06969](http://arxiv.org/abs/2402.06969)|null|
-|**2024-02-09**|**Diffusion-ES: Gradient-free Planning with Diffusion for Autonomous Driving and Zero-Shot Instruction Following**|Brian Yang et.al.|[2402.06559](http://arxiv.org/abs/2402.06559)|null|
+|**2024-02-09**|**Diffusion-ES: Gradient-free Planning with Diffusion for Autonomous Driving and Zero-Shot Instruction Following**|Brian Yang et.al.|[2402.06559](http://arxiv.org/abs/2402.06559)|**[link](https://github.com/bhyang/diffusion-es)**|
 |**2024-02-09**|**Sequential Flow Matching for Generative Modeling**|Jongmin Yoon et.al.|[2402.06461](http://arxiv.org/abs/2402.06461)|null|
 |**2024-02-09**|**ControlUDA: Controllable Diffusion-assisted Unsupervised Domain Adaptation for Cross-Weather Semantic Segmentation**|Fengyi Shen et.al.|[2402.06446](http://arxiv.org/abs/2402.06446)|null|
 |**2024-02-09**|**Improving 2D-3D Dense Correspondences with Diffusion Models for 6D Object Pose Estimation**|Peter Hönig et.al.|[2402.06436](http://arxiv.org/abs/2402.06436)|null|
@@ -1604,7 +1604,7 @@ layout: default
 |**2024-08-05**|**UlRe-NeRF: 3D Ultrasound Imaging through Neural Rendering with Ultrasound Reflection Direction Parameterization**|Ziwen Guo et.al.|[2408.00860](http://arxiv.org/abs/2408.00860)|null|
 |**2024-07-30**|**Neural Fields for Continuous Periodic Motion Estimation in 4D Cardiovascular Imaging**|Simone Garzia et.al.|[2407.20728](http://arxiv.org/abs/2407.20728)|null|
 |**2024-07-29**|**Registering Neural 4D Gaussians for Endoscopic Surgery**|Yiming Huang et.al.|[2407.20213](http://arxiv.org/abs/2407.20213)|null|
-|**2024-07-29**|**Aero-Nef: Neural Fields for Rapid Aircraft Aerodynamics Simulations**|Giovanni Catalani et.al.|[2407.19916](http://arxiv.org/abs/2407.19916)|null|
+|**2024-07-29**|**Aero-Nef: Neural Fields for Rapid Aircraft Aerodynamics Simulations**|Giovanni Catalani et.al.|[2407.19916](http://arxiv.org/abs/2407.19916)|**[link](https://gitlab.isae-supaero.fr/gi.catalani/aero-nepf)**|
 |**2024-07-28**|**UniVoxel: Fast Inverse Rendering by Unified Voxelization of Scene Representation**|Shuang Wu et.al.|[2407.19542](http://arxiv.org/abs/2407.19542)|**[link](https://github.com/freemantom/univoxel)**|
 |**2024-07-28**|**FINER++: Building a Family of Variable-periodic Functions for Activating Implicit Neural Representation**|Hao Zhu et.al.|[2407.19434](http://arxiv.org/abs/2407.19434)|null|
 |**2024-07-26**|**ObjectCarver: Semi-automatic segmentation, reconstruction and separation of 3D objects**|Gemmechu Hassena et.al.|[2407.19108](http://arxiv.org/abs/2407.19108)|null|
