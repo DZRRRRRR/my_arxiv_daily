@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-27**|**GenRec: Unifying Video Generation and Recognition with Diffusion Models**|Zejia Weng et.al.|[2408.15241](http://arxiv.org/abs/2408.15241)|null|
+|**2024-08-27**|**Generative Inbetweening: Adapting Image-to-Video Models for Keyframe Interpolation**|Xiaojuan Wang et.al.|[2408.15239](http://arxiv.org/abs/2408.15239)|null|
+|**2024-08-27**|**Simulation of Stochastic Discrete Dislocation Dynamics in Ductile Vs Brittle Materials**|Santosh Chhetri et.al.|[2408.15157](http://arxiv.org/abs/2408.15157)|null|
+|**2024-08-27**|**DIFR3CT: Latent Diffusion for Probabilistic 3D CT Reconstruction from Few Planar X-Rays**|Yiran Sun et.al.|[2408.15118](http://arxiv.org/abs/2408.15118)|**[link](https://github.com/yransun/difr3ct)**|
+|**2024-08-27**|**Constrained Diffusion Models via Dual Training**|Shervin Khalafi et.al.|[2408.15094](http://arxiv.org/abs/2408.15094)|null|
+|**2024-08-27**|**LN-Gen: Rectal Lymph Nodes Generation via Anatomical Features**|Weidong Guo et.al.|[2408.14977](http://arxiv.org/abs/2408.14977)|null|
+|**2024-08-27**|**MegActor- $Σ$ : Unlocking Flexible Mixed-Modal Control in Portrait Animation with Diffusion Transformer**|Shurong Yang et.al.|[2408.14975](http://arxiv.org/abs/2408.14975)|null|
+|**2024-08-27**|**MeshUp: Multi-Target Mesh Deformation via Blended Score Distillation**|Hyunwoo Kim et.al.|[2408.14899](http://arxiv.org/abs/2408.14899)|null|
+|**2024-08-27**|**DiffSurf: A Transformer-based Diffusion Model for Generating and Reconstructing 3D Surfaces in Pose**|Yusuke Yoshiyasu et.al.|[2408.14860](http://arxiv.org/abs/2408.14860)|null|
+|**2024-08-27**|**Diffusion-Occ: 3D Point Cloud Completion via Occupancy Diffusion**|Guoqing Zhang et.al.|[2408.14846](http://arxiv.org/abs/2408.14846)|null|
 |**2024-08-27**|**Foundation Models for Music: A Survey**|Yinghao Ma et.al.|[2408.14340](http://arxiv.org/abs/2408.14340)|**[link](https://github.com/nicolaus625/fm4music)**|
 |**2024-08-26**|**TC-PDM: Temporally Consistent Patch Diffusion Models for Infrared-to-Visible Video Translation**|Anh-Dzung Doan et.al.|[2408.14227](http://arxiv.org/abs/2408.14227)|null|
 |**2024-08-26**|**MagicMan: Generative Novel View Synthesis of Humans with 3D-Aware Diffusion and Iterative Refinement**|Xu He et.al.|[2408.14211](http://arxiv.org/abs/2408.14211)|null|
@@ -1610,6 +1620,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-27**|**Few-Shot Unsupervised Implicit Neural Shape Representation Learning with Spatial Adversaries**|Amine Ouasfi et.al.|[2408.15114](http://arxiv.org/abs/2408.15114)|null|
+|**2024-08-27**|**Depth Restoration of Hand-Held Transparent Objects for Human-to-Robot Handover**|Ran Yu et.al.|[2408.14997](http://arxiv.org/abs/2408.14997)|null|
+|**2024-08-27**|**OctFusion: Octree-based Diffusion Models for 3D Shape Generation**|Bojun Xiong et.al.|[2408.14732](http://arxiv.org/abs/2408.14732)|**[link](https://github.com/octree-nn/octfusion)**|
 |**2024-08-25**|**FreqINR: Frequency Consistency for Implicit Neural Representation with Adaptive DCT Frequency Loss**|Meiyi Wei et.al.|[2408.13716](http://arxiv.org/abs/2408.13716)|null|
 |**2024-08-23**|**S4D: Streaming 4D Real-World Reconstruction with Gaussians and 3D Control Points**|Bing He et.al.|[2408.13036](http://arxiv.org/abs/2408.13036)|null|
 |**2024-08-16**|**Modeling the Neonatal Brain Development Using Implicit Neural Representations**|Florentin Bieder et.al.|[2408.08647](http://arxiv.org/abs/2408.08647)|**[link](https://github.com/florentinbieder/neonatal-development-inr)**|
@@ -1858,6 +1871,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-27**|**A Preliminary Exploration Towards General Image Restoration**|Xiangtao Kong et.al.|[2408.15143](http://arxiv.org/abs/2408.15143)|null|
 |**2024-08-22**|**CODE: Confident Ordinary Differential Editing**|Bastien van Delft et.al.|[2408.12418](http://arxiv.org/abs/2408.12418)|**[link](https://github.com/vita-epfl/code)**|
 |**2024-08-21**|**OAPT: Offset-Aware Partition Transformer for Double JPEG Artifacts Removal**|Qiao Mo et.al.|[2408.11480](http://arxiv.org/abs/2408.11480)|**[link](https://github.com/qmoq/oapt)**|
 |**2024-08-21**|**Taming Generative Diffusion for Universal Blind Image Restoration**|Siwei Tu et.al.|[2408.11287](http://arxiv.org/abs/2408.11287)|null|
