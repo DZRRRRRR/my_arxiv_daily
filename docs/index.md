@@ -14,6 +14,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-30**|**Subspace Diffusion Posterior Sampling for Travel-Time Tomography**|Xiang Cao et.al.|[2408.17333](http://arxiv.org/abs/2408.17333)|null|
+|**2024-08-30**|**RISSOLE: Parameter-efficient Diffusion Models via Block-wise Generation and Retrieval-Guidance**|Avideep Mukherjee et.al.|[2408.17095](http://arxiv.org/abs/2408.17095)|null|
+|**2024-08-30**|**Instant Adversarial Purification with Adversarial Consistency Distillation**|Chun Tong Lei et.al.|[2408.17064](http://arxiv.org/abs/2408.17064)|null|
+|**2024-08-30**|**Text-to-Image Generation Via Energy-Based CLIP**|Roy Ganz et.al.|[2408.17046](http://arxiv.org/abs/2408.17046)|null|
+|**2024-08-30**|**Contrastive Learning with Synthetic Positives**|Dewen Zeng et.al.|[2408.16965](http://arxiv.org/abs/2408.16965)|**[link](https://github.com/dewenzeng/clsp)**|
+|**2024-08-29**|**Enabling Local Editing in Diffusion Models by Joint and Individual Component Analysis**|Theodoros Kouzelis et.al.|[2408.16845](http://arxiv.org/abs/2408.16845)|null|
 |**2024-08-29**|**ReconX: Reconstruct Any Scene from Sparse Views with Video Diffusion Model**|Fangfu Liu et.al.|[2408.16767](http://arxiv.org/abs/2408.16767)|null|
 |**2024-08-29**|**CSGO: Content-Style Composition in Text-to-Image Generation**|Peng Xing et.al.|[2408.16766](http://arxiv.org/abs/2408.16766)|null|
 |**2024-08-29**|**DriveGenVLM: Real-world Video Generation for Vision Language Model based Autonomous Driving**|Yongjie Fu et.al.|[2408.16647](http://arxiv.org/abs/2408.16647)|null|
@@ -1893,6 +1899,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-30**|**Efficient Image Restoration through Low-Rank Adaptation and Stable Diffusion XL**|Haiyang Zhao et.al.|[2408.17060](http://arxiv.org/abs/2408.17060)|null|
+|**2024-08-29**|**GameIR: A Large-Scale Synthesized Ground-Truth Dataset for Image Restoration over Gaming Content**|Lebin Zhou et.al.|[2408.16866](http://arxiv.org/abs/2408.16866)|null|
 |**2024-08-29**|**Enhanced Control for Diffusion Bridge in Image Restoration**|Conghan Yue et.al.|[2408.16303](http://arxiv.org/abs/2408.16303)|**[link](https://github.com/Hammour-steak/ECDB)**|
 |**2024-08-28**|**Perceive-IR: Learning to Perceive Degradation Better for All-in-One Image Restoration**|Xu Zhang et.al.|[2408.15994](http://arxiv.org/abs/2408.15994)|null|
 |**2024-08-27**|**A Preliminary Exploration Towards General Image Restoration**|Xiangtao Kong et.al.|[2408.15143](http://arxiv.org/abs/2408.15143)|null|
