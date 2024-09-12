@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.11
+## Updated on 2024.09.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
@@ -20,7 +20,7 @@ layout: default
 |**2024-09-10**|**What happens to diffusion model likelihood when your model is conditional?**|Mattias Cross et.al.|[2409.06364](http://arxiv.org/abs/2409.06364)|null|
 |**2024-09-10**|**DiffQRCoder: Diffusion-based Aesthetic QR Code Generation with Scanning Robustness Guided Iterative Refinement**|Jia-Wei Liao et.al.|[2409.06355](http://arxiv.org/abs/2409.06355)|null|
 |**2024-09-10**|**Multi-Source Music Generation with Latent Diffusion**|Zhongweiyang Xu et.al.|[2409.06190](http://arxiv.org/abs/2409.06190)|**[link](https://github.com/xzwy/msldm)**|
-|**2024-09-10**|**MyGo: Consistent and Controllable Multi-View Driving Video Generation with Camera Control**|Yining Yao et.al.|[2409.06189](http://arxiv.org/abs/2409.06189)|null|
+|**2024-09-11**|**MyGo: Consistent and Controllable Multi-View Driving Video Generation with Camera Control**|Yining Yao et.al.|[2409.06189](http://arxiv.org/abs/2409.06189)|null|
 |**2024-09-10**|**EDADepth: Enhanced Data Augmentation for Monocular Depth Estimation**|Nischal Khanal et.al.|[2409.06183](http://arxiv.org/abs/2409.06183)|**[link](https://github.com/edadepthmde/edadepth_icmla)**|
 |**2024-09-09**|**Latent Diffusion Bridges for Unsupervised Musical Audio Timbre Transfer**|Michele Mancusi et.al.|[2409.06096](http://arxiv.org/abs/2409.06096)|null|
 |**2024-09-09**|**SVS-GAN: Leveraging GANs for Semantic Video Synthesis**|Khaled M. Seyam et.al.|[2409.06074](http://arxiv.org/abs/2409.06074)|null|
