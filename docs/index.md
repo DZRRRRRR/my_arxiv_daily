@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-13**|**Closed-Loop Visuomotor Control with Generative Expectation for Robotic Manipulation**|Qingwen Bu et.al.|[2409.09016](http://arxiv.org/abs/2409.09016)|**[link](https://github.com/OpenDriveLab/CLOVER)**|
+|**2024-09-13**|**A Diffusion Approach to Radiance Field Relighting using Multi-Illumination Synthesis**|Yohan Poirier-Ginter et.al.|[2409.08947](http://arxiv.org/abs/2409.08947)|null|
+|**2024-09-13**|**Latent Space Score-based Diffusion Model for Probabilistic Multivariate Time Series Imputation**|Guojun Liang et.al.|[2409.08917](http://arxiv.org/abs/2409.08917)|**[link](https://github.com/gorgen2020/LSSDM_imputation)**|
+|**2024-09-13**|**Gaussian is All You Need: A Unified Framework for Solving Inverse Problems via Diffusion Posterior Sampling**|Nebiyou Yismaw et.al.|[2409.08906](http://arxiv.org/abs/2409.08906)|null|
+|**2024-09-13**|**Adjoint Matching: Fine-tuning Flow and Diffusion Generative Models with Memoryless Stochastic Optimal Control**|Carles Domingo-Enrich et.al.|[2409.08861](http://arxiv.org/abs/2409.08861)|null|
+|**2024-09-13**|**InstantDrag: Improving Interactivity in Drag-based Image Editing**|Joonghyuk Shin et.al.|[2409.08857](http://arxiv.org/abs/2409.08857)|null|
+|**2024-09-13**|**DX2CT: Diffusion Model for 3D CT Reconstruction from Bi or Mono-planar 2D X-ray(s)**|Yun Su Jeong et.al.|[2409.08850](http://arxiv.org/abs/2409.08850)|null|
+|**2024-09-13**|**DFADD: The Diffusion and Flow-Matching Based Audio Deepfake Dataset**|Jiawei Du et.al.|[2409.08731](http://arxiv.org/abs/2409.08731)|null|
+|**2024-09-13**|**STA-V2A: Video-to-Audio Generation with Semantic and Temporal Alignment**|Yong Ren et.al.|[2409.08601](http://arxiv.org/abs/2409.08601)|null|
+|**2024-09-13**|**LHQ-SVC: Lightweight and High Quality Singing Voice Conversion Modeling**|Yubo Huang et.al.|[2409.08583](http://arxiv.org/abs/2409.08583)|null|
 |**2024-09-12**|**DreamHOI: Subject-Driven Generation of 3D Human-Object Interactions with Diffusion Priors**|Thomas Hanwen Zhu et.al.|[2409.08278](http://arxiv.org/abs/2409.08278)|null|
 |**2024-09-12**|**DreamBeast: Distilling 3D Fantastical Animals with Part-Aware Knowledge Transfer**|Runjia Li et.al.|[2409.08271](http://arxiv.org/abs/2409.08271)|null|
 |**2024-09-12**|**Touch2Touch: Cross-Modal Tactile Generation for Object Manipulation**|Samanta Rodriguez et.al.|[2409.08269](http://arxiv.org/abs/2409.08269)|null|
@@ -1930,6 +1940,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-13**|**CasDyF-Net: Image Dehazing via Cascaded Dynamic Filters**|Wang Yinglong et.al.|[2409.08510](http://arxiv.org/abs/2409.08510)|**[link](https://github.com/dauing/casdyf-net)**|
 |**2024-09-07**|**Power Line Aerial Image Restoration under dverse Weather: Datasets and Baselines**|Sai Yang et.al.|[2409.04812](http://arxiv.org/abs/2409.04812)|**[link](https://github.com/ntuhubin/plair-aw)**|
 |**2024-08-22**|**Adapt CLIP as Aggregation Instructor for Image Dehazing**|Xiaozhe Zhang et.al.|[2408.12317](http://arxiv.org/abs/2408.12317)|null|
 |**2024-08-11**|**Single Image Dehazing Using Scene Depth Ordering**|Pengyang Ling et.al.|[2408.05683](http://arxiv.org/abs/2408.05683)|null|
@@ -2223,6 +2234,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-13**|**Cross-conditioned Diffusion Model for Medical Image to Image Translation**|Zhaohu Xing et.al.|[2409.08500](http://arxiv.org/abs/2409.08500)|null|
+|**2024-09-12**|**360PanT: Training-Free Text-Driven 360-Degree Panorama-to-Panorama Translation**|Hai Wang et.al.|[2409.08397](http://arxiv.org/abs/2409.08397)|**[link](https://github.com/littlewhitesea/360pant)**|
 |**2024-09-12**|**Diffusion-Based Image-to-Image Translation by Noise Correction via Prompt Interpolation**|Junsung Lee et.al.|[2409.08077](http://arxiv.org/abs/2409.08077)|null|
 |**2024-09-09**|**TextToucher: Fine-Grained Text-to-Touch Generation**|Jiahang Tu et.al.|[2409.05427](http://arxiv.org/abs/2409.05427)|null|
 |**2024-09-01**|**Seed-to-Seed: Image Translation in Diffusion Seed Space**|Or Greenberg et.al.|[2409.00654](http://arxiv.org/abs/2409.00654)|null|
