@@ -22,6 +22,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-17**|**Ultrasound Image Enhancement with the Variance of Diffusion Models**|Yuxin Zhang et.al.|[2409.11380](http://arxiv.org/abs/2409.11380)|**[link](https://github.com/yuxin-zhang-jasmine/ius2024_diffusion)**|
+|**2024-09-17**|**OSV: One Step is Enough for High-Quality Image to Video Generation**|Xiaofeng Mao et.al.|[2409.11367](http://arxiv.org/abs/2409.11367)|null|
+|**2024-09-17**|**Fine-Tuning Image-Conditional Diffusion Models is Easier than You Think**|Gonzalo Martin Garcia et.al.|[2409.11355](http://arxiv.org/abs/2409.11355)|null|
+|**2024-09-17**|**OmniGen: Unified Image Generation**|Shitao Xiao et.al.|[2409.11340](http://arxiv.org/abs/2409.11340)|**[link](https://github.com/vectorspacelab/omnigen)**|
+|**2024-09-17**|**fMRI-3D: A Comprehensive Dataset for Enhancing fMRI-based 3D Reconstruction**|Jianxiong Gao et.al.|[2409.11315](http://arxiv.org/abs/2409.11315)|null|
+|**2024-09-17**|**DroneDiffusion: Robust Quadrotor Dynamics Learning with Diffusion Models**|Avirup Das et.al.|[2409.11292](http://arxiv.org/abs/2409.11292)|null|
+|**2024-09-17**|**Score Forgetting Distillation: A Swift, Data-Free Method for Machine Unlearning in Diffusion Models**|Tianqi Chen et.al.|[2409.11219](http://arxiv.org/abs/2409.11219)|null|
+|**2024-09-17**|**High-Resolution Speech Restoration with Latent Diffusion Model**|Tushar Dhyani et.al.|[2409.11145](http://arxiv.org/abs/2409.11145)|null|
+|**2024-09-17**|**In-situ measurements of light diffusion in an optically dense atomic ensemble**|Antoine Glicenstein et.al.|[2409.11117](http://arxiv.org/abs/2409.11117)|null|
+|**2024-09-17**|**TacDiffusion: Force-domain Diffusion Policy for Precise Tactile Manipulation**|Yansong Wu et.al.|[2409.11047](http://arxiv.org/abs/2409.11047)|null|
 |**2024-09-16**|**Incorporating Classifier-Free Guidance in Diffusion Model-Based Recommendation**|Noah Buchanan et.al.|[2409.10494](http://arxiv.org/abs/2409.10494)|null|
 |**2024-09-16**|**SimInversion: A Simple Framework for Inversion-Based Text-to-Image Editing**|Qi Qian et.al.|[2409.10476](http://arxiv.org/abs/2409.10476)|null|
 |**2024-09-16**|**MacDiff: Unified Skeleton Modeling with Masked Conditional Diffusion**|Lehong Wu et.al.|[2409.10473](http://arxiv.org/abs/2409.10473)|null|
@@ -1746,6 +1756,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-17**|**Compact Implicit Neural Representations for Plane Wave Images**|Mathilde Monvoisin et.al.|[2409.11370](http://arxiv.org/abs/2409.11370)|null|
+|**2024-09-17**|**SplatFields: Neural Gaussian Splats for Sparse 3D and 4D Reconstruction**|Marko Mihajlovic et.al.|[2409.11211](http://arxiv.org/abs/2409.11211)|null|
+|**2024-09-17**|**Neural Fields for Adaptive Photoacoustic Computed Tomography**|Tianao Li et.al.|[2409.10876](http://arxiv.org/abs/2409.10876)|**[link](https://github.com/Lukeli0425/NF-APACT)**|
+|**2024-09-17**|**Single-Layer Learnable Activation for Implicit Neural Representation (SL $^{2}$ A-INR)**|Moein Heidari et.al.|[2409.10836](http://arxiv.org/abs/2409.10836)|null|
 |**2024-09-15**|**Learning Transferable Features for Implicit Neural Representations**|Kushal Vyas et.al.|[2409.09566](http://arxiv.org/abs/2409.09566)|null|
 |**2024-09-14**|**Estimating Neural Orientation Distribution Fields on High Resolution Diffusion MRI Scans**|Mohammed Munzer Dwedari et.al.|[2409.09387](http://arxiv.org/abs/2409.09387)|**[link](https://github.com/munzerdw/nodf-hashenc)**|
 |**2024-09-14**|**Implicit Neural Representations with Fourier Kolmogorov-Arnold Networks**|Ali Mehrabian et.al.|[2409.09323](http://arxiv.org/abs/2409.09323)|null|
@@ -2266,6 +2280,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-17**|**CUNSB-RFIE: Context-aware Unpaired Neural Schr"{o}dinger Bridge in Retinal Fundus Image Enhancement**|Xuanzhao Dong et.al.|[2409.10966](http://arxiv.org/abs/2409.10966)|null|
 |**2024-09-16**|**Embedded Image-to-Image Translation for Efficient Sim-to-Real Transfer in Learning-based Robot-Assisted Soft Manipulation**|Jacinto Colan et.al.|[2409.10204](http://arxiv.org/abs/2409.10204)|null|
 |**2024-09-16**|**Cross-modality image synthesis from TOF-MRA to CTA using diffusion-based models**|Alexander Koch et.al.|[2409.10089](http://arxiv.org/abs/2409.10089)|null|
 |**2024-09-15**|**TransForce: Transferable Force Prediction for Vision-based Tactile Sensors with Sequential Image Translation**|Zhuo Chen et.al.|[2409.09870](http://arxiv.org/abs/2409.09870)|null|
