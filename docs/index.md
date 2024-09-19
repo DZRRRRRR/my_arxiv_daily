@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.18
+## Updated on 2024.09.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
@@ -2262,7 +2262,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-09-17**|**CUNSB-RFIE: Context-aware Unpaired Neural Schr"{o}dinger Bridge in Retinal Fundus Image Enhancement**|Xuanzhao Dong et.al.|[2409.10966](http://arxiv.org/abs/2409.10966)|null|
+|**2024-09-17**|**CUNSB-RFIE: Context-aware Unpaired Neural Schrödinger Bridge in Retinal Fundus Image Enhancement**|Xuanzhao Dong et.al.|[2409.10966](http://arxiv.org/abs/2409.10966)|null|
 |**2024-09-16**|**Embedded Image-to-Image Translation for Efficient Sim-to-Real Transfer in Learning-based Robot-Assisted Soft Manipulation**|Jacinto Colan et.al.|[2409.10204](http://arxiv.org/abs/2409.10204)|null|
 |**2024-09-16**|**Cross-modality image synthesis from TOF-MRA to CTA using diffusion-based models**|Alexander Koch et.al.|[2409.10089](http://arxiv.org/abs/2409.10089)|null|
 |**2024-09-15**|**TransForce: Transferable Force Prediction for Vision-based Tactile Sensors with Sequential Image Translation**|Zhuo Chen et.al.|[2409.09870](http://arxiv.org/abs/2409.09870)|null|
