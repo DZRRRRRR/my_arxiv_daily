@@ -22,6 +22,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-18**|**Massively Multi-Person 3D Human Motion Forecasting with Scene Context**|Felix B Mueller et.al.|[2409.12189](http://arxiv.org/abs/2409.12189)|null|
+|**2024-09-18**|**MoRAG -- Multi-Fusion Retrieval Augmented Generation for Human Motion**|Kalakonda Sai Shashank et.al.|[2409.12140](http://arxiv.org/abs/2409.12140)|null|
+|**2024-09-18**|**Brain-Streams: fMRI-to-Image Reconstruction with Multi-modal Guidance**|Jaehoon Joo et.al.|[2409.12099](http://arxiv.org/abs/2409.12099)|null|
+|**2024-09-18**|**Denoising diffusion models for high-resolution microscopy image restoration**|Pamela Osuna-Vargas et.al.|[2409.12078](http://arxiv.org/abs/2409.12078)|null|
+|**2024-09-18**|**LEMON: Localized Editing with Mesh Optimization and Neural Shaders**|Furkan Mert Algan et.al.|[2409.12024](http://arxiv.org/abs/2409.12024)|null|
+|**2024-09-18**|**Generation of Complex 3D Human Motion by Temporal and Spatial Composition of Diffusion Models**|Lorenzo Mandelli et.al.|[2409.11920](http://arxiv.org/abs/2409.11920)|null|
+|**2024-09-18**|**DPI-TTS: Directional Patch Interaction for Fast-Converging and Style Temporal Modeling in Text-to-Speech**|Xin Qi et.al.|[2409.11835](http://arxiv.org/abs/2409.11835)|null|
+|**2024-09-18**|**RaggeDi: Diffusion-based State Estimation of Disordered Rags, Sheets, Towels and Blankets**|Jikai Ye et.al.|[2409.11831](http://arxiv.org/abs/2409.11831)|null|
+|**2024-09-18**|**InverseMeetInsert: Robust Real Image Editing via Geometric Accumulation Inversion in Guided Diffusion Models**|Yan Zheng et.al.|[2409.11734](http://arxiv.org/abs/2409.11734)|null|
+|**2024-09-18**|**GUNet: A Graph Convolutional Network United Diffusion Model for Stable and Diversity Pose Generation**|Shuowen Liang et.al.|[2409.11689](http://arxiv.org/abs/2409.11689)|null|
 |**2024-09-17**|**Ultrasound Image Enhancement with the Variance of Diffusion Models**|Yuxin Zhang et.al.|[2409.11380](http://arxiv.org/abs/2409.11380)|**[link](https://github.com/yuxin-zhang-jasmine/ius2024_diffusion)**|
 |**2024-09-17**|**OSV: One Step is Enough for High-Quality Image to Video Generation**|Xiaofeng Mao et.al.|[2409.11367](http://arxiv.org/abs/2409.11367)|null|
 |**2024-09-17**|**Fine-Tuning Image-Conditional Diffusion Models is Easier than You Think**|Gonzalo Martin Garcia et.al.|[2409.11355](http://arxiv.org/abs/2409.11355)|null|
@@ -1756,6 +1766,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-18**|**Intraoperative Registration by Cross-Modal Inverse Neural Rendering**|Maximilian Fehrentz et.al.|[2409.11983](http://arxiv.org/abs/2409.11983)|null|
+|**2024-09-18**|**Monomial Matrix Group Equivariant Neural Functional Networks**|Hoang V. Tran et.al.|[2409.11697](http://arxiv.org/abs/2409.11697)|null|
 |**2024-09-17**|**Compact Implicit Neural Representations for Plane Wave Images**|Mathilde Monvoisin et.al.|[2409.11370](http://arxiv.org/abs/2409.11370)|null|
 |**2024-09-17**|**SplatFields: Neural Gaussian Splats for Sparse 3D and 4D Reconstruction**|Marko Mihajlovic et.al.|[2409.11211](http://arxiv.org/abs/2409.11211)|null|
 |**2024-09-17**|**Neural Fields for Adaptive Photoacoustic Computed Tomography**|Tianao Li et.al.|[2409.10876](http://arxiv.org/abs/2409.10876)|**[link](https://github.com/Lukeli0425/NF-APACT)**|
@@ -2034,6 +2046,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-18**|**Denoising diffusion models for high-resolution microscopy image restoration**|Pamela Osuna-Vargas et.al.|[2409.12078](http://arxiv.org/abs/2409.12078)|null|
 |**2024-09-16**|**Taming Diffusion Models for Image Restoration: A Review**|Ziwei Luo et.al.|[2409.10353](http://arxiv.org/abs/2409.10353)|null|
 |**2024-09-12**|**Quaternion Nuclear Norm minus Frobenius Norm Minimization for color image reconstruction**|Yu Guo et.al.|[2409.07797](http://arxiv.org/abs/2409.07797)|null|
 |**2024-09-11**|**PanAdapter: Two-Stage Fine-Tuning with Spatial-Spectral Priors Injecting for Pansharpening**|RuoCheng Wu et.al.|[2409.06980](http://arxiv.org/abs/2409.06980)|null|
