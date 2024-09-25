@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.24
+## Updated on 2024.09.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
@@ -2034,7 +2034,7 @@ layout: default
 |**2024-09-16**|**Taming Diffusion Models for Image Restoration: A Review**|Ziwei Luo et.al.|[2409.10353](http://arxiv.org/abs/2409.10353)|null|
 |**2024-09-12**|**Quaternion Nuclear Norm minus Frobenius Norm Minimization for color image reconstruction**|Yu Guo et.al.|[2409.07797](http://arxiv.org/abs/2409.07797)|null|
 |**2024-09-11**|**PanAdapter: Two-Stage Fine-Tuning with Spatial-Spectral Priors Injecting for Pansharpening**|RuoCheng Wu et.al.|[2409.06980](http://arxiv.org/abs/2409.06980)|null|
-|**2024-09-10**|**Lightweight Multiscale Feature Fusion Super-Resolution Network Based on Two-branch Convolution and Transformer**|Li Ke et.al.|[2409.06590](http://arxiv.org/abs/2409.06590)|null|
+|**2024-09-24**|**Lightweight single-image super-resolution network based on dual paths**|Li Ke et.al.|[2409.06590](http://arxiv.org/abs/2409.06590)|null|
 |**2024-09-10**|**Multi-Weather Image Restoration via Histogram-Based Transformer Feature Enhancement**|Yang Wen et.al.|[2409.06334](http://arxiv.org/abs/2409.06334)|null|
 |**2024-09-10**|**AgileIR: Memory-Efficient Group Shifted Windows Attention for Agile Image Restoration**|Hongyi Cai et.al.|[2409.06206](http://arxiv.org/abs/2409.06206)|null|
 |**2024-09-07**|**Power Line Aerial Image Restoration under dverse Weather: Datasets and Baselines**|Sai Yang et.al.|[2409.04812](http://arxiv.org/abs/2409.04812)|**[link](https://github.com/ntuhubin/plair-aw)**|
