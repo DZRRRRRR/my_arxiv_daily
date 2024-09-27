@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.26
+## Updated on 2024.09.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
@@ -2295,7 +2295,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-09-25**|**Pix2Next: Leveraging Vision Foundation Models for RGB to NIR Image Translation**|Youngwan Jin et.al.|[2409.16706](http://arxiv.org/abs/2409.16706)|null|
 |**2024-09-24**|**Diffusion Models to Enhance the Resolution of Microscopy Images: A Tutorial**|Harshith Bachimanchi et.al.|[2409.16488](http://arxiv.org/abs/2409.16488)|null|
-|**2024-09-24**|**Enhanced Unsupervised Image-to-Image Translation Using Contrastive Learning and Histogram of Oriented Gradients**|Wanchen Zhao et.al.|[2409.16042](http://arxiv.org/abs/2409.16042)|null|
+|**2024-09-26**|**Enhanced Unsupervised Image-to-Image Translation Using Contrastive Learning and Histogram of Oriented Gradients**|Wanchen Zhao et.al.|[2409.16042](http://arxiv.org/abs/2409.16042)|null|
 |**2024-09-25**|**D3RoMa: Disparity Diffusion-based Depth Sensing for Material-Agnostic Robotic Manipulation**|Songlin Wei et.al.|[2409.14365](http://arxiv.org/abs/2409.14365)|null|
 |**2024-09-20**|**DiffFluid: Plain Diffusion Models are Effective Predictors of Flow Dynamics**|Dongyu Luo et.al.|[2409.13665](http://arxiv.org/abs/2409.13665)|null|
 |**2024-09-19**|**I2I-Galip: Unsupervised Medical Image Translation Using Generative Adversarial CLIP**|Yilmaz Korkmaz et.al.|[2409.12399](http://arxiv.org/abs/2409.12399)|**[link](https://github.com/yilmazkorkmaz1/i2i-galip)**|
