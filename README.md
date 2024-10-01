@@ -22,6 +22,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-30**|**COLLAGE: Collaborative Human-Agent Interaction Generation using Hierarchical Latent Diffusion and Language Models**|Divyanshu Daiya et.al.|[2409.20502](http://arxiv.org/abs/2409.20502)|null|
+|**2024-09-30**|**FreeMask: Rethinking the Importance of Attention Masks for Zero-Shot Video Editing**|Lingling Cai et.al.|[2409.20500](http://arxiv.org/abs/2409.20500)|null|
+|**2024-09-30**|**Ensemble Kalman Diffusion Guidance: A Derivative-free Method for Inverse Problems**|Hongkai Zheng et.al.|[2409.20175](http://arxiv.org/abs/2409.20175)|null|
+|**2024-09-30**|**Erase, then Redraw: A Novel Data Augmentation Approach for Free Space Detection Using Diffusion Model**|Fulong Ma et.al.|[2409.20164](http://arxiv.org/abs/2409.20164)|null|
+|**2024-09-30**|**Conditional Diffusion Models are Minimax-Optimal and Manifold-Adaptive for Conditional Distribution Estimation**|Rong Tang et.al.|[2409.20124](http://arxiv.org/abs/2409.20124)|null|
+|**2024-09-30**|**Reaction-diffusion model for a population structured in phenotype and space I -- Criterion for persistence**|Nathanaël Boutillon et.al.|[2409.20118](http://arxiv.org/abs/2409.20118)|null|
+|**2024-09-30**|**RoCoTex: A Robust Method for Consistent Texture Synthesis with Diffusion Models**|Jangyeong Kim et.al.|[2409.19989](http://arxiv.org/abs/2409.19989)|null|
+|**2024-09-30**|**Magnet: We Never Know How Text-to-Image Diffusion Models Work, Until We Learn How Vision-Language Models Function**|Chenyi Zhuang et.al.|[2409.19967](http://arxiv.org/abs/2409.19967)|null|
+|**2024-09-30**|**Image Copy Detection for Diffusion Models**|Wenhao Wang et.al.|[2409.19952](http://arxiv.org/abs/2409.19952)|null|
+|**2024-09-30**|**Task-agnostic Pre-training and Task-guided Fine-tuning for Versatile Diffusion Planner**|Chenyou Fan et.al.|[2409.19949](http://arxiv.org/abs/2409.19949)|null|
 |**2024-09-27**|**$O(d/T)$ Convergence Theory for Diffusion Probabilistic Models under Minimal Assumptions**|Gen Li et.al.|[2409.18959](http://arxiv.org/abs/2409.18959)|null|
 |**2024-09-27**|**ReviveDiff: A Universal Diffusion Model for Restoring Images in Adverse Weather Conditions**|Wenfeng Huang et.al.|[2409.18932](http://arxiv.org/abs/2409.18932)|null|
 |**2024-09-27**|**Unsupervised Low-light Image Enhancement with Lookup Tables and Diffusion Priors**|Yunlong Lin et.al.|[2409.18899](http://arxiv.org/abs/2409.18899)|null|
@@ -1796,6 +1806,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-30**|**WildFusion: Multimodal Implicit 3D Reconstructions in the Wild**|Yanbaihui Liu et.al.|[2409.19904](http://arxiv.org/abs/2409.19904)|null|
+|**2024-09-28**|**Towards Croppable Implicit Neural Representations**|Maor Ashkenazi et.al.|[2409.19472](http://arxiv.org/abs/2409.19472)|**[link](https://github.com/maorash/local-global-inrs)**|
+|**2024-09-28**|**Fast Encoding and Decoding for Implicit Video Representation**|Hao Chen et.al.|[2409.19429](http://arxiv.org/abs/2409.19429)|null|
 |**2024-09-27**|**Neural Video Representation for Redundancy Reduction and Consistency Preservation**|Taiga Hayami et.al.|[2409.18497](http://arxiv.org/abs/2409.18497)|null|
 |**2024-09-25**|**Implicit Neural Representations for Simultaneous Reduction and Continuous Reconstruction of Multi-Altitude Climate Data**|Alif Bin Abdul Qayyum et.al.|[2409.17367](http://arxiv.org/abs/2409.17367)|**[link](https://github.com/alifbinabdulqayyum/multi-altitude-inn)**|
 |**2024-09-25**|**Streaming Neural Images**|Marcos V. Conde et.al.|[2409.17134](http://arxiv.org/abs/2409.17134)|null|
@@ -2086,6 +2099,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-30**|**UIR-LoRA: Achieving Universal Image Restoration through Multiple Low-Rank Adaptation**|Cheng Zhang et.al.|[2409.20197](http://arxiv.org/abs/2409.20197)|null|
+|**2024-09-28**|**Restore Anything with Masks: Leveraging Mask Image Modeling for Blind All-in-One Image Restoration**|Chu-Jie Qin et.al.|[2409.19403](http://arxiv.org/abs/2409.19403)|null|
 |**2024-09-26**|**Toward Efficient Deep Blind RAW Image Restoration**|Marcos V. Conde et.al.|[2409.18204](http://arxiv.org/abs/2409.18204)|**[link](https://github.com/mv-lab/AISP)**|
 |**2024-09-26**|**Taming Diffusion Prior for Image Super-Resolution with Domain Shift SDEs**|Qinpeng Cui et.al.|[2409.17778](http://arxiv.org/abs/2409.17778)|**[link](https://github.com/qinpengcui/dossr)**|
 |**2024-09-23**|**PixWizard: Versatile Image-to-Image Visual Assistant with Open-Language Instructions**|Weifeng Lin et.al.|[2409.15278](http://arxiv.org/abs/2409.15278)|**[link](https://github.com/afeng-x/pixwizard)**|
