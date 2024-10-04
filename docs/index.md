@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-03**|**Revisit Large-Scale Image-Caption Data in Pre-training Multimodal Foundation Models**|Zhengfeng Lai et.al.|[2410.02740](http://arxiv.org/abs/2410.02740)|null|
+|**2024-10-03**|**SteerDiff: Steering towards Safe Text-to-Image Diffusion Models**|Hongxiang Zhang et.al.|[2410.02710](http://arxiv.org/abs/2410.02710)|null|
+|**2024-10-03**|**ControlAR: Controllable Image Generation with Autoregressive Models**|Zongming Li et.al.|[2410.02705](http://arxiv.org/abs/2410.02705)|**[link](https://github.com/hustvl/controlar)**|
+|**2024-10-03**|**GUD: Generation with Unified Diffusion**|Mathis Gerdes et.al.|[2410.02667](http://arxiv.org/abs/2410.02667)|null|
+|**2024-10-03**|**Efficient calibration of the shifted square-root diffusion model to credit default swap spreads using asymptotic approximations**|Ankush Agarwal et.al.|[2410.02645](http://arxiv.org/abs/2410.02645)|null|
+|**2024-10-03**|**Diffusion Models are Evolutionary Algorithms**|Yanbo Zhang et.al.|[2410.02543](http://arxiv.org/abs/2410.02543)|**[link](https://github.com/Zhangyanbo/diffusion-evolution)**|
+|**2024-10-03**|**Lightweight Diffusion Models for Resource-Constrained Semantic Communication**|Giovanni Pignata et.al.|[2410.02491](http://arxiv.org/abs/2410.02491)|null|
+|**2024-10-03**|**Towards a Theoretical Understanding of Memorization in Diffusion Models**|Yunhao Chen et.al.|[2410.02467](http://arxiv.org/abs/2410.02467)|null|
+|**2024-10-03**|**Eliminating Oversaturation and Artifacts of High Guidance Scales in Diffusion Models**|Seyedmorteza Sadat et.al.|[2410.02416](http://arxiv.org/abs/2410.02416)|null|
+|**2024-10-03**|**Diffusion Meets Options: Hierarchical Generative Skill Composition for Temporally-Extended Tasks**|Zeyu Feng et.al.|[2410.02389](http://arxiv.org/abs/2410.02389)|null|
 |**2024-10-02**|**FabricDiffusion: High-Fidelity Texture Transfer for 3D Garments Generation from In-The-Wild Clothing Images**|Cheng Zhang et.al.|[2410.01801](http://arxiv.org/abs/2410.01801)|null|
 |**2024-10-02**|**Dynamical-generative downscaling of climate model ensembles**|Ignacio Lopez-Gomez et.al.|[2410.01776](http://arxiv.org/abs/2410.01776)|null|
 |**2024-10-02**|**ImageFolder: Autoregressive Image Generation with Folded Tokens**|Xiang Li et.al.|[2410.01756](http://arxiv.org/abs/2410.01756)|**[link](https://github.com/lxa9867/imagefolder)**|
@@ -1806,6 +1816,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-02**|**MVGS: Multi-view-regulated Gaussian Splatting for Novel View Synthesis**|Xiaobiao Du et.al.|[2410.02103](http://arxiv.org/abs/2410.02103)|null|
 |**2024-10-03**|**Releasing the Parameter Latency of Neural Representation for High-Efficiency Video Compression**|Gai Zhang et.al.|[2410.01654](http://arxiv.org/abs/2410.01654)|null|
 |**2024-10-02**|**Coordinate-Based Neural Representation Enabling Zero-Shot Learning for 3D Multiparametric Quantitative MRI**|Guoyan Lao et.al.|[2410.01577](http://arxiv.org/abs/2410.01577)|null|
 |**2024-10-02**|**MiraGe: Editable 2D Images using Gaussian Splatting**|Joanna Waczyńska et.al.|[2410.01521](http://arxiv.org/abs/2410.01521)|**[link](https://github.com/waczjoan/mirage)**|
@@ -2096,6 +2107,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-03**|**PnP-Flow: Plug-and-Play Image Restoration with Flow Matching**|Ségolène Martin et.al.|[2410.02423](http://arxiv.org/abs/2410.02423)|null|
+|**2024-10-02**|**Posterior sampling via Langevin dynamics based on generative priors**|Vishal Purohit et.al.|[2410.02078](http://arxiv.org/abs/2410.02078)|null|
 |**2024-10-01**|**Three-Operator Splitting Method with Two-Step Inertial Extrapolation**|Olaniyi S. Iyiola et.al.|[2410.01099](http://arxiv.org/abs/2410.01099)|null|
 |**2024-10-01**|**Posterior-Mean Rectified Flow: Towards Minimum MSE Photo-Realistic Image Restoration**|Guy Ohayon et.al.|[2410.00418](http://arxiv.org/abs/2410.00418)|**[link](https://github.com/ohayonguy/PMRF)**|
 |**2024-10-01**|**GLMHA A Guided Low-rank Multi-Head Self-Attention for Efficient Image Restoration and Spectral Reconstruction**|Zaid Ilyas et.al.|[2410.00380](http://arxiv.org/abs/2410.00380)|null|
@@ -2350,6 +2363,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-03**|**Scalable Simulation-free Entropic Unbalanced Optimal Transport**|Jaemoo Choi et.al.|[2410.02656](http://arxiv.org/abs/2410.02656)|null|
+|**2024-09-17**|**Image-to-Image Translation Based on Deep Generative Modeling for Radiotherapy Synthetic Dataset Creation**|Olga Glazunova et.al.|[2410.01828](http://arxiv.org/abs/2410.01828)|null|
 |**2024-09-27**|**SinoSynth: A Physics-based Domain Randomization Approach for Generalizable CBCT Image Enhancement**|Yunkui Pang et.al.|[2409.18355](http://arxiv.org/abs/2409.18355)|**[link](https://github.com/Pangyk/SinoSynth)**|
 |**2024-09-25**|**Pix2Next: Leveraging Vision Foundation Models for RGB to NIR Image Translation**|Youngwan Jin et.al.|[2409.16706](http://arxiv.org/abs/2409.16706)|null|
 |**2024-09-24**|**Diffusion Models to Enhance the Resolution of Microscopy Images: A Tutorial**|Harshith Bachimanchi et.al.|[2409.16488](http://arxiv.org/abs/2409.16488)|null|
