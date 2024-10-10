@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.09
+## Updated on 2024.10.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
@@ -17,9 +17,9 @@ layout: default
 |**2024-10-07**|**DART: A Diffusion-Based Autoregressive Motion Model for Real-Time Text-Driven Motion Control**|Kaifeng Zhao et.al.|[2410.05260](http://arxiv.org/abs/2410.05260)|null|
 |**2024-10-07**|**GS-VTON: Controllable 3D Virtual Try-on with Gaussian Splatting**|Yukang Cao et.al.|[2410.05259](http://arxiv.org/abs/2410.05259)|null|
 |**2024-10-07**|**SePPO: Semi-Policy Preference Optimization for Diffusion Alignment**|Daoan Zhang et.al.|[2410.05255](http://arxiv.org/abs/2410.05255)|**[link](https://github.com/dwanzhang-ai/seppo)**|
-|**2024-10-07**|**DiffuseReg: Denoising Diffusion Model for Obtaining Deformation Fields in Unsupervised Deformable Image Registration**|Yongtai Zhuo et.al.|[2410.05234](http://arxiv.org/abs/2410.05234)|null|
+|**2024-10-07**|**DiffuseReg: Denoising Diffusion Model for Obtaining Deformation Fields in Unsupervised Deformable Image Registration**|Yongtai Zhuo et.al.|[2410.05234](http://arxiv.org/abs/2410.05234)|**[link](https://github.com/yutazhuo/diffusereg)**|
 |**2024-10-07**|**Presto! Distilling Steps and Layers for Accelerating Music Generation**|Zachary Novack et.al.|[2410.05167](http://arxiv.org/abs/2410.05167)|null|
-|**2024-10-07**|**A Simulation-Free Deep Learning Approach to Stochastic Optimal Control**|Mengjian Hua et.al.|[2410.05163](http://arxiv.org/abs/2410.05163)|null|
+|**2024-10-08**|**A Simulation-Free Deep Learning Approach to Stochastic Optimal Control**|Mengjian Hua et.al.|[2410.05163](http://arxiv.org/abs/2410.05163)|null|
 |**2024-10-07**|**Leveraging Multimodal Diffusion Models to Accelerate Imaging with Side Information**|Timofey Efimov et.al.|[2410.05143](http://arxiv.org/abs/2410.05143)|null|
 |**2024-10-07**|**Human-Feedback Efficient Reinforcement Learning for Online Diffusion Model Finetuning**|Ayano Hiranaka et.al.|[2410.05116](http://arxiv.org/abs/2410.05116)|null|
 |**2024-10-07**|**DreamSat: Towards a General 3D Model for Novel View Synthesis of Space Objects**|Nidhi Mathihalli et.al.|[2410.05097](http://arxiv.org/abs/2410.05097)|**[link](https://github.com/arclab-mit/space-nvs)**|
@@ -1836,12 +1836,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-10-07**|**FreSh: Frequency Shifting for Accelerated Neural Representation Learning**|Adam Kania et.al.|[2410.05050](http://arxiv.org/abs/2410.05050)|null|
+|**2024-10-08**|**FreSh: Frequency Shifting for Accelerated Neural Representation Learning**|Adam Kania et.al.|[2410.05050](http://arxiv.org/abs/2410.05050)|null|
 |**2024-10-07**|**H-SIREN: Improving implicit neural representations with hyperbolic periodic functions**|Rui Gao et.al.|[2410.04716](http://arxiv.org/abs/2410.04716)|null|
-|**2024-10-07**|**Neural Fourier Modelling: A Highly Compact Approach to Time-Series Analysis**|Minjung Kim et.al.|[2410.04703](http://arxiv.org/abs/2410.04703)|null|
+|**2024-10-07**|**Neural Fourier Modelling: A Highly Compact Approach to Time-Series Analysis**|Minjung Kim et.al.|[2410.04703](http://arxiv.org/abs/2410.04703)|**[link](https://github.com/minkiml/NFM)**|
 |**2024-10-07**|**SegINR: Segment-wise Implicit Neural Representation for Sequence Alignment in Neural Text-to-Speech**|Minchan Kim et.al.|[2410.04690](http://arxiv.org/abs/2410.04690)|null|
 |**2024-10-04**|**Shrinking: Reconstruction of Parameterized Surfaces from Signed Distance Fields**|Haotian Yin et.al.|[2410.03123](http://arxiv.org/abs/2410.03123)|null|
-|**2024-10-03**|**On Logical Extrapolation for Mazes with Recurrent and Implicit Networks**|Brandon Knutson et.al.|[2410.03020](http://arxiv.org/abs/2410.03020)|null|
+|**2024-10-03**|**On Logical Extrapolation for Mazes with Recurrent and Implicit Networks**|Brandon Knutson et.al.|[2410.03020](http://arxiv.org/abs/2410.03020)|**[link](https://github.com/mines-opt-ml/maze-extrapolation)**|
 |**2024-10-02**|**MVGS: Multi-view-regulated Gaussian Splatting for Novel View Synthesis**|Xiaobiao Du et.al.|[2410.02103](http://arxiv.org/abs/2410.02103)|null|
 |**2024-10-03**|**Releasing the Parameter Latency of Neural Representation for High-Efficiency Video Compression**|Gai Zhang et.al.|[2410.01654](http://arxiv.org/abs/2410.01654)|null|
 |**2024-10-02**|**Coordinate-Based Neural Representation Enabling Zero-Shot Learning for 3D Multiparametric Quantitative MRI**|Guoyan Lao et.al.|[2410.01577](http://arxiv.org/abs/2410.01577)|null|
@@ -2135,7 +2135,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-07**|**Learning Efficient and Effective Trajectories for Differential Equation-based Image Restoration**|Zhiyu Zhu et.al.|[2410.04811](http://arxiv.org/abs/2410.04811)|**[link](https://github.com/ZHU-Zhiyu/FLUX-IR)**|
-|**2024-10-06**|**SITCOM: Step-wise Triple-Consistent Diffusion Sampling for Inverse Problems**|Ismail Alkhouri et.al.|[2410.04479](http://arxiv.org/abs/2410.04479)|null|
+|**2024-10-06**|**SITCOM: Step-wise Triple-Consistent Diffusion Sampling for Inverse Problems**|Ismail Alkhouri et.al.|[2410.04479](http://arxiv.org/abs/2410.04479)|**[link](https://github.com/sjames40/SITCOM)**|
 |**2024-10-05**|**Overcoming False Illusions in Real-World Face Restoration with Multi-Modal Guided Diffusion Model**|Keda Tao et.al.|[2410.04161](http://arxiv.org/abs/2410.04161)|null|
 |**2024-10-04**|**Diffusion State-Guided Projected Gradient for Inverse Problems**|Rayhan Zirvi et.al.|[2410.03463](http://arxiv.org/abs/2410.03463)|null|
 |**2024-10-03**|**PnP-Flow: Plug-and-Play Image Restoration with Flow Matching**|Ségolène Martin et.al.|[2410.02423](http://arxiv.org/abs/2410.02423)|**[link](https://github.com/annegnx/PnP-Flow)**|
@@ -2396,7 +2396,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-07**|**Improving Object Detection via Local-global Contrastive Learning**|Danai Triantafyllidou et.al.|[2410.05058](http://arxiv.org/abs/2410.05058)|null|
 |**2024-10-03**|**Improving Neural Optimal Transport via Displacement Interpolation**|Jaemoo Choi et.al.|[2410.03783](http://arxiv.org/abs/2410.03783)|null|
-|**2024-10-03**|**PixelShuffler: A Simple Image Translation Through Pixel Rearrangement**|Omar Zamzam et.al.|[2410.03021](http://arxiv.org/abs/2410.03021)|null|
+|**2024-10-03**|**PixelShuffler: A Simple Image Translation Through Pixel Rearrangement**|Omar Zamzam et.al.|[2410.03021](http://arxiv.org/abs/2410.03021)|**[link](https://github.com/OmarSZamzam/PixelShuffler)**|
 |**2024-10-03**|**Scalable Simulation-free Entropic Unbalanced Optimal Transport**|Jaemoo Choi et.al.|[2410.02656](http://arxiv.org/abs/2410.02656)|null|
 |**2024-09-17**|**Image-to-Image Translation Based on Deep Generative Modeling for Radiotherapy Synthetic Dataset Creation**|Olga Glazunova et.al.|[2410.01828](http://arxiv.org/abs/2410.01828)|null|
 |**2024-09-27**|**SinoSynth: A Physics-based Domain Randomization Approach for Generalizable CBCT Image Enhancement**|Yunkui Pang et.al.|[2409.18355](http://arxiv.org/abs/2409.18355)|**[link](https://github.com/Pangyk/SinoSynth)**|
