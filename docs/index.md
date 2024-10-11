@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.10
+## Updated on 2024.10.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
@@ -1849,7 +1849,7 @@ layout: default
 |**2024-10-09**|**DreamMesh4D: Video-to-4D Generation with Sparse-Controlled Gaussian-Mesh Hybrid Representation**|Zhiqi Li et.al.|[2410.06756](http://arxiv.org/abs/2410.06756)|null|
 |**2024-10-08**|**Training Stiff Neural Ordinary Differential Equations with Implicit Single-Step Methods**|Colby Fronk et.al.|[2410.05592](http://arxiv.org/abs/2410.05592)|null|
 |**2024-10-07**|**Implicitly Learned Neural Phase Functions for Basis-Free Point Spread Function Engineering**|Aleksey Valouev et.al.|[2410.05413](http://arxiv.org/abs/2410.05413)|null|
-|**2024-10-08**|**FreSh: Frequency Shifting for Accelerated Neural Representation Learning**|Adam Kania et.al.|[2410.05050](http://arxiv.org/abs/2410.05050)|null|
+|**2024-10-08**|**FreSh: Frequency Shifting for Accelerated Neural Representation Learning**|Adam Kania et.al.|[2410.05050](http://arxiv.org/abs/2410.05050)|**[link](https://github.com/gmum/FreSh)**|
 |**2024-10-07**|**H-SIREN: Improving implicit neural representations with hyperbolic periodic functions**|Rui Gao et.al.|[2410.04716](http://arxiv.org/abs/2410.04716)|null|
 |**2024-10-07**|**Neural Fourier Modelling: A Highly Compact Approach to Time-Series Analysis**|Minjung Kim et.al.|[2410.04703](http://arxiv.org/abs/2410.04703)|**[link](https://github.com/minkiml/NFM)**|
 |**2024-10-07**|**SegINR: Segment-wise Implicit Neural Representation for Sequence Alignment in Neural Text-to-Speech**|Minchan Kim et.al.|[2410.04690](http://arxiv.org/abs/2410.04690)|null|
