@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-10**|**DICE: Discrete Inversion Enabling Controllable Editing for Multinomial Diffusion and Masked Generative Models**|Xiaoxiao He et.al.|[2410.08207](http://arxiv.org/abs/2410.08207)|null|
+|**2024-10-10**|**HybridBooth: Hybrid Prompt Inversion for Efficient Subject-Driven Generation**|Shanyan Guan et.al.|[2410.08192](http://arxiv.org/abs/2410.08192)|null|
+|**2024-10-10**|**DifFRelight: Diffusion-Based Facial Performance Relighting**|Mingming He et.al.|[2410.08188](http://arxiv.org/abs/2410.08188)|null|
+|**2024-10-10**|**ZeroComp: Zero-shot Object Compositing from Image Intrinsics via Diffusion**|Zitian Zhang et.al.|[2410.08168](http://arxiv.org/abs/2410.08168)|null|
+|**2024-10-10**|**DART: Denoising Autoregressive Transformer for Scalable Text-to-Image Generation**|Jiatao Gu et.al.|[2410.08159](http://arxiv.org/abs/2410.08159)|null|
+|**2024-10-10**|**Progressive Autoregressive Video Diffusion Models**|Desai Xie et.al.|[2410.08151](http://arxiv.org/abs/2410.08151)|null|
+|**2024-10-10**|**Steering Masked Discrete Diffusion Models via Discrete Denoising Posterior Prediction**|Jarrid Rector-Brooks et.al.|[2410.08134](http://arxiv.org/abs/2410.08134)|null|
+|**2024-10-10**|**Unstable Unlearning: The Hidden Risk of Concept Resurgence in Diffusion Models**|Vinith M. Suriyakumar et.al.|[2410.08074](http://arxiv.org/abs/2410.08074)|null|
+|**2024-10-10**|**LADIMO: Face Morph Generation through Biometric Template Inversion with Latent Diffusion**|Marcel Grimmer et.al.|[2410.07988](http://arxiv.org/abs/2410.07988)|**[link](https://github.com/dasec/ladimo)**|
+|**2024-10-10**|**AI Surrogate Model for Distributed Computing Workloads**|David K. Park et.al.|[2410.07940](http://arxiv.org/abs/2410.07940)|null|
 |**2024-10-09**|**IterComp: Iterative Composition-Aware Feedback Learning from Model Gallery for Text-to-Image Generation**|Xinchen Zhang et.al.|[2410.07171](http://arxiv.org/abs/2410.07171)|**[link](https://github.com/yangling0818/itercomp)**|
 |**2024-10-09**|**AvatarGO: Zero-shot 4D Human-Object Interaction Generation and Animation**|Yukang Cao et.al.|[2410.07164](http://arxiv.org/abs/2410.07164)|null|
 |**2024-10-09**|**InstructG2I: Synthesizing Images from Multimodal Attributed Graphs**|Bowen Jin et.al.|[2410.07157](http://arxiv.org/abs/2410.07157)|null|
@@ -1846,6 +1856,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-10**|**IncEventGS: Pose-Free Gaussian Splatting from a Single Event Camera**|Jian Huang et.al.|[2410.08107](http://arxiv.org/abs/2410.08107)|**[link](https://github.com/wu-cvgl/inceventgs)**|
 |**2024-10-09**|**DreamMesh4D: Video-to-4D Generation with Sparse-Controlled Gaussian-Mesh Hybrid Representation**|Zhiqi Li et.al.|[2410.06756](http://arxiv.org/abs/2410.06756)|null|
 |**2024-10-08**|**Training Stiff Neural Ordinary Differential Equations with Implicit Single-Step Methods**|Colby Fronk et.al.|[2410.05592](http://arxiv.org/abs/2410.05592)|null|
 |**2024-10-07**|**Implicitly Learned Neural Phase Functions for Basis-Free Point Spread Function Engineering**|Aleksey Valouev et.al.|[2410.05413](http://arxiv.org/abs/2410.05413)|null|
@@ -2147,6 +2158,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-10**|**TANet: Triplet Attention Network for All-In-One Adverse Weather Image Restoration**|Hsing-Hua Wang et.al.|[2410.08177](http://arxiv.org/abs/2410.08177)|null|
 |**2024-10-09**|**InstantIR: Blind Image Restoration with Instant Generative Reference**|Jen-Yuan Huang et.al.|[2410.06551](http://arxiv.org/abs/2410.06551)|null|
 |**2024-10-08**|**ReFIR: Grounding Large Restoration Models with Retrieval Augmentation**|Hang Guo et.al.|[2410.05601](http://arxiv.org/abs/2410.05601)|**[link](https://github.com/csguoh/refir)**|
 |**2024-10-07**|**Learning Efficient and Effective Trajectories for Differential Equation-based Image Restoration**|Zhiyu Zhu et.al.|[2410.04811](http://arxiv.org/abs/2410.04811)|**[link](https://github.com/ZHU-Zhiyu/FLUX-IR)**|
@@ -2409,6 +2421,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-10**|**DifFRelight: Diffusion-Based Facial Performance Relighting**|Mingming He et.al.|[2410.08188](http://arxiv.org/abs/2410.08188)|null|
 |**2024-10-07**|**Improving Object Detection via Local-global Contrastive Learning**|Danai Triantafyllidou et.al.|[2410.05058](http://arxiv.org/abs/2410.05058)|null|
 |**2024-10-03**|**Improving Neural Optimal Transport via Displacement Interpolation**|Jaemoo Choi et.al.|[2410.03783](http://arxiv.org/abs/2410.03783)|null|
 |**2024-10-03**|**PixelShuffler: A Simple Image Translation Through Pixel Rearrangement**|Omar Zamzam et.al.|[2410.03021](http://arxiv.org/abs/2410.03021)|**[link](https://github.com/OmarSZamzam/PixelShuffler)**|
