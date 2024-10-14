@@ -26,13 +26,13 @@ layout: default
 |**2024-10-10**|**AI Surrogate Model for Distributed Computing Workloads**|David K. Park et.al.|[2410.07940](http://arxiv.org/abs/2410.07940)|null|
 |**2024-10-09**|**IterComp: Iterative Composition-Aware Feedback Learning from Model Gallery for Text-to-Image Generation**|Xinchen Zhang et.al.|[2410.07171](http://arxiv.org/abs/2410.07171)|**[link](https://github.com/yangling0818/itercomp)**|
 |**2024-10-09**|**AvatarGO: Zero-shot 4D Human-Object Interaction Generation and Animation**|Yukang Cao et.al.|[2410.07164](http://arxiv.org/abs/2410.07164)|null|
-|**2024-10-09**|**InstructG2I: Synthesizing Images from Multimodal Attributed Graphs**|Bowen Jin et.al.|[2410.07157](http://arxiv.org/abs/2410.07157)|null|
+|**2024-10-09**|**InstructG2I: Synthesizing Images from Multimodal Attributed Graphs**|Bowen Jin et.al.|[2410.07157](http://arxiv.org/abs/2410.07157)|**[link](https://github.com/PeterGriffinJin/InstructG2I)**|
 |**2024-10-09**|**Trans4D: Realistic Geometry-Aware Transition for Compositional Text-to-4D Synthesis**|Bohan Zeng et.al.|[2410.07155](http://arxiv.org/abs/2410.07155)|**[link](https://github.com/yangling0818/trans4d)**|
 |**2024-10-09**|**Diffusion Density Estimators**|Akhil Premkumar et.al.|[2410.06986](http://arxiv.org/abs/2410.06986)|null|
 |**2024-10-09**|**Jointly Generating Multi-view Consistent PBR Textures using Collaborative Control**|Shimon Vainer et.al.|[2410.06985](http://arxiv.org/abs/2410.06985)|null|
-|**2024-10-09**|**Representation Alignment for Generation: Training Diffusion Transformers Is Easier Than You Think**|Sihyun Yu et.al.|[2410.06940](http://arxiv.org/abs/2410.06940)|null|
+|**2024-10-09**|**Representation Alignment for Generation: Training Diffusion Transformers Is Easier Than You Think**|Sihyun Yu et.al.|[2410.06940](http://arxiv.org/abs/2410.06940)|**[link](https://github.com/sihyun-yu/REPA)**|
 |**2024-10-09**|**Boosting Few-Shot Detection with Large Language Models and Layout-to-Image Synthesis**|Ahmed Abdullah et.al.|[2410.06841](http://arxiv.org/abs/2410.06841)|null|
-|**2024-10-09**|**Diffuse or Confuse: A Diffusion Deepfake Speech Dataset**|Anton Firc et.al.|[2410.06796](http://arxiv.org/abs/2410.06796)|null|
+|**2024-10-09**|**Diffuse or Confuse: A Diffusion Deepfake Speech Dataset**|Anton Firc et.al.|[2410.06796](http://arxiv.org/abs/2410.06796)|**[link](https://github.com/AntonFirc/diffusion-deepfake-speech-dataset)**|
 |**2024-10-09**|**Diff-FMT: Diffusion Models for Fluorescence Molecular Tomography**|Qianqian Xue et.al.|[2410.06757](http://arxiv.org/abs/2410.06757)|null|
 |**2024-10-07**|**DART: A Diffusion-Based Autoregressive Motion Model for Real-Time Text-Driven Motion Control**|Kaifeng Zhao et.al.|[2410.05260](http://arxiv.org/abs/2410.05260)|null|
 |**2024-10-07**|**GS-VTON: Controllable 3D Virtual Try-on with Gaussian Splatting**|Yukang Cao et.al.|[2410.05259](http://arxiv.org/abs/2410.05259)|null|
@@ -51,7 +51,7 @@ layout: default
 |**2024-10-04**|**Diffusion State-Guided Projected Gradient for Inverse Problems**|Rayhan Zirvi et.al.|[2410.03463](http://arxiv.org/abs/2410.03463)|null|
 |**2024-10-04**|**Generative Semantic Communication for Text-to-Speech Synthesis**|Jiahao Zheng et.al.|[2410.03459](http://arxiv.org/abs/2410.03459)|null|
 |**2024-10-04**|**Dynamic Diffusion Transformer**|Wangbo Zhao et.al.|[2410.03456](http://arxiv.org/abs/2410.03456)|**[link](https://github.com/nus-hpc-ai-lab/dynamic-diffusion-transformer)**|
-|**2024-10-04**|**CLoSD: Closing the Loop between Simulation and Diffusion for multi-task character control**|Guy Tevet et.al.|[2410.03441](http://arxiv.org/abs/2410.03441)|null|
+|**2024-10-04**|**CLoSD: Closing the Loop between Simulation and Diffusion for multi-task character control**|Guy Tevet et.al.|[2410.03441](http://arxiv.org/abs/2410.03441)|**[link](https://github.com/GuyTevet/CLoSD)**|
 |**2024-10-04**|**The scaling behaviour of localised and extended states in one-dimensional tight-binding models with disorder**|Luca Schaefer et.al.|[2410.03405](http://arxiv.org/abs/2410.03405)|null|
 |**2024-10-04**|**Latent Abstractions in Generative Diffusion Models**|Giulio Franzese et.al.|[2410.03368](http://arxiv.org/abs/2410.03368)|null|
 |**2024-10-03**|**Revisit Large-Scale Image-Caption Data in Pre-training Multimodal Foundation Models**|Zhengfeng Lai et.al.|[2410.02740](http://arxiv.org/abs/2410.02740)|null|
@@ -60,7 +60,7 @@ layout: default
 |**2024-10-03**|**GUD: Generation with Unified Diffusion**|Mathis Gerdes et.al.|[2410.02667](http://arxiv.org/abs/2410.02667)|null|
 |**2024-10-03**|**Efficient calibration of the shifted square-root diffusion model to credit default swap spreads using asymptotic approximations**|Ankush Agarwal et.al.|[2410.02645](http://arxiv.org/abs/2410.02645)|null|
 |**2024-10-04**|**Diffusion Models are Evolutionary Algorithms**|Yanbo Zhang et.al.|[2410.02543](http://arxiv.org/abs/2410.02543)|**[link](https://github.com/Zhangyanbo/diffusion-evolution)**|
-|**2024-10-03**|**Lightweight Diffusion Models for Resource-Constrained Semantic Communication**|Giovanni Pignata et.al.|[2410.02491](http://arxiv.org/abs/2410.02491)|null|
+|**2024-10-03**|**Lightweight Diffusion Models for Resource-Constrained Semantic Communication**|Giovanni Pignata et.al.|[2410.02491](http://arxiv.org/abs/2410.02491)|**[link](https://github.com/ispamm/q-gesco)**|
 |**2024-10-03**|**Towards a Theoretical Understanding of Memorization in Diffusion Models**|Yunhao Chen et.al.|[2410.02467](http://arxiv.org/abs/2410.02467)|null|
 |**2024-10-03**|**Eliminating Oversaturation and Artifacts of High Guidance Scales in Diffusion Models**|Seyedmorteza Sadat et.al.|[2410.02416](http://arxiv.org/abs/2410.02416)|null|
 |**2024-10-03**|**Diffusion Meets Options: Hierarchical Generative Skill Composition for Temporally-Extended Tasks**|Zeyu Feng et.al.|[2410.02389](http://arxiv.org/abs/2410.02389)|null|
@@ -81,7 +81,7 @@ layout: default
 |**2024-09-30**|**Conditional Diffusion Models are Minimax-Optimal and Manifold-Adaptive for Conditional Distribution Estimation**|Rong Tang et.al.|[2409.20124](http://arxiv.org/abs/2409.20124)|null|
 |**2024-09-30**|**Reaction-diffusion model for a population structured in phenotype and space I -- Criterion for persistence**|Nathanaël Boutillon et.al.|[2409.20118](http://arxiv.org/abs/2409.20118)|null|
 |**2024-09-30**|**RoCoTex: A Robust Method for Consistent Texture Synthesis with Diffusion Models**|Jangyeong Kim et.al.|[2409.19989](http://arxiv.org/abs/2409.19989)|null|
-|**2024-09-30**|**Magnet: We Never Know How Text-to-Image Diffusion Models Work, Until We Learn How Vision-Language Models Function**|Chenyi Zhuang et.al.|[2409.19967](http://arxiv.org/abs/2409.19967)|null|
+|**2024-09-30**|**Magnet: We Never Know How Text-to-Image Diffusion Models Work, Until We Learn How Vision-Language Models Function**|Chenyi Zhuang et.al.|[2409.19967](http://arxiv.org/abs/2409.19967)|**[link](https://github.com/i2-multimedia-lab/magnet)**|
 |**2024-10-02**|**Image Copy Detection for Diffusion Models**|Wenhao Wang et.al.|[2409.19952](http://arxiv.org/abs/2409.19952)|null|
 |**2024-09-30**|**Task-agnostic Pre-training and Task-guided Fine-tuning for Versatile Diffusion Planner**|Chenyou Fan et.al.|[2409.19949](http://arxiv.org/abs/2409.19949)|null|
 |**2024-09-27**|**$O(d/T)$ Convergence Theory for Diffusion Probabilistic Models under Minimal Assumptions**|Gen Li et.al.|[2409.18959](http://arxiv.org/abs/2409.18959)|null|
@@ -263,7 +263,7 @@ layout: default
 |**2024-08-27**|**Foundation Models for Music: A Survey**|Yinghao Ma et.al.|[2408.14340](http://arxiv.org/abs/2408.14340)|**[link](https://github.com/nicolaus625/fm4music)**|
 |**2024-08-26**|**TC-PDM: Temporally Consistent Patch Diffusion Models for Infrared-to-Visible Video Translation**|Anh-Dzung Doan et.al.|[2408.14227](http://arxiv.org/abs/2408.14227)|null|
 |**2024-08-26**|**MagicMan: Generative Novel View Synthesis of Humans with 3D-Aware Diffusion and Iterative Refinement**|Xu He et.al.|[2408.14211](http://arxiv.org/abs/2408.14211)|null|
-|**2024-08-27**|**SwiftBrush v2: Make Your One-step Diffusion Model Better Than Its Teacher**|Trung Dao et.al.|[2408.14176](http://arxiv.org/abs/2408.14176)|null|
+|**2024-08-27**|**SwiftBrush v2: Make Your One-step Diffusion Model Better Than Its Teacher**|Trung Dao et.al.|[2408.14176](http://arxiv.org/abs/2408.14176)|**[link](https://github.com/vinairesearch/swiftbrushv2)**|
 |**2024-08-26**|**Foodfusion: A Novel Approach for Food Image Composition via Diffusion Models**|Chaohua Shi et.al.|[2408.14135](http://arxiv.org/abs/2408.14135)|null|
 |**2024-08-26**|**SurGen: Text-Guided Diffusion Model for Surgical Video Generation**|Joseph Cho et.al.|[2408.14028](http://arxiv.org/abs/2408.14028)|null|
 |**2024-08-26**|**Pixel-Aligned Multi-View Generation with Depth Guided Decoder**|Zhenggang Tang et.al.|[2408.14016](http://arxiv.org/abs/2408.14016)|null|
@@ -1817,7 +1817,7 @@ layout: default
 |**2023-12-21**|**Carve3D: Improving Multi-view Reconstruction Consistency for Diffusion Models with RL Finetuning**|Desai Xie et.al.|[2312.13980](http://arxiv.org/abs/2312.13980)|null|
 |**2023-12-21**|**Paint3D: Paint Anything 3D with Lighting-Less Texture Diffusion Models**|Xianfang Zeng et.al.|[2312.13913](http://arxiv.org/abs/2312.13913)|**[link](https://github.com/opentexture/paint3d)**|
 |**2023-12-21**|**Align Your Gaussians: Text-to-4D with Dynamic 3D Gaussians and Composed Diffusion Models**|Huan Ling et.al.|[2312.13763](http://arxiv.org/abs/2312.13763)|null|
-|**2023-12-21**|**Free-Editor: Zero-shot Text-driven 3D Scene Editing**|Nazmul Karim et.al.|[2312.13663](http://arxiv.org/abs/2312.13663)|null|
+|**2023-12-21**|**Free-Editor: Zero-shot Text-driven 3D Scene Editing**|Nazmul Karim et.al.|[2312.13663](http://arxiv.org/abs/2312.13663)|**[link](https://github.com/nazmul-karim170/Free-Editor)**|
 |**2023-12-21**|**Diff-Oracle: Diffusion Model for Oracle Character Generation with Controllable Styles and Contents**|Jing Li et.al.|[2312.13631](http://arxiv.org/abs/2312.13631)|null|
 |**2023-12-21**|**Navigating the Structured What-If Spaces: Counterfactual Generation via Structured Diffusion**|Nishtha Madaan et.al.|[2312.13616](http://arxiv.org/abs/2312.13616)|null|
 |**2023-12-21**|**Front stability of infinitely steep travelling waves in population biology**|Matthew J Simpson et.al.|[2312.13601](http://arxiv.org/abs/2312.13601)|**[link](https://github.com/alex-tam/onephase_porousfisherstefanstability)**|
@@ -2172,7 +2172,7 @@ layout: default
 |**2024-10-01**|**GLMHA A Guided Low-rank Multi-Head Self-Attention for Efficient Image Restoration and Spectral Reconstruction**|Zaid Ilyas et.al.|[2410.00380](http://arxiv.org/abs/2410.00380)|null|
 |**2024-09-30**|**A Survey on Diffusion Models for Inverse Problems**|Giannis Daras et.al.|[2410.00083](http://arxiv.org/abs/2410.00083)|null|
 |**2024-09-30**|**UIR-LoRA: Achieving Universal Image Restoration through Multiple Low-Rank Adaptation**|Cheng Zhang et.al.|[2409.20197](http://arxiv.org/abs/2409.20197)|**[link](https://github.com/justones/uir-lora)**|
-|**2024-09-28**|**Restore Anything with Masks: Leveraging Mask Image Modeling for Blind All-in-One Image Restoration**|Chu-Jie Qin et.al.|[2409.19403](http://arxiv.org/abs/2409.19403)|null|
+|**2024-09-28**|**Restore Anything with Masks: Leveraging Mask Image Modeling for Blind All-in-One Image Restoration**|Chu-Jie Qin et.al.|[2409.19403](http://arxiv.org/abs/2409.19403)|**[link](https://github.com/dragonisss/ram)**|
 |**2024-09-26**|**Toward Efficient Deep Blind RAW Image Restoration**|Marcos V. Conde et.al.|[2409.18204](http://arxiv.org/abs/2409.18204)|**[link](https://github.com/mv-lab/AISP)**|
 |**2024-09-26**|**Taming Diffusion Prior for Image Super-Resolution with Domain Shift SDEs**|Qinpeng Cui et.al.|[2409.17778](http://arxiv.org/abs/2409.17778)|**[link](https://github.com/qinpengcui/dossr)**|
 |**2024-09-23**|**PixWizard: Versatile Image-to-Image Visual Assistant with Open-Language Instructions**|Weifeng Lin et.al.|[2409.15278](http://arxiv.org/abs/2409.15278)|**[link](https://github.com/afeng-x/pixwizard)**|
@@ -2262,7 +2262,7 @@ layout: default
 |**2024-06-13**|**DSL-FIQA: Assessing Facial Image Quality via Dual-Set Degradation Learning and Landmark-Guided Transformer**|Wei-Ting Chen et.al.|[2406.09622](http://arxiv.org/abs/2406.09622)|null|
 |**2024-06-13**|**Blind Super-Resolution via Meta-learning and Markov Chain Monte Carlo Simulation**|Jingyuan Xia et.al.|[2406.08896](http://arxiv.org/abs/2406.08896)|**[link](https://github.com/xylgroup/mlmc)**|
 |**2024-06-12**|**LayeredDoc: Domain Adaptive Document Restoration with a Layer Separation Approach**|Maria Pilligua et.al.|[2406.08610](http://arxiv.org/abs/2406.08610)|**[link](https://github.com/mpilligua/layereddoc)**|
-|**2024-06-12**|**DDR: Exploiting Deep Degradation Response as Flexible Image Descriptor**|Juncheng Wu et.al.|[2406.08377](http://arxiv.org/abs/2406.08377)|null|
+|**2024-06-12**|**DDR: Exploiting Deep Degradation Response as Flexible Image Descriptor**|Juncheng Wu et.al.|[2406.08377](http://arxiv.org/abs/2406.08377)|**[link](https://github.com/eezkni/ddr)**|
 |**2024-06-14**|**One-Step Effective Diffusion Network for Real-World Image Super-Resolution**|Rongyuan Wu et.al.|[2406.08177](http://arxiv.org/abs/2406.08177)|**[link](https://github.com/cswry/osediff)**|
 |**2024-06-12**|**3D CBCT Challenge 2024: Improved Cone Beam CT Reconstruction using SwinIR-Based Sinogram and Image Enhancement**|Sasidhar Alavala et.al.|[2406.08048](http://arxiv.org/abs/2406.08048)|null|
 |**2024-06-12**|**DemosaicFormer: Coarse-to-Fine Demosaicing Network for HybridEVS Camera**|Senyan Xu et.al.|[2406.07951](http://arxiv.org/abs/2406.07951)|**[link](https://github.com/queahren/demosaicformer)**|
