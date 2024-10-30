@@ -22,6 +22,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-29**|**Capacity Control is an Effective Memorization Mitigation Mechanism in Text-Conditional Diffusion Models**|Raman Dutt et.al.|[2410.22149](http://arxiv.org/abs/2410.22149)|**[link](https://github.com/raman1121/diffusion_memorization_hpo)**|
+|**2024-10-29**|**Variational inference for pile-up removal at hadron colliders with diffusion models**|Malte Algren et.al.|[2410.22074](http://arxiv.org/abs/2410.22074)|null|
+|**2024-10-29**|**Dual Conditional Diffusion Models for Sequential Recommendation**|Hongtao Huang et.al.|[2410.21967](http://arxiv.org/abs/2410.21967)|null|
+|**2024-10-29**|**PrefPaint: Aligning Image Inpainting Diffusion Model with Human Preference**|Kendong Liu et.al.|[2410.21966](http://arxiv.org/abs/2410.21966)|null|
+|**2024-10-29**|**CT to PET Translation: A Large-scale Dataset and Domain-Knowledge-Guided Diffusion Approach**|Dac Thai Nguyen et.al.|[2410.21932](http://arxiv.org/abs/2410.21932)|**[link](https://github.com/thanhhff/CPDM)**|
+|**2024-10-29**|**Guided Diffusion-based Counterfactual Augmentation for Robust Session-based Recommendation**|Muskan Gupta et.al.|[2410.21892](http://arxiv.org/abs/2410.21892)|null|
+|**2024-10-29**|**Diffusion as Reasoning: Enhancing Object Goal Navigation with LLM-Biased Diffusion Model**|Yiming Ji et.al.|[2410.21842](http://arxiv.org/abs/2410.21842)|null|
+|**2024-10-29**|**Volumetric Conditioning Module to Control Pretrained Diffusion Models for 3D Medical Images**|Suhyun Ahn et.al.|[2410.21826](http://arxiv.org/abs/2410.21826)|**[link](https://github.com/Ahn-Ssu/VCM)**|
+|**2024-10-29**|**HairDiffusion: Vivid Multi-Colored Hair Editing via Latent Diffusion**|Yu Zeng et.al.|[2410.21789](http://arxiv.org/abs/2410.21789)|null|
+|**2024-10-29**|**DiffusionVel: Multi-Information Integrated Velocity Inversion Using Generative Diffusion Models**|Hao Zhang et.al.|[2410.21776](http://arxiv.org/abs/2410.21776)|null|
 |**2024-10-28**|**On Inductive Biases That Enable Generalization of Diffusion Transformers**|Jie An et.al.|[2410.21273](http://arxiv.org/abs/2410.21273)|null|
 |**2024-10-28**|**One-Step Diffusion Policy: Fast Visuomotor Policies via Diffusion Distillation**|Zhendong Wang et.al.|[2410.21257](http://arxiv.org/abs/2410.21257)|null|
 |**2024-10-28**|**On learning higher-order cumulants in diffusion models**|Gert Aarts et.al.|[2410.21212](http://arxiv.org/abs/2410.21212)|null|
@@ -1986,6 +1996,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-29**|**Predicting the Encoding Error of SIRENs**|Jeremy Vonderfecht et.al.|[2410.21645](http://arxiv.org/abs/2410.21645)|null|
+|**2024-10-29**|**Neural Experts: Mixture of Experts for Implicit Neural Representations**|Yizhak Ben-Shabat et.al.|[2410.21643](http://arxiv.org/abs/2410.21643)|null|
 |**2024-10-29**|**EEG-Driven 3D Object Reconstruction with Color Consistency and Diffusion Prior**|Xin Xiang et.al.|[2410.20981](http://arxiv.org/abs/2410.20981)|null|
 |**2024-10-16**|**Radon Implicit Field Transform (RIFT): Learning Scenes from Radar Signals**|Daqian Bao et.al.|[2410.19801](http://arxiv.org/abs/2410.19801)|null|
 |**2024-10-25**|**ST-NeRP: Spatial-Temporal Neural Representation Learning with Prior Embedding for Patient-specific Imaging Study**|Liang Qiu et.al.|[2410.19283](http://arxiv.org/abs/2410.19283)|null|
@@ -2585,6 +2597,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-29**|**DiffSTR: Controlled Diffusion Models for Scene Text Removal**|Sanhita Pathak et.al.|[2410.21721](http://arxiv.org/abs/2410.21721)|null|
 |**2024-10-23**|**A Wavelet Diffusion GAN for Image Super-Resolution**|Lorenzo Aloisi et.al.|[2410.17966](http://arxiv.org/abs/2410.17966)|null|
 |**2024-10-23**|**AdaDiffSR: Adaptive Region-aware Dynamic Acceleration Diffusion Model for Real-World Image Super-Resolution**|Yuanting Fan et.al.|[2410.17752](http://arxiv.org/abs/2410.17752)|null|
 |**2024-10-23**|**Deep Generative Models for 3D Medical Image Synthesis**|Paul Friedrich et.al.|[2410.17664](http://arxiv.org/abs/2410.17664)|null|
