@@ -14,6 +14,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-05**|**DiffLM: Controllable Synthetic Data Generation via Diffusion Language Models**|Ying Zhou et.al.|[2411.03250](http://arxiv.org/abs/2411.03250)|null|
+|**2024-11-05**|**On Improved Conditioning Mechanisms and Pre-training Strategies for Diffusion Models**|Tariq Berrada Ifriqi et.al.|[2411.03177](http://arxiv.org/abs/2411.03177)|null|
+|**2024-11-05**|**Unleashing the power of novel conditional generative approaches for new materials discovery**|Lev Novitskiy et.al.|[2411.03156](http://arxiv.org/abs/2411.03156)|**[link](https://github.com/AIRI-Institute/conditional-crystal-generation)**|
+|**2024-11-05**|**Gradient-Guided Conditional Diffusion Models for Private Image Reconstruction: Analyzing Adversarial Impacts of Differential Privacy and Denoising**|Tao Huang et.al.|[2411.03053](http://arxiv.org/abs/2411.03053)|null|
+|**2024-11-05**|**GarVerseLOD: High-Fidelity 3D Garment Reconstruction from a Single In-the-Wild Image using a Dataset with Levels of Details**|Zhongjin Luo et.al.|[2411.03047](http://arxiv.org/abs/2411.03047)|null|
+|**2024-11-05**|**IMUDiffusion: A Diffusion Model for Multivariate Time Series Synthetisation for Inertial Motion Capturing Systems**|Heiko Oppel et.al.|[2411.02954](http://arxiv.org/abs/2411.02954)|null|
+|**2024-11-05**|**LDPM: Towards undersampled MRI reconstruction with MR-VAE and Latent Diffusion Prior**|Xingjian Tang et.al.|[2411.02951](http://arxiv.org/abs/2411.02951)|null|
+|**2024-11-05**|**How much is a noisy image worth? Data Scaling Laws for Ambient Diffusion**|Giannis Daras et.al.|[2411.02780](http://arxiv.org/abs/2411.02780)|null|
+|**2024-11-04**|**Modelling Alzheimer's Protein Dynamics: A Data-Driven Integration of Stochastic Methods, Machine Learning and Connectome Insights**|Alec MacIver et.al.|[2411.02644](http://arxiv.org/abs/2411.02644)|null|
 |**2024-11-04**|**Training-free Regional Prompting for Diffusion Transformers**|Anthony Chen et.al.|[2411.02395](http://arxiv.org/abs/2411.02395)|**[link](https://github.com/antonioo-c/regional-prompting-flux)**|
 |**2024-11-04**|**Diffusion-based Generative Multicasting with Intent-aware Semantic Decomposition**|Xinkai Liu et.al.|[2411.02334](http://arxiv.org/abs/2411.02334)|null|
 |**2024-11-04**|**LayerDAG: A Layerwise Autoregressive Diffusion Model for Directed Acyclic Graph Generation**|Mufei Li et.al.|[2411.02322](http://arxiv.org/abs/2411.02322)|**[link](https://github.com/graph-com/layerdag)**|
