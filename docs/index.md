@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.09
+## Updated on 2024.11.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
@@ -2049,7 +2049,7 @@ layout: default
 |**2024-11-07**|**VAIR: Visuo-Acoustic Implicit Representations for Low-Cost, Multi-Modal Transparent Surface Reconstruction in Indoor Scenes**|Advaith V. Sethuraman et.al.|[2411.04963](http://arxiv.org/abs/2411.04963)|null|
 |**2024-11-06**|**Where Do We Stand with Implicit Neural Representations? A Technical and Performance Survey**|Amer Essakine et.al.|[2411.03688](http://arxiv.org/abs/2411.03688)|null|
 |**2024-10-31**|**MS-Glance: Non-semantic context vectors and the applications in supervising image reconstruction**|Ziqi Gao et.al.|[2410.23577](http://arxiv.org/abs/2410.23577)|**[link](https://github.com/z7gao/msglance)**|
-|**2024-10-30**|**Understanding Representation of Deep Equilibrium Models from Neural Collapse Perspective**|Haixiang sun et.al.|[2410.23391](http://arxiv.org/abs/2410.23391)|null|
+|**2024-10-30**|**Understanding Representation of Deep Equilibrium Models from Neural Collapse Perspective**|Haixiang Sun et.al.|[2410.23391](http://arxiv.org/abs/2410.23391)|null|
 |**2024-10-29**|**Predicting the Encoding Error of SIRENs**|Jeremy Vonderfecht et.al.|[2410.21645](http://arxiv.org/abs/2410.21645)|null|
 |**2024-10-29**|**Neural Experts: Mixture of Experts for Implicit Neural Representations**|Yizhak Ben-Shabat et.al.|[2410.21643](http://arxiv.org/abs/2410.21643)|null|
 |**2024-10-29**|**EEG-Driven 3D Object Reconstruction with Color Consistency and Diffusion Prior**|Xin Xiang et.al.|[2410.20981](http://arxiv.org/abs/2410.20981)|null|
