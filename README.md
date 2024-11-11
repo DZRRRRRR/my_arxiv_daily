@@ -49,7 +49,7 @@
 |**2024-11-05**|**GarVerseLOD: High-Fidelity 3D Garment Reconstruction from a Single In-the-Wild Image using a Dataset with Levels of Details**|Zhongjin Luo et.al.|[2411.03047](http://arxiv.org/abs/2411.03047)|null|
 |**2024-11-05**|**IMUDiffusion: A Diffusion Model for Multivariate Time Series Synthetisation for Inertial Motion Capturing Systems**|Heiko Oppel et.al.|[2411.02954](http://arxiv.org/abs/2411.02954)|null|
 |**2024-11-05**|**LDPM: Towards undersampled MRI reconstruction with MR-VAE and Latent Diffusion Prior**|Xingjian Tang et.al.|[2411.02951](http://arxiv.org/abs/2411.02951)|null|
-|**2024-11-05**|**How much is a noisy image worth? Data Scaling Laws for Ambient Diffusion**|Giannis Daras et.al.|[2411.02780](http://arxiv.org/abs/2411.02780)|null|
+|**2024-11-05**|**How much is a noisy image worth? Data Scaling Laws for Ambient Diffusion**|Giannis Daras et.al.|[2411.02780](http://arxiv.org/abs/2411.02780)|**[link](https://github.com/giannisdaras/ambient-laws)**|
 |**2024-11-04**|**Modelling Alzheimer's Protein Dynamics: A Data-Driven Integration of Stochastic Methods, Machine Learning and Connectome Insights**|Alec MacIver et.al.|[2411.02644](http://arxiv.org/abs/2411.02644)|null|
 |**2024-11-04**|**Training-free Regional Prompting for Diffusion Transformers**|Anthony Chen et.al.|[2411.02395](http://arxiv.org/abs/2411.02395)|**[link](https://github.com/antonioo-c/regional-prompting-flux)**|
 |**2024-11-04**|**Diffusion-based Generative Multicasting with Intent-aware Semantic Decomposition**|Xinkai Liu et.al.|[2411.02334](http://arxiv.org/abs/2411.02334)|null|
@@ -60,7 +60,7 @@
 |**2024-11-04**|**Model Integrity when Unlearning with T2I Diffusion Models**|Andrea Schioppa et.al.|[2411.02068](http://arxiv.org/abs/2411.02068)|null|
 |**2024-11-04**|**DiffuMask-Editor: A Novel Paradigm of Integration Between the Segmentation Diffusion Model and Image Editing to Improve Segmentation Ability**|Bo Gao et.al.|[2411.01819](http://arxiv.org/abs/2411.01819)|null|
 |**2024-11-04**|**MoMu-Diffusion: On Learning Long-Term Motion-Music Synchronization and Correspondence**|Fuming You et.al.|[2411.01805](http://arxiv.org/abs/2411.01805)|null|
-|**2024-11-04**|**A Regressor-Guided Graph Diffusion Model for Predicting Enzyme Mutations to Enhance Turnover Number**|Xiaozhu Yu et.al.|[2411.01745](http://arxiv.org/abs/2411.01745)|null|
+|**2024-11-04**|**A Regressor-Guided Graph Diffusion Model for Predicting Enzyme Mutations to Enhance Turnover Number**|Xiaozhu Yu et.al.|[2411.01745](http://arxiv.org/abs/2411.01745)|**[link](https://github.com/xz32yu/kcatdiffuser)**|
 |**2024-10-31**|**DiffPano: Scalable and Consistent Text to Panorama Generation with Spherical Epipolar-Aware Diffusion**|Weicai Ye et.al.|[2410.24203](http://arxiv.org/abs/2410.24203)|**[link](https://github.com/zju3dv/diffpano)**|
 |**2024-10-31**|**Redefining <Creative> in Dictionary: Towards a Enhanced Semantic Understanding of Creative Generation**|Fu Feng et.al.|[2410.24160](http://arxiv.org/abs/2410.24160)|null|
 |**2024-10-31**|**Scaling Concept With Text-Guided Diffusion Models**|Chao Huang et.al.|[2410.24151](http://arxiv.org/abs/2410.24151)|null|
@@ -547,7 +547,7 @@
 |**2024-08-13**|**DCMSA: Multi-Head Self-Attention Mechanism Based on Deformable Convolution For Seismic Data Denoising**|Wang Mingwei et.al.|[2408.06963](http://arxiv.org/abs/2408.06963)|null|
 |**2024-08-13**|**Diffusion Model for Slate Recommendation**|Federico Tomasi et.al.|[2408.06883](http://arxiv.org/abs/2408.06883)|null|
 |**2024-08-13**|**DiffLoRA: Generating Personalized Low-Rank Adaptation Weights with Diffusion**|Yujia Wu et.al.|[2408.06740](http://arxiv.org/abs/2408.06740)|null|
-|**2024-08-13**|**DiffSG: A Generative Solver for Network Optimization with Diffusion Model**|Ruihuai Liang et.al.|[2408.06701](http://arxiv.org/abs/2408.06701)|null|
+|**2024-08-13**|**DiffSG: A Generative Solver for Network Optimization with Diffusion Model**|Ruihuai Liang et.al.|[2408.06701](http://arxiv.org/abs/2408.06701)|**[link](https://github.com/qiyu3816/DiffSG)**|
 |**2024-08-13**|**DC3DO: Diffusion Classifier for 3D Objects**|Nursena Koprucu et.al.|[2408.06693](http://arxiv.org/abs/2408.06693)|**[link](https://github.com/sgi-2023/3d-building-classification)**|
 |**2024-08-13**|**Leveraging Priors via Diffusion Bridge for Time Series Generation**|Jinseong Park et.al.|[2408.06672](http://arxiv.org/abs/2408.06672)|null|
 |**2024-08-13**|**Hybrid SD: Edge-Cloud Collaborative Inference for Stable Diffusion Models**|Chenqian Yan et.al.|[2408.06646](http://arxiv.org/abs/2408.06646)|null|
@@ -1027,7 +1027,7 @@
 |**2024-05-30**|**$E^{3}$ Gen: Efficient, Expressive and Editable Avatars Generation**|Weitian Zhang et.al.|[2405.19203](http://arxiv.org/abs/2405.19203)|null|
 |**2024-05-29**|**Diffusion-based Dynamics Models for Long-Horizon Rollout in Offline Reinforcement Learning**|Hanye Zhao et.al.|[2405.19189](http://arxiv.org/abs/2405.19189)|**[link](https://github.com/fineartz/dydiff)**|
 |**2024-05-29**|**Tuning-Free Alignment of Diffusion Models with Direct Noise Optimization**|Zhiwei Tang et.al.|[2405.18881](http://arxiv.org/abs/2405.18881)|**[link](https://github.com/tzw1998/direct-noise-optimization)**|
-|**2024-05-29**|**Principled Probabilistic Imaging using Diffusion Models as Plug-and-Play Priors**|Zihui Wu et.al.|[2405.18782](http://arxiv.org/abs/2405.18782)|null|
+|**2024-05-29**|**Principled Probabilistic Imaging using Diffusion Models as Plug-and-Play Priors**|Zihui Wu et.al.|[2405.18782](http://arxiv.org/abs/2405.18782)|**[link](https://github.com/zihuiwu/PnP-DM-public)**|
 |**2024-05-29**|**RNAFlow: RNA Structure & Sequence Design via Inverse Folding-Based Flow Matching**|Divya Nori et.al.|[2405.18768](http://arxiv.org/abs/2405.18768)|**[link](https://github.com/divnori/rnaflow)**|
 |**2024-05-29**|**Stationary distribution approximations of Two-island Wright-Fisher and seed-bank models using Stein's method**|Han L. Gan et.al.|[2405.18763](http://arxiv.org/abs/2405.18763)|null|
 |**2024-05-29**|**Preferred-Action-Optimized Diffusion Policies for Offline Reinforcement Learning**|Tianle Zhang et.al.|[2405.18729](http://arxiv.org/abs/2405.18729)|null|
@@ -1321,7 +1321,7 @@
 |**2024-04-12**|**Lossy Image Compression with Foundation Diffusion Models**|Lucas Relic et.al.|[2404.08580](http://arxiv.org/abs/2404.08580)|null|
 |**2024-04-12**|**PiRD: Physics-informed Residual Diffusion for Flow Field Reconstruction**|Siming Shan et.al.|[2404.08412](http://arxiv.org/abs/2404.08412)|null|
 |**2024-04-12**|**Struggle with Adversarial Defense? Try Diffusion**|Yujie Li et.al.|[2404.08273](http://arxiv.org/abs/2404.08273)|**[link](https://github.com/zzhjsaiosjd/tmdc_sd_2)**|
-|**2024-04-12**|**Balanced Mixed-Type Tabular Data Synthesis with Diffusion Models**|Zeyu Yang et.al.|[2404.08254](http://arxiv.org/abs/2404.08254)|null|
+|**2024-04-12**|**Balanced Mixed-Type Tabular Data Synthesis with Diffusion Models**|Zeyu Yang et.al.|[2404.08254](http://arxiv.org/abs/2404.08254)|**[link](https://github.com/comp-well-org/fair-tab-diffusion)**|
 |**2024-04-12**|**Interest Maximization in Social Networks**|Rahul Kumar Gautam et.al.|[2404.08236](http://arxiv.org/abs/2404.08236)|null|
 |**2024-04-11**|**ControlNet++: Improving Conditional Controls with Efficient Consistency Feedback**|Ming Li et.al.|[2404.07987](http://arxiv.org/abs/2404.07987)|**[link](https://github.com/liming-ai/ControlNet_Plus_Plus)**|
 |**2024-04-11**|**Taming Stable Diffusion for Text to 360° Panorama Image Generation**|Cheng Zhang et.al.|[2404.07949](http://arxiv.org/abs/2404.07949)|**[link](https://github.com/chengzhag/panfusion)**|
@@ -1330,7 +1330,7 @@
 |**2024-04-11**|**An Overview of Diffusion Models: Applications, Guided Generation, Statistical Rates and Optimization**|Minshuo Chen et.al.|[2404.07771](http://arxiv.org/abs/2404.07771)|null|
 |**2024-04-11**|**Joint Conditional Diffusion Model for Image Restoration with Mixed Degradations**|Yufeng Yue et.al.|[2404.07770](http://arxiv.org/abs/2404.07770)|null|
 |**2024-04-11**|**Diffusing in Someone Else's Shoes: Robotic Perspective Taking with Diffusion**|Josua Spisak et.al.|[2404.07735](http://arxiv.org/abs/2404.07735)|null|
-|**2024-04-11**|**Applying Guidance in a Limited Interval Improves Sample and Distribution Quality in Diffusion Models**|Tuomas Kynkäänniemi et.al.|[2404.07724](http://arxiv.org/abs/2404.07724)|null|
+|**2024-04-11**|**Applying Guidance in a Limited Interval Improves Sample and Distribution Quality in Diffusion Models**|Tuomas Kynkäänniemi et.al.|[2404.07724](http://arxiv.org/abs/2404.07724)|**[link](https://github.com/kynkaat/guidance-interval)**|
 |**2024-04-11**|**Implicit and Explicit Language Guidance for Diffusion-based Visual Perception**|Hefeng Wang et.al.|[2404.07600](http://arxiv.org/abs/2404.07600)|null|
 |**2024-04-11**|**ObjBlur: A Curriculum Learning Approach With Progressive Object-Level Blurring for Improved Layout-to-Image Generation**|Stanislav Frolov et.al.|[2404.07564](http://arxiv.org/abs/2404.07564)|null|
 |**2024-04-10**|**GoodDrag: Towards Good Practices for Drag Editing with Diffusion Models**|Zewei Zhang et.al.|[2404.07206](http://arxiv.org/abs/2404.07206)|null|
@@ -2513,7 +2513,7 @@
 |**2024-06-11**|**Beware of Aliases -- Signal Preservation is Crucial for Robust Image Restoration**|Shashank Agnihotri et.al.|[2406.07435](http://arxiv.org/abs/2406.07435)|null|
 |**2024-06-11**|**Unleashing the Denoising Capability of Diffusion Prior for Solving Inverse Problems**|Jiawei Zhang et.al.|[2406.06959](http://arxiv.org/abs/2406.06959)|**[link](https://github.com/weigerzan/projdiff)**|
 |**2024-06-07**|**Optimal Eye Surgeon: Finding Image Priors through Sparse Generators at Initialization**|Avrajit Ghosh et.al.|[2406.05288](http://arxiv.org/abs/2406.05288)|**[link](https://github.com/avra98/optimal-eye-surgeon)**|
-|**2024-06-06**|**Diffusion-based image inpainting with internal learning**|Nicolas Cherel et.al.|[2406.04206](http://arxiv.org/abs/2406.04206)|null|
+|**2024-06-06**|**Diffusion-based image inpainting with internal learning**|Nicolas Cherel et.al.|[2406.04206](http://arxiv.org/abs/2406.04206)|**[link](https://github.com/ncherel/inpaint-diff-mat)**|
 |**2024-06-04**|**Deep Block Proximal Linearised Minimisation Algorithm for Non-convex Inverse Problems**|Chaoyan Huang et.al.|[2406.02458](http://arxiv.org/abs/2406.02458)|null|
 |**2024-06-02**|**Correlation Matching Transformation Transformers for UHD Image Restoration**|Cong Wang et.al.|[2406.00629](http://arxiv.org/abs/2406.00629)|**[link](https://github.com/supersupercong/uhdformer)**|
 |**2024-05-30**|**Sharing Key Semantics in Transformer Makes Efficient Image Restoration**|Bin Ren et.al.|[2405.20008](http://arxiv.org/abs/2405.20008)|null|
@@ -2763,7 +2763,7 @@
 |**2024-05-24**|**Diffusion Bridge Implicit Models**|Kaiwen Zheng et.al.|[2405.15885](http://arxiv.org/abs/2405.15885)|null|
 |**2024-05-24**|**Erase to Enhance: Data-Efficient Machine Unlearning in MRI Reconstruction**|Yuyang Xue et.al.|[2405.15517](http://arxiv.org/abs/2405.15517)|**[link](https://github.com/yuyangxueed/reconunlearning)**|
 |**2024-05-24**|**Fast-DDPM: Fast Denoising Diffusion Probabilistic Models for Medical Image-to-Image Generation**|Hongxu Jiang et.al.|[2405.14802](http://arxiv.org/abs/2405.14802)|**[link](https://github.com/mirthai/fast-ddpm)**|
-|**2024-05-23**|**Metric Flow Matching for Smooth Interpolations on the Data Manifold**|Kacper Kapusniak et.al.|[2405.14780](http://arxiv.org/abs/2405.14780)|null|
+|**2024-05-23**|**Metric Flow Matching for Smooth Interpolations on the Data Manifold**|Kacper Kapusniak et.al.|[2405.14780](http://arxiv.org/abs/2405.14780)|**[link](https://github.com/kksniak/metric-flow-matching)**|
 |**2024-05-20**|**Segmentation of dense and multi-species bacterial colonies achieved using models trained on synthetic microscopy images**|Vincent Hickl et.al.|[2405.12407](http://arxiv.org/abs/2405.12407)|null|
 |**2024-05-17**|**Generative Artificial Intelligence: A Systematic Review and Applications**|Sandeep Singh Sengar et.al.|[2405.11029](http://arxiv.org/abs/2405.11029)|null|
 |**2024-05-17**|**Eddeep: Fast eddy-current distortion correction for diffusion MRI with deep learning**|Antoine Legouhy et.al.|[2405.10723](http://arxiv.org/abs/2405.10723)|**[link](https://github.com/cig-ucl/eddeep)**|
