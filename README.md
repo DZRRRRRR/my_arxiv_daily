@@ -22,6 +22,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-14**|**Golden Noise for Diffusion Models: A Learning Framework**|Zikai Zhou et.al.|[2411.09502](http://arxiv.org/abs/2411.09502)|null|
+|**2024-11-14**|**DiffRoad: Realistic and Diverse Road Scenario Generation for Autonomous Vehicle Testing**|Junjie Zhou et.al.|[2411.09451](http://arxiv.org/abs/2411.09451)|null|
+|**2024-11-14**|**Image Regeneration: Evaluating Text-to-Image Model via Generating Identical Image with Multimodal Large Language Models**|Chutian Meng et.al.|[2411.09449](http://arxiv.org/abs/2411.09449)|null|
+|**2024-11-14**|**A survey of probabilistic generative frameworks for molecular simulations**|Richard John et.al.|[2411.09388](http://arxiv.org/abs/2411.09388)|null|
+|**2024-11-14**|**EEG-Based Speech Decoding: A Novel Approach Using Multi-Kernel Ensemble Diffusion Models**|Soowon Kim et.al.|[2411.09302](http://arxiv.org/abs/2411.09302)|null|
+|**2024-11-14**|**Advancing Diffusion Models: Alias-Free Resampling and Enhanced Rotational Equivariance**|Md Fahim Anjum et.al.|[2411.09174](http://arxiv.org/abs/2411.09174)|null|
+|**2024-11-14**|**VidMan: Exploiting Implicit Dynamics from Video Diffusion Model for Effective Robot Manipulation**|Youpeng Wen et.al.|[2411.09153](http://arxiv.org/abs/2411.09153)|null|
+|**2024-11-14**|**General linear threshold models with application to influence maximization**|Alexander Kagan et.al.|[2411.09100](http://arxiv.org/abs/2411.09100)|null|
+|**2024-11-13**|**Inconsistencies In Consistency Models: Better ODE Solving Does Not Imply Better Samples**|Noël Vouitsis et.al.|[2411.08954](http://arxiv.org/abs/2411.08954)|**[link](https://github.com/layer6ai-labs/direct-cms)**|
 |**2024-11-13**|**4D Gaussian Splatting in the Wild with Uncertainty-Aware Regularization**|Mijeong Kim et.al.|[2411.08879](http://arxiv.org/abs/2411.08879)|null|
 |**2024-11-13**|**Offline Adaptation of Quadruped Locomotion using Diffusion Models**|Reece O'Mahoney et.al.|[2411.08832](http://arxiv.org/abs/2411.08832)|null|
 |**2024-11-13**|**Towards More Accurate Fake Detection on Images Generated from Advanced Generative and Neural Rendering Models**|Chengdong Dong et.al.|[2411.08642](http://arxiv.org/abs/2411.08642)|null|
