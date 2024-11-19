@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.18
+## Updated on 2024.11.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
@@ -2720,7 +2720,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-11-15**|**Mechanisms of Generative Image-to-Image Translation Networks**|Guangzong Chen et.al.|[2411.10368](http://arxiv.org/abs/2411.10368)|null|
-|**2024-11-13**|**Scaling Properties of Diffusion Models for Perceptual Tasks**|Rahul Ravishankar et.al.|[2411.08034](http://arxiv.org/abs/2411.08034)|null|
+|**2024-11-17**|**Scaling Properties of Diffusion Models for Perceptual Tasks**|Rahul Ravishankar et.al.|[2411.08034](http://arxiv.org/abs/2411.08034)|null|
 |**2024-11-10**|**PRISM: Privacy-preserving Inter-Site MRI Harmonization via Disentangled Representation Learning**|Sarang Galada et.al.|[2411.06513](http://arxiv.org/abs/2411.06513)|**[link](https://github.com/saranggalada/prism)**|
 |**2024-11-08**|**WeatherGFM: Learning A Weather Generalist Foundation Model via In-context Learning**|Xiangyu Zhao et.al.|[2411.05420](http://arxiv.org/abs/2411.05420)|null|
 |**2024-11-06**|**Harmformer: Harmonic Networks Meet Transformers for Continuous Roto-Translation Equivariance**|Tomáš Karella et.al.|[2411.03794](http://arxiv.org/abs/2411.03794)|null|
