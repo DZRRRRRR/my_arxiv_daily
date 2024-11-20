@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-19**|**PoM: Efficient Image and Video Generation with the Polynomial Mixer**|David Picard et.al.|[2411.12663](http://arxiv.org/abs/2411.12663)|**[link](https://github.com/davidpicard/homm)**|
+|**2024-11-19**|**Improving Controllability and Editability for Pretrained Text-to-Music Generation Models**|Yixiao Zhang et.al.|[2411.12641](http://arxiv.org/abs/2411.12641)|null|
+|**2024-11-19**|**Data Pruning in Generative Diffusion Models**|Rania Briq et.al.|[2411.12523](http://arxiv.org/abs/2411.12523)|null|
+|**2024-11-19**|**Frequency-Aware Guidance for Blind Image Restoration via Diffusion Models**|Jun Xiao et.al.|[2411.12450](http://arxiv.org/abs/2411.12450)|null|
+|**2024-11-19**|**Combinational Backdoor Attack against Customized Text-to-Image Models**|Wenbo Jiang et.al.|[2411.12389](http://arxiv.org/abs/2411.12389)|null|
+|**2024-11-19**|**Scalable and Effective Negative Sample Generation for Hyperedge Prediction**|Shilin Qu et.al.|[2411.12354](http://arxiv.org/abs/2411.12354)|null|
+|**2024-11-19**|**Diffusion Product Quantization**|Jie Shao et.al.|[2411.12306](http://arxiv.org/abs/2411.12306)|null|
+|**2024-11-19**|**SSEditor: Controllable Mask-to-Scene Generation with Diffusion Model**|Haowen Zheng et.al.|[2411.12290](http://arxiv.org/abs/2411.12290)|null|
+|**2024-11-19**|**HouseLLM: LLM-Assisted Two-Phase Text-to-Floorplan Generation**|Ziyang Zong et.al.|[2411.12279](http://arxiv.org/abs/2411.12279)|null|
+|**2024-11-19**|**Wavespeed selection of travelling wave solutions of a two-component reaction-diffusion model of cell invasion**|Yuhui Chen et.al.|[2411.12232](http://arxiv.org/abs/2411.12232)|null|
 |**2024-11-18**|**Aligning Few-Step Diffusion Models with Dense Reward Difference Learning**|Ziyi Zhang et.al.|[2411.11727](http://arxiv.org/abs/2411.11727)|**[link](https://github.com/ziyizhang27/sdpo)**|
 |**2024-11-18**|**Robust Reinforcement Learning under Diffusion Models for Data with Jumps**|Chenyang Jiang et.al.|[2411.11697](http://arxiv.org/abs/2411.11697)|null|
 |**2024-11-18**|**Conceptwm: A Diffusion Model Watermark for Concept Protection**|Liangqi Lei et.al.|[2411.11688](http://arxiv.org/abs/2411.11688)|null|
@@ -2114,6 +2124,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-16**|**$\text{S}^{3}$ Mamba: Arbitrary-Scale Super-Resolution via Scaleable State Space Model**|Peizhe Xia et.al.|[2411.11906](http://arxiv.org/abs/2411.11906)|null|
 |**2024-11-18**|**TSINR: Capturing Temporal Continuity via Implicit Neural Representations for Time Series Anomaly Detection**|Mengxuan Li et.al.|[2411.11641](http://arxiv.org/abs/2411.11641)|null|
 |**2024-11-18**|**Superpixel-informed Implicit Neural Representation for Multi-Dimensional Data**|Jiayi Li et.al.|[2411.11356](http://arxiv.org/abs/2411.11356)|null|
 |**2024-11-18**|**Continuous K-space Recovery Network with Image Guidance for Fast MRI Reconstruction**|Yucong Meng et.al.|[2411.11282](http://arxiv.org/abs/2411.11282)|null|
@@ -2448,6 +2459,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-19**|**Frequency-Aware Guidance for Blind Image Restoration via Diffusion Models**|Jun Xiao et.al.|[2411.12450](http://arxiv.org/abs/2411.12450)|null|
+|**2024-11-19**|**Versatile Cataract Fundus Image Restoration Model Utilizing Unpaired Cataract and High-quality Images**|Zheng Gong et.al.|[2411.12278](http://arxiv.org/abs/2411.12278)|null|
 |**2024-11-17**|**TSFormer: A Robust Framework for Efficient UHD Image Restoration**|Xin Su et.al.|[2411.10951](http://arxiv.org/abs/2411.10951)|null|
 |**2024-11-16**|**AllRestorer: All-in-One Transformer for Image Restoration under Composite Degradations**|Jiawei Mao et.al.|[2411.10708](http://arxiv.org/abs/2411.10708)|null|
 |**2024-11-15**|**Probabilistic Prior Driven Attention Mechanism Based on Diffusion Model for Imaging Through Atmospheric Turbulence**|Guodong Sun et.al.|[2411.10321](http://arxiv.org/abs/2411.10321)|null|
