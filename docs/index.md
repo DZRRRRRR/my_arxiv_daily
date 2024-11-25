@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-22**|**DiffusionDrive: Truncated Diffusion Model for End-to-End Autonomous Driving**|Bencheng Liao et.al.|[2411.15139](http://arxiv.org/abs/2411.15139)|**[link](https://github.com/hustvl/diffusiondrive)**|
+|**2024-11-22**|**Material Anything: Generating Materials for Any 3D Object via Diffusion**|Xin Huang et.al.|[2411.15138](http://arxiv.org/abs/2411.15138)|null|
+|**2024-11-22**|**VideoRepair: Improving Text-to-Video Generation via Misalignment Evaluation and Localized Refinement**|Daeun Lee et.al.|[2411.15115](http://arxiv.org/abs/2411.15115)|null|
+|**2024-11-22**|**Leapfrog Latent Consistency Model (LLCM) for Medical Images Generation**|Lakshmikar R. Polamreddy et.al.|[2411.15084](http://arxiv.org/abs/2411.15084)|**[link](https://github.com/lskdsjy/leapfroglcm)**|
+|**2024-11-22**|**The 1D nonlocal Fisher-KPP equation with a top hat kernel. Part 3. The effect of perturbations in the kernel**|David John Needham et.al.|[2411.15054](http://arxiv.org/abs/2411.15054)|null|
+|**2024-11-22**|**FloAt: Flow Warping of Self-Attention for Clothing Animation Generation**|Swasti Shreya Mishra et.al.|[2411.15028](http://arxiv.org/abs/2411.15028)|null|
+|**2024-11-22**|**Enhancing Exploration with Diffusion Policies in Hybrid Off-Policy RL: Application to Non-Prehensile Manipulation**|Huy Le et.al.|[2411.14913](http://arxiv.org/abs/2411.14913)|null|
+|**2024-11-22**|**Prioritize Denoising Steps on Diffusion Model Preference Alignment via Explicit Denoised Distribution Estimation**|Dingyuan Shi et.al.|[2411.14871](http://arxiv.org/abs/2411.14871)|null|
+|**2024-11-22**|**Latent Schrodinger Bridge: Prompting Latent Diffusion for Fast Unpaired Image-to-Image Translation**|Jeongsol Kim et.al.|[2411.14863](http://arxiv.org/abs/2411.14863)|null|
+|**2024-11-22**|**Style-Friendly SNR Sampler for Style-Driven Generation**|Jooyoung Choi et.al.|[2411.14793](http://arxiv.org/abs/2411.14793)|null|
 |**2024-11-21**|**Stable Flow: Vital Layers for Training-Free Image Editing**|Omri Avrahami et.al.|[2411.14430](http://arxiv.org/abs/2411.14430)|null|
 |**2024-11-21**|**Baking Gaussian Splatting into Diffusion Denoiser for Fast and Scalable Single-stage Image-to-3D Generation**|Yuanhao Cai et.al.|[2411.14384](http://arxiv.org/abs/2411.14384)|null|
 |**2024-11-21**|**CoNFiLD-inlet: Synthetic Turbulence Inflow Using Generative Latent Diffusion Models with Neural Fields**|Xin-Yang Liu et.al.|[2411.14378](http://arxiv.org/abs/2411.14378)|null|
@@ -2770,7 +2780,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-11-21**|**iHQGAN: A Lightweight Invertible Hybrid Quantum-Classical Generative Adversarial Network for Unsupervised Image-to-Image Translation**|Xue Yang et.al.|[2411.13920](http://arxiv.org/abs/2411.13920)|null|
+|**2024-11-22**|**Latent Schrodinger Bridge: Prompting Latent Diffusion for Fast Unpaired Image-to-Image Translation**|Jeongsol Kim et.al.|[2411.14863](http://arxiv.org/abs/2411.14863)|null|
+|**2024-11-22**|**Cross Group Attention and Group-wise Rolling for Multimodal Medical Image Synthesis**|Tao Song et.al.|[2411.14684](http://arxiv.org/abs/2411.14684)|null|
+|**2024-11-21**|**iHQGAN: A Lightweight Invertible Hybrid Quantum-Classical Generative Adversarial Network for Unsupervised Image-to-Image Translation**|Xue Yang et.al.|[2411.13920](http://arxiv.org/abs/2411.13920)|**[link](https://github.com/yxSMU/iHQGAN)**|
 |**2024-11-13**|**SAM-I2I: Unleash the Power of Segment Anything Model for Medical Image Translation**|Jiayu Huo et.al.|[2411.12755](http://arxiv.org/abs/2411.12755)|null|
 |**2024-11-16**|**C-DiffSET: Leveraging Latent Diffusion for SAR-to-EO Image Translation with Confidence-Guided Reliable Object Generation**|Jeonghyeok Do et.al.|[2411.10788](http://arxiv.org/abs/2411.10788)|null|
 |**2024-11-15**|**Mechanisms of Generative Image-to-Image Translation Networks**|Guangzong Chen et.al.|[2411.10368](http://arxiv.org/abs/2411.10368)|null|
