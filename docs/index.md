@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-26**|**StableAnimator: High-Quality Identity-Preserving Human Image Animation**|Shuyuan Tu et.al.|[2411.17697](http://arxiv.org/abs/2411.17697)|**[link](https://github.com/Francis-Rings/StableAnimator)**|
+|**2024-11-26**|**ScribbleLight: Single Image Indoor Relighting with Scribbles**|Jun Myeong Choi et.al.|[2411.17696](http://arxiv.org/abs/2411.17696)|null|
+|**2024-11-26**|**GenDeg: Diffusion-Based Degradation Synthesis for Generalizable All-in-One Image Restoration**|Sudarshan Rajagopalan et.al.|[2411.17687](http://arxiv.org/abs/2411.17687)|null|
+|**2024-11-26**|**Accelerating Vision Diffusion Transformers with Skip Branches**|Guanjie Chen et.al.|[2411.17616](http://arxiv.org/abs/2411.17616)|**[link](https://github.com/opensparsellms/skip-dit)**|
+|**2024-11-26**|**VideoDirector: Precise Video Editing via Text-to-Video Models**|Yukun Wang et.al.|[2411.17592](http://arxiv.org/abs/2411.17592)|null|
+|**2024-11-26**|**FTMoMamba: Motion Generation with Frequency and Text State Space Models**|Chengjian Li et.al.|[2411.17532](http://arxiv.org/abs/2411.17532)|null|
+|**2024-11-26**|**WF-VAE: Enhancing Video VAE by Wavelet-Driven Energy Flow for Latent Video Diffusion Model**|Zongjian Li et.al.|[2411.17459](http://arxiv.org/abs/2411.17459)|**[link](https://github.com/pku-yuangroup/wf-vae)**|
+|**2024-11-26**|**Image Generation with Multimodule Semantic Feature-Aided Selection for Semantic Communications**|Chengyang Liang et.al.|[2411.17428](http://arxiv.org/abs/2411.17428)|null|
+|**2024-11-26**|**Reward Incremental Learning in Text-to-Image Generation**|Maorong Wang et.al.|[2411.17310](http://arxiv.org/abs/2411.17310)|null|
+|**2024-11-26**|**APT: Architectural Planning and Text-to-Blueprint Construction Using Large Language Models for Open-World Agents**|Jun Yu Chen et.al.|[2411.17255](http://arxiv.org/abs/2411.17255)|**[link](https://github.com/spearsheep/APT-Architectural-Planning-LLM-Agent)**|
 |**2024-11-25**|**Generative Omnimatte: Learning to Decompose Video into Layers**|Yao-Chih Lee et.al.|[2411.16683](http://arxiv.org/abs/2411.16683)|null|
 |**2024-11-25**|**Diffusion Features for Zero-Shot 6DoF Object Pose Estimation**|Bernd Von Gimborn et.al.|[2411.16668](http://arxiv.org/abs/2411.16668)|null|
 |**2024-11-25**|**LegoPET: Hierarchical Feature Guided Conditional Diffusion for PET Image Reconstruction**|Yiran Sun et.al.|[2411.16629](http://arxiv.org/abs/2411.16629)|null|
@@ -2501,6 +2511,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-26**|**GenDeg: Diffusion-Based Degradation Synthesis for Generalizable All-in-One Image Restoration**|Sudarshan Rajagopalan et.al.|[2411.17687](http://arxiv.org/abs/2411.17687)|null|
+|**2024-11-26**|**Puzzle Similarity: A Perceptually-guided No-Reference Metric for Artifact Detection in 3D Scene Reconstructions**|Nicolai Hermann et.al.|[2411.17489](http://arxiv.org/abs/2411.17489)|null|
+|**2024-11-26**|**MWFormer: Multi-Weather Image Restoration Using Degradation-Aware Transformers**|Ruoxi Zhu et.al.|[2411.17226](http://arxiv.org/abs/2411.17226)|null|
+|**2024-11-23**|**Gradient-Guided Parameter Mask for Multi-Scenario Image Restoration Under Adverse Weather**|Jilong Guo et.al.|[2411.16739](http://arxiv.org/abs/2411.16739)|**[link](https://github.com/aierlab/multitask)**|
 |**2024-11-25**|**Mixed Degradation Image Restoration via Local Dynamic Optimization and Conditional Embedding**|Yubin Gu et.al.|[2411.16217](http://arxiv.org/abs/2411.16217)|null|
 |**2024-11-25**|**U2NeRF: Unsupervised Underwater Image Restoration and Neural Radiance Fields**|Vinayak Gupta et.al.|[2411.16172](http://arxiv.org/abs/2411.16172)|null|
 |**2024-11-24**|**PromptHSI: Universal Hyperspectral Image Restoration Framework for Composite Degradation**|Chia-Ming Lee et.al.|[2411.15922](http://arxiv.org/abs/2411.15922)|null|
@@ -2797,6 +2811,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-26**|**cWDM: Conditional Wavelet Diffusion Models for Cross-Modality 3D Medical Image Synthesis**|Paul Friedrich et.al.|[2411.17203](http://arxiv.org/abs/2411.17203)|**[link](https://github.com/pfriedri/cwdm)**|
 |**2024-11-25**|**CapHDR2IR: Caption-Driven Transfer from Visible Light to Infrared Domain**|Jingchao Peng et.al.|[2411.16327](http://arxiv.org/abs/2411.16327)|null|
 |**2024-11-22**|**Latent Schrodinger Bridge: Prompting Latent Diffusion for Fast Unpaired Image-to-Image Translation**|Jeongsol Kim et.al.|[2411.14863](http://arxiv.org/abs/2411.14863)|null|
 |**2024-11-22**|**Cross Group Attention and Group-wise Rolling for Multimodal Medical Image Synthesis**|Tao Song et.al.|[2411.14684](http://arxiv.org/abs/2411.14684)|null|
