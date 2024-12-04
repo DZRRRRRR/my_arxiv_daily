@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-03**|**Diffusion-based Visual Anagram as Multi-task Learning**|Zhiyuan Xu et.al.|[2412.02693](http://arxiv.org/abs/2412.02693)|**[link](https://github.com/pixtella/anagram-mtl)**|
+|**2024-12-03**|**FoundHand: Large-Scale Domain-Specific Learning for Controllable Hand Image Generation**|Kefan Chen et.al.|[2412.02690](http://arxiv.org/abs/2412.02690)|null|
+|**2024-12-03**|**SNOOPI: Supercharged One-step Diffusion Distillation with Proper Guidance**|Viet Nguyen et.al.|[2412.02687](http://arxiv.org/abs/2412.02687)|null|
+|**2024-12-03**|**Sharp-It: A Multi-view to Multi-view Diffusion Model for 3D Synthesis and Manipulation**|Yiftach Edelstein et.al.|[2412.02631](http://arxiv.org/abs/2412.02631)|null|
+|**2024-12-03**|**Unveiling Concept Attribution in Diffusion Models**|Quang H. Nguyen et.al.|[2412.02542](http://arxiv.org/abs/2412.02542)|null|
+|**2024-12-03**|**It Takes Two: Real-time Co-Speech Two-person's Interaction Generation via Reactive Auto-regressive Diffusion Model**|Mingyi Shi et.al.|[2412.02419](http://arxiv.org/abs/2412.02419)|null|
+|**2024-12-03**|**GenMix: Effective Data Augmentation with Generative Diffusion Model Image Editing**|Khawar Islam et.al.|[2412.02366](http://arxiv.org/abs/2412.02366)|null|
+|**2024-12-03**|**LoRA Diffusion: Zero-Shot LoRA Synthesis for Diffusion Model Personalization**|Ethan Smith et.al.|[2412.02352](http://arxiv.org/abs/2412.02352)|null|
+|**2024-12-03**|**SimuScope: Realistic Endoscopic Synthetic Dataset Generation through Surgical Simulation and Diffusion Models**|Sabina Martyniak et.al.|[2412.02332](http://arxiv.org/abs/2412.02332)|**[link](https://github.com/sanoscience/simuscope)**|
+|**2024-12-03**|**Controlling the Latent Diffusion Model for Generative Image Shadow Removal via Residual Generation**|Xinjie Li et.al.|[2412.02322](http://arxiv.org/abs/2412.02322)|null|
 |**2024-11-29**|**MoTe: Learning Motion-Text Diffusion Model for Multiple Generation Tasks**|Yiming Wu et.al.|[2411.19786](http://arxiv.org/abs/2411.19786)|null|
 |**2024-11-29**|**Riemannian Denoising Score Matching for Molecular Structure Optimization with Accurate Energy**|Jeheon Woo et.al.|[2411.19769](http://arxiv.org/abs/2411.19769)|null|
 |**2024-11-29**|**TexGaussian: Generating High-quality PBR Material via Octree-based 3D Gaussian Splatting**|Bojun Xiong et.al.|[2411.19654](http://arxiv.org/abs/2411.19654)|null|
@@ -2194,6 +2204,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-03**|**Multi-robot autonomous 3D reconstruction using Gaussian splatting with Semantic guidance**|Jing Zeng et.al.|[2412.02249](http://arxiv.org/abs/2412.02249)|null|
+|**2024-12-02**|**Efficient Compression of Sparse Accelerator Data Using Implicit Neural Representations and Importance Sampling**|Xihaier Luo et.al.|[2412.01754](http://arxiv.org/abs/2412.01754)|null|
+|**2024-12-02**|**SUICA: Learning Super-high Dimensional Sparse Implicit Neural Representations for Spatial Transcriptomics**|Qingtian Zhu et.al.|[2412.01124](http://arxiv.org/abs/2412.01124)|null|
 |**2024-11-27**|**Towards Lensless Image Deblurring with Prior-Embedded Implicit Neural Representations in the Low-Data Regime**|Abeer Banerjee et.al.|[2411.18189](http://arxiv.org/abs/2411.18189)|null|
 |**2024-11-27**|**MeltpoolINR: Predicting temperature field, melt pool geometry, and their rate of change in laser powder bed fusion**|Manav Manav et.al.|[2411.18048](http://arxiv.org/abs/2411.18048)|null|
 |**2024-11-21**|**Geometric Algebra Planes: Convex Implicit Neural Volumes**|Irmak Sivgin et.al.|[2411.13525](http://arxiv.org/abs/2411.13525)|null|
@@ -2533,6 +2546,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-03**|**Relaxed and Inertial Nonlinear Forward-Backward with Momentum**|Fernando Roldán et.al.|[2412.02045](http://arxiv.org/abs/2412.02045)|null|
+|**2024-12-02**|**Phaseformer: Phase-based Attention Mechanism for Underwater Image Restoration and Beyond**|MD Raqib Khan et.al.|[2412.01456](http://arxiv.org/abs/2412.01456)|**[link](https://github.com/Mdraqibkhan/Phaseformer)**|
+|**2024-12-02**|**FoundIR: Unleashing Million-scale Training Data to Advance Foundation Models for Image Restoration**|Hao Li et.al.|[2412.01427](http://arxiv.org/abs/2412.01427)|null|
+|**2024-12-01**|**Beyond Pixels: Text Enhances Generalization in Real-World Image Restoration**|Haoze Sun et.al.|[2412.00878](http://arxiv.org/abs/2412.00878)|null|
+|**2024-11-30**|**Blind Inverse Problem Solving Made Easy by Text-to-Image Latent Diffusion**|Michail Dontas et.al.|[2412.00557](http://arxiv.org/abs/2412.00557)|null|
 |**2024-11-27**|**Hierarchical Information Flow for Generalized Efficient Image Restoration**|Yawei Li et.al.|[2411.18588](http://arxiv.org/abs/2411.18588)|null|
 |**2024-11-27**|**Complexity Experts are Task-Discriminative Learners for Any Image Restoration**|Eduard Zamfir et.al.|[2411.18466](http://arxiv.org/abs/2411.18466)|null|
 |**2024-11-27**|**Adaptive Blind All-in-One Image Restoration**|David Serrano-Lozano et.al.|[2411.18412](http://arxiv.org/abs/2411.18412)|**[link](https://github.com/davidserra9/abair)**|
@@ -2838,6 +2856,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-03**|**SimuScope: Realistic Endoscopic Synthetic Dataset Generation through Surgical Simulation and Diffusion Models**|Sabina Martyniak et.al.|[2412.02332](http://arxiv.org/abs/2412.02332)|**[link](https://github.com/sanoscience/simuscope)**|
+|**2024-11-24**|**Uncertainty-Aware Regularization for Image-to-Image Translation**|Anuja Vats et.al.|[2412.01705](http://arxiv.org/abs/2412.01705)|null|
+|**2024-12-02**|**RaD: A Metric for Medical Image Distribution Comparison in Out-of-Domain Detection and Other Applications**|Nicholas Konz et.al.|[2412.01496](http://arxiv.org/abs/2412.01496)|null|
+|**2024-12-01**|**Visual Modality Prompt for Adapting Vision-Language Object Detectors**|Heitor R. Medeiros et.al.|[2412.00622](http://arxiv.org/abs/2412.00622)|**[link](https://github.com/heitorrapela/modprompt)**|
+|**2024-11-30**|**Multi-resolution Guided 3D GANs for Medical Image Translation**|Juhyung Ha et.al.|[2412.00575](http://arxiv.org/abs/2412.00575)|null|
 |**2024-11-26**|**cWDM: Conditional Wavelet Diffusion Models for Cross-Modality 3D Medical Image Synthesis**|Paul Friedrich et.al.|[2411.17203](http://arxiv.org/abs/2411.17203)|**[link](https://github.com/pfriedri/cwdm)**|
 |**2024-11-25**|**CapHDR2IR: Caption-Driven Transfer from Visible Light to Infrared Domain**|Jingchao Peng et.al.|[2411.16327](http://arxiv.org/abs/2411.16327)|null|
 |**2024-11-22**|**Latent Schrodinger Bridge: Prompting Latent Diffusion for Fast Unpaired Image-to-Image Translation**|Jeongsol Kim et.al.|[2411.14863](http://arxiv.org/abs/2411.14863)|null|
