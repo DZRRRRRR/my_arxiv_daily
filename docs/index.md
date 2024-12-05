@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-04**|**MIDI: Multi-Instance Diffusion for Single Image to 3D Scene Generation**|Zehuan Huang et.al.|[2412.03558](http://arxiv.org/abs/2412.03558)|null|
+|**2024-12-04**|**NVComposer: Boosting Generative Novel View Synthesis with Multiple Sparse and Unposed Images**|Lingen Li et.al.|[2412.03517](http://arxiv.org/abs/2412.03517)|null|
+|**2024-12-04**|**Distilling Diffusion Models to Efficient 3D LiDAR Scene Completion**|Shengyuan Zhang et.al.|[2412.03515](http://arxiv.org/abs/2412.03515)|**[link](https://github.com/happyw1nd/scorelidar)**|
+|**2024-12-04**|**CleanDIFT: Diffusion Features without Noise**|Nick Stracke et.al.|[2412.03439](http://arxiv.org/abs/2412.03439)|null|
+|**2024-12-04**|**SINGER: Vivid Audio-driven Singing Video Generation with Multi-scale Spectral Diffusion Model**|Yan Li et.al.|[2412.03430](http://arxiv.org/abs/2412.03430)|null|
+|**2024-12-04**|**Skel3D: Skeleton Guided Novel View Synthesis**|Aron Fóthi et.al.|[2412.03407](http://arxiv.org/abs/2412.03407)|null|
+|**2024-12-04**|**Identifiability implies consistency of MLE in partially observed diffusions on a torus**|Ibrahim Ekren et.al.|[2412.03380](http://arxiv.org/abs/2412.03380)|null|
+|**2024-12-04**|**TASR: Timestep-Aware Diffusion Model for Image Super-Resolution**|Qinwei Lin et.al.|[2412.03355](http://arxiv.org/abs/2412.03355)|**[link](https://github.com/sleepylin/tasr)**|
+|**2024-12-04**|**DIVE: Taming DINO for Subject-Driven Video Editing**|Yi Huang et.al.|[2412.03347](http://arxiv.org/abs/2412.03347)|null|
+|**2024-12-04**|**Geometry-guided Cross-view Diffusion for One-to-many Cross-view Image Synthesis**|Tao Jun Lin et.al.|[2412.03315](http://arxiv.org/abs/2412.03315)|null|
 |**2024-12-03**|**Diffusion-based Visual Anagram as Multi-task Learning**|Zhiyuan Xu et.al.|[2412.02693](http://arxiv.org/abs/2412.02693)|**[link](https://github.com/pixtella/anagram-mtl)**|
 |**2024-12-03**|**FoundHand: Large-Scale Domain-Specific Learning for Controllable Hand Image Generation**|Kefan Chen et.al.|[2412.02690](http://arxiv.org/abs/2412.02690)|null|
 |**2024-12-04**|**SNOOPI: Supercharged One-step Diffusion Distillation with Proper Guidance**|Viet Nguyen et.al.|[2412.02687](http://arxiv.org/abs/2412.02687)|null|
@@ -2546,6 +2556,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-04**|**Semantic Segmentation Prior for Diffusion-Based Real-World Super-Resolution**|Jiahua Xiao et.al.|[2412.02960](http://arxiv.org/abs/2412.02960)|null|
 |**2024-12-03**|**Relaxed and Inertial Nonlinear Forward-Backward with Momentum**|Fernando Roldán et.al.|[2412.02045](http://arxiv.org/abs/2412.02045)|null|
 |**2024-12-02**|**Phaseformer: Phase-based Attention Mechanism for Underwater Image Restoration and Beyond**|MD Raqib Khan et.al.|[2412.01456](http://arxiv.org/abs/2412.01456)|**[link](https://github.com/Mdraqibkhan/Phaseformer)**|
 |**2024-12-02**|**FoundIR: Unleashing Million-scale Training Data to Advance Foundation Models for Image Restoration**|Hao Li et.al.|[2412.01427](http://arxiv.org/abs/2412.01427)|null|
@@ -2856,6 +2867,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-04**|**Distillation of Diffusion Features for Semantic Correspondence**|Frank Fundel et.al.|[2412.03512](http://arxiv.org/abs/2412.03512)|null|
+|**2024-12-04**|**MRNet: Multifaceted Resilient Networks for Medical Image-to-Image Translation**|Hyojeong Lee et.al.|[2412.03039](http://arxiv.org/abs/2412.03039)|null|
+|**2024-12-03**|**Unpaired Modality Translation for Pseudo Labeling of Histology Images**|Arthur Boschet et.al.|[2412.02858](http://arxiv.org/abs/2412.02858)|null|
 |**2024-12-03**|**SimuScope: Realistic Endoscopic Synthetic Dataset Generation through Surgical Simulation and Diffusion Models**|Sabina Martyniak et.al.|[2412.02332](http://arxiv.org/abs/2412.02332)|**[link](https://github.com/sanoscience/simuscope)**|
 |**2024-11-24**|**Uncertainty-Aware Regularization for Image-to-Image Translation**|Anuja Vats et.al.|[2412.01705](http://arxiv.org/abs/2412.01705)|null|
 |**2024-12-02**|**RaD: A Metric for Medical Image Distribution Comparison in Out-of-Domain Detection and Other Applications**|Nicholas Konz et.al.|[2412.01496](http://arxiv.org/abs/2412.01496)|null|
