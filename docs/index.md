@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.08
+## Updated on 2024.12.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
@@ -2508,7 +2508,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-04**|**Deep Variational Bayesian Modeling of Haze Degradation Process**|Eun Woo Im et.al.|[2412.03745](http://arxiv.org/abs/2412.03745)|null|
+|**2024-12-04**|**Deep Variational Bayesian Modeling of Haze Degradation Process**|Eun Woo Im et.al.|[2412.03745](http://arxiv.org/abs/2412.03745)|**[link](https://github.com/imeunu/variational-dehazing-networks)**|
 |**2024-11-22**|**Frequency-Guided Posterior Sampling for Diffusion-Based Image Restoration**|Darshan Thaker et.al.|[2411.15295](http://arxiv.org/abs/2411.15295)|null|
 |**2024-11-15**|**A Polarization Image Dehazing Method Based on the Principle of Physical Diffusion**|Zhenjun Zhang et.al.|[2411.09924](http://arxiv.org/abs/2411.09924)|null|
 |**2024-11-10**|**Dropout the High-rate Downsampling: A Novel Design Paradigm for UHD Image Restoration**|Chen Wu et.al.|[2411.06456](http://arxiv.org/abs/2411.06456)|null|
