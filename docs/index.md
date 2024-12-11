@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-10**|**Efficient Diversity-Preserving Diffusion Alignment via Gradient-Informed GFlowNets**|Zhen Liu et.al.|[2412.07775](http://arxiv.org/abs/2412.07775)|null|
+|**2024-12-10**|**From Slow Bidirectional to Fast Causal Video Generators**|Tianwei Yin et.al.|[2412.07772](http://arxiv.org/abs/2412.07772)|null|
+|**2024-12-10**|**Make-A-Texture: Fast Shape-Aware Texture Generation in 3 Seconds**|Xiaoyu Xiang et.al.|[2412.07766](http://arxiv.org/abs/2412.07766)|null|
+|**2024-12-10**|**Repurposing Pre-trained Video Diffusion Models for Event-based Video Interpolation**|Jingxi Chen et.al.|[2412.07761](http://arxiv.org/abs/2412.07761)|null|
+|**2024-12-10**|**SynCamMaster: Synchronizing Multi-Camera Video Generation from Diverse Viewpoints**|Jianhong Bai et.al.|[2412.07760](http://arxiv.org/abs/2412.07760)|**[link](https://github.com/kwaivgi/syncammaster)**|
+|**2024-12-10**|**Multi-Shot Character Consistency for Text-to-Video Generation**|Yuval Atzmon et.al.|[2412.07750](http://arxiv.org/abs/2412.07750)|null|
+|**2024-12-10**|**FiVA: Fine-grained Visual Attribute Dataset for Text-to-Image Diffusion Models**|Tong Wu et.al.|[2412.07674](http://arxiv.org/abs/2412.07674)|null|
+|**2024-12-10**|**TraSCE: Trajectory Steering for Concept Erasure**|Anubhav Jain et.al.|[2412.07658](http://arxiv.org/abs/2412.07658)|null|
+|**2024-12-10**|**Motion Artifact Removal in Pixel-Frequency Domain via Alternate Masks and Diffusion Model**|Jiahua Xu et.al.|[2412.07590](http://arxiv.org/abs/2412.07590)|**[link](https://github.com/medcx/PFAD)**|
+|**2024-12-10**|**DiffSensei: Bridging Multi-Modal LLMs and Diffusion Models for Customized Manga Generation**|Jianzong Wu et.al.|[2412.07589](http://arxiv.org/abs/2412.07589)|null|
 |**2024-12-09**|**[MASK] is All You Need**|Vincent Tao Hu et.al.|[2412.06787](http://arxiv.org/abs/2412.06787)|**[link](https://github.com/CompVis/mask)**|
 |**2024-12-09**|**Tactile DreamFusion: Exploiting Tactile Sensing for 3D Generation**|Ruihan Gao et.al.|[2412.06785](http://arxiv.org/abs/2412.06785)|**[link](https://github.com/ruihangao/tactiledreamfusion)**|
 |**2024-12-09**|**Diverse Score Distillation**|Yanbo Xu et.al.|[2412.06780](http://arxiv.org/abs/2412.06780)|null|
@@ -2516,6 +2526,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-01**|**LUIEO: A Lightweight Model for Integrating Underwater Image Enhancement and Object Detection**|Bin Li et.al.|[2412.07009](http://arxiv.org/abs/2412.07009)|null|
 |**2024-11-22**|**CE-VAE: Capsule Enhanced Variational AutoEncoder for Underwater Image Enhancement**|Rita Pucci et.al.|[2406.01294](http://arxiv.org/abs/2406.01294)|**[link](https://github.com/in1k1/ce-vae-underwater-image-enhancement)**|
 |**2024-04-24**|**UWFormer: Underwater Image Enhancement via a Semi-Supervised Multi-Scale Transformer**|Weiwen Chen et.al.|[2310.20210](http://arxiv.org/abs/2310.20210)|**[link](https://github.com/leiyingtie/UWFormer)**|
 |**2023-09-07**|**Underwater Image Enhancement by Transformer-based Diffusion Model with Non-uniform Sampling for Skip Strategy**|Yi Tang et.al.|[2309.03445](http://arxiv.org/abs/2309.03445)|**[link](https://github.com/piggy2009/dm_underwater)**|
@@ -2589,6 +2600,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-10**|**Modeling Dual-Exposure Quad-Bayer Patterns for Joint Denoising and Deblurring**|Yuzhi Zhao et.al.|[2412.07256](http://arxiv.org/abs/2412.07256)|**[link](https://github.com/zhaoyuzhi/qrnet)**|
+|**2024-12-10**|**EchoIR: Advancing Image Restoration with Echo Upsampling and Bi-Level Optimization**|Yuhan He et.al.|[2412.07225](http://arxiv.org/abs/2412.07225)|null|
+|**2024-12-10**|**A Progressive Image Restoration Network for High-order Degradation Imaging in Remote Sensing**|Yujie Feng et.al.|[2412.07195](http://arxiv.org/abs/2412.07195)|null|
 |**2024-12-09**|**InstantRestore: Single-Step Personalized Face Restoration with Shared-Image Attention**|Howard Zhang et.al.|[2412.06753](http://arxiv.org/abs/2412.06753)|null|
 |**2024-12-07**|**Enhancing Sample Generation of Diffusion Models using Noise Level Correction**|Abulikemu Abuduweili et.al.|[2412.05488](http://arxiv.org/abs/2412.05488)|null|
 |**2024-12-06**|**Equivariant Denoisers for Image Restoration**|Marien Renaud et.al.|[2412.05343](http://arxiv.org/abs/2412.05343)|null|
@@ -2910,6 +2924,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-10**|**Paired Wasserstein Autoencoders for Conditional Sampling**|Moritz Piening et.al.|[2412.07586](http://arxiv.org/abs/2412.07586)|null|
+|**2024-12-10**|**MIT-10M: A Large Scale Parallel Corpus of Multilingual Image Translation**|Bo Li et.al.|[2412.07147](http://arxiv.org/abs/2412.07147)|null|
 |**2024-12-09**|**Continuous Video Process: Modeling Videos as Continuous Multi-Dimensional Processes for Video Prediction**|Gaurav Shrivastava et.al.|[2412.04929](http://arxiv.org/abs/2412.04929)|null|
 |**2024-12-06**|**DAug: Diffusion-based Channel Augmentation for Radiology Image Retrieval and Classification**|Ying Jin et.al.|[2412.04828](http://arxiv.org/abs/2412.04828)|null|
 |**2024-12-04**|**Distillation of Diffusion Features for Semantic Correspondence**|Frank Fundel et.al.|[2412.03512](http://arxiv.org/abs/2412.03512)|null|
