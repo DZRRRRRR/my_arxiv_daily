@@ -22,6 +22,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-13**|**Towards a foundation model for heavy-ion collision experiments through point cloud diffusion**|Manjunath Omana Kuttan et.al.|[2412.10352](http://arxiv.org/abs/2412.10352)|null|
+|**2024-12-13**|**BrushEdit: All-In-One Image Inpainting and Editing**|Yaowei Li et.al.|[2412.10316](http://arxiv.org/abs/2412.10316)|null|
+|**2024-12-13**|**Coherent 3D Scene Diffusion From a Single RGB Image**|Manuel Dahnert et.al.|[2412.10294](http://arxiv.org/abs/2412.10294)|null|
+|**2024-12-13**|**GAF: Gaussian Avatar Reconstruction from Monocular Videos via Multi-view Diffusion**|Jiapeng Tang et.al.|[2412.10209](http://arxiv.org/abs/2412.10209)|null|
+|**2024-12-13**|**Efficient Generative Modeling with Residual Vector Quantization-Based Tokens**|Jaehyeon Kim et.al.|[2412.10208](http://arxiv.org/abs/2412.10208)|null|
+|**2024-12-13**|**Simple Guidance Mechanisms for Discrete Diffusion Models**|Yair Schiff et.al.|[2412.10193](http://arxiv.org/abs/2412.10193)|**[link](https://github.com/kuleshov-group/discrete-diffusion-guidance)**|
+|**2024-12-13**|**SwiftTry: Fast and Consistent Video Virtual Try-On with Diffusion Models**|Hung Nguyen et.al.|[2412.10178](http://arxiv.org/abs/2412.10178)|null|
+|**2024-12-13**|**The Art of Deception: Color Visual Illusions and Diffusion Models**|Alex Gomez-Villa et.al.|[2412.10122](http://arxiv.org/abs/2412.10122)|null|
+|**2024-12-13**|**SuperMark: Robust and Training-free Image Watermarking via Diffusion-based Super-Resolution**|Runyi Hu et.al.|[2412.10049](http://arxiv.org/abs/2412.10049)|null|
+|**2024-12-13**|**Emergence of complexity in opinion propagation: A reaction-diffusion model**|Romain Ducasse et.al.|[2412.10000](http://arxiv.org/abs/2412.10000)|null|
 |**2024-12-12**|**FreeScale: Unleashing the Resolution of Diffusion Models via Tuning-Free Scale Fusion**|Haonan Qiu et.al.|[2412.09626](http://arxiv.org/abs/2412.09626)|null|
 |**2024-12-12**|**Illusion3D: 3D Multiview Illusion with 2D Diffusion Priors**|Yue Feng et.al.|[2412.09625](http://arxiv.org/abs/2412.09625)|null|
 |**2024-12-12**|**OmniDrag: Enabling Motion Control for Omnidirectional Image-to-Video Generation**|Weiqi Li et.al.|[2412.09623](http://arxiv.org/abs/2412.09623)|null|
@@ -2284,6 +2294,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-13**|**EVOS: Efficient Implicit Neural Training via EVOlutionary Selector**|Weixiang Zhang et.al.|[2412.10153](http://arxiv.org/abs/2412.10153)|null|
 |**2024-12-12**|**Enhancing Implicit Neural Representations via Symmetric Power Transformation**|Weixiang Zhang et.al.|[2412.09213](http://arxiv.org/abs/2412.09213)|**[link](https://github.com/zwx-open/Symmetric-Power-Transformation-INR)**|
 |**2024-12-11**|**Unicorn: Unified Neural Image Compression with One Number Reconstruction**|Qi Zheng et.al.|[2412.08210](http://arxiv.org/abs/2412.08210)|null|
 |**2024-12-11**|**INRetouch: Context Aware Implicit Neural Representation for Photography Retouching**|Omar Elezabi et.al.|[2412.03848](http://arxiv.org/abs/2412.03848)|null|
@@ -2638,6 +2649,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-13**|**Matrix Completion via Residual Spectral Matching**|Ziyuan Chen et.al.|[2412.10005](http://arxiv.org/abs/2412.10005)|null|
 |**2024-12-12**|**OFTSR: One-Step Flow for Image Super-Resolution with Tunable Fidelity-Realism Trade-offs**|Yuanzhi Zhu et.al.|[2412.09465](http://arxiv.org/abs/2412.09465)|**[link](https://github.com/yuanzhi-zhu/oftsr)**|
 |**2024-12-13**|**Are Conditional Latent Diffusion Models Effective for Image Restoration?**|Yunchen Yuan et.al.|[2412.09324](http://arxiv.org/abs/2412.09324)|null|
 |**2024-12-12**|**ExpRDiff: Short-exposure Guided Diffusion Model for Realistic Local Motion Deblurring**|Zhongbao Yang et.al.|[2412.09193](http://arxiv.org/abs/2412.09193)|null|
