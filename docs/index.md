@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-17**|**CoMPaSS: Enhancing Spatial Understanding in Text-to-Image Diffusion Models**|Gaoyang Zhang et.al.|[2412.13195](http://arxiv.org/abs/2412.13195)|**[link](https://github.com/blurgyy/compass)**|
+|**2024-12-17**|**StreetCrafter: Street View Synthesis with Controllable Video Diffusion Models**|Yunzhi Yan et.al.|[2412.13188](http://arxiv.org/abs/2412.13188)|null|
+|**2024-12-17**|**Move-in-2D: 2D-Conditioned Human Motion Generation**|Hsin-Ping Huang et.al.|[2412.13185](http://arxiv.org/abs/2412.13185)|null|
+|**2024-12-17**|**Prompt Augmentation for Self-supervised Text-guided Image Manipulation**|Rumeysa Bodur et.al.|[2412.13081](http://arxiv.org/abs/2412.13081)|null|
+|**2024-12-17**|**3D MedDiffusion: A 3D Medical Diffusion Model for Controllable and High-quality Medical Image Generation**|Haoshen Wang et.al.|[2412.13059](http://arxiv.org/abs/2412.13059)|null|
+|**2024-12-17**|**Attentive Eraser: Unleashing Diffusion Model's Object Removal Potential via Self-Attention Redirection Guidance**|Wenhao Sun et.al.|[2412.12974](http://arxiv.org/abs/2412.12974)|**[link](https://github.com/anonym0u3/attentiveeraser)**|
+|**2024-12-17**|**ArchesWeather & ArchesWeatherGen: a deterministic and generative model for efficient ML weather forecasting**|Guillaume Couairon et.al.|[2412.12971](http://arxiv.org/abs/2412.12971)|**[link](https://github.com/inria/geoarches)**|
+|**2024-12-17**|**Generation of cosmic ray trajectories by a Diffusion Model trained on test particles in 3D magnetohydrodynamic turbulence**|Johannes Martin et.al.|[2412.12923](http://arxiv.org/abs/2412.12923)|null|
+|**2024-12-17**|**Unsupervised Region-Based Image Editing of Denoising Diffusion Models**|Zixiang Li et.al.|[2412.12912](http://arxiv.org/abs/2412.12912)|null|
+|**2024-12-17**|**ArtAug: Enhancing Text-to-Image Generation through Synthesis-Understanding Interaction**|Zhongjie Duan et.al.|[2412.12888](http://arxiv.org/abs/2412.12888)|**[link](https://github.com/modelscope/DiffSynth-Studio)**|
 |**2024-12-16**|**Causal Diffusion Transformers for Generative Modeling**|Chaorui Deng et.al.|[2412.12095](http://arxiv.org/abs/2412.12095)|**[link](https://github.com/causalfusion/causalfusion)**|
 |**2024-12-16**|**CAP4D: Creating Animatable 4D Portrait Avatars with Morphable Multi-View Diffusion Models**|Felix Taubner et.al.|[2412.12093](http://arxiv.org/abs/2412.12093)|null|
 |**2024-12-16**|**Wonderland: Navigating 3D Scenes from a Single Image**|Hanwen Liang et.al.|[2412.12091](http://arxiv.org/abs/2412.12091)|null|
@@ -2294,7 +2304,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-15**|**Semi-Implicit Neural Ordinary Differential Equations**|Hong Zhang et.al.|[2412.11301](http://arxiv.org/abs/2412.11301)|null|
+|**2024-12-17**|**Subspace Implicit Neural Representations for Real-Time Cardiac Cine MR Imaging**|Wenqi Huang et.al.|[2412.12742](http://arxiv.org/abs/2412.12742)|**[link](https://github.com/wenqihuang/SubspaceINR-CMR)**|
+|**2024-12-15**|**Semi-Implicit Neural Ordinary Differential Equations**|Hong Zhang et.al.|[2412.11301](http://arxiv.org/abs/2412.11301)|**[link](https://github.com/caidao22/pnode)**|
 |**2024-12-11**|**Implicit Neural Compression of Point Clouds**|Hongning Ruan et.al.|[2412.10433](http://arxiv.org/abs/2412.10433)|null|
 |**2024-12-13**|**EVOS: Efficient Implicit Neural Training via EVOlutionary Selector**|Weixiang Zhang et.al.|[2412.10153](http://arxiv.org/abs/2412.10153)|null|
 |**2024-12-12**|**Enhancing Implicit Neural Representations via Symmetric Power Transformation**|Weixiang Zhang et.al.|[2412.09213](http://arxiv.org/abs/2412.09213)|**[link](https://github.com/zwx-open/Symmetric-Power-Transformation-INR)**|
@@ -2646,13 +2657,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-17**|**Consistent Diffusion: Denoising Diffusion Model with Data-Consistent Training for Image Restoration**|Xinlong Cheng et.al.|[2412.12550](http://arxiv.org/abs/2412.12550)|null|
 |**2024-12-15**|**Towards Context-aware Convolutional Network for Image Restoration**|Fangwei Hao et.al.|[2412.11008](http://arxiv.org/abs/2412.11008)|null|
 |**2024-12-14**|**Boosting ViT-based MRI Reconstruction from the Perspectives of Frequency Modulation, Spatial Purification, and Scale Diversification**|Yucong Meng et.al.|[2412.10776](http://arxiv.org/abs/2412.10776)|null|
 |**2024-12-16**|**Matrix Completion via Residual Spectral Matching**|Ziyuan Chen et.al.|[2412.10005](http://arxiv.org/abs/2412.10005)|null|
 |**2024-12-12**|**OFTSR: One-Step Flow for Image Super-Resolution with Tunable Fidelity-Realism Trade-offs**|Yuanzhi Zhu et.al.|[2412.09465](http://arxiv.org/abs/2412.09465)|**[link](https://github.com/yuanzhi-zhu/oftsr)**|
 |**2024-12-13**|**Are Conditional Latent Diffusion Models Effective for Image Restoration?**|Yunchen Yuan et.al.|[2412.09324](http://arxiv.org/abs/2412.09324)|null|
 |**2024-12-12**|**ExpRDiff: Short-exposure Guided Diffusion Model for Realistic Local Motion Deblurring**|Zhongbao Yang et.al.|[2412.09193](http://arxiv.org/abs/2412.09193)|null|
-|**2024-12-17**|**Dynamic Contrastive Knowledge Distillation for Efficient Image Restoration**|Yunshuai Zhou et.al.|[2412.08939](http://arxiv.org/abs/2412.08939)|null|
+|**2024-12-17**|**Dynamic Contrastive Knowledge Distillation for Efficient Image Restoration**|Yunshuai Zhou et.al.|[2412.08939](http://arxiv.org/abs/2412.08939)|**[link](https://github.com/super-SSS/DCKD)**|
 |**2024-12-11**|**Convergence Analysis of a Proximal Stochastic Denoising Regularization Algorithm**|Marien Renaud et.al.|[2412.08262](http://arxiv.org/abs/2412.08262)|null|
 |**2024-12-10**|**Modeling Dual-Exposure Quad-Bayer Patterns for Joint Denoising and Deblurring**|Yuzhi Zhao et.al.|[2412.07256](http://arxiv.org/abs/2412.07256)|**[link](https://github.com/zhaoyuzhi/qrnet)**|
 |**2024-12-10**|**EchoIR: Advancing Image Restoration with Echo Upsampling and Bi-Level Optimization**|Yuhan He et.al.|[2412.07225](http://arxiv.org/abs/2412.07225)|null|
