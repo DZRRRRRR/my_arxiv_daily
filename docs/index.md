@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.17
+## Updated on 2024.12.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
@@ -23,7 +23,7 @@ layout: default
 |**2024-12-16**|**ColorFlow: Retrieval-Augmented Image Sequence Colorization**|Junhao Zhuang et.al.|[2412.11815](http://arxiv.org/abs/2412.11815)|null|
 |**2024-12-16**|**InterDyn: Controllable Interactive Dynamics with Video Diffusion Models**|Rick Akkerman et.al.|[2412.11785](http://arxiv.org/abs/2412.11785)|null|
 |**2024-12-16**|**Joint Reconstruction of the Activity and the Attenuation in PET by Diffusion Posterior Sampling: a Feasibility Study**|Clémentine Phung-Ngoc et.al.|[2412.11776](http://arxiv.org/abs/2412.11776)|null|
-|**2024-12-16**|**No More Adam: Learning Rate Scaling at Initialization is All You Need**|Minghao Xu et.al.|[2412.11768](http://arxiv.org/abs/2412.11768)|**[link](https://github.com/anonymousalethiometer/sgd_sai)**|
+|**2024-12-17**|**No More Adam: Learning Rate Scaling at Initialization is All You Need**|Minghao Xu et.al.|[2412.11768](http://arxiv.org/abs/2412.11768)|**[link](https://github.com/anonymousalethiometer/sgd_sai)**|
 |**2024-12-13**|**Towards a foundation model for heavy-ion collision experiments through point cloud diffusion**|Manjunath Omana Kuttan et.al.|[2412.10352](http://arxiv.org/abs/2412.10352)|null|
 |**2024-12-13**|**BrushEdit: All-In-One Image Inpainting and Editing**|Yaowei Li et.al.|[2412.10316](http://arxiv.org/abs/2412.10316)|null|
 |**2024-12-13**|**Coherent 3D Scene Diffusion From a Single RGB Image**|Manuel Dahnert et.al.|[2412.10294](http://arxiv.org/abs/2412.10294)|null|
@@ -2652,7 +2652,7 @@ layout: default
 |**2024-12-12**|**OFTSR: One-Step Flow for Image Super-Resolution with Tunable Fidelity-Realism Trade-offs**|Yuanzhi Zhu et.al.|[2412.09465](http://arxiv.org/abs/2412.09465)|**[link](https://github.com/yuanzhi-zhu/oftsr)**|
 |**2024-12-13**|**Are Conditional Latent Diffusion Models Effective for Image Restoration?**|Yunchen Yuan et.al.|[2412.09324](http://arxiv.org/abs/2412.09324)|null|
 |**2024-12-12**|**ExpRDiff: Short-exposure Guided Diffusion Model for Realistic Local Motion Deblurring**|Zhongbao Yang et.al.|[2412.09193](http://arxiv.org/abs/2412.09193)|null|
-|**2024-12-12**|**Dynamic Contrastive Knowledge Distillation for Efficient Image Restoration**|Yunshuai Zhou et.al.|[2412.08939](http://arxiv.org/abs/2412.08939)|null|
+|**2024-12-17**|**Dynamic Contrastive Knowledge Distillation for Efficient Image Restoration**|Yunshuai Zhou et.al.|[2412.08939](http://arxiv.org/abs/2412.08939)|null|
 |**2024-12-11**|**Convergence Analysis of a Proximal Stochastic Denoising Regularization Algorithm**|Marien Renaud et.al.|[2412.08262](http://arxiv.org/abs/2412.08262)|null|
 |**2024-12-10**|**Modeling Dual-Exposure Quad-Bayer Patterns for Joint Denoising and Deblurring**|Yuzhi Zhao et.al.|[2412.07256](http://arxiv.org/abs/2412.07256)|**[link](https://github.com/zhaoyuzhi/qrnet)**|
 |**2024-12-10**|**EchoIR: Advancing Image Restoration with Echo Upsampling and Bi-Level Optimization**|Yuhan He et.al.|[2412.07225](http://arxiv.org/abs/2412.07225)|null|

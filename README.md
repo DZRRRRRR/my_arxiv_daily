@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.17
+## Updated on 2024.12.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -31,7 +31,7 @@
 |**2024-12-16**|**ColorFlow: Retrieval-Augmented Image Sequence Colorization**|Junhao Zhuang et.al.|[2412.11815](http://arxiv.org/abs/2412.11815)|null|
 |**2024-12-16**|**InterDyn: Controllable Interactive Dynamics with Video Diffusion Models**|Rick Akkerman et.al.|[2412.11785](http://arxiv.org/abs/2412.11785)|null|
 |**2024-12-16**|**Joint Reconstruction of the Activity and the Attenuation in PET by Diffusion Posterior Sampling: a Feasibility Study**|Clémentine Phung-Ngoc et.al.|[2412.11776](http://arxiv.org/abs/2412.11776)|null|
-|**2024-12-16**|**No More Adam: Learning Rate Scaling at Initialization is All You Need**|Minghao Xu et.al.|[2412.11768](http://arxiv.org/abs/2412.11768)|**[link](https://github.com/anonymousalethiometer/sgd_sai)**|
+|**2024-12-17**|**No More Adam: Learning Rate Scaling at Initialization is All You Need**|Minghao Xu et.al.|[2412.11768](http://arxiv.org/abs/2412.11768)|**[link](https://github.com/anonymousalethiometer/sgd_sai)**|
 |**2024-12-13**|**Towards a foundation model for heavy-ion collision experiments through point cloud diffusion**|Manjunath Omana Kuttan et.al.|[2412.10352](http://arxiv.org/abs/2412.10352)|null|
 |**2024-12-13**|**BrushEdit: All-In-One Image Inpainting and Editing**|Yaowei Li et.al.|[2412.10316](http://arxiv.org/abs/2412.10316)|null|
 |**2024-12-13**|**Coherent 3D Scene Diffusion From a Single RGB Image**|Manuel Dahnert et.al.|[2412.10294](http://arxiv.org/abs/2412.10294)|null|
@@ -2298,7 +2298,7 @@
 |**2023-12-16**|**Image Restoration Through Generalized Ornstein-Uhlenbeck Bridge**|Conghan Yue et.al.|[2312.10299](http://arxiv.org/abs/2312.10299)|**[link](https://github.com/Hammour-steak/GOUB)**|
 |**2023-12-15**|**Two simple criterion to prove the existence of patterns in reaction-diffusion models of two components**|Francisco J. Vielma-Leal et.al.|[2312.10231](http://arxiv.org/abs/2312.10231)|null|
 
-<p align=right>(<a href=#updated-on-20241217>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241218>back to top</a>)</p>
 
 ## Implicit
 
@@ -2577,7 +2577,7 @@
 |**2023-12-07**|**Hiding Functions within Functions: Steganography by Implicit Neural Representations**|Jia Liu et.al.|[2312.04743](http://arxiv.org/abs/2312.04743)|null|
 |**2023-12-07**|**ImFace++: A Sophisticated Nonlinear 3D Morphable Face Model with Implicit Neural Representations**|Mingwu Zheng et.al.|[2312.04028](http://arxiv.org/abs/2312.04028)|**[link](https://github.com/mingwuzheng/imface)**|
 
-<p align=right>(<a href=#updated-on-20241217>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241218>back to top</a>)</p>
 
 ## UnderWater
 
@@ -2592,7 +2592,7 @@
 |**2022-04-06**|**Medium Transmission Map Matters for Learning to Restore Real-World Underwater Images**|Yan Kai et.al.|[2203.09414](http://arxiv.org/abs/2203.09414)|**[link](https://github.com/groupg-yk/mtur-net)**|
 |**2019-03-06**|**Real-world Underwater Enhancement: Challenges, Benchmarks, and Solutions**|Risheng Liu et.al.|[1901.05320](http://arxiv.org/abs/1901.05320)|**[link](https://github.com/dlut-dimt/Realworld-Underwater-Image-Enhancement-RUIE-Benchmark)**|
 
-<p align=right>(<a href=#updated-on-20241217>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241218>back to top</a>)</p>
 
 ## image_dehaze
 
@@ -2656,7 +2656,7 @@
 |**2023-08-14**|**Mutual Information-driven Triple Interaction Network for Efficient Image Dehazing**|Hao Shen et.al.|[2308.06998](http://arxiv.org/abs/2308.06998)|**[link](https://github.com/it-hao/mitnet)**|
 |**2023-08-01**|**Decomposition Ascribed Synergistic Learning for Unified Image Restoration**|Jinghao Zhang et.al.|[2308.00759](http://arxiv.org/abs/2308.00759)|null|
 
-<p align=right>(<a href=#updated-on-20241217>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241218>back to top</a>)</p>
 
 ## Restoration
 
@@ -2668,7 +2668,7 @@
 |**2024-12-12**|**OFTSR: One-Step Flow for Image Super-Resolution with Tunable Fidelity-Realism Trade-offs**|Yuanzhi Zhu et.al.|[2412.09465](http://arxiv.org/abs/2412.09465)|**[link](https://github.com/yuanzhi-zhu/oftsr)**|
 |**2024-12-13**|**Are Conditional Latent Diffusion Models Effective for Image Restoration?**|Yunchen Yuan et.al.|[2412.09324](http://arxiv.org/abs/2412.09324)|null|
 |**2024-12-12**|**ExpRDiff: Short-exposure Guided Diffusion Model for Realistic Local Motion Deblurring**|Zhongbao Yang et.al.|[2412.09193](http://arxiv.org/abs/2412.09193)|null|
-|**2024-12-12**|**Dynamic Contrastive Knowledge Distillation for Efficient Image Restoration**|Yunshuai Zhou et.al.|[2412.08939](http://arxiv.org/abs/2412.08939)|null|
+|**2024-12-17**|**Dynamic Contrastive Knowledge Distillation for Efficient Image Restoration**|Yunshuai Zhou et.al.|[2412.08939](http://arxiv.org/abs/2412.08939)|null|
 |**2024-12-11**|**Convergence Analysis of a Proximal Stochastic Denoising Regularization Algorithm**|Marien Renaud et.al.|[2412.08262](http://arxiv.org/abs/2412.08262)|null|
 |**2024-12-10**|**Modeling Dual-Exposure Quad-Bayer Patterns for Joint Denoising and Deblurring**|Yuzhi Zhao et.al.|[2412.07256](http://arxiv.org/abs/2412.07256)|**[link](https://github.com/zhaoyuzhi/qrnet)**|
 |**2024-12-10**|**EchoIR: Advancing Image Restoration with Echo Upsampling and Bi-Level Optimization**|Yuhan He et.al.|[2412.07225](http://arxiv.org/abs/2412.07225)|null|
@@ -2990,7 +2990,7 @@
 |**2023-12-12**|**WaterHE-NeRF: Water-ray Tracing Neural Radiance Fields for Underwater Scene Reconstruction**|Jingchun Zhou et.al.|[2312.06946](http://arxiv.org/abs/2312.06946)|null|
 |**2023-12-11**|**Textual Prompt Guided Image Restoration**|Qiuhai Yan et.al.|[2312.06162](http://arxiv.org/abs/2312.06162)|**[link](https://github.com/motong-ai-studio/textpromptir)**|
 
-<p align=right>(<a href=#updated-on-20241217>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241218>back to top</a>)</p>
 
 ## Image_Translation
 
@@ -3223,7 +3223,7 @@
 |**2023-11-30**|**S2ST: Image-to-Image Translation in the Seed Space of Latent Diffusion**|Or Greenberg et.al.|[2312.00116](http://arxiv.org/abs/2312.00116)|null|
 |**2023-11-30**|**Towards Unsupervised Representation Learning: Learning, Evaluating and Transferring Visual Representations**|Bonifaz Stuhr et.al.|[2312.00101](http://arxiv.org/abs/2312.00101)|**[link](https://github.com/bonifazstuhr/feamgan)**|
 
-<p align=right>(<a href=#updated-on-20241217>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241218>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
