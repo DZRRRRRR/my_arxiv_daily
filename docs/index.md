@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.24
+## Updated on 2024.12.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
@@ -3044,7 +3044,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-12-20**|**Diffusion-Based Conditional Image Editing through Optimized Inference with Guidance**|Hyunsoo Lee et.al.|[2412.15798](http://arxiv.org/abs/2412.15798)|null|
 |**2024-12-16**|**LineArt: A Knowledge-guided Training-free High-quality Appearance Transfer for Design Drawing with Diffusion Model**|Xi Wang et.al.|[2412.11519](http://arxiv.org/abs/2412.11519)|null|
-|**2024-12-18**|**Go With the Flow: Fast Diffusion for Gaussian Mixture Models**|George Rapakoulias et.al.|[2412.09059](http://arxiv.org/abs/2412.09059)|null|
+|**2024-12-24**|**Go With the Flow: Fast Diffusion for Gaussian Mixture Models**|George Rapakoulias et.al.|[2412.09059](http://arxiv.org/abs/2412.09059)|null|
 |**2024-12-11**|**TryOffAnyone: Tiled Cloth Generation from a Dressed Person**|Ioannis Xarchakos et.al.|[2412.08573](http://arxiv.org/abs/2412.08573)|**[link](https://github.com/ixarchakos/try-off-anyone)**|
 |**2024-12-10**|**Paired Wasserstein Autoencoders for Conditional Sampling**|Moritz Piening et.al.|[2412.07586](http://arxiv.org/abs/2412.07586)|null|
 |**2024-12-16**|**MIT-10M: A Large Scale Parallel Corpus of Multilingual Image Translation**|Bo Li et.al.|[2412.07147](http://arxiv.org/abs/2412.07147)|null|
