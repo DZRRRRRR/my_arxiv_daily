@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-21**|**Towards Affordance-Aware Articulation Synthesis for Rigged Objects**|Yu-Chu Yu et.al.|[2501.12393](http://arxiv.org/abs/2501.12393)|null|
+|**2025-01-21**|**GPS as a Control Signal for Image Generation**|Chao Feng et.al.|[2501.12390](http://arxiv.org/abs/2501.12390)|null|
+|**2025-01-21**|**Audio Texture Manipulation by Exemplar-Based Analogy**|Kan Jen Cheng et.al.|[2501.12385](http://arxiv.org/abs/2501.12385)|null|
+|**2025-01-21**|**DiffDoctor: Diagnosing Image Diffusion Models Before Treating**|Yiyang Wang et.al.|[2501.12382](http://arxiv.org/abs/2501.12382)|null|
+|**2025-01-21**|**VipDiff: Towards Coherent and Diverse Video Inpainting via Training-free Denoising Diffusion Models**|Chaohao Xie et.al.|[2501.12267](http://arxiv.org/abs/2501.12267)|null|
+|**2025-01-21**|**Joint Reconstruction and Motion Estimation in Sparse-View 4DCT Using Diffusion Models within a Blind Inverse Problem Framework**|Antoine De Paepe et.al.|[2501.12249](http://arxiv.org/abs/2501.12249)|null|
+|**2025-01-21**|**TokenVerse: Versatile Multi-concept Personalization in Token Modulation Space**|Daniel Garibi et.al.|[2501.12224](http://arxiv.org/abs/2501.12224)|null|
+|**2025-01-21**|**Hunyuan3D 2.0: Scaling Diffusion Models for High Resolution Textured 3D Assets Generation**|Zibo Zhao et.al.|[2501.12202](http://arxiv.org/abs/2501.12202)|**[link](https://github.com/tencent/hunyuan3d-2)**|
+|**2025-01-21**|**ComposeAnyone: Controllable Layout-to-Human Generation with Decoupled Multimodal Conditions**|Shiyue Zhang et.al.|[2501.12173](http://arxiv.org/abs/2501.12173)|**[link](https://github.com/zhangshy1019/composeanyone)**|
+|**2025-01-20**|**EfficientVITON: An Efficient Virtual Try-On Model using Optimized Diffusion Process**|Mostafa Atef et.al.|[2501.11776](http://arxiv.org/abs/2501.11776)|null|
 |**2025-01-17**|**DiffStereo: High-Frequency Aware Diffusion Model for Stereo Image Restoration**|Huiyun Cao et.al.|[2501.10325](http://arxiv.org/abs/2501.10325)|null|
 |**2025-01-17**|**DiffVSR: Enhancing Real-World Video Super-Resolution with Diffusion Models for Advanced Visual Quality and Temporal Consistency**|Xiaohui Li et.al.|[2501.10110](http://arxiv.org/abs/2501.10110)|null|
 |**2025-01-17**|**Conditional Latent Diffusion-Based Speech Enhancement Via Dual Context Learning**|Shengkui Zhao et.al.|[2501.10052](http://arxiv.org/abs/2501.10052)|null|
@@ -2490,6 +2500,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-20**|**Generating visual explanations from deep networks using implicit neural representations**|Michal Byra et.al.|[2501.11784](http://arxiv.org/abs/2501.11784)|null|
+|**2025-01-20**|**Collaborative Imputation of Urban Time Series through Cross-city Meta-learning**|Tong Nie et.al.|[2501.11306](http://arxiv.org/abs/2501.11306)|null|
+|**2025-01-19**|**BF-STVSR: B-Splines and Fourier-Best Friends for High Fidelity Spatial-Temporal Video Super-Resolution**|Eunjin Kim et.al.|[2501.11043](http://arxiv.org/abs/2501.11043)|null|
 |**2025-01-16**|**Bias for Action: Video Implicit Neural Representations with Bias Modulation**|Alper Kayabasi et.al.|[2501.09277](http://arxiv.org/abs/2501.09277)|null|
 |**2025-01-15**|**Dynamic-Aware Spatio-temporal Representation Learning for Dynamic MRI Reconstruction**|Dayoung Baik et.al.|[2501.09049](http://arxiv.org/abs/2501.09049)|null|
 |**2025-01-13**|**Implicit Neural Representations for Registration of Left Ventricle Myocardium During a Cardiac Cycle**|Mathias Micheelsen Lowes et.al.|[2501.07248](http://arxiv.org/abs/2501.07248)|**[link](https://github.com/mmlowes/inr_reg_lvmyo)**|
@@ -2864,6 +2877,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-21**|**Proxies for Distortion and Consistency with Applications for Real-World Image Restoration**|Sean Man et.al.|[2501.12102](http://arxiv.org/abs/2501.12102)|null|
+|**2025-01-20**|**SILO: Solving Inverse Problems with Latent Operators**|Ron Raphaeli et.al.|[2501.11746](http://arxiv.org/abs/2501.11746)|null|
 |**2025-01-17**|**DiffStereo: High-Frequency Aware Diffusion Model for Stereo Image Restoration**|Huiyun Cao et.al.|[2501.10325](http://arxiv.org/abs/2501.10325)|null|
 |**2025-01-16**|**Soft Knowledge Distillation with Multi-Dimensional Cross-Net Attention for Image Restoration Models Compression**|Yongheng Zhang et.al.|[2501.09321](http://arxiv.org/abs/2501.09321)|null|
 |**2025-01-16**|**Knowledge Distillation for Image Restoration : Simultaneous Learning from Degraded and Clean Images**|Yongheng Zhang et.al.|[2501.09268](http://arxiv.org/abs/2501.09268)|null|
@@ -3221,6 +3236,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-20**|**EfficientVITON: An Efficient Virtual Try-On Model using Optimized Diffusion Process**|Mostafa Atef et.al.|[2501.11776](http://arxiv.org/abs/2501.11776)|null|
 |**2025-01-17**|**CSHNet: A Novel Information Asymmetric Image Translation Method**|Xi Yang et.al.|[2501.10197](http://arxiv.org/abs/2501.10197)|**[link](https://github.com/xdushi/cshnet)**|
 |**2025-01-16**|**Knowledge Distillation for Image Restoration : Simultaneous Learning from Degraded and Clean Images**|Yongheng Zhang et.al.|[2501.09268](http://arxiv.org/abs/2501.09268)|null|
 |**2025-01-13**|**Diff-Ensembler: Learning to Ensemble 2D Diffusion Models for Volume-to-Volume Medical Image Translation**|Xiyue Zhu et.al.|[2501.07430](http://arxiv.org/abs/2501.07430)|null|
