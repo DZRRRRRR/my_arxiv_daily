@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-04**|**Calibrated Multi-Preference Optimization for Aligning Diffusion Models**|Kyungmin Lee et.al.|[2502.02588](http://arxiv.org/abs/2502.02588)|null|
+|**2025-02-04**|**Open Materials Generation with Stochastic Interpolants**|Philipp Hoellmer et.al.|[2502.02582](http://arxiv.org/abs/2502.02582)|null|
+|**2025-02-04**|**Diff9D: Diffusion-Based Domain-Generalized Category-Level 9-DoF Object Pose Estimation**|Jian Liu et.al.|[2502.02525](http://arxiv.org/abs/2502.02525)|null|
+|**2025-02-04**|**Privacy Attacks on Image AutoRegressive Models**|Antoni Kowalczuk et.al.|[2502.02514](http://arxiv.org/abs/2502.02514)|null|
+|**2025-02-04**|**Do Graph Diffusion Models Accurately Capture and Generate Substructure Distributions?**|Xiyuan Wang et.al.|[2502.02488](http://arxiv.org/abs/2502.02488)|null|
+|**2025-02-04**|**Distributional Diffusion Models with Scoring Rules**|Valentin De Bortoli et.al.|[2502.02483](http://arxiv.org/abs/2502.02483)|null|
+|**2025-02-04**|**Towards Consistent and Controllable Image Synthesis for Face Editing**|Mengting Wei et.al.|[2502.02465](http://arxiv.org/abs/2502.02465)|null|
+|**2025-02-04**|**Sparse Data Generation Using Diffusion Models**|Phil Ostheimer et.al.|[2502.02448](http://arxiv.org/abs/2502.02448)|null|
+|**2025-02-04**|**Towards Fast Graph Generation via Autoregressive Noisy Filtration Modeling**|Markus Krimmel et.al.|[2502.02415](http://arxiv.org/abs/2502.02415)|null|
+|**2025-02-04**|**DIME:Diffusion-Based Maximum Entropy Reinforcement Learning**|Onur Celik et.al.|[2502.02316](http://arxiv.org/abs/2502.02316)|null|
 |**2025-01-31**|**Beyond Fixed Horizons: A Theoretical Framework for Adaptive Denoising Diffusions**|Sören Christensen et.al.|[2501.19373](http://arxiv.org/abs/2501.19373)|null|
 |**2025-01-31**|**Pathological MRI Segmentation by Synthetic Pathological Data Generation in Fetuses and Neonates**|Misha P. T Kaandorp et.al.|[2501.19338](http://arxiv.org/abs/2501.19338)|null|
 |**2025-01-31**|**Medical Semantic Segmentation with Diffusion Pretrain**|David Li et.al.|[2501.19265](http://arxiv.org/abs/2501.19265)|null|
@@ -2566,6 +2576,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-02**|**STAF: Sinusoidal Trainable Activation Functions for Implicit Neural Representation**|Alireza Morsali et.al.|[2502.00869](http://arxiv.org/abs/2502.00869)|null|
 |**2025-01-29**|**Pressure Field Reconstruction with SIREN: A Mesh-Free Approach for Image Velocimetry in Complex Noisy Environments**|Renato F. Miotto et.al.|[2501.17987](http://arxiv.org/abs/2501.17987)|null|
 |**2025-01-27**|**Spatial-Angular Representation Learning for High-Fidelity Continuous Super-Resolution in Diffusion MRI**|Ruoyou Wu et.al.|[2501.16014](http://arxiv.org/abs/2501.16014)|null|
 |**2025-01-27**|**INRet: A General Framework for Accurate Retrieval of INRs for Shapes**|Yushi Guan et.al.|[2501.15722](http://arxiv.org/abs/2501.15722)|null|
@@ -2880,6 +2891,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-03**|**CLIP-DQA: Blindly Evaluating Dehazed Images from Global and Local Perspectives Using CLIP**|Yirui Zeng et.al.|[2502.01707](http://arxiv.org/abs/2502.01707)|null|
 |**2025-01-12**|**UR2P-Dehaze: Learning a Simple Image Dehaze Enhancer via Unpaired Rich Physical Prior**|Minglong Xue et.al.|[2501.06818](http://arxiv.org/abs/2501.06818)|**[link](https://github.com/fan-pixel/ur2p-dehaze)**|
 |**2025-01-08**|**MB-TaylorFormer V2: Improved Multi-branch Linear Transformer Expanded by Taylor Formula for Image Restoration**|Zhi Jin et.al.|[2501.04486](http://arxiv.org/abs/2501.04486)|**[link](https://github.com/fvl2020/mb-taylorformerv2)**|
 |**2025-01-03**|**Transformer-Driven Inverse Problem Transform for Fast Blind Hyperspectral Image Dehazing**|Po-Wei Tang et.al.|[2501.01924](http://arxiv.org/abs/2501.01924)|null|
@@ -2947,6 +2959,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-03**|**Human Body Restoration with One-Step Diffusion Model and A New Benchmark**|Jue Gong et.al.|[2502.01411](http://arxiv.org/abs/2502.01411)|null|
+|**2025-02-04**|**Compressed Image Generation with Denoising Diffusion Codebook Models**|Guy Ohayon et.al.|[2502.01189](http://arxiv.org/abs/2502.01189)|null|
+|**2025-02-01**|**Shape from Semantics: 3D Shape Generation from Multi-View Semantics**|Liangchen Li et.al.|[2502.00360](http://arxiv.org/abs/2502.00360)|null|
 |**2025-01-30**|**Integrating Spatial and Frequency Information for Under-Display Camera Image Restoration**|Kyusu Ahn et.al.|[2501.18517](http://arxiv.org/abs/2501.18517)|null|
 |**2025-01-31**|**MatIR: A Hybrid Mamba-Transformer Image Restoration Model**|Juan Wen et.al.|[2501.18401](http://arxiv.org/abs/2501.18401)|**[link](https://github.com/wenjuan7275/matir)**|
 |**2025-01-27**|**Directing Mamba to Complex Textures: An Efficient Texture-Aware State Space Model for Image Restoration**|Long Peng et.al.|[2501.16583](http://arxiv.org/abs/2501.16583)|null|
@@ -3318,6 +3333,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-04**|**Style transfer as data augmentation: evaluating unpaired image-to-image translation models in mammography**|Emir Ahmed et.al.|[2502.02475](http://arxiv.org/abs/2502.02475)|null|
+|**2025-02-03**|**Inverse Bridge Matching Distillation**|Nikita Gushchin et.al.|[2502.01362](http://arxiv.org/abs/2502.01362)|null|
+|**2025-02-03**|**FCBoost-Net: A Generative Network for Synthesizing Multiple Collocated Outfits via Fashion Compatibility Boosting**|Dongliang Zhou et.al.|[2502.00992](http://arxiv.org/abs/2502.00992)|null|
+|**2025-02-02**|**Estimating forest carbon stocks from high-resolution remote sensing imagery by reducing domain shift with style transfer**|Zhenyu Yu et.al.|[2502.00784](http://arxiv.org/abs/2502.00784)|null|
+|**2025-02-01**|**A Diffusion Model Translator for Efficient Image-to-Image Translation**|Mengfei Xia et.al.|[2502.00307](http://arxiv.org/abs/2502.00307)|null|
 |**2025-01-30**|**Influence of High-Performance Image-to-Image Translation Networks on Clinical Visual Assessment and Outcome Prediction: Utilizing Ultrasound to MRI Translation in Prostate Cancer**|Mohammad R. Salmanpour et.al.|[2501.18109](http://arxiv.org/abs/2501.18109)|null|
 |**2025-01-29**|**Generative AI for Vision: A Comprehensive Study of Frameworks and Applications**|Fouad Bousetouane et.al.|[2501.18033](http://arxiv.org/abs/2501.18033)|null|
 |**2025-01-29**|**Trustworthy image-to-image translation: evaluating uncertainty calibration in unpaired training scenarios**|Ciaran Bench et.al.|[2501.17570](http://arxiv.org/abs/2501.17570)|null|
