@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.17
+## Updated on 2025.02.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
@@ -3437,7 +3437,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-02-12**|**Revealing Subtle Phenotypes in Small Microscopy Datasets Using Latent Diffusion Models**|Anis Bourou et.al.|[2502.09665](http://arxiv.org/abs/2502.09665)|null|
-|**2025-02-11**|**Unpaired Image-to-Image Translation with Content Preserving Perspective: A Review**|Mehran Safayani et.al.|[2502.08667](http://arxiv.org/abs/2502.08667)|null|
+|**2025-02-15**|**Unpaired Image-to-Image Translation with Content Preserving Perspective: A Review**|Mehran Safayani et.al.|[2502.08667](http://arxiv.org/abs/2502.08667)|null|
 |**2025-02-05**|**Learning to Synthesize Compatible Fashion Items Using Semantic Alignment and Collocation Classification: An Outfit Generation Framework**|Dongliang Zhou et.al.|[2502.06827](http://arxiv.org/abs/2502.06827)|null|
 |**2025-02-11**|**UniDB: A Unified Diffusion Bridge Framework via Stochastic Optimal Control**|Kaizhen Zhu et.al.|[2502.05749](http://arxiv.org/abs/2502.05749)|**[link](https://github.com/unidb-soc/unidb)**|
 |**2025-02-07**|**ARTInp: CBCT-to-CT Image Inpainting and Image Translation in Radiotherapy**|Ricardo Coimbra Brioso et.al.|[2502.04898](http://arxiv.org/abs/2502.04898)|null|
