@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.27
+## Updated on 2025.02.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
@@ -15,7 +15,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-02-26**|**HDM: Hybrid Diffusion Model for Unified Image Anomaly Detection**|Zekang Weng et.al.|[2502.19200](http://arxiv.org/abs/2502.19200)|null|
-|**2025-02-26**|**RetinaRegen: A Hybrid Model for Readability and Detail Restoration in Fundus Images**|Yuhan Tang et.al.|[2502.19153](http://arxiv.org/abs/2502.19153)|null|
+|**2025-02-27**|**RetinaRegen: A Hybrid Model for Readability and Detail Restoration in Fundus Images**|Yuhan Tang et.al.|[2502.19153](http://arxiv.org/abs/2502.19153)|null|
 |**2025-02-26**|**Modulation of the galactic cosmic ray spectrum in an anisotropic diffusion approach**|V. D. Borisov et.al.|[2502.19062](http://arxiv.org/abs/2502.19062)|null|
 |**2025-02-26**|**A Dual-Purpose Framework for Backdoor Defense and Backdoor Amplification in Diffusion Models**|Vu Tuan Truong Long et.al.|[2502.19047](http://arxiv.org/abs/2502.19047)|null|
 |**2025-02-26**|**DualSpec: Text-to-spatial-audio Generation via Dual-Spectrogram Guided Diffusion Model**|Lei Zhao et.al.|[2502.18952](http://arxiv.org/abs/2502.18952)|null|
@@ -3138,7 +3138,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-02-26**|**Self-supervised conformal prediction for uncertainty quantification in Poisson imaging problems**|Bernardin Tamo Amougou et.al.|[2502.19194](http://arxiv.org/abs/2502.19194)|null|
 |**2025-02-26**|**Multi-level Attention-guided Graph Neural Network for Image Restoration**|Jiatao Jiang et.al.|[2502.19181](http://arxiv.org/abs/2502.19181)|null|
-|**2025-02-26**|**RetinaRegen: A Hybrid Model for Readability and Detail Restoration in Fundus Images**|Yuhan Tang et.al.|[2502.19153](http://arxiv.org/abs/2502.19153)|null|
+|**2025-02-27**|**RetinaRegen: A Hybrid Model for Readability and Detail Restoration in Fundus Images**|Yuhan Tang et.al.|[2502.19153](http://arxiv.org/abs/2502.19153)|null|
 |**2025-02-26**|**Dynamic Degradation Decomposition Network for All-in-One Image Restoration**|Huiqiang Wang et.al.|[2502.19068](http://arxiv.org/abs/2502.19068)|null|
 |**2025-02-24**|**Splitting Regularized Wasserstein Proximal Algorithms for Nonsmooth Sampling Problems**|Fuqun Han et.al.|[2502.16773](http://arxiv.org/abs/2502.16773)|null|
 |**2025-02-19**|**RestoreGrad: Signal Restoration Using Conditional Denoising Diffusion Models with Jointly Learned Prior**|Ching-Hua Lee et.al.|[2502.13574](http://arxiv.org/abs/2502.13574)|null|
