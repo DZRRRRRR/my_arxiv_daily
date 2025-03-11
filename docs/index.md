@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.10
+## Updated on 2025.03.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
@@ -2797,8 +2797,8 @@ layout: default
 |**2025-03-06**|**Implicit Neural Representation for Video and Image Super-Resolution**|Mary Aiyetigbo et.al.|[2503.04665](http://arxiv.org/abs/2503.04665)|null|
 |**2025-03-06**|**GaussianVideo: Efficient Video Representation and Compression by Gaussian Splatting**|Inseo Lee et.al.|[2503.04333](http://arxiv.org/abs/2503.04333)|null|
 |**2025-03-04**|**UAR-NVC: A Unified AutoRegressive Framework for Memory-Efficient Neural Video Compression**|Jia Wang et.al.|[2503.02733](http://arxiv.org/abs/2503.02733)|null|
-|**2025-03-04**|**A Hypernetwork-Based Approach to KAN Representation of Audio Signals**|Patryk Marszałek et.al.|[2503.02585](http://arxiv.org/abs/2503.02585)|null|
-|**2025-03-03**|**DDEQs: Distributional Deep Equilibrium Models through Wasserstein Gradient Flows**|Jonathan Geuter et.al.|[2503.01140](http://arxiv.org/abs/2503.01140)|null|
+|**2025-03-04**|**A Hypernetwork-Based Approach to KAN Representation of Audio Signals**|Patryk Marszałek et.al.|[2503.02585](http://arxiv.org/abs/2503.02585)|**[link](https://github.com/gmum/fewsound)**|
+|**2025-03-03**|**DDEQs: Distributional Deep Equilibrium Models through Wasserstein Gradient Flows**|Jonathan Geuter et.al.|[2503.01140](http://arxiv.org/abs/2503.01140)|**[link](https://github.com/j-geuter/ddeqs)**|
 |**2025-03-02**|**Foundation Models Secretly Understand Neural Network Weights: Enhancing Hypernetwork Architectures with Foundation Models**|Jeffrey Gu et.al.|[2503.00838](http://arxiv.org/abs/2503.00838)|null|
 |**2025-02-28**|**Physics-Informed Implicit Neural Representations for Joint B0 Estimation and Echo Planar Imaging**|Wenqi Huang et.al.|[2503.00230](http://arxiv.org/abs/2503.00230)|null|
 |**2025-02-28**|**Bilevel Optimized Implicit Neural Representation for Scan-Specific Accelerated MRI Reconstruction**|Hongze Yu et.al.|[2502.21292](http://arxiv.org/abs/2502.21292)|null|
