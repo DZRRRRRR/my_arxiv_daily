@@ -22,6 +22,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-11**|**GarmentCrafter: Progressive Novel View Synthesis for Single-View 3D Garment Reconstruction and Editing**|Yuanhao Wang et.al.|[2503.08678](http://arxiv.org/abs/2503.08678)|null|
+|**2025-03-11**|**Language-Depth Navigated Thermal and Visible Image Fusion**|Jinchang Zhang et.al.|[2503.08676](http://arxiv.org/abs/2503.08676)|null|
+|**2025-03-11**|**Modeling Stock Return Distributions and Pricing Options**|Xinxin Jiang et.al.|[2503.08666](http://arxiv.org/abs/2503.08666)|null|
+|**2025-03-11**|**REGEN: Learning Compact Video Embedding with (Re-)Generative Decoder**|Yitian Zhang et.al.|[2503.08665](http://arxiv.org/abs/2503.08665)|null|
+|**2025-03-11**|**MEAT: Multiview Diffusion Model for Human Generation on Megapixels with Mesh Attention**|Yuhan Wang et.al.|[2503.08664](http://arxiv.org/abs/2503.08664)|null|
+|**2025-03-11**|**MF-VITON: High-Fidelity Mask-Free Virtual Try-On with Minimal Input**|Zhenchen Wan et.al.|[2503.08650](http://arxiv.org/abs/2503.08650)|null|
+|**2025-03-11**|**Rethinking Diffusion Model in High Dimension**|Zhenxin Zheng et.al.|[2503.08643](http://arxiv.org/abs/2503.08643)|null|
+|**2025-03-11**|**Tuning-Free Multi-Event Long Video Generation via Synchronized Coupled Sampling**|Subin Kim et.al.|[2503.08605](http://arxiv.org/abs/2503.08605)|null|
+|**2025-03-11**|**Modular Customization of Diffusion Models via Blockwise-Parameterized Low-Rank Adaptation**|Mingkang Zhu et.al.|[2503.08575](http://arxiv.org/abs/2503.08575)|null|
+|**2025-03-11**|**Posterior-Mean Denoising Diffusion Model for Realistic PET Image Reconstruction**|Yiran Sun et.al.|[2503.08546](http://arxiv.org/abs/2503.08546)|null|
 |**2025-03-10**|**Denoising Score Distillation: From Noisy Diffusion Pretraining to One-Step High-Quality Generation**|Tianyu Chen et.al.|[2503.07578](http://arxiv.org/abs/2503.07578)|null|
 |**2025-03-10**|**Inductive Moment Matching**|Linqi Zhou et.al.|[2503.07565](http://arxiv.org/abs/2503.07565)|null|
 |**2025-03-10**|**DRESS: Diffusion Reasoning-based Reward Shaping Scheme For Intelligent Networks**|Feiran You et.al.|[2503.07433](http://arxiv.org/abs/2503.07433)|null|
@@ -2814,6 +2824,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-11**|**DDO-IN: Dual Domains Optimization for Implicit Neural Network to Eliminate Motion Artifact in Magnetic Resonance Imaging**|Zhongyu Mai et.al.|[2503.08056](http://arxiv.org/abs/2503.08056)|null|
+|**2025-03-11**|**Dynamic PET Image Reconstruction via Non-negative INR Factorization**|Chaozhi Zhang et.al.|[2503.08025](http://arxiv.org/abs/2503.08025)|null|
+|**2025-03-10**|**Blind Video Super-Resolution based on Implicit Kernels**|Qiang Zhu et.al.|[2503.07856](http://arxiv.org/abs/2503.07856)|null|
 |**2025-03-10**|**NeAS: 3D Reconstruction from X-ray Images using Neural Attenuation Surface**|Chengrui Zhu et.al.|[2503.07491](http://arxiv.org/abs/2503.07491)|null|
 |**2025-03-09**|**ImplicitCell: Resolution Cell Modeling of Joint Implicit Volume Reconstruction and Pose Refinement in Freehand 3D Ultrasound**|Sheng Song et.al.|[2503.06686](http://arxiv.org/abs/2503.06686)|null|
 |**2025-03-09**|**Pixel to Gaussian: Ultra-Fast Continuous Super-Resolution with 2D Gaussian Modeling**|Long Peng et.al.|[2503.06617](http://arxiv.org/abs/2503.06617)|null|
@@ -3169,6 +3182,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-11**|**Seeing Beyond Haze: Generative Nighttime Image Dehazing**|Beibei Lin et.al.|[2503.08073](http://arxiv.org/abs/2503.08073)|null|
 |**2025-03-08**|**Feature Fusion Attention Network with CycleGAN for Image Dehazing, De-Snowing and De-Raining**|Akshat Jain et.al.|[2503.06107](http://arxiv.org/abs/2503.06107)|null|
 |**2025-03-03**|**Prior-guided Hierarchical Harmonization Network for Efficient Image Dehazing**|Xiongfei Su et.al.|[2503.01136](http://arxiv.org/abs/2503.01136)|null|
 |**2025-02-08**|**Unpaired Image Dehazing via Kolmogorov-Arnold Transformation of Latent Features**|Le-Anh Tran et.al.|[2502.07812](http://arxiv.org/abs/2502.07812)|null|
@@ -3641,6 +3655,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-11**|**Learning to Match Unpaired Data with Minimum Entropy Coupling**|Mustapha Bounoua et.al.|[2503.08501](http://arxiv.org/abs/2503.08501)|null|
 |**2025-03-10**|**LBM: Latent Bridge Matching for Fast Image-to-Image Translation**|Clément Chadebec et.al.|[2503.07535](http://arxiv.org/abs/2503.07535)|null|
 |**2025-03-07**|**LapLoss: Laplacian Pyramid-based Multiscale loss for Image Translation**|Krish Didwania et.al.|[2503.05974](http://arxiv.org/abs/2503.05974)|null|
 |**2025-03-07**|**Generalizable Image Repair for Robust Visual Autonomous Racing**|Carson Sobolewski et.al.|[2503.05911](http://arxiv.org/abs/2503.05911)|null|
