@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.12
+## Updated on 2025.03.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
@@ -3241,8 +3241,8 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-03-11**|**Boosting Diffusion-Based Text Image Super-Resolution Model Towards Generalized Real-World Scenarios**|Chenglu Pan et.al.|[2503.07232](http://arxiv.org/abs/2503.07232)|null|
-|**2025-03-03**|**Hyperspectral Image Restoration and Super-resolution with Physics-Aware Deep Learning for Biomedical Applications**|Yuchen Xiang et.al.|[2503.02908](http://arxiv.org/abs/2503.02908)|null|
-|**2025-03-04**|**ERetinex: Event Camera Meets Retinex Theory for Low-Light Image Enhancement**|Xuejian Guo et.al.|[2503.02484](http://arxiv.org/abs/2503.02484)|null|
+|**2025-03-03**|**Hyperspectral Image Restoration and Super-resolution with Physics-Aware Deep Learning for Biomedical Applications**|Yuchen Xiang et.al.|[2503.02908](http://arxiv.org/abs/2503.02908)|**[link](https://github.com/oycxyd/HyReS)**|
+|**2025-03-04**|**ERetinex: Event Camera Meets Retinex Theory for Low-Light Image Enhancement**|Xuejian Guo et.al.|[2503.02484](http://arxiv.org/abs/2503.02484)|**[link](https://github.com/lodew920/eretinex)**|
 |**2025-03-04**|**Semantic Prior Distillation with Vision Foundation Model for Enhanced Rapid Bone Scintigraphy Image Restoration**|Pengchen Liang et.al.|[2503.02321](http://arxiv.org/abs/2503.02321)|null|
 |**2025-03-03**|**MRI super-resolution reconstruction using efficient diffusion probabilistic model with residual shifting**|Mojtaba Safari et.al.|[2503.01576](http://arxiv.org/abs/2503.01576)|**[link](https://github.com/mosaf/res-srdiff)**|
 |**2025-03-03**|**Wavelet-Enhanced Desnowing: A Novel Single Image Restoration Approach for Traffic Surveillance under Adverse Weather Conditions**|Zihan Shen et.al.|[2503.01339](http://arxiv.org/abs/2503.01339)|null|
