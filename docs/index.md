@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-13**|**GoT: Unleashing Reasoning Capability of Multimodal Large Language Model for Visual Generation and Editing**|Rongyao Fang et.al.|[2503.10639](http://arxiv.org/abs/2503.10639)|null|
+|**2025-03-13**|**Studying Classifier(-Free) Guidance From a Classifier-Centric Perspective**|Xiaoming Zhao et.al.|[2503.10638](http://arxiv.org/abs/2503.10638)|null|
+|**2025-03-13**|**Distilling Diversity and Control in Diffusion Models**|Rohit Gandikota et.al.|[2503.10637](http://arxiv.org/abs/2503.10637)|null|
+|**2025-03-13**|**HybridVLA: Collaborative Diffusion and Autoregression in a Unified Vision-Language-Action Model**|Jiaming Liu et.al.|[2503.10631](http://arxiv.org/abs/2503.10631)|null|
+|**2025-03-13**|**NIL: No-data Imitation Learning by Leveraging Pre-trained Video Diffusion Models**|Mert Albaba et.al.|[2503.10626](http://arxiv.org/abs/2503.10626)|null|
+|**2025-03-13**|**DiT-Air: Revisiting the Efficiency of Diffusion Model Architecture Design in Text to Image Generation**|Chen Chen et.al.|[2503.10618](http://arxiv.org/abs/2503.10618)|null|
+|**2025-03-13**|**MuDG: Taming Multi-modal Diffusion with Gaussian Splatting for Urban Scene Reconstruction**|Yingshuang Zou et.al.|[2503.10604](http://arxiv.org/abs/2503.10604)|null|
+|**2025-03-13**|**CameraCtrl II: Dynamic Scene Exploration via Camera-controlled Video Diffusion Models**|Hao He et.al.|[2503.10592](http://arxiv.org/abs/2503.10592)|null|
+|**2025-03-13**|**Long Context Tuning for Video Generation**|Yuwei Guo et.al.|[2503.10589](http://arxiv.org/abs/2503.10589)|null|
+|**2025-03-13**|**Streaming Generation of Co-Speech Gestures via Accelerated Rolling Diffusion**|Evgeniia Vu et.al.|[2503.10488](http://arxiv.org/abs/2503.10488)|null|
 |**2025-03-12**|**PISA Experiments: Exploring Physics Post-Training for Video Diffusion Models by Watching Stuff Drop**|Chenyu Li et.al.|[2503.09595](http://arxiv.org/abs/2503.09595)|null|
 |**2025-03-12**|**Minimax Optimality of the Probability Flow ODE for Diffusion Models**|Changxiao Cai et.al.|[2503.09583](http://arxiv.org/abs/2503.09583)|null|
 |**2025-03-12**|**Block Diffusion: Interpolating Between Autoregressive and Diffusion Language Models**|Marianne Arriola et.al.|[2503.09573](http://arxiv.org/abs/2503.09573)|null|
@@ -2824,6 +2834,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-13**|**MetricGrids: Arbitrary Nonlinear Approximation with Elementary Metric Grids based Implicit Neural Representation**|Shu Wang et.al.|[2503.10000](http://arxiv.org/abs/2503.10000)|null|
+|**2025-03-12**|**SASNet: Spatially-Adaptive Sinusoidal Neural Networks**|Haoan Feng et.al.|[2503.09750](http://arxiv.org/abs/2503.09750)|null|
 |**2025-03-10**|**Direct Flow Simulations with Implicit Neural Representation of Complex Geometry**|Samundra Karki et.al.|[2503.08724](http://arxiv.org/abs/2503.08724)|null|
 |**2025-03-11**|**DDO-IN: Dual Domains Optimization for Implicit Neural Network to Eliminate Motion Artifact in Magnetic Resonance Imaging**|Zhongyu Mai et.al.|[2503.08056](http://arxiv.org/abs/2503.08056)|null|
 |**2025-03-11**|**Dynamic PET Image Reconstruction via Non-negative INR Factorization**|Chaozhi Zhang et.al.|[2503.08025](http://arxiv.org/abs/2503.08025)|null|
@@ -3251,8 +3263,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-13**|**Hybrid Agents for Image Restoration**|Bingchen Li et.al.|[2503.10120](http://arxiv.org/abs/2503.10120)|null|
+|**2025-03-13**|**Dream-IF: Dynamic Relative EnhAnceMent for Image Fusion**|Xingxin Xu et.al.|[2503.10109](http://arxiv.org/abs/2503.10109)|null|
 |**2025-03-12**|**Multi-Agent Image Restoration**|Xu Jiang et.al.|[2503.09403](http://arxiv.org/abs/2503.09403)|null|
-|**2025-03-12**|**MP-HSIR: A Multi-Prompt Framework for Universal Hyperspectral Image Restoration**|Zhehui Wu et.al.|[2503.09131](http://arxiv.org/abs/2503.09131)|null|
+|**2025-03-12**|**MP-HSIR: A Multi-Prompt Framework for Universal Hyperspectral Image Restoration**|Zhehui Wu et.al.|[2503.09131](http://arxiv.org/abs/2503.09131)|**[link](https://github.com/zhehuiwu/mp-hsir)**|
 |**2025-03-12**|**Prompt to Restore, Restore to Prompt: Cyclic Prompting for Universal Adverse Weather Removal**|Rongxin Liao et.al.|[2503.09013](http://arxiv.org/abs/2503.09013)|null|
 |**2025-03-11**|**QUIET-SR: Quantum Image Enhancement Transformer for Single Image Super-Resolution**|Siddhant Dutta et.al.|[2503.08759](http://arxiv.org/abs/2503.08759)|null|
 |**2025-03-11**|**Boosting Diffusion-Based Text Image Super-Resolution Model Towards Generalized Real-World Scenarios**|Chenglu Pan et.al.|[2503.07232](http://arxiv.org/abs/2503.07232)|null|
