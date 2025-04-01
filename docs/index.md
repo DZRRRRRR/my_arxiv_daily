@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.31
+## Updated on 2025.04.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
@@ -3324,7 +3324,7 @@ layout: default
 |**2025-03-23**|**Real-World Remote Sensing Image Dehazing: Benchmark and Baseline**|Zeng-Hui Zhu et.al.|[2503.17966](http://arxiv.org/abs/2503.17966)|**[link](https://github.com/lwcver/rrshid)**|
 |**2025-03-21**|**ProDehaze: Prompting Diffusion Models Toward Faithful Image Dehazing**|Tianwen Zhou et.al.|[2503.17488](http://arxiv.org/abs/2503.17488)|**[link](https://github.com/tianwenzhou/prodehaze)**|
 |**2025-03-19**|**Exploiting Diffusion Prior for Real-World Image Dehazing with Unpaired Training**|Yunwei Lan et.al.|[2503.15017](http://arxiv.org/abs/2503.15017)|**[link](https://github.com/ywxjm/diff-dehazer)**|
-|**2025-03-17**|**Iterative Predictor-Critic Code Decoding for Real-World Image Dehazing**|Jiayi Fu et.al.|[2503.13147](http://arxiv.org/abs/2503.13147)|null|
+|**2025-03-29**|**Iterative Predictor-Critic Code Decoding for Real-World Image Dehazing**|Jiayi Fu et.al.|[2503.13147](http://arxiv.org/abs/2503.13147)|null|
 |**2025-03-17**|**DehazeMamba: SAR-guided Optical Remote Sensing Image Dehazing with Adaptive State Space Model**|Zhicheng Zhao et.al.|[2503.13073](http://arxiv.org/abs/2503.13073)|null|
 |**2025-03-11**|**Seeing Beyond Haze: Generative Nighttime Image Dehazing**|Beibei Lin et.al.|[2503.08073](http://arxiv.org/abs/2503.08073)|null|
 |**2025-03-08**|**Feature Fusion Attention Network with CycleGAN for Image Dehazing, De-Snowing and De-Raining**|Akshat Jain et.al.|[2503.06107](http://arxiv.org/abs/2503.06107)|null|
