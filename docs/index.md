@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.01
+## Updated on 2025.04.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
@@ -15,7 +15,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-03-31**|**Enhancing Image Resolution of Solar Magnetograms: A Latent Diffusion Model Approach**|Francesco Pio Ramunno et.al.|[2503.24271](http://arxiv.org/abs/2503.24271)|null|
-|**2025-03-31**|**Visual Acoustic Fields**|Yuelei Li et.al.|[2503.24270](http://arxiv.org/abs/2503.24270)|null|
+|**2025-04-01**|**Visual Acoustic Fields**|Yuelei Li et.al.|[2503.24270](http://arxiv.org/abs/2503.24270)|null|
 |**2025-03-31**|**Controlled Latent Diffusion Models for 3D Porous Media Reconstruction**|Danilo Naiff et.al.|[2503.24083](http://arxiv.org/abs/2503.24083)|null|
 |**2025-03-31**|**DenseFormer: Learning Dense Depth Map from Sparse Depth and Image via Conditional Diffusion Model**|Ming Yuan et.al.|[2503.23993](http://arxiv.org/abs/2503.23993)|null|
 |**2025-03-31**|**JointTuner: Appearance-Motion Adaptive Joint Training for Customized Video Generation**|Fangda Chen et.al.|[2503.23951](http://arxiv.org/abs/2503.23951)|null|
