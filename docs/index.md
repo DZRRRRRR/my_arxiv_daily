@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.03
+## Updated on 2025.04.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
@@ -15,9 +15,9 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-04-02**|**Diffusion-Guided Gaussian Splatting for Large-Scale Unconstrained 3D Reconstruction and Novel View Synthesis**|Niluthpol Chowdhury Mithun et.al.|[2504.01960](http://arxiv.org/abs/2504.01960)|null|
-|**2025-04-02**|**VideoScene: Distilling Video Diffusion Model to Generate 3D Scenes in One Step**|Hanyang Wang et.al.|[2504.01956](http://arxiv.org/abs/2504.01956)|null|
+|**2025-04-03**|**VideoScene: Distilling Video Diffusion Model to Generate 3D Scenes in One Step**|Hanyang Wang et.al.|[2504.01956](http://arxiv.org/abs/2504.01956)|null|
 |**2025-04-02**|**A Unified Approach to Analysis and Design of Denoising Markov Models**|Yinuo Ren et.al.|[2504.01938](http://arxiv.org/abs/2504.01938)|null|
-|**2025-04-02**|**ILLUME+: Illuminating Unified MLLM with Dual Visual Tokenization and Diffusion Refinement**|Runhui Huang et.al.|[2504.01934](http://arxiv.org/abs/2504.01934)|null|
+|**2025-04-03**|**ILLUME+: Illuminating Unified MLLM with Dual Visual Tokenization and Diffusion Refinement**|Runhui Huang et.al.|[2504.01934](http://arxiv.org/abs/2504.01934)|null|
 |**2025-04-02**|**Multi-fidelity Parameter Estimation Using Conditional Diffusion Models**|Caroline Tatsuoka et.al.|[2504.01894](http://arxiv.org/abs/2504.01894)|null|
 |**2025-04-02**|**A Diffusion-Based Framework for Occluded Object Movement**|Zheng-Peng Duan et.al.|[2504.01873](http://arxiv.org/abs/2504.01873)|null|
 |**2025-04-02**|**Implicit Bias Injection Attacks against Text-to-Image Diffusion Models**|Huayang Huang et.al.|[2504.01819](http://arxiv.org/abs/2504.01819)|null|
@@ -3429,7 +3429,7 @@ layout: default
 |**2025-03-31**|**InstructRestore: Region-Customized Image Restoration with Human Instructions**|Shuaizheng Liu et.al.|[2503.24357](http://arxiv.org/abs/2503.24357)|**[link](https://github.com/shuaizhengliu/instructrestore)**|
 |**2025-03-29**|**indiSplit: Bringing Severity Cognizance to Image Decomposition in Fluorescence Microscopy**|Ashesh Ashesh et.al.|[2503.22983](http://arxiv.org/abs/2503.22983)|null|
 |**2025-03-28**|**RELD: Regularization by Latent Diffusion Models for Image Restoration**|Pasquale Cascarano et.al.|[2503.22563](http://arxiv.org/abs/2503.22563)|null|
-|**2025-03-27**|**Q-MambaIR: Accurate Quantized Mamba for Efficient Image Restoration**|Yujie Chen et.al.|[2503.21970](http://arxiv.org/abs/2503.21970)|null|
+|**2025-04-02**|**Q-MambaIR: Accurate Quantized Mamba for Efficient Image Restoration**|Yujie Chen et.al.|[2503.21970](http://arxiv.org/abs/2503.21970)|null|
 |**2025-03-27**|**Invert2Restore: Zero-Shot Degradation-Blind Image Restoration**|Hamadi Chihaoui et.al.|[2503.21486](http://arxiv.org/abs/2503.21486)|null|
 |**2025-03-27**|**Diffusion Image Prior**|Hamadi Chihaoui et.al.|[2503.21410](http://arxiv.org/abs/2503.21410)|null|
 |**2025-03-26**|**Devil is in the Uniformity: Exploring Diverse Learners within Transformer for Image Restoration**|Shihao Zhou et.al.|[2503.20174](http://arxiv.org/abs/2503.20174)|null|
