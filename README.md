@@ -3882,7 +3882,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-04-03**|**F-ViTA: Foundation Model Guided Visible to Thermal Translation**|Jay N. Paranjape et.al.|[2504.02801](http://arxiv.org/abs/2504.02801)|null|
-|**2025-04-02**|**MuTri: Multi-view Tri-alignment for OCT to OCTA 3D Image Translation**|Zhuangzhuang Chen et.al.|[2504.01428](http://arxiv.org/abs/2504.01428)|null|
+|**2025-04-02**|**MuTri: Multi-view Tri-alignment for OCT to OCTA 3D Image Translation**|Zhuangzhuang Chen et.al.|[2504.01428](http://arxiv.org/abs/2504.01428)|**[link](https://github.com/xmed-lab/MuTri)**|
 |**2025-04-02**|**Leveraging Generalizability of Image-to-Image Translation for Enhanced Adversarial Defense**|Haibo Zhang et.al.|[2504.01399](http://arxiv.org/abs/2504.01399)|null|
 |**2025-04-01**|**SCFANet: Style Distribution Constraint Feature Alignment Network For Pathological Staining Translation**|Zetong Chen et.al.|[2504.00490](http://arxiv.org/abs/2504.00490)|null|
 |**2025-03-28**|**Deterministic Medical Image Translation via High-fidelity Brownian Bridges**|Qisheng He et.al.|[2503.22531](http://arxiv.org/abs/2503.22531)|null|
