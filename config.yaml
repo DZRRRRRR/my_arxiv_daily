@@ -22,6 +22,8 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
+    "AI-ISP":
+        filters: ["AI ISP","AWB","ISP"]
     "Diffusion":
         filters: ["diffusion models", "SDE", "ODE"]
     "Implicit": 
