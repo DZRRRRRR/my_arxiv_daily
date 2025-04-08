@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.07
+## Updated on 2025.04.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
@@ -3356,7 +3356,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-01**|**LUIEO: A Lightweight Model for Integrating Underwater Image Enhancement and Object Detection**|Bin Li et.al.|[2412.07009](http://arxiv.org/abs/2412.07009)|null|
+|**2025-04-06**|**LUIEO: A Lightweight Model for Integrating Underwater Image Enhancement and Object Detection**|Bin Li et.al.|[2412.07009](http://arxiv.org/abs/2412.07009)|null|
 |**2024-11-22**|**CE-VAE: Capsule Enhanced Variational AutoEncoder for Underwater Image Enhancement**|Rita Pucci et.al.|[2406.01294](http://arxiv.org/abs/2406.01294)|**[link](https://github.com/in1k1/ce-vae-underwater-image-enhancement)**|
 |**2024-04-24**|**UWFormer: Underwater Image Enhancement via a Semi-Supervised Multi-Scale Transformer**|Weiwen Chen et.al.|[2310.20210](http://arxiv.org/abs/2310.20210)|**[link](https://github.com/leiyingtie/UWFormer)**|
 |**2023-09-07**|**Underwater Image Enhancement by Transformer-based Diffusion Model with Non-uniform Sampling for Skip Strategy**|Yi Tang et.al.|[2309.03445](http://arxiv.org/abs/2309.03445)|**[link](https://github.com/piggy2009/dm_underwater)**|
