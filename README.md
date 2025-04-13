@@ -26,7 +26,7 @@
 |**2025-04-10**|**VisualCloze: A Universal Image Generation Framework via Visual In-Context Learning**|Zhong-Yu Li et.al.|[2504.07960](http://arxiv.org/abs/2504.07960)|null|
 |**2025-04-10**|**GenEAva: Generating Cartoon Avatars with Fine-Grained Facial Expressions from Realistic Diffusion-based Faces**|Hao Yu et.al.|[2504.07945](http://arxiv.org/abs/2504.07945)|null|
 |**2025-04-10**|**Optimal Control For Anti-Abeta Treatment in Alzheimer's Disease using a Reaction-Diffusion Model**|Wenrui Hao et.al.|[2504.07913](http://arxiv.org/abs/2504.07913)|null|
-|**2025-04-10**|**Revisiting Likelihood-Based Out-of-Distribution Detection by Modeling Representations**|Yifan Ding et.al.|[2504.07793](http://arxiv.org/abs/2504.07793)|null|
+|**2025-04-10**|**Revisiting Likelihood-Based Out-of-Distribution Detection by Modeling Representations**|Yifan Ding et.al.|[2504.07793](http://arxiv.org/abs/2504.07793)|**[link](https://github.com/limchaos/likelihood-ood)**|
 |**2025-04-10**|**Virtual-mask Informed Prior for Sparse-view Dual-Energy CT Reconstruction**|Zini Chen et.al.|[2504.07753](http://arxiv.org/abs/2504.07753)|null|
 |**2025-04-10**|**PhaseGen: A Diffusion-Based Approach for Complex-Valued MRI Data Generation**|Moritz Rempe et.al.|[2504.07560](http://arxiv.org/abs/2504.07560)|**[link](https://github.com/TIO-IKIM/PhaseGen)**|
 |**2025-04-10**|**STeP: A General and Scalable Framework for Solving Video Inverse Problems with Spatiotemporal Diffusion Priors**|Bingliang Zhang et.al.|[2504.07549](http://arxiv.org/abs/2504.07549)|null|
@@ -3948,7 +3948,7 @@
 |**2025-04-10**|**Synthetic CT Generation from Time-of-Flight Non-Attenutaion-Corrected PET for Whole-Body PET Attenuation Correction**|Weijie Chen et.al.|[2504.07450](http://arxiv.org/abs/2504.07450)|null|
 |**2025-04-08**|**OSDM-MReg: Multimodal Image Registration based One Step Diffusion Model**|Xiaochen Wei et.al.|[2504.06027](http://arxiv.org/abs/2504.06027)|null|
 |**2025-04-06**|**GAMBAS: Generalised-Hilbert Mamba for Super-resolution of Paediatric Ultra-Low-Field MRI**|Levente Baljer et.al.|[2504.04523](http://arxiv.org/abs/2504.04523)|null|
-|**2025-04-05**|**ADA-Net: Attention-Guided Domain Adaptation Network with Contrastive Learning for Standing Dead Tree Segmentation Using Aerial Imagery**|Mete Ahishali et.al.|[2504.04271](http://arxiv.org/abs/2504.04271)|null|
+|**2025-04-05**|**ADA-Net: Attention-Guided Domain Adaptation Network with Contrastive Learning for Standing Dead Tree Segmentation Using Aerial Imagery**|Mete Ahishali et.al.|[2504.04271](http://arxiv.org/abs/2504.04271)|**[link](https://github.com/meteahishali/ada-net)**|
 |**2025-04-03**|**Inferring scattering-type Scanning Near-Field Optical Microscopy Data from Atomic Force Microscopy Images**|Stefan G. Stanciu et.al.|[2504.02982](http://arxiv.org/abs/2504.02982)|null|
 |**2025-04-03**|**F-ViTA: Foundation Model Guided Visible to Thermal Translation**|Jay N. Paranjape et.al.|[2504.02801](http://arxiv.org/abs/2504.02801)|**[link](https://github.com/jayparanjape/f-vita)**|
 |**2025-04-02**|**MuTri: Multi-view Tri-alignment for OCT to OCTA 3D Image Translation**|Zhuangzhuang Chen et.al.|[2504.01428](http://arxiv.org/abs/2504.01428)|**[link](https://github.com/xmed-lab/MuTri)**|
