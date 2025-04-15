@@ -22,6 +22,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-14**|**REPA-E: Unlocking VAE for End-to-End Tuning with Latent Diffusion Transformers**|Xingjian Leng et.al.|[2504.10483](http://arxiv.org/abs/2504.10483)|null|
+|**2025-04-14**|**Anchor Token Matching: Implicit Structure Locking for Training-free AR Image Editing**|Taihang Hu et.al.|[2504.10434](http://arxiv.org/abs/2504.10434)|null|
+|**2025-04-14**|**MonoDiff9D: Monocular Category-Level 9D Object Pose Estimation via Diffusion Model**|Jian Liu et.al.|[2504.10433](http://arxiv.org/abs/2504.10433)|null|
+|**2025-04-14**|**Improving diffusion modeling in all-solid-state lithium batteries: a novel approach for grain boundary effects**|Lena Scholz et.al.|[2504.10348](http://arxiv.org/abs/2504.10348)|null|
+|**2025-04-14**|**DiffMOD: Progressive Diffusion Point Denoising for Moving Object Detection in Remote Sensing**|Jinyue Zhang et.al.|[2504.10278](http://arxiv.org/abs/2504.10278)|null|
+|**2025-04-14**|**Efficient Generative Model Training via Embedded Representation Warmup**|Deyuan Liu et.al.|[2504.10188](http://arxiv.org/abs/2504.10188)|null|
+|**2025-04-14**|**NaviDiffusor: Cost-Guided Diffusion Model for Visual Navigation**|Yiming Zeng et.al.|[2504.10003](http://arxiv.org/abs/2504.10003)|null|
+|**2025-04-14**|**OctGPT: Octree-based Multiscale Autoregressive Models for 3D Shape Generation**|Si-Tong Wei et.al.|[2504.09975](http://arxiv.org/abs/2504.09975)|null|
+|**2025-04-14**|**Semi-implicit-explicit Runge-Kutta method for nonlinear differential equations**|Lingyun Ding et.al.|[2504.09969](http://arxiv.org/abs/2504.09969)|null|
+|**2025-04-14**|**Efficient Task-specific Conditional Diffusion Policies: Shortcut Model Acceleration and SO(3) Optimization**|Haiyong Yu et.al.|[2504.09927](http://arxiv.org/abs/2504.09927)|null|
 |**2025-04-11**|**Seaweed-7B: Cost-Effective Training of Video Generation Foundation Model**|Team Seawead et.al.|[2504.08685](http://arxiv.org/abs/2504.08685)|null|
 |**2025-04-11**|**Training-free Guidance in Text-to-Video Generation via Multimodal Planning and Structured Noise Initialization**|Jialu Li et.al.|[2504.08641](http://arxiv.org/abs/2504.08641)|null|
 |**2025-04-11**|**Discretization Error Analysis of a High Order Unfitted Space-Time Method for moving domain problems**|Fabian Heimann et.al.|[2504.08608](http://arxiv.org/abs/2504.08608)|null|
@@ -3044,6 +3054,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-14**|**DNF-Avatar: Distilling Neural Fields for Real-time Animatable Avatar Relighting**|Zeren Jiang et.al.|[2504.10486](http://arxiv.org/abs/2504.10486)|null|
+|**2025-04-13**|**Capturing Longitudinal Changes in Brain Morphology Using Temporally Parameterized Neural Displacement Fields**|Aisha L. Shuaibu et.al.|[2504.09514](http://arxiv.org/abs/2504.09514)|null|
+|**2025-04-12**|**MedIL: Implicit Latent Spaces for Generating Heterogeneous Medical Images at Arbitrary Resolutions**|Tyler Spears et.al.|[2504.09322](http://arxiv.org/abs/2504.09322)|null|
 |**2025-04-07**|**Exploring Kernel Transformations for Implicit Neural Representations**|Sheng Zheng et.al.|[2504.04728](http://arxiv.org/abs/2504.04728)|null|
 |**2025-04-05**|**SDEIT: Semantic-Driven Electrical Impedance Tomography**|Dong Liu et.al.|[2504.04185](http://arxiv.org/abs/2504.04185)|null|
 |**2025-04-04**|**Steerable Anatomical Shape Synthesis with Implicit Neural Representations**|Bram de Wilde et.al.|[2504.03313](http://arxiv.org/abs/2504.03313)|**[link](https://github.com/miagrouput/steerable-shape-synthesis)**|
@@ -3516,6 +3529,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-14**|**PG-DPIR: An efficient plug-and-play method for high-count Poisson-Gaussian inverse problems**|Maud Biquard et.al.|[2504.10375](http://arxiv.org/abs/2504.10375)|null|
+|**2025-04-14**|**VibrantLeaves: A principled parametric image generator for training deep restoration models**|Raphael Achddou et.al.|[2504.10201](http://arxiv.org/abs/2504.10201)|null|
+|**2025-04-14**|**Progressive Transfer Learning for Multi-Pass Fundus Image Restoration**|Uyen Phan et.al.|[2504.10025](http://arxiv.org/abs/2504.10025)|null|
+|**2025-04-14**|**Beyond Degradation Redundancy: Contrastive Prompt Learning for All-in-One Image Restoration**|Gang Wu et.al.|[2504.09973](http://arxiv.org/abs/2504.09973)|null|
+|**2025-04-13**|**Computationally iterative methods for salt-and-pepper denoising**|Jianwei Ke et.al.|[2504.09408](http://arxiv.org/abs/2504.09408)|null|
+|**2025-04-12**|**Beyond Degradation Conditions: All-in-One Image Restoration via HOG Transformers**|Jiawei Wu et.al.|[2504.09377](http://arxiv.org/abs/2504.09377)|null|
 |**2025-04-11**|**ZipIR: Latent Pyramid Diffusion Transformer for High-Resolution Image Restoration**|Yongsheng Yu et.al.|[2504.08591](http://arxiv.org/abs/2504.08591)|null|
 |**2025-04-11**|**VL-UR: Vision-Language-guided Universal Restoration of Images Degraded by Adverse Weather Conditions**|Ziyan Liu et.al.|[2504.08219](http://arxiv.org/abs/2504.08219)|null|
 |**2025-04-09**|**Q-Agent: Quality-Driven Chain-of-Thought Image Restoration Agent through Robust Multimodal Large Language Model**|Yingjie Zhou et.al.|[2504.07148](http://arxiv.org/abs/2504.07148)|null|
@@ -3956,6 +3975,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-13**|**Structure-Accurate Medical Image Translation based on Dynamic Frequency Balance and Knowledge Guidance**|Jiahua Xu et.al.|[2504.09441](http://arxiv.org/abs/2504.09441)|null|
 |**2025-04-10**|**RASMD: RGB And SWIR Multispectral Driving Dataset for Robust Perception in Adverse Conditions**|Youngwan Jin et.al.|[2504.07603](http://arxiv.org/abs/2504.07603)|null|
 |**2025-04-10**|**Synthetic CT Generation from Time-of-Flight Non-Attenutaion-Corrected PET for Whole-Body PET Attenuation Correction**|Weijie Chen et.al.|[2504.07450](http://arxiv.org/abs/2504.07450)|null|
 |**2025-04-08**|**OSDM-MReg: Multimodal Image Registration based One Step Diffusion Model**|Xiaochen Wei et.al.|[2504.06027](http://arxiv.org/abs/2504.06027)|null|
