@@ -22,6 +22,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-16**|**Cobra: Efficient Line Art COlorization with BRoAder References**|Junhao Zhuang et.al.|[2504.12240](http://arxiv.org/abs/2504.12240)|null|
+|**2025-04-16**|**Coding-Prior Guided Diffusion Network for Video Deblurring**|Yike Liu et.al.|[2504.12222](http://arxiv.org/abs/2504.12222)|null|
+|**2025-04-16**|**Anti-Aesthetics: Protecting Facial Privacy against Customized Text-to-Image Synthesis**|Songping Wang et.al.|[2504.12129](http://arxiv.org/abs/2504.12129)|null|
+|**2025-04-16**|**A Diffusion-Based Framework for Terrain-Aware Remote Sensing Image Reconstruction**|Zhenyu Yu et.al.|[2504.12112](http://arxiv.org/abs/2504.12112)|null|
+|**2025-04-16**|**Generalized Visual Relation Detection with Diffusion Models**|Kaifeng Gao et.al.|[2504.12100](http://arxiv.org/abs/2504.12100)|null|
+|**2025-04-16**|**Modular-Cam: Modular Dynamic Camera-view Video Generation with LLM**|Zirui Pan et.al.|[2504.12048](http://arxiv.org/abs/2504.12048)|null|
+|**2025-04-16**|**Understanding Attention Mechanism in Video Diffusion Models**|Bingyan Liu et.al.|[2504.12027](http://arxiv.org/abs/2504.12027)|null|
+|**2025-04-16**|**Dual-Energy Cone-Beam CT Using Two Orthogonal Projection Views: A Phantom Study**|Junbo Peng et.al.|[2504.12010](http://arxiv.org/abs/2504.12010)|null|
+|**2025-04-16**|**Generative Recommendation with Continuous-Token Diffusion**|Haohao Qu et.al.|[2504.12007](http://arxiv.org/abs/2504.12007)|null|
+|**2025-04-16**|**R-Meshfusion: Reinforcement Learning Powered Sparse-View Mesh Reconstruction with Diffusion Priors**|Haoyang Wang et.al.|[2504.11946](http://arxiv.org/abs/2504.11946)|null|
 |**2025-04-15**|**Aligning Generative Denoising with Discriminative Objectives Unleashes Diffusion for Visual Perception**|Ziqi Pang et.al.|[2504.11457](http://arxiv.org/abs/2504.11457)|null|
 |**2025-04-16**|**Diffusion Distillation With Direct Preference Optimization For Efficient 3D LiDAR Scene Completion**|An Zhao et.al.|[2504.11447](http://arxiv.org/abs/2504.11447)|null|
 |**2025-04-15**|**NormalCrafter: Learning Temporally Consistent Normals from Video Diffusion Priors**|Yanrui Bin et.al.|[2504.11427](http://arxiv.org/abs/2504.11427)|null|
@@ -3459,6 +3469,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-13**|**snnTrans-DHZ: A Lightweight Spiking Neural Network Architecture for Underwater Image Dehazing**|Vidya Sudevan et.al.|[2504.11482](http://arxiv.org/abs/2504.11482)|null|
 |**2025-04-08**|**CoA: Towards Real Image Dehazing via Compression-and-Adaptation**|Long Ma et.al.|[2504.05590](http://arxiv.org/abs/2504.05590)|null|
 |**2025-03-25**|**Learning Hazing to Dehazing: Towards Realistic Haze Generation for Real-World Image Dehazing**|Ruiyi Wang et.al.|[2503.19262](http://arxiv.org/abs/2503.19262)|null|
 |**2025-03-23**|**Real-World Remote Sensing Image Dehazing: Benchmark and Baseline**|Zeng-Hui Zhu et.al.|[2503.17966](http://arxiv.org/abs/2503.17966)|**[link](https://github.com/lwcver/rrshid)**|
@@ -3540,6 +3551,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-16**|**Deep Generative Models for Bayesian Inference on High-Rate Sensor Data: Applications in Automotive Radar and Medical Imaging**|Tristan S. W. Stevens et.al.|[2504.12154](http://arxiv.org/abs/2504.12154)|null|
+|**2025-04-16**|**HyperKING: Quantum-Classical Generative Adversarial Networks for Hyperspectral Image Restoration**|Chia-Hsiang Lin et.al.|[2504.11782](http://arxiv.org/abs/2504.11782)|null|
 |**2025-04-15**|**Efficient Medical Image Restoration via Reliability Guided Learning in Frequency Domain**|Pengcheng Zheng et.al.|[2504.11286](http://arxiv.org/abs/2504.11286)|null|
 |**2025-04-15**|**An Efficient and Mixed Heterogeneous Model for Image Restoration**|Yubin Gu et.al.|[2504.10967](http://arxiv.org/abs/2504.10967)|null|
 |**2025-04-14**|**Enhancing Image Restoration through Learning Context-Rich and Detail-Accurate Features**|Hu Gao et.al.|[2504.10558](http://arxiv.org/abs/2504.10558)|null|
