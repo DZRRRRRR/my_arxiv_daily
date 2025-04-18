@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-17**|**Personalized Text-to-Image Generation with Auto-Regressive Models**|Kaiyue Sun et.al.|[2504.13162](http://arxiv.org/abs/2504.13162)|null|
+|**2025-04-17**|**UniEdit-Flow: Unleashing Inversion and Editing in the Era of Flow Models**|Guanlong Jiao et.al.|[2504.13109](http://arxiv.org/abs/2504.13109)|null|
+|**2025-04-17**|**SkyReels-V2: Infinite-length Film Generative Model**|Guibin Chen et.al.|[2504.13074](http://arxiv.org/abs/2504.13074)|null|
+|**2025-04-17**|**TTRD3: Texture Transfer Residual Denoising Dual Diffusion Model for Remote Sensing Image Super-Resolution**|Yide Liu et.al.|[2504.13026](http://arxiv.org/abs/2504.13026)|null|
+|**2025-04-17**|**Image-Editing Specialists: An RLAIF Approach for Diffusion Models**|Elior Benarous et.al.|[2504.12833](http://arxiv.org/abs/2504.12833)|null|
+|**2025-04-17**|**Privacy Protection Against Personalized Text-to-Image Synthesis via Cross-image Consistency Constraints**|Guanyu Wang et.al.|[2504.12747](http://arxiv.org/abs/2504.12747)|null|
+|**2025-04-17**|**A0: An Affordance-Aware Hierarchical Model for General Robotic Manipulation**|Rongtao Xu et.al.|[2504.12636](http://arxiv.org/abs/2504.12636)|null|
+|**2025-04-17**|**Packing Input Frame Context in Next-Frame Prediction Models for Video Generation**|Lvmin Zhang et.al.|[2504.12626](http://arxiv.org/abs/2504.12626)|null|
+|**2025-04-17**|**Prompt-Driven and Training-Free Forgetting Approach and Dataset for Large Language Models**|Zhenyu Yu et.al.|[2504.12574](http://arxiv.org/abs/2504.12574)|null|
+|**2025-04-16**|**Generalization through variance: how noise shapes inductive biases in diffusion models**|John J. Vastola et.al.|[2504.12532](http://arxiv.org/abs/2504.12532)|null|
 |**2025-04-16**|**Cobra: Efficient Line Art COlorization with BRoAder References**|Junhao Zhuang et.al.|[2504.12240](http://arxiv.org/abs/2504.12240)|null|
 |**2025-04-16**|**Coding-Prior Guided Diffusion Network for Video Deblurring**|Yike Liu et.al.|[2504.12222](http://arxiv.org/abs/2504.12222)|null|
 |**2025-04-16**|**Anti-Aesthetics: Protecting Facial Privacy against Customized Text-to-Image Synthesis**|Songping Wang et.al.|[2504.12129](http://arxiv.org/abs/2504.12129)|null|
@@ -3064,6 +3074,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-17**|**Tree-NeRV: A Tree-Structured Neural Representation for Efficient Non-Uniform Video Encoding**|Jiancheng Zhao et.al.|[2504.12899](http://arxiv.org/abs/2504.12899)|null|
 |**2025-04-15**|**Cross-Frequency Implicit Neural Representation with Self-Evolving Parameters**|Chang Yu et.al.|[2504.10929](http://arxiv.org/abs/2504.10929)|null|
 |**2025-04-14**|**DNF-Avatar: Distilling Neural Fields for Real-time Animatable Avatar Relighting**|Zeren Jiang et.al.|[2504.10486](http://arxiv.org/abs/2504.10486)|null|
 |**2025-04-13**|**Capturing Longitudinal Changes in Brain Morphology Using Temporally Parameterized Neural Displacement Fields**|Aisha L. Shuaibu et.al.|[2504.09514](http://arxiv.org/abs/2504.09514)|null|
@@ -3535,6 +3546,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-17**|**Saliency-Aware Diffusion Reconstruction for Effective Invisible Watermark Removal**|Inzamamul Alam et.al.|[2504.12809](http://arxiv.org/abs/2504.12809)|null|
+|**2025-04-17**|**AdaQual-Diff: Diffusion-Based Image Restoration via Adaptive Quality Prompting**|Xin Su et.al.|[2504.12605](http://arxiv.org/abs/2504.12605)|null|
 |**2025-04-16**|**Deep Generative Models for Bayesian Inference on High-Rate Sensor Data: Applications in Automotive Radar and Medical Imaging**|Tristan S. W. Stevens et.al.|[2504.12154](http://arxiv.org/abs/2504.12154)|null|
 |**2025-04-16**|**HyperKING: Quantum-Classical Generative Adversarial Networks for Hyperspectral Image Restoration**|Chia-Hsiang Lin et.al.|[2504.11782](http://arxiv.org/abs/2504.11782)|null|
 |**2025-04-15**|**Efficient Medical Image Restoration via Reliability Guided Learning in Frequency Domain**|Pengcheng Zheng et.al.|[2504.11286](http://arxiv.org/abs/2504.11286)|null|
