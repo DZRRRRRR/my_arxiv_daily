@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.24
+## Updated on 2025.04.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -25,9 +25,9 @@
 |**2025-04-23**|**Practical approaches for crystal structure predictions with inpainting generation and universal interatomic potentials**|Peichen Zhong et.al.|[2504.16893](http://arxiv.org/abs/2504.16893)|null|
 |**2025-04-23**|**Planning with Diffusion Models for Target-Oriented Dialogue Systems**|Hanwen Du et.al.|[2504.16858](http://arxiv.org/abs/2504.16858)|null|
 |**2025-04-23**|**Physically Consistent Humanoid Loco-Manipulation using Latent Diffusion Models**|Ilyass Taouil et.al.|[2504.16843](http://arxiv.org/abs/2504.16843)|null|
-|**2025-04-23**|**Simple Graph Contrastive Learning via Fractional-order Neural Diffusion Networks**|Yanan Zhao et.al.|[2504.16748](http://arxiv.org/abs/2504.16748)|null|
+|**2025-04-24**|**Simple Graph Contrastive Learning via Fractional-order Neural Diffusion Networks**|Yanan Zhao et.al.|[2504.16748](http://arxiv.org/abs/2504.16748)|null|
 |**2025-04-23**|**MOSAIC: A Skill-Centric Algorithmic Framework for Long-Horizon Manipulation Planning**|Itamar Mishani et.al.|[2504.16738](http://arxiv.org/abs/2504.16738)|null|
-|**2025-04-23**|**Hyper-Transforming Latent Diffusion Models**|Ignacio Peis et.al.|[2504.16580](http://arxiv.org/abs/2504.16580)|null|
+|**2025-04-24**|**Hyper-Transforming Latent Diffusion Models**|Ignacio Peis et.al.|[2504.16580](http://arxiv.org/abs/2504.16580)|null|
 |**2025-04-23**|**A Comprehensive Survey of Synthetic Tabular Data Generation**|Ruxue Shi et.al.|[2504.16506](http://arxiv.org/abs/2504.16506)|null|
 |**2025-04-23**|**The Dance of Atoms-De Novo Protein Design with Diffusion Model**|Yujie Qin et.al.|[2504.16479](http://arxiv.org/abs/2504.16479)|null|
 |**2025-04-23**|**Target Concrete Score Matching: A Holistic Framework for Discrete Diffusion**|Ruixiang Zhang et.al.|[2504.16431](http://arxiv.org/abs/2504.16431)|null|
@@ -3118,13 +3118,13 @@
 |**2023-12-16**|**Image Restoration Through Generalized Ornstein-Uhlenbeck Bridge**|Conghan Yue et.al.|[2312.10299](http://arxiv.org/abs/2312.10299)|**[link](https://github.com/Hammour-steak/GOUB)**|
 |**2023-12-15**|**Two simple criterion to prove the existence of patterns in reaction-diffusion models of two components**|Francisco J. Vielma-Leal et.al.|[2312.10231](http://arxiv.org/abs/2312.10231)|null|
 
-<p align=right>(<a href=#updated-on-20250424>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250425>back to top</a>)</p>
 
 ## Implicit
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-04-23**|**Hyper-Transforming Latent Diffusion Models**|Ignacio Peis et.al.|[2504.16580](http://arxiv.org/abs/2504.16580)|null|
+|**2025-04-24**|**Hyper-Transforming Latent Diffusion Models**|Ignacio Peis et.al.|[2504.16580](http://arxiv.org/abs/2504.16580)|null|
 |**2025-04-23**|**PINN-MEP: Continuous Neural Representations for Minimum-Energy Path Discovery in Molecular Systems**|Magnus Petersen et.al.|[2504.16381](http://arxiv.org/abs/2504.16381)|null|
 |**2025-04-22**|**Neuroadaptive Haptics: Comparing Reinforcement Learning from Explicit Ratings and Neural Signals for Adaptive XR Systems**|Lukas Gehrke et.al.|[2504.15984](http://arxiv.org/abs/2504.15984)|null|
 |**2025-04-22**|**Motion-Enhanced Nonlocal Similarity Implicit Neural Representation for Infrared Dim and Small Target Detection**|Pei Liu et.al.|[2504.15665](http://arxiv.org/abs/2504.15665)|null|
@@ -3506,7 +3506,7 @@
 |**2023-12-07**|**Hiding Functions within Functions: Steganography by Implicit Neural Representations**|Jia Liu et.al.|[2312.04743](http://arxiv.org/abs/2312.04743)|null|
 |**2023-12-07**|**ImFace++: A Sophisticated Nonlinear 3D Morphable Face Model with Implicit Neural Representations**|Mingwu Zheng et.al.|[2312.04028](http://arxiv.org/abs/2312.04028)|**[link](https://github.com/mingwuzheng/imface)**|
 
-<p align=right>(<a href=#updated-on-20250424>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250425>back to top</a>)</p>
 
 ## UnderWater
 
@@ -3521,7 +3521,7 @@
 |**2022-04-06**|**Medium Transmission Map Matters for Learning to Restore Real-World Underwater Images**|Yan Kai et.al.|[2203.09414](http://arxiv.org/abs/2203.09414)|**[link](https://github.com/groupg-yk/mtur-net)**|
 |**2019-03-06**|**Real-world Underwater Enhancement: Challenges, Benchmarks, and Solutions**|Risheng Liu et.al.|[1901.05320](http://arxiv.org/abs/1901.05320)|**[link](https://github.com/dlut-dimt/Realworld-Underwater-Image-Enhancement-RUIE-Benchmark)**|
 
-<p align=right>(<a href=#updated-on-20250424>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250425>back to top</a>)</p>
 
 ## image_dehaze
 
@@ -3603,7 +3603,7 @@
 |**2023-08-14**|**Mutual Information-driven Triple Interaction Network for Efficient Image Dehazing**|Hao Shen et.al.|[2308.06998](http://arxiv.org/abs/2308.06998)|**[link](https://github.com/it-hao/mitnet)**|
 |**2023-08-01**|**Decomposition Ascribed Synergistic Learning for Unified Image Restoration**|Jinghao Zhang et.al.|[2308.00759](http://arxiv.org/abs/2308.00759)|null|
 
-<p align=right>(<a href=#updated-on-20250424>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250425>back to top</a>)</p>
 
 ## Restoration
 
@@ -4062,7 +4062,7 @@
 |**2023-12-12**|**WaterHE-NeRF: Water-ray Tracing Neural Radiance Fields for Underwater Scene Reconstruction**|Jingchun Zhou et.al.|[2312.06946](http://arxiv.org/abs/2312.06946)|null|
 |**2023-12-11**|**Textual Prompt Guided Image Restoration**|Qiuhai Yan et.al.|[2312.06162](http://arxiv.org/abs/2312.06162)|**[link](https://github.com/motong-ai-studio/textpromptir)**|
 
-<p align=right>(<a href=#updated-on-20250424>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250425>back to top</a>)</p>
 
 ## Image_Translation
 
@@ -4359,7 +4359,7 @@
 |**2023-11-30**|**S2ST: Image-to-Image Translation in the Seed Space of Latent Diffusion**|Or Greenberg et.al.|[2312.00116](http://arxiv.org/abs/2312.00116)|null|
 |**2023-11-30**|**Towards Unsupervised Representation Learning: Learning, Evaluating and Transferring Visual Representations**|Bonifaz Stuhr et.al.|[2312.00101](http://arxiv.org/abs/2312.00101)|**[link](https://github.com/bonifazstuhr/feamgan)**|
 
-<p align=right>(<a href=#updated-on-20250424>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250425>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
