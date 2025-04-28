@@ -62,11 +62,11 @@ layout: default
 |**2025-04-18**|**WeatherGen: A Unified Diverse Weather Generator for LiDAR Point Clouds via Spider Mamba Diffusion**|Yang Wu et.al.|[2504.13561](http://arxiv.org/abs/2504.13561)|null|
 |**2025-04-18**|**Task Assignment and Exploration Optimization for Low Altitude UAV Rescue via Generative AI Enhanced Multi-agent Reinforcement Learning**|Xin Tang et.al.|[2504.13554](http://arxiv.org/abs/2504.13554)|null|
 |**2025-04-18**|**Beyond One-Hot Labels: Semantic Mixing for Model Calibration**|Haoyang Luo et.al.|[2504.13548](http://arxiv.org/abs/2504.13548)|**[link](https://github.com/e-galois/csm)**|
-|**2025-04-18**|**U-Shape Mamba: State Space Model for faster diffusion**|Alex Ergasti et.al.|[2504.13499](http://arxiv.org/abs/2504.13499)|null|
+|**2025-04-18**|**U-Shape Mamba: State Space Model for faster diffusion**|Alex Ergasti et.al.|[2504.13499](http://arxiv.org/abs/2504.13499)|**[link](https://github.com/ErgastiAlex/U-Shape-Mamba)**|
 |**2025-04-18**|**Early Timestep Zero-Shot Candidate Selection for Instruction-Guided Image Editing**|Joowon Kim et.al.|[2504.13490](http://arxiv.org/abs/2504.13490)|null|
 |**2025-04-17**|**Personalized Text-to-Image Generation with Auto-Regressive Models**|Kaiyue Sun et.al.|[2504.13162](http://arxiv.org/abs/2504.13162)|**[link](https://github.com/kaiyuesun98/t2i-personalization-with-ar)**|
 |**2025-04-17**|**UniEdit-Flow: Unleashing Inversion and Editing in the Era of Flow Models**|Guanlong Jiao et.al.|[2504.13109](http://arxiv.org/abs/2504.13109)|null|
-|**2025-04-18**|**SkyReels-V2: Infinite-length Film Generative Model**|Guibin Chen et.al.|[2504.13074](http://arxiv.org/abs/2504.13074)|null|
+|**2025-04-18**|**SkyReels-V2: Infinite-length Film Generative Model**|Guibin Chen et.al.|[2504.13074](http://arxiv.org/abs/2504.13074)|**[link](https://github.com/skyworkai/skyreels-v2)**|
 |**2025-04-17**|**TTRD3: Texture Transfer Residual Denoising Dual Diffusion Model for Remote Sensing Image Super-Resolution**|Yide Liu et.al.|[2504.13026](http://arxiv.org/abs/2504.13026)|**[link](https://github.com/led-666/ttrd3)**|
 |**2025-04-17**|**Image-Editing Specialists: An RLAIF Approach for Diffusion Models**|Elior Benarous et.al.|[2504.12833](http://arxiv.org/abs/2504.12833)|**[link](https://github.com/ebenarous/editspecialists)**|
 |**2025-04-17**|**Privacy Protection Against Personalized Text-to-Image Synthesis via Cross-image Consistency Constraints**|Guanyu Wang et.al.|[2504.12747](http://arxiv.org/abs/2504.12747)|null|
@@ -1467,7 +1467,7 @@ layout: default
 |**2024-09-06**|**How Fair is Your Diffusion Recommender Model?**|Daniele Malitesta et.al.|[2409.04339](http://arxiv.org/abs/2409.04339)|null|
 |**2024-09-06**|**Random effects estimation in a fractional diffusion model based on continuous observations**|Nesrine Chebli et.al.|[2409.04331](http://arxiv.org/abs/2409.04331)|null|
 |**2024-09-06**|**Breaking the Brownian Barrier: Models and Manifestations of Molecular Diffusion in Complex Fluids**|Harish Srinivasan et.al.|[2409.04199](http://arxiv.org/abs/2409.04199)|null|
-|**2024-09-06**|**GST: Precise 3D Human Body from a Single Image with Gaussian Splatting Transformers**|Lorenza Prospero et.al.|[2409.04196](http://arxiv.org/abs/2409.04196)|null|
+|**2024-09-06**|**GST: Precise 3D Human Body from a Single Image with Gaussian Splatting Transformers**|Lorenza Prospero et.al.|[2409.04196](http://arxiv.org/abs/2409.04196)|**[link](https://github.com/prosperolo/gst)**|
 |**2024-09-06**|**D4: Text-guided diffusion model-based domain adaptive data augmentation for vineyard shoot detection**|Kentaro Hirahara et.al.|[2409.04060](http://arxiv.org/abs/2409.04060)|null|
 |**2024-09-06**|**One-Shot Diffusion Mimicker for Handwritten Text Generation**|Gang Dai et.al.|[2409.04004](http://arxiv.org/abs/2409.04004)|**[link](https://github.com/dailenson/one-dm)**|
 |**2024-09-06**|**DreamForge: Motion-Aware Autoregressive Video Generation for Multi-View Driving Scenes**|Jianbiao Mei et.al.|[2409.04003](http://arxiv.org/abs/2409.04003)|**[link](https://github.com/PJLab-ADG/DriveArena)**|
