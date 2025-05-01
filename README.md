@@ -22,6 +22,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-30**|**ReVision: High-Quality, Low-Cost Video Generation with Explicit 3D Physics Modeling for Complex Motion and Interaction**|Qihao Liu et.al.|[2504.21855](http://arxiv.org/abs/2504.21855)|null|
+|**2025-04-30**|**HoloTime: Taming Video Diffusion Models for Panoramic 4D Scene Generation**|Haiyang Zhou et.al.|[2504.21650](http://arxiv.org/abs/2504.21650)|null|
+|**2025-04-30**|**Diffusion-based Adversarial Identity Manipulation for Facial Privacy Protection**|Liqin Wang et.al.|[2504.21646](http://arxiv.org/abs/2504.21646)|null|
+|**2025-04-30**|**ODE and PDE models for COVID-19, with reinfection and vaccination process for Cameroon and Germany**|Hamadjam Abboubakar et.al.|[2504.21613](http://arxiv.org/abs/2504.21613)|null|
+|**2025-04-30**|**Latent Feature-Guided Conditional Diffusion for High-Fidelity Generative Image Semantic Communication**|Zehao Chen et.al.|[2504.21577](http://arxiv.org/abs/2504.21577)|null|
+|**2025-04-30**|**MagicPortrait: Temporally Consistent Face Reenactment with 3D Geometric Guidance**|Mengting Wei et.al.|[2504.21497](http://arxiv.org/abs/2504.21497)|null|
+|**2025-04-30**|**DGSolver: Diffusion Generalist Solver with Universal Posterior Sampling for Image Restoration**|Hebaixu Wang et.al.|[2504.21487](http://arxiv.org/abs/2504.21487)|null|
+|**2025-04-30**|**Diff-Prompt: Diffusion-Driven Prompt Generator with Mask Supervision**|Weicai Yan et.al.|[2504.21423](http://arxiv.org/abs/2504.21423)|null|
+|**2025-04-30**|**IDDM: Bridging Synthetic-to-Real Domain Gap from Physics-Guided Diffusion for Real-world Image Dehazing**|Shijun Zhou et.al.|[2504.21385](http://arxiv.org/abs/2504.21385)|null|
+|**2025-04-30**|**Sparse-to-Sparse Training of Diffusion Models**|Inês Cardoso Oliveira et.al.|[2504.21380](http://arxiv.org/abs/2504.21380)|null|
 |**2025-04-29**|**AI-GenBench: A New Ongoing Benchmark for AI-Generated Image Detection**|Lorenzo Pellegrini et.al.|[2504.20865](http://arxiv.org/abs/2504.20865)|null|
 |**2025-04-29**|**SoccerDiffusion: Toward Learning End-to-End Humanoid Robot Soccer from Gameplay Recordings**|Florian Vahl et.al.|[2504.20808](http://arxiv.org/abs/2504.20808)|null|
 |**2025-04-29**|**JTreeformer: Graph-Transformer via Latent-Diffusion Model for Molecular Generation**|Ji Shi et.al.|[2504.20770](http://arxiv.org/abs/2504.20770)|null|
@@ -3575,6 +3585,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-30**|**IDDM: Bridging Synthetic-to-Real Domain Gap from Physics-Guided Diffusion for Real-world Image Dehazing**|Shijun Zhou et.al.|[2504.21385](http://arxiv.org/abs/2504.21385)|null|
 |**2025-04-24**|**Fine-Tuning Adversarially-Robust Transformers for Single-Image Dehazing**|Vlad Vasilescu et.al.|[2504.17829](http://arxiv.org/abs/2504.17829)|null|
 |**2025-04-13**|**snnTrans-DHZ: A Lightweight Spiking Neural Network Architecture for Underwater Image Dehazing**|Vidya Sudevan et.al.|[2504.11482](http://arxiv.org/abs/2504.11482)|null|
 |**2025-04-08**|**CoA: Towards Real Image Dehazing via Compression-and-Adaptation**|Long Ma et.al.|[2504.05590](http://arxiv.org/abs/2504.05590)|null|
@@ -3658,6 +3669,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-30**|**DGSolver: Diffusion Generalist Solver with Universal Posterior Sampling for Image Restoration**|Hebaixu Wang et.al.|[2504.21487](http://arxiv.org/abs/2504.21487)|null|
 |**2025-04-27**|**Marine Snow Removal Using Internally Generated Pseudo Ground Truth**|Alexandra Malyugina et.al.|[2504.19289](http://arxiv.org/abs/2504.19289)|null|
 |**2025-04-27**|**Rendering Anywhere You See: Renderability Field-guided Gaussian Splatting**|Xiaofeng Jin et.al.|[2504.19261](http://arxiv.org/abs/2504.19261)|null|
 |**2025-04-24**|**Dual Prompting Image Restoration with Diffusion Transformers**|Dehong Kong et.al.|[2504.17825](http://arxiv.org/abs/2504.17825)|null|
