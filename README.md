@@ -22,6 +22,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-09**|**Long time behaviour of Mean Field Games with fractional diffusion**|Olav Ersland et.al.|[2505.06183](http://arxiv.org/abs/2505.06183)|null|
+|**2025-05-09**|**DiffLocks: Generating 3D Hair from a Single Image using Diffusion Models**|Radu Alexandru Rosu et.al.|[2505.06166](http://arxiv.org/abs/2505.06166)|null|
+|**2025-05-09**|**Noise-Consistent Siamese-Diffusion for Medical Image Synthesis and Segmentation**|Kunpeng Qiu et.al.|[2505.06068](http://arxiv.org/abs/2505.06068)|**[link](https://github.com/qiukunpeng/siamese-diffusion)**|
+|**2025-05-09**|**A 3D pocket-aware and evolutionary conserved interaction guided diffusion model for molecular optimization**|Anjie Qiao et.al.|[2505.05874](http://arxiv.org/abs/2505.05874)|null|
+|**2025-05-09**|**PICD: Versatile Perceptual Image Compression with Diffusion Rendering**|Tongda Xu et.al.|[2505.05853](http://arxiv.org/abs/2505.05853)|null|
+|**2025-05-09**|**Accelerating Diffusion Transformer via Increment-Calibrated Caching with Channel-Aware Singular Value Decomposition**|Zhiyuan Chen et.al.|[2505.05829](http://arxiv.org/abs/2505.05829)|null|
+|**2025-05-09**|**Demystifying Diffusion Policies: Action Memorization and Simple Lookup Table Alternatives**|Chengyang He et.al.|[2505.05787](http://arxiv.org/abs/2505.05787)|null|
+|**2025-05-09**|**Insertion Language Models: Sequence Generation with Arbitrary-Position Insertions**|Dhruvesh Patel et.al.|[2505.05755](http://arxiv.org/abs/2505.05755)|null|
+|**2025-05-09**|**Automated Learning of Semantic Embedding Representations for Diffusion Models**|Limai Jiang et.al.|[2505.05732](http://arxiv.org/abs/2505.05732)|null|
+|**2025-05-09**|**Towards Secure Semantic Transmission In the Era of GenAI: A Diffusion-based Framework**|Boxiang He et.al.|[2505.05724](http://arxiv.org/abs/2505.05724)|null|
 |**2025-05-08**|**SVAD: From Single Image to 3D Avatar via Synthetic Data Generation with Video Diffusion and Data Augmentation**|Yonwoo Choi et.al.|[2505.05475](http://arxiv.org/abs/2505.05475)|**[link](https://github.com/yc4ny/SVAD)**|
 |**2025-05-08**|**3D Scene Generation: A Survey**|Beichen Wen et.al.|[2505.05474](http://arxiv.org/abs/2505.05474)|**[link](https://github.com/hzxie/awesome-3d-scene-generation)**|
 |**2025-05-08**|**DiffusionSfM: Predicting Structure and Motion via Ray Origin and Endpoint Diffusion**|Qitao Zhao et.al.|[2505.05473](http://arxiv.org/abs/2505.05473)|null|
@@ -3230,6 +3240,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-09**|**Decoupling Multi-Contrast Super-Resolution: Pairing Unpaired Synthesis with Implicit Representations**|Hongyu Rui et.al.|[2505.05855](http://arxiv.org/abs/2505.05855)|null|
+|**2025-05-07**|**How to Train Your Metamorphic Deep Neural Network**|Thomas Sommariva et.al.|[2505.05510](http://arxiv.org/abs/2505.05510)|**[link](https://github.com/tsommariva/htty_neumeta)**|
+|**2025-05-07**|**StereoINR: Cross-View Geometry Consistent Stereo Super Resolution with Implicit Neural Representation**|Yi Liu et.al.|[2505.05509](http://arxiv.org/abs/2505.05509)|null|
 |**2025-04-30**|**Neural Co-Optimization of Structural Topology, Manufacturable Layers, and Path Orientations for Fiber-Reinforced Composites**|Tao Liu et.al.|[2505.03779](http://arxiv.org/abs/2505.03779)|null|
 |**2025-05-06**|**Nonperiodic dynamic CT reconstruction using backward-warping INR with regularization of diffeomorphism (BIRD)**|Muge Du et.al.|[2505.03463](http://arxiv.org/abs/2505.03463)|null|
 |**2025-05-03**|**AquaGS: Fast Underwater Scene Reconstruction with SfM-Free Gaussian Splatting**|Junhao Shi et.al.|[2505.01799](http://arxiv.org/abs/2505.01799)|null|
@@ -3635,6 +3648,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-07**|**Image Restoration via Multi-domain Learning**|Xingyu Jiang et.al.|[2505.05504](http://arxiv.org/abs/2505.05504)|null|
 |**2025-05-02**|**RD-UIE: Relation-Driven State Space Modeling for Underwater Image Enhancement**|Kui Jiang et.al.|[2505.01224](http://arxiv.org/abs/2505.01224)|**[link](https://github.com/kkoucy/rd-uie)**|
 |**2025-04-06**|**LUIEO: A Lightweight Model for Integrating Underwater Image Enhancement and Object Detection**|Bin Li et.al.|[2412.07009](http://arxiv.org/abs/2412.07009)|null|
 |**2024-11-22**|**CE-VAE: Capsule Enhanced Variational AutoEncoder for Underwater Image Enhancement**|Rita Pucci et.al.|[2406.01294](http://arxiv.org/abs/2406.01294)|**[link](https://github.com/in1k1/ce-vae-underwater-image-enhancement)**|
@@ -3651,6 +3665,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-08**|**A Preliminary Study for GPT-4o on Image Restoration**|Hao Yang et.al.|[2505.05621](http://arxiv.org/abs/2505.05621)|**[link](https://github.com/noxsine/gpt_restoration)**|
 |**2025-05-07**|**WDMamba: When Wavelet Degradation Prior Meets Vision Mamba for Image Dehazing**|Jie Sun et.al.|[2505.04369](http://arxiv.org/abs/2505.04369)|**[link](https://github.com/sunj000/wdmamba)**|
 |**2025-04-30**|**IDDM: Bridging Synthetic-to-Real Domain Gap from Physics-Guided Diffusion for Real-world Image Dehazing**|Shijun Zhou et.al.|[2504.21385](http://arxiv.org/abs/2504.21385)|null|
 |**2025-04-24**|**Fine-Tuning Adversarially-Robust Transformers for Single-Image Dehazing**|Vlad Vasilescu et.al.|[2504.17829](http://arxiv.org/abs/2504.17829)|**[link](https://github.com/vladimirescu/robustdehazing)**|
@@ -3736,6 +3751,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-08**|**A Preliminary Study for GPT-4o on Image Restoration**|Hao Yang et.al.|[2505.05621](http://arxiv.org/abs/2505.05621)|**[link](https://github.com/noxsine/gpt_restoration)**|
+|**2025-05-07**|**Image Restoration via Multi-domain Learning**|Xingyu Jiang et.al.|[2505.05504](http://arxiv.org/abs/2505.05504)|null|
 |**2025-05-08**|**SVAD: From Single Image to 3D Avatar via Synthetic Data Generation with Video Diffusion and Data Augmentation**|Yonwoo Choi et.al.|[2505.05475](http://arxiv.org/abs/2505.05475)|**[link](https://github.com/yc4ny/SVAD)**|
 |**2025-05-08**|**EAM: Enhancing Anything with Diffusion Transformers for Blind Super-Resolution**|Haizhen Xie et.al.|[2505.05209](http://arxiv.org/abs/2505.05209)|null|
 |**2025-05-03**|**Multi-Scale Target-Aware Representation Learning for Fundus Image Enhancement**|Haofan Wu et.al.|[2505.01831](http://arxiv.org/abs/2505.01831)|null|
