@@ -22,6 +22,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-14**|**LightLab: Controlling Light Sources in Images with Diffusion Models**|Nadav Magar et.al.|[2505.09608](http://arxiv.org/abs/2505.09608)|null|
+|**2025-05-14**|**Don't Forget your Inverse DDIM for Image Editing**|Guillermo Gomez-Trenado et.al.|[2505.09571](http://arxiv.org/abs/2505.09571)|null|
+|**2025-05-14**|**BLIP3-o: A Family of Fully Open Unified Multimodal Models-Architecture, Training and Dataset**|Jiuhai Chen et.al.|[2505.09568](http://arxiv.org/abs/2505.09568)|**[link](https://github.com/jiuhaichen/blip3o)**|
+|**2025-05-14**|**Diffusion Recommender Models and the Illusion of Progress: A Concerning Study of Reproducibility and a Conceptual Mismatch**|Michael Benigni et.al.|[2505.09364](http://arxiv.org/abs/2505.09364)|null|
+|**2025-05-14**|**Marigold: Affordable Adaptation of Diffusion-Based Image Generators for Image Analysis**|Bingxin Ke et.al.|[2505.09358](http://arxiv.org/abs/2505.09358)|null|
+|**2025-05-14**|**TransDiffuser: End-to-end Trajectory Generation with Decorrelated Multi-modal Representation for Autonomous Driving**|Xuefeng Jiang et.al.|[2505.09315](http://arxiv.org/abs/2505.09315)|null|
+|**2025-05-14**|**Generating Full-field Evolution of Physical Dynamics from Irregular Sparse Observations**|Panqi Chen et.al.|[2505.09284](http://arxiv.org/abs/2505.09284)|null|
+|**2025-05-14**|**A Note on Semantic Diffusion**|Alexander P. Ryjov et.al.|[2505.09283](http://arxiv.org/abs/2505.09283)|null|
+|**2025-05-14**|**Few-Shot Anomaly-Driven Generation for Anomaly Classification and Segmentation**|Guan Gui et.al.|[2505.09263](http://arxiv.org/abs/2505.09263)|**[link](https://github.com/gaobb/anogen)**|
+|**2025-05-14**|**Generating time-consistent dynamics with discriminator-guided image diffusion models**|Philipp Hess et.al.|[2505.09089](http://arxiv.org/abs/2505.09089)|null|
 |**2025-05-13**|**Controllable Image Colorization with Instance-aware Texts and Masks**|Yanru An et.al.|[2505.08705](http://arxiv.org/abs/2505.08705)|null|
 |**2025-05-13**|**Boosting Zero-shot Stereo Matching using Large-scale Mixed Images Sources in the Real World**|Yuran Wang et.al.|[2505.08607](http://arxiv.org/abs/2505.08607)|null|
 |**2025-05-13**|**Diffusion-assisted Model Predictive Control Optimization for Power System Real-Time Operation**|Linna Xu et.al.|[2505.08535](http://arxiv.org/abs/2505.08535)|null|
@@ -3260,6 +3270,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-14**|**Meta-learning Slice-to-Volume Reconstruction in Fetal Brain MRI using Implicit Neural Representations**|Maik Dannecker et.al.|[2505.09565](http://arxiv.org/abs/2505.09565)|null|
 |**2025-05-12**|**JSover: Joint Spectrum Estimation and Multi-Material Decomposition from Single-Energy CT Projections**|Qing Wu et.al.|[2505.08123](http://arxiv.org/abs/2505.08123)|null|
 |**2025-05-09**|**Decoupling Multi-Contrast Super-Resolution: Pairing Unpaired Synthesis with Implicit Representations**|Hongyu Rui et.al.|[2505.05855](http://arxiv.org/abs/2505.05855)|null|
 |**2025-05-07**|**How to Train Your Metamorphic Deep Neural Network**|Thomas Sommariva et.al.|[2505.05510](http://arxiv.org/abs/2505.05510)|**[link](https://github.com/tsommariva/htty_neumeta)**|
