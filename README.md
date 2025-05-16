@@ -22,6 +22,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-15**|**3D-Fixup: Advancing Photo Editing with 3D Priors**|Yen-Chi Cheng et.al.|[2505.10566](http://arxiv.org/abs/2505.10566)|null|
+|**2025-05-15**|**Style Customization of Text-to-Vector Generation with Image Diffusion Priors**|Peiying Zhang et.al.|[2505.10558](http://arxiv.org/abs/2505.10558)|null|
+|**2025-05-15**|**Does Feasibility Matter? Understanding the Impact of Feasibility on Synthetic Training Data**|Yiwen Liu et.al.|[2505.10551](http://arxiv.org/abs/2505.10551)|**[link](https://github.com/yiveen/syntheticdatafeasibility)**|
+|**2025-05-15**|**Pharmacophore-Conditioned Diffusion Model for Ligand-Based De Novo Drug Design**|Amira Alakhdar et.al.|[2505.10545](http://arxiv.org/abs/2505.10545)|null|
+|**2025-05-15**|**Fine-tuning Diffusion Policies with Backpropagation Through Diffusion Timesteps**|Ningyuan Yang et.al.|[2505.10482](http://arxiv.org/abs/2505.10482)|null|
+|**2025-05-15**|**Reinforcing the Diffusion Chain of Lateral Thought with Diffusion Language Models**|Zemin Huang et.al.|[2505.10446](http://arxiv.org/abs/2505.10446)|null|
+|**2025-05-15**|**Score-based diffusion nowcasting of GOES imagery**|Randy J. Chase et.al.|[2505.10432](http://arxiv.org/abs/2505.10432)|null|
+|**2025-05-15**|**Whitened Score Diffusion: A Structured Prior for Imaging Inverse Problems**|Jeffrey Alido et.al.|[2505.10311](http://arxiv.org/abs/2505.10311)|null|
+|**2025-05-15**|**FlowDreamer: A RGB-D World Model with Flow-based Motion Representations for Robot Manipulation**|Jun Guo et.al.|[2505.10075](http://arxiv.org/abs/2505.10075)|null|
+|**2025-05-15**|**ORL-LDM: Offline Reinforcement Learning Guided Latent Diffusion Model Super-Resolution Reconstruction**|Shijie Lyu et.al.|[2505.10027](http://arxiv.org/abs/2505.10027)|null|
 |**2025-05-14**|**LightLab: Controlling Light Sources in Images with Diffusion Models**|Nadav Magar et.al.|[2505.09608](http://arxiv.org/abs/2505.09608)|null|
 |**2025-05-14**|**Don't Forget your Inverse DDIM for Image Editing**|Guillermo Gomez-Trenado et.al.|[2505.09571](http://arxiv.org/abs/2505.09571)|null|
 |**2025-05-14**|**BLIP3-o: A Family of Fully Open Unified Multimodal Models-Architecture, Training and Dataset**|Jiuhai Chen et.al.|[2505.09568](http://arxiv.org/abs/2505.09568)|**[link](https://github.com/jiuhaichen/blip3o)**|
@@ -3270,6 +3280,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-15**|**Advances in Radiance Field for Dynamic Scene: From Neural Field to Gaussian Field**|Jinlong Fan et.al.|[2505.10049](http://arxiv.org/abs/2505.10049)|**[link](https://github.com/moonflo/dynamic-radiation-field-paper-list)**|
+|**2025-05-14**|**Implicit Neural Representation of Waveform Measurements in Power Systems Waveform Data Analysis**|Narges Ehsani et.al.|[2505.09789](http://arxiv.org/abs/2505.09789)|null|
 |**2025-05-14**|**Meta-learning Slice-to-Volume Reconstruction in Fetal Brain MRI using Implicit Neural Representations**|Maik Dannecker et.al.|[2505.09565](http://arxiv.org/abs/2505.09565)|null|
 |**2025-05-12**|**JSover: Joint Spectrum Estimation and Multi-Material Decomposition from Single-Energy CT Projections**|Qing Wu et.al.|[2505.08123](http://arxiv.org/abs/2505.08123)|null|
 |**2025-05-09**|**Decoupling Multi-Contrast Super-Resolution: Pairing Unpaired Synthesis with Implicit Representations**|Hongyu Rui et.al.|[2505.05855](http://arxiv.org/abs/2505.05855)|null|
@@ -4260,6 +4272,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-14**|**ImplicitStainer: Data-Efficient Medical Image Translation for Virtual Antibody-based Tissue Staining Using Local Implicit Functions**|Tushar Kataria et.al.|[2505.09831](http://arxiv.org/abs/2505.09831)|null|
 |**2025-05-12**|**ABS-Mamba: SAM2-Driven Bidirectional Spiral Mamba Network for Medical Image Translation**|Feng Yuan et.al.|[2505.07687](http://arxiv.org/abs/2505.07687)|**[link](https://github.com/gatina-yone/abs-mamba)**|
 |**2025-05-12**|**Few-shot Semantic Encoding and Decoding for Video Surveillance**|Baoping Cheng et.al.|[2505.07381](http://arxiv.org/abs/2505.07381)|null|
 |**2025-05-12**|**GAN-based synthetic FDG PET images from T1 brain MRI can serve to improve performance of deep unsupervised anomaly detection models**|Daria Zotova et.al.|[2505.07364](http://arxiv.org/abs/2505.07364)|null|
