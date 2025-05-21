@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.20
+## Updated on 2025.05.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
@@ -16,8 +16,8 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-19**|**Faster Video Diffusion with Trainable Sparse Attention**|Peiyuan Zhang et.al.|[2505.13389](http://arxiv.org/abs/2505.13389)|null|
 |**2025-05-19**|**Restoration Score Distillation: From Corrupted Diffusion Pretraining to One-Step High-Quality Generation**|Yasi Zhang et.al.|[2505.13377](http://arxiv.org/abs/2505.13377)|null|
-|**2025-05-19**|**Minimum-Excess-Work Guidance**|Christopher Kolloff et.al.|[2505.13375](http://arxiv.org/abs/2505.13375)|null|
-|**2025-05-19**|**One-Step Offline Distillation of Diffusion-based Models via Koopman Modeling**|Nimrod Berman et.al.|[2505.13358](http://arxiv.org/abs/2505.13358)|**[link](https://github.com/azencot-group/kdm)**|
+|**2025-05-20**|**Minimum-Excess-Work Guidance**|Christopher Kolloff et.al.|[2505.13375](http://arxiv.org/abs/2505.13375)|null|
+|**2025-05-20**|**One-Step Offline Distillation of Diffusion-based Models via Koopman Modeling**|Nimrod Berman et.al.|[2505.13358](http://arxiv.org/abs/2505.13358)|**[link](https://github.com/azencot-group/kdm)**|
 |**2025-05-19**|**FlowPure: Continuous Normalizing Flows for Adversarial Purification**|Elias Collaert et.al.|[2505.13280](http://arxiv.org/abs/2505.13280)|**[link](https://github.com/distrinet/flowpure)**|
 |**2025-05-19**|**Seeing the Unseen: How EMoE Unveils Bias in Text-to-Image Diffusion Models**|Lucas Berry et.al.|[2505.13273](http://arxiv.org/abs/2505.13273)|null|
 |**2025-05-19**|**Diffusion Models with Double Guidance: Generate with aggregated datasets**|Yanfeng Yang et.al.|[2505.13213](http://arxiv.org/abs/2505.13213)|null|
