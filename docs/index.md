@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.21
+## Updated on 2025.05.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
@@ -16,7 +16,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-20**|**Training-Free Watermarking for Autoregressive Image Generation**|Yu Tong et.al.|[2505.14673](http://arxiv.org/abs/2505.14673)|null|
 |**2025-05-20**|**Dynadiff: Single-stage Decoding of Images from Continuously Evolving fMRI**|Marlène Careil et.al.|[2505.14556](http://arxiv.org/abs/2505.14556)|**[link](https://github.com/facebookresearch/dynadiff)**|
-|**2025-05-20**|**SparC: Sparse Representation and Construction for High-Resolution 3D Shapes Modeling**|Zhihao Li et.al.|[2505.14521](http://arxiv.org/abs/2505.14521)|null|
+|**2025-05-21**|**Sparc3D: Sparse Representation and Construction for High-Resolution 3D Shapes Modeling**|Zhihao Li et.al.|[2505.14521](http://arxiv.org/abs/2505.14521)|null|
 |**2025-05-20**|**Learning to Integrate Diffusion ODEs by Averaging the Derivatives**|Wenze Liu et.al.|[2505.14502](http://arxiv.org/abs/2505.14502)|null|
 |**2025-05-20**|**CtrlDiff: Boosting Large Diffusion Language Models with Dynamic Block Prediction and Controllable Generation**|Chihan Huang et.al.|[2505.14455](http://arxiv.org/abs/2505.14455)|null|
 |**2025-05-20**|**Compositional amortized inference for large-scale hierarchical Bayesian models**|Jonas Arruda et.al.|[2505.14429](http://arxiv.org/abs/2505.14429)|null|
@@ -3301,7 +3301,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-16**|**BandRC: Band Shifted Raised Cosine Activated Implicit Neural Representations**|Pandula Thennakoon et.al.|[2505.11640](http://arxiv.org/abs/2505.11640)|null|
-|**2025-05-16**|**ImputeINR: Time Series Imputation via Implicit Neural Representations for Disease Diagnosis with Missing Data**|Mengxuan Li et.al.|[2505.10856](http://arxiv.org/abs/2505.10856)|null|
+|**2025-05-16**|**ImputeINR: Time Series Imputation via Implicit Neural Representations for Disease Diagnosis with Missing Data**|Mengxuan Li et.al.|[2505.10856](http://arxiv.org/abs/2505.10856)|**[link](https://github.com/leanna97/imputeinr)**|
 |**2025-05-15**|**Advances in Radiance Field for Dynamic Scene: From Neural Field to Gaussian Field**|Jinlong Fan et.al.|[2505.10049](http://arxiv.org/abs/2505.10049)|**[link](https://github.com/moonflo/dynamic-radiation-field-paper-list)**|
 |**2025-05-14**|**Implicit Neural Representation of Waveform Measurements in Power Systems Waveform Data Analysis**|Narges Ehsani et.al.|[2505.09789](http://arxiv.org/abs/2505.09789)|null|
 |**2025-05-14**|**Meta-learning Slice-to-Volume Reconstruction in Fetal Brain MRI using Implicit Neural Representations**|Maik Dannecker et.al.|[2505.09565](http://arxiv.org/abs/2505.09565)|null|
@@ -3819,8 +3819,8 @@ layout: default
 |**2025-05-19**|**Towards a Universal Image Degradation Model via Content-Degradation Disentanglement**|Wenbo Yang et.al.|[2505.12860](http://arxiv.org/abs/2505.12860)|null|
 |**2025-05-19**|**Degradation-Aware Feature Perturbation for All-in-One Image Restoration**|Xiangpeng Tian et.al.|[2505.12630](http://arxiv.org/abs/2505.12630)|**[link](https://github.com/txphome/dfpir)**|
 |**2025-05-18**|**Trustworthy Image Super-Resolution via Generative Pseudoinverse**|Andreas Floros et.al.|[2505.12375](http://arxiv.org/abs/2505.12375)|**[link](https://github.com/andreasfloros/trustworthy-super-resolution)**|
-|**2025-05-16**|**Diff-Unfolding: A Model-Based Score Learning Framework for Inverse Problems**|Yuanhao Wang et.al.|[2505.11393](http://arxiv.org/abs/2505.11393)|null|
-|**2025-05-15**|**torchmfbd: a flexible multi-object multi-frame blind deconvolution code**|A. Asensio Ramos et.al.|[2505.10639](http://arxiv.org/abs/2505.10639)|null|
+|**2025-05-20**|**Diff-Unfolding: A Model-Based Score Learning Framework for Inverse Problems**|Yuanhao Wang et.al.|[2505.11393](http://arxiv.org/abs/2505.11393)|null|
+|**2025-05-15**|**torchmfbd: a flexible multi-object multi-frame blind deconvolution code**|A. Asensio Ramos et.al.|[2505.10639](http://arxiv.org/abs/2505.10639)|**[link](https://github.com/aasensio/torchmfbd)**|
 |**2025-05-13**|**Behind the Noise: Conformal Quantile Regression Reveals Emergent Representations**|Petrus H. Zwart et.al.|[2505.08176](http://arxiv.org/abs/2505.08176)|null|
 |**2025-05-12**|**Image Restoration via Integration of Optimal Control Techniques and the Hamilton-Jacobi-Bellman Equation**|Dragos-Patru Covei et.al.|[2505.07699](http://arxiv.org/abs/2505.07699)|null|
 |**2025-05-12**|**Generalizable Pancreas Segmentation via a Dual Self-Supervised Learning Framework**|Jun Li et.al.|[2505.07165](http://arxiv.org/abs/2505.07165)|null|
@@ -4297,7 +4297,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-20**|**Towards Generating Realistic Underwater Images**|Abdul-Kazeem Shamba et.al.|[2505.14296](http://arxiv.org/abs/2505.14296)|null|
-|**2025-05-16**|**From Fibers to Cells: Fourier-Based Registration Enables Virtual Cresyl Violet Staining From 3D Polarized Light Imaging**|Alexander Oberstrass et.al.|[2505.11394](http://arxiv.org/abs/2505.11394)|null|
+|**2025-05-16**|**From Fibers to Cells: Fourier-Based Registration Enables Virtual Cresyl Violet Staining From 3D Polarized Light Imaging**|Alexander Oberstrass et.al.|[2505.11394](http://arxiv.org/abs/2505.11394)|**[link](https://github.com/fzj-inm1-bda/pli2cells)**|
 |**2025-05-14**|**ImplicitStainer: Data-Efficient Medical Image Translation for Virtual Antibody-based Tissue Staining Using Local Implicit Functions**|Tushar Kataria et.al.|[2505.09831](http://arxiv.org/abs/2505.09831)|null|
 |**2025-05-12**|**ABS-Mamba: SAM2-Driven Bidirectional Spiral Mamba Network for Medical Image Translation**|Feng Yuan et.al.|[2505.07687](http://arxiv.org/abs/2505.07687)|null|
 |**2025-05-12**|**Few-shot Semantic Encoding and Decoding for Video Surveillance**|Baoping Cheng et.al.|[2505.07381](http://arxiv.org/abs/2505.07381)|null|
