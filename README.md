@@ -22,6 +22,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-26**|**Long-Context State-Space Video World Models**|Ryan Po et.al.|[2505.20171](http://arxiv.org/abs/2505.20171)|null|
+|**2025-05-26**|**MolEditRL: Structure-Preserving Molecular Editing via Discrete Diffusion and Reinforcement Learning**|Yuanxin Zhuang et.al.|[2505.20131](http://arxiv.org/abs/2505.20131)|null|
+|**2025-05-26**|**Understanding Generalization in Diffusion Models via Probability Flow Distance**|Huijie Zhang et.al.|[2505.20123](http://arxiv.org/abs/2505.20123)|null|
+|**2025-05-26**|**Refining Few-Step Text-to-Multiview Diffusion via Reinforcement Learning**|Ziyi Zhang et.al.|[2505.20107](http://arxiv.org/abs/2505.20107)|null|
+|**2025-05-26**|**PAMD: Plausibility-Aware Motion Diffusion Model for Long Dance Generation**|Hongsong Wang et.al.|[2505.20056](http://arxiv.org/abs/2505.20056)|null|
+|**2025-05-26**|**Multimodal LLM-Guided Semantic Correction in Text-to-Image Diffusion**|Zheqi Lv et.al.|[2505.20053](http://arxiv.org/abs/2505.20053)|null|
+|**2025-05-26**|**ICDM: Interference Cancellation Diffusion Models for Wireless Semantic Communications**|Tong Wu et.al.|[2505.19983](http://arxiv.org/abs/2505.19983)|null|
+|**2025-05-26**|**UltraVSR: Achieving Ultra-Realistic Video Super-Resolution with Efficient One-Step Diffusion Space**|Yong Liu et.al.|[2505.19958](http://arxiv.org/abs/2505.19958)|null|
+|**2025-05-26**|**Harnessing the Power of Training-Free Techniques in Text-to-2D Generation for Text-to-3D Generation via Score Distillation Sampling**|Junhong Lee et.al.|[2505.19868](http://arxiv.org/abs/2505.19868)|null|
+|**2025-05-26**|**On a retarded stochastic system with discrete diffusion modeling life tables**|Tomás Caraballo et.al.|[2505.19835](http://arxiv.org/abs/2505.19835)|null|
 |**2025-05-23**|**Stochastic agent-based Monte Carlo simulations for reaction-diffusion models, population dynamics, and epidemic spreading**|Mohamed Swailem et.al.|[2505.18145](http://arxiv.org/abs/2505.18145)|null|
 |**2025-05-23**|**TokBench: Evaluating Your Visual Tokenizer before Visual Generation**|Junfeng Wu et.al.|[2505.18142](http://arxiv.org/abs/2505.18142)|null|
 |**2025-05-23**|**Towards more transferable adversarial attack in black-box manner**|Chun Tong Lei et.al.|[2505.18097](http://arxiv.org/abs/2505.18097)|null|
@@ -3861,6 +3871,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-26**|**A Regularization-Guided Equivariant Approach for Image Restoration**|Yulu Bai et.al.|[2505.19799](http://arxiv.org/abs/2505.19799)|null|
+|**2025-05-25**|**Benchmarking Laparoscopic Surgical Image Restoration and Beyond**|Jialun Pei et.al.|[2505.19161](http://arxiv.org/abs/2505.19161)|null|
+|**2025-05-25**|**Freqformer: Image-Demoiréing Transformer via Efficient Frequency Decomposition**|Xiaoyang Liu et.al.|[2505.19120](http://arxiv.org/abs/2505.19120)|null|
+|**2025-05-24**|**Manifold-aware Representation Learning for Degradation-agnostic Image Restoration**|Bin Ren et.al.|[2505.18679](http://arxiv.org/abs/2505.18679)|null|
 |**2025-05-23**|**RestoreVAR: Visual Autoregressive Generation for All-in-One Image Restoration**|Sudarshan Rajagopalan et.al.|[2505.18047](http://arxiv.org/abs/2505.18047)|null|
 |**2025-05-23**|**MODEM: A Morton-Order Degradation Estimation Mechanism for Adverse Weather Image Recovery**|Hainuo Wang et.al.|[2505.17581](http://arxiv.org/abs/2505.17581)|null|
 |**2025-05-23**|**Dual Ascent Diffusion for Inverse Problems**|Minseo Kim et.al.|[2505.17353](http://arxiv.org/abs/2505.17353)|null|
