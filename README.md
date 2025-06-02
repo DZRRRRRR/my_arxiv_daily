@@ -22,6 +22,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-30**|**AdaHuman: Animatable Detailed 3D Human Generation with Compositional Multiview Diffusion**|Yangyi Huang et.al.|[2505.24877](http://arxiv.org/abs/2505.24877)|null|
+|**2025-05-30**|**MiniMax-Remover: Taming Bad Noise Helps Video Object Removal**|Bojia Zi et.al.|[2505.24873](http://arxiv.org/abs/2505.24873)|null|
+|**2025-05-30**|**Accelerated Sampling from Masked Diffusion Models via Entropy Bounded Unmasking**|Heli Ben-Hamu et.al.|[2505.24857](http://arxiv.org/abs/2505.24857)|null|
+|**2025-05-30**|**RealDrive: Retrieval-Augmented Driving with Diffusion Models**|Wenhao Ding et.al.|[2505.24808](http://arxiv.org/abs/2505.24808)|null|
+|**2025-05-30**|**Generalization Dynamics of Linear Diffusion Models**|Claudia Merger et.al.|[2505.24769](http://arxiv.org/abs/2505.24769)|null|
+|**2025-05-30**|**A Composite Predictive-Generative Approach to Monaural Universal Speech Enhancement**|Jie Zhang et.al.|[2505.24576](http://arxiv.org/abs/2505.24576)|null|
+|**2025-05-30**|**UniGeo: Taming Video Diffusion for Unified Consistent Geometry Estimation**|Yang-Tian Sun et.al.|[2505.24521](http://arxiv.org/abs/2505.24521)|null|
+|**2025-05-30**|**EasyText: Controllable Diffusion Transformer for Multilingual Text Rendering**|Runnan Lu et.al.|[2505.24417](http://arxiv.org/abs/2505.24417)|null|
+|**2025-05-30**|**IRBridge: Solving Image Restoration Bridge with Pre-trained Generative Diffusion Models**|Hanting Wang et.al.|[2505.24406](http://arxiv.org/abs/2505.24406)|null|
+|**2025-05-30**|**Interpreting Large Text-to-Image Diffusion Models with Dictionary Learning**|Stepan Shabalin et.al.|[2505.24360](http://arxiv.org/abs/2505.24360)|null|
 |**2025-05-29**|**LoRAShop: Training-Free Multi-Concept Image Generation and Editing with Rectified Flow Transformers**|Yusuf Dalva et.al.|[2505.23758](http://arxiv.org/abs/2505.23758)|null|
 |**2025-05-29**|**DarkDiff: Advancing Low-Light Raw Enhancement by Retasking Diffusion Models for Camera ISP**|Amber Yijia Zheng et.al.|[2505.23743](http://arxiv.org/abs/2505.23743)|null|
 |**2025-05-29**|**LayerPeeler: Autoregressive Peeling for Layer-wise Image Vectorization**|Ronghuan Wu et.al.|[2505.23740](http://arxiv.org/abs/2505.23740)|null|
@@ -3905,6 +3915,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-30**|**IRBridge: Solving Image Restoration Bridge with Pre-trained Generative Diffusion Models**|Hanting Wang et.al.|[2505.24406](http://arxiv.org/abs/2505.24406)|null|
+|**2025-05-30**|**Boosting All-in-One Image Restoration via Self-Improved Privilege Learning**|Gang Wu et.al.|[2505.24207](http://arxiv.org/abs/2505.24207)|null|
 |**2025-05-29**|**Proximal Algorithm Unrolling: Flexible and Efficient Reconstruction Networks for Single-Pixel Imaging**|Ping Wang et.al.|[2505.23180](http://arxiv.org/abs/2505.23180)|**[link](https://github.com/pwangcs/proxunroll)**|
 |**2025-05-29**|**URWKV: Unified RWKV Model with Multi-state Perspective for Low-light Image Restoration**|Rui Xu et.al.|[2505.23068](http://arxiv.org/abs/2505.23068)|**[link](https://github.com/fzu-n/urwkv)**|
 |**2025-05-29**|**EquiReg: Equivariance Regularized Diffusion for Inverse Problems**|Bahareh Tolooshams et.al.|[2505.22973](http://arxiv.org/abs/2505.22973)|null|
@@ -4411,6 +4423,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-30**|**Segmenting France Across Four Centuries**|Marta López-Rauhut et.al.|[2505.24824](http://arxiv.org/abs/2505.24824)|null|
+|**2025-05-30**|**pyMEAL: A Multi-Encoder Augmentation-Aware Learning for Robust and Generalizable Medical Image Translation**|Abdul-mojeed Olabisi Ilyas et.al.|[2505.24421](http://arxiv.org/abs/2505.24421)|null|
 |**2025-05-28**|**Training Free Stylized Abstraction**|Aimon Rahman et.al.|[2505.22663](http://arxiv.org/abs/2505.22663)|null|
 |**2025-05-28**|**Collaborative Learning for Unsupervised Multimodal Remote Sensing Image Registration: Integrating Self-Supervision and MIM-Guided Diffusion-Based Image Translation**|Xiaochen Wei et.al.|[2505.22000](http://arxiv.org/abs/2505.22000)|null|
 |**2025-05-27**|**Unpaired Image-to-Image Translation for Segmentation and Signal Unmixing**|Nikola Andrejic et.al.|[2505.20746](http://arxiv.org/abs/2505.20746)|null|
