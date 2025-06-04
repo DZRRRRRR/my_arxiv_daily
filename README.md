@@ -22,6 +22,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-03**|**AnimeShooter: A Multi-Shot Animation Dataset for Reference-Guided Video Generation**|Lu Qiu et.al.|[2506.03126](http://arxiv.org/abs/2506.03126)|null|
+|**2025-06-03**|**DCM: Dual-Expert Consistency Model for Efficient and High-Quality Video Generation**|Zhengyao Lv et.al.|[2506.03123](http://arxiv.org/abs/2506.03123)|null|
+|**2025-06-03**|**Rectified Flows for Fast Multiscale Fluid Flow Modeling**|Victor Armegioiu et.al.|[2506.03111](http://arxiv.org/abs/2506.03111)|null|
+|**2025-06-03**|**TalkingMachines: Real-Time Audio-Driven FaceTime-Style Video via Autoregressive Diffusion Models**|Chetwin Low et.al.|[2506.03099](http://arxiv.org/abs/2506.03099)|null|
+|**2025-06-03**|**EDITOR: Effective and Interpretable Prompt Inversion for Text-to-Image Diffusion Models**|Mingzhe Li et.al.|[2506.03067](http://arxiv.org/abs/2506.03067)|null|
+|**2025-06-03**|**PartComposer: Learning and Composing Part-Level Concepts from Single-Image Examples**|Junyu Liu et.al.|[2506.03004](http://arxiv.org/abs/2506.03004)|null|
+|**2025-06-03**|**Astrophotography turbulence mitigation via generative models**|Joonyeoup Kim et.al.|[2506.02981](http://arxiv.org/abs/2506.02981)|null|
+|**2025-06-03**|**Diffusion Buffer: Online Diffusion-based Speech Enhancement with Sub-Second Latency**|Bunlong Lay et.al.|[2506.02908](http://arxiv.org/abs/2506.02908)|null|
+|**2025-06-03**|**DGMO: Training-Free Audio Source Separation through Diffusion-Guided Mask Optimization**|Geonyoung Lee et.al.|[2506.02858](http://arxiv.org/abs/2506.02858)|null|
+|**2025-06-03**|**Smoothed Preference Optimization via ReNoise Inversion for Aligning Diffusion Models with Varied Human Preferences**|Yunhong Lu et.al.|[2506.02698](http://arxiv.org/abs/2506.02698)|null|
 |**2025-05-30**|**AdaHuman: Animatable Detailed 3D Human Generation with Compositional Multiview Diffusion**|Yangyi Huang et.al.|[2505.24877](http://arxiv.org/abs/2505.24877)|null|
 |**2025-05-30**|**MiniMax-Remover: Taming Bad Noise Helps Video Object Removal**|Bojia Zi et.al.|[2505.24873](http://arxiv.org/abs/2505.24873)|null|
 |**2025-05-30**|**Accelerated Sampling from Masked Diffusion Models via Entropy Bounded Unmasking**|Heli Ben-Hamu et.al.|[2505.24857](http://arxiv.org/abs/2505.24857)|null|
@@ -3391,6 +3401,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-02**|**Temporal Variational Implicit Neural Representations**|Batuhan Koyuncu et.al.|[2506.01544](http://arxiv.org/abs/2506.01544)|null|
+|**2025-06-02**|**Fourier-Modulated Implicit Neural Representation for Multispectral Satellite Image Compression**|Woojin Cho et.al.|[2506.01234](http://arxiv.org/abs/2506.01234)|null|
 |**2025-05-29**|**Implicit Inversion turns CLIP into a Decoder**|Antonio D'Orazio et.al.|[2505.23161](http://arxiv.org/abs/2505.23161)|**[link](https://github.com/omnai-lab/implicit-inversion)**|
 |**2025-05-28**|**Patch-based Reconstruction for Unsupervised Dynamic MRI using Learnable Tensor Function with Implicit Neural Representation**|Yuanyuan Liu et.al.|[2505.21894](http://arxiv.org/abs/2505.21894)|null|
 |**2025-05-28**|**Hyperspectral Gaussian Splatting**|Sunil Kumar Narayanan et.al.|[2505.21890](http://arxiv.org/abs/2505.21890)|null|
@@ -3827,6 +3839,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-03**|**The Devil is in the Darkness: Diffusion-Based Nighttime Dehazing Anchored in Brightness Perception**|Xiaofeng Cong et.al.|[2506.02395](http://arxiv.org/abs/2506.02395)|null|
 |**2025-05-20**|**UHD Image Dehazing via anDehazeFormer with Atmospheric-aware KV Cache**|Pu Wang et.al.|[2505.14010](http://arxiv.org/abs/2505.14010)|null|
 |**2025-05-19**|**Degradation-Aware Feature Perturbation for All-in-One Image Restoration**|Xiangpeng Tian et.al.|[2505.12630](http://arxiv.org/abs/2505.12630)|**[link](https://github.com/txphome/dfpir)**|
 |**2025-05-17**|**A Preliminary Study for GPT-4o on Image Restoration**|Hao Yang et.al.|[2505.05621](http://arxiv.org/abs/2505.05621)|**[link](https://github.com/noxsine/gpt_restoration)**|
@@ -3915,6 +3928,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-03**|**NTIRE 2025 XGC Quality Assessment Challenge: Methods and Results**|Xiaohong Liu et.al.|[2506.02875](http://arxiv.org/abs/2506.02875)|null|
+|**2025-06-03**|**ControlMambaIR: Conditional Controls with State-Space Model for Image Restoration**|Cheng Yang et.al.|[2506.02633](http://arxiv.org/abs/2506.02633)|null|
+|**2025-06-02**|**NTIRE 2025 Challenge on RAW Image Restoration and Super-Resolution**|Marcos V. Conde et.al.|[2506.02197](http://arxiv.org/abs/2506.02197)|null|
+|**2025-06-02**|**RAW Image Reconstruction from RGB on Smartphones. NTIRE 2025 Challenge Report**|Marcos V. Conde et.al.|[2506.01947](http://arxiv.org/abs/2506.01947)|null|
+|**2025-06-02**|**NTIRE 2025 the 2nd Restore Any Image Model (RAIM) in the Wild Challenge**|Jie Liang et.al.|[2506.01394](http://arxiv.org/abs/2506.01394)|null|
+|**2025-05-31**|**Image Restoration Learning via Noisy Supervision in the Fourier Domain**|Haosen Liu et.al.|[2506.00564](http://arxiv.org/abs/2506.00564)|null|
 |**2025-05-30**|**IRBridge: Solving Image Restoration Bridge with Pre-trained Generative Diffusion Models**|Hanting Wang et.al.|[2505.24406](http://arxiv.org/abs/2505.24406)|null|
 |**2025-05-30**|**Boosting All-in-One Image Restoration via Self-Improved Privilege Learning**|Gang Wu et.al.|[2505.24207](http://arxiv.org/abs/2505.24207)|null|
 |**2025-05-29**|**Proximal Algorithm Unrolling: Flexible and Efficient Reconstruction Networks for Single-Pixel Imaging**|Ping Wang et.al.|[2505.23180](http://arxiv.org/abs/2505.23180)|**[link](https://github.com/pwangcs/proxunroll)**|
@@ -4423,6 +4442,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-31**|**MR2US-Pro: Prostate MR to Ultrasound Image Translation and Registration Based on Diffusion Models**|Xudong Ma et.al.|[2506.00591](http://arxiv.org/abs/2506.00591)|null|
 |**2025-05-30**|**Segmenting France Across Four Centuries**|Marta López-Rauhut et.al.|[2505.24824](http://arxiv.org/abs/2505.24824)|null|
 |**2025-05-30**|**pyMEAL: A Multi-Encoder Augmentation-Aware Learning for Robust and Generalizable Medical Image Translation**|Abdul-mojeed Olabisi Ilyas et.al.|[2505.24421](http://arxiv.org/abs/2505.24421)|null|
 |**2025-05-28**|**Training Free Stylized Abstraction**|Aimon Rahman et.al.|[2505.22663](http://arxiv.org/abs/2505.22663)|null|
