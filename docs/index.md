@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-04**|**Sounding that Object: Interactive Object-Aware Image to Audio Generation**|Tingle Li et.al.|[2506.04214](http://arxiv.org/abs/2506.04214)|null|
+|**2025-06-04**|**Diffusion Domain Teacher: Diffusion Guided Domain Adaptive Object Detector**|Boyong He et.al.|[2506.04211](http://arxiv.org/abs/2506.04211)|null|
+|**2025-06-04**|**Image Editing As Programs with Diffusion Models**|Yujia Hu et.al.|[2506.04158](http://arxiv.org/abs/2506.04158)|null|
+|**2025-06-04**|**Global convergence rates in the relaxation limits for the compressible Euler and Euler-Maxwell systems in Sobolev spaces**|Timothée Crin-Barat et.al.|[2506.04103](http://arxiv.org/abs/2506.04103)|null|
+|**2025-06-04**|**A Generative Adaptive Replay Continual Learning Model for Temporal Knowledge Graph Reasoning**|Zhiyu Zhang et.al.|[2506.04083](http://arxiv.org/abs/2506.04083)|null|
+|**2025-06-04**|**Beyond water limitation in vegetation-autotoxicity patterning: a cross-diffusion model**|Francesco Giannino et.al.|[2506.03981](http://arxiv.org/abs/2506.03981)|null|
+|**2025-06-04**|**Solving Inverse Problems via Diffusion-Based Priors: An Approximation-Free Ensemble Sampling Approach**|Haoxuan Chen et.al.|[2506.03979](http://arxiv.org/abs/2506.03979)|null|
+|**2025-06-04**|**DiffCAP: Diffusion-based Cumulative Adversarial Purification for Vision Language Models**|Jia Fu et.al.|[2506.03933](http://arxiv.org/abs/2506.03933)|null|
+|**2025-06-04**|**Personalized MR-Informed Diffusion Models for 3D PET Image Reconstruction**|George Webber et.al.|[2506.03804](http://arxiv.org/abs/2506.03804)|null|
+|**2025-06-04**|**EmoArt: A Multidimensional Dataset for Emotion-Aware Artistic Generation**|Cheng Zhang et.al.|[2506.03652](http://arxiv.org/abs/2506.03652)|null|
 |**2025-06-03**|**AnimeShooter: A Multi-Shot Animation Dataset for Reference-Guided Video Generation**|Lu Qiu et.al.|[2506.03126](http://arxiv.org/abs/2506.03126)|null|
 |**2025-06-03**|**DCM: Dual-Expert Consistency Model for Efficient and High-Quality Video Generation**|Zhengyao Lv et.al.|[2506.03123](http://arxiv.org/abs/2506.03123)|null|
 |**2025-06-03**|**Rectified Flows for Fast Multiscale Fluid Flow Modeling**|Victor Armegioiu et.al.|[2506.03111](http://arxiv.org/abs/2506.03111)|null|
@@ -3391,6 +3401,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-04**|**A Few Moments Please: Scalable Graphon Learning via Moment Matching**|Reza Ramezanpour et.al.|[2506.04206](http://arxiv.org/abs/2506.04206)|null|
+|**2025-05-29**|**Super-temporal-resolution Photoacoustic Imaging with Dynamic Reconstruction through Implicit Neural Representation in Sparse-view**|Youshen Xiao et.al.|[2506.03175](http://arxiv.org/abs/2506.03175)|null|
 |**2025-06-02**|**Temporal Variational Implicit Neural Representations**|Batuhan Koyuncu et.al.|[2506.01544](http://arxiv.org/abs/2506.01544)|null|
 |**2025-06-02**|**Fourier-Modulated Implicit Neural Representation for Multispectral Satellite Image Compression**|Woojin Cho et.al.|[2506.01234](http://arxiv.org/abs/2506.01234)|null|
 |**2025-06-04**|**Implicit Inversion turns CLIP into a Decoder**|Antonio D'Orazio et.al.|[2505.23161](http://arxiv.org/abs/2505.23161)|**[link](https://github.com/omnai-lab/implicit-inversion)**|
@@ -4424,6 +4436,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-04**|**Synthetic multi-inversion time magnetic resonance images for visualization of subcortical structures**|Savannah P. Hays et.al.|[2506.04173](http://arxiv.org/abs/2506.04173)|null|
 |**2025-05-31**|**MR2US-Pro: Prostate MR to Ultrasound Image Translation and Registration Based on Diffusion Models**|Xudong Ma et.al.|[2506.00591](http://arxiv.org/abs/2506.00591)|null|
 |**2025-05-30**|**Segmenting France Across Four Centuries**|Marta López-Rauhut et.al.|[2505.24824](http://arxiv.org/abs/2505.24824)|null|
 |**2025-05-30**|**pyMEAL: A Multi-Encoder Augmentation-Aware Learning for Robust and Generalizable Medical Image Translation**|Abdul-mojeed Olabisi Ilyas et.al.|[2505.24421](http://arxiv.org/abs/2505.24421)|null|
