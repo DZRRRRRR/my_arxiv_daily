@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-05**|**Contrastive Flow Matching**|George Stoica et.al.|[2506.05350](http://arxiv.org/abs/2506.05350)|null|
+|**2025-06-05**|**Exploring Diffusion Transformer Designs via Grafting**|Keshigeyan Chandrasegaran et.al.|[2506.05340](http://arxiv.org/abs/2506.05340)|null|
+|**2025-06-05**|**Progressive Tempering Sampler with Diffusion**|Severi Rissanen et.al.|[2506.05231](http://arxiv.org/abs/2506.05231)|**[link](https://github.com/cambridge-mlg/Progressive-Tempering-Sampler-with-Diffusion)**|
+|**2025-06-05**|**OGGSplat: Open Gaussian Growing for Generalizable Reconstruction with Expanded Field-of-View**|Yanbo Wang et.al.|[2506.05204](http://arxiv.org/abs/2506.05204)|**[link](https://github.com/Yanbo-23/OGGSplat)**|
+|**2025-06-05**|**Quantifying Cross-Modality Memorization in Vision-Language Models**|Yuxin Wen et.al.|[2506.05198](http://arxiv.org/abs/2506.05198)|null|
+|**2025-06-05**|**Associative Memory and Generative Diffusion in the Zero-noise Limit**|Joshua Hess et.al.|[2506.05178](http://arxiv.org/abs/2506.05178)|null|
+|**2025-06-05**|**Neural Jumps for Option Pricing**|Duosi Zheng et.al.|[2506.05137](http://arxiv.org/abs/2506.05137)|null|
+|**2025-06-05**|**SeedEdit 3.0: Fast and High-Quality Generative Image Editing**|Peng Wang et.al.|[2506.05083](http://arxiv.org/abs/2506.05083)|null|
+|**2025-06-05**|**FlowDirector: Training-Free Flow Steering for Precise Text-to-Video Editing**|Guangzhao Li et.al.|[2506.05046](http://arxiv.org/abs/2506.05046)|null|
+|**2025-06-05**|**Invisible Backdoor Triggers in Image Editing Model via Deep Watermarking**|Yu-Feng Chen et.al.|[2506.04879](http://arxiv.org/abs/2506.04879)|null|
 |**2025-06-04**|**Sounding that Object: Interactive Object-Aware Image to Audio Generation**|Tingle Li et.al.|[2506.04214](http://arxiv.org/abs/2506.04214)|null|
 |**2025-06-04**|**Diffusion Domain Teacher: Diffusion Guided Domain Adaptive Object Detector**|Boyong He et.al.|[2506.04211](http://arxiv.org/abs/2506.04211)|**[link](https://github.com/heboyong/Diffusion-Domain-Teacher)**|
 |**2025-06-04**|**Image Editing As Programs with Diffusion Models**|Yujia Hu et.al.|[2506.04158](http://arxiv.org/abs/2506.04158)|null|
@@ -3401,6 +3411,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-05**|**Hierarchical Implicit Neural Emulators**|Ruoxi Jiang et.al.|[2506.04528](http://arxiv.org/abs/2506.04528)|null|
 |**2025-06-04**|**A Few Moments Please: Scalable Graphon Learning via Moment Matching**|Reza Ramezanpour et.al.|[2506.04206](http://arxiv.org/abs/2506.04206)|null|
 |**2025-05-29**|**Super-temporal-resolution Photoacoustic Imaging with Dynamic Reconstruction through Implicit Neural Representation in Sparse-view**|Youshen Xiao et.al.|[2506.03175](http://arxiv.org/abs/2506.03175)|null|
 |**2025-06-02**|**Temporal Variational Implicit Neural Representations**|Batuhan Koyuncu et.al.|[2506.01544](http://arxiv.org/abs/2506.01544)|null|
@@ -3924,6 +3935,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-05**|**SeedVR2: One-Step Video Restoration via Diffusion Adversarial Post-Training**|Jianyi Wang et.al.|[2506.05301](http://arxiv.org/abs/2506.05301)|null|
 |**2025-06-03**|**NTIRE 2025 XGC Quality Assessment Challenge: Methods and Results**|Xiaohong Liu et.al.|[2506.02875](http://arxiv.org/abs/2506.02875)|null|
 |**2025-06-03**|**ControlMambaIR: Conditional Controls with State-Space Model for Image Restoration**|Cheng Yang et.al.|[2506.02633](http://arxiv.org/abs/2506.02633)|null|
 |**2025-06-04**|**NTIRE 2025 Challenge on RAW Image Restoration and Super-Resolution**|Marcos V. Conde et.al.|[2506.02197](http://arxiv.org/abs/2506.02197)|null|
@@ -4436,6 +4448,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-05**|**Deep learning image burst stacking to reconstruct high-resolution ground-based solar observations**|Christoph Schirninger et.al.|[2506.04781](http://arxiv.org/abs/2506.04781)|null|
 |**2025-06-04**|**Synthetic multi-inversion time magnetic resonance images for visualization of subcortical structures**|Savannah P. Hays et.al.|[2506.04173](http://arxiv.org/abs/2506.04173)|null|
 |**2025-05-31**|**MR2US-Pro: Prostate MR to Ultrasound Image Translation and Registration Based on Diffusion Models**|Xudong Ma et.al.|[2506.00591](http://arxiv.org/abs/2506.00591)|null|
 |**2025-05-30**|**Segmenting France Across Four Centuries**|Marta López-Rauhut et.al.|[2505.24824](http://arxiv.org/abs/2505.24824)|null|
