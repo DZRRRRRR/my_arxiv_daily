@@ -3461,8 +3461,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-06-11**|**Sampling Theory for Super-Resolution with Implicit Neural Representations**|Mahrokh Najaf et.al.|[2506.09949](http://arxiv.org/abs/2506.09949)|null|
-|**2025-06-11**|**CINeMA: Conditional Implicit Neural Multi-Modal Atlas for a Spatio-Temporal Representation of the Perinatal Brain**|Maik Dannecker et.al.|[2506.09668](http://arxiv.org/abs/2506.09668)|null|
+|**2025-06-11**|**Sampling Theory for Super-Resolution with Implicit Neural Representations**|Mahrokh Najaf et.al.|[2506.09949](http://arxiv.org/abs/2506.09949)|**[link](https://github.com/gregongie/super_inrs)**|
+|**2025-06-11**|**CINeMA: Conditional Implicit Neural Multi-Modal Atlas for a Spatio-Temporal Representation of the Perinatal Brain**|Maik Dannecker et.al.|[2506.09668](http://arxiv.org/abs/2506.09668)|**[link](https://github.com/m-dannecker/cinema)**|
 |**2025-06-10**|**Low-Rank Augmented Implicit Neural Representation for Unsupervised High-Dimensional Quantitative MRI Reconstruction**|Haonan Zhang et.al.|[2506.09100](http://arxiv.org/abs/2506.09100)|null|
 |**2025-06-09**|**Spectral Domain Neural Reconstruction for Passband FMCW Radars**|Harshvardhan Takawale et.al.|[2506.08163](http://arxiv.org/abs/2506.08163)|null|
 |**2025-06-07**|**High-Fidelity Scientific Simulation Surrogates via Adaptive Implicit Neural Representations**|Ziwei Li et.al.|[2506.06858](http://arxiv.org/abs/2506.06858)|null|
