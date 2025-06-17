@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-16**|**Diagnosing and Improving Diffusion Models by Estimating the Optimal Loss Value**|Yixian Xu et.al.|[2506.13763](http://arxiv.org/abs/2506.13763)|null|
+|**2025-06-16**|**VideoPDE: Unified Generative PDE Solving via Video Inpainting Diffusion Models**|Edward Li et.al.|[2506.13754](http://arxiv.org/abs/2506.13754)|null|
+|**2025-06-16**|**MultiViT2: A Data-augmented Multimodal Neuroimaging Prediction Framework via Latent Diffusion Model**|Bi Yuda et.al.|[2506.13667](http://arxiv.org/abs/2506.13667)|null|
+|**2025-06-16**|**Exploiting the Exact Denoising Posterior Score in Training-Free Guidance of Diffusion Models**|Gregory Bellchambers et.al.|[2506.13614](http://arxiv.org/abs/2506.13614)|null|
+|**2025-06-16**|**Dive3D: Diverse Distillation-based Text-to-3D Generation via Score Implicit Matching**|Weimin Bai et.al.|[2506.13594](http://arxiv.org/abs/2506.13594)|null|
+|**2025-06-16**|**Flexible-length Text Infilling for Discrete Diffusion Models**|Andrew Zhang et.al.|[2506.13579](http://arxiv.org/abs/2506.13579)|null|
+|**2025-06-16**|**X-Scene: Large-Scale Driving Scene Generation with High Fidelity and Flexible Controllability**|Yu Yang et.al.|[2506.13558](http://arxiv.org/abs/2506.13558)|null|
+|**2025-06-16**|**Seismic Acoustic Impedance Inversion Framework Based on Conditional Latent Generative Diffusion Model**|Jie Chen et.al.|[2506.13529](http://arxiv.org/abs/2506.13529)|null|
+|**2025-06-16**|**Deep Diffusion Models and Unsupervised Hyperspectral Unmixing for Realistic Abundance Map Synthesis**|Martina Pastorino et.al.|[2506.13484](http://arxiv.org/abs/2506.13484)|null|
+|**2025-06-16**|**PRO: Projection Domain Synthesis for CT Imaging**|Kang Chen et.al.|[2506.13443](http://arxiv.org/abs/2506.13443)|null|
 |**2025-06-13**|**Measurement-aligned Flow for Inverse Problem**|Shaorong Zhang et.al.|[2506.11893](http://arxiv.org/abs/2506.11893)|null|
 |**2025-06-13**|**CLIP Meets Diffusion: A Synergistic Approach to Anomaly Detection**|Byeongchan Lee et.al.|[2506.11772](http://arxiv.org/abs/2506.11772)|null|
 |**2025-06-13**|**DiffFuSR: Super-Resolution of all Sentinel-2 Multispectral Bands using Diffusion Models**|Muhammad Sarmad et.al.|[2506.11764](http://arxiv.org/abs/2506.11764)|null|
@@ -3471,6 +3481,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-15**|**Efficient Neural Video Representation via Structure-Preseving Patch Decoding**|Taiga Hayami et.al.|[2506.12896](http://arxiv.org/abs/2506.12896)|null|
+|**2025-06-15**|**PDEfuncta: Spectrally-Aware Neural Representation for PDE Solution Modeling**|Minju Jo et.al.|[2506.12790](http://arxiv.org/abs/2506.12790)|null|
+|**2025-06-14**|**Adaptive Multi-resolution Hash-Encoding Framework for INR-based Dental CBCT Reconstruction with Truncated FOV**|Hyoung Suk Park et.al.|[2506.12471](http://arxiv.org/abs/2506.12471)|null|
 |**2025-06-11**|**Brain-wide interpolation and conditioning of gene expression in the human brain using Implicit Neural Representations**|Xizheng Yu et.al.|[2506.11158](http://arxiv.org/abs/2506.11158)|null|
 |**2025-06-10**|**Grids Often Outperform Implicit Neural Representations**|Namhoon Kim et.al.|[2506.11139](http://arxiv.org/abs/2506.11139)|null|
 |**2025-06-11**|**Sampling Theory for Super-Resolution with Implicit Neural Representations**|Mahrokh Najaf et.al.|[2506.09949](http://arxiv.org/abs/2506.09949)|**[link](https://github.com/gregongie/super_inrs)**|
@@ -3919,6 +3932,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-15**|**Learning Unpaired Image Dehazing with Physics-based Rehazy Generation**|Haoyou Deng et.al.|[2506.12824](http://arxiv.org/abs/2506.12824)|null|
 |**2025-06-10**|**A PDE-Based Image Dehazing Method via Atmospheric Scattering Theory**|Zhuoran Zheng et.al.|[2506.08793](http://arxiv.org/abs/2506.08793)|null|
 |**2025-06-03**|**The Devil is in the Darkness: Diffusion-Based Nighttime Dehazing Anchored in Brightness Perception**|Xiaofeng Cong et.al.|[2506.02395](http://arxiv.org/abs/2506.02395)|null|
 |**2025-05-20**|**UHD Image Dehazing via anDehazeFormer with Atmospheric-aware KV Cache**|Pu Wang et.al.|[2505.14010](http://arxiv.org/abs/2505.14010)|null|
@@ -4007,6 +4021,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-16**|**Exploiting the Exact Denoising Posterior Score in Training-Free Guidance of Diffusion Models**|Gregory Bellchambers et.al.|[2506.13614](http://arxiv.org/abs/2506.13614)|null|
+|**2025-06-15**|**Adaptive Dropout: Unleashing Dropout across Layers for Generalizable Image Super-Resolution**|Hang Xu et.al.|[2506.12738](http://arxiv.org/abs/2506.12738)|null|
+|**2025-06-14**|**UniDet-D: A Unified Dynamic Spectral Attention Model for Object Detection under Adverse Weathers**|Yuantao Wang et.al.|[2506.12324](http://arxiv.org/abs/2506.12324)|null|
 |**2025-06-10**|**Adaptive Object Detection with ESRGAN-Enhanced Resolution & Faster R-CNN**|Divya Swetha K et.al.|[2506.11122](http://arxiv.org/abs/2506.11122)|null|
 |**2025-06-11**|**Text-Aware Image Restoration with Diffusion Models**|Jaewon Min et.al.|[2506.09993](http://arxiv.org/abs/2506.09993)|null|
 |**2025-06-09**|**M2Restore: Mixture-of-Experts-based Mamba-CNN Fusion Framework for All-in-One Image Restoration**|Yongzhen Wang et.al.|[2506.07814](http://arxiv.org/abs/2506.07814)|null|
