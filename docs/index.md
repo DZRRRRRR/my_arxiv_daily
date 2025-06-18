@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-17**|**CDP: Towards Robust Autoregressive Visuomotor Policy Learning via Causal Diffusion**|Jiahua Ma et.al.|[2506.14769](http://arxiv.org/abs/2506.14769)|null|
+|**2025-06-17**|**Cost-Aware Routing for Efficient Text-To-Image Generation**|Qinchan et.al.|[2506.14753](http://arxiv.org/abs/2506.14753)|null|
+|**2025-06-17**|**Iterative Camera-LiDAR Extrinsic Optimization via Surrogate Diffusion**|Ni Ou et.al.|[2506.14706](http://arxiv.org/abs/2506.14706)|null|
+|**2025-06-17**|**Risk Estimation of Knee Osteoarthritis Progression via Predictive Multi-task Modelling from Efficient Diffusion Model using X-ray Images**|David Butler et.al.|[2506.14560](http://arxiv.org/abs/2506.14560)|null|
+|**2025-06-17**|**DreamLight: Towards Harmonious and Consistent Image Relighting**|Yong Liu et.al.|[2506.14549](http://arxiv.org/abs/2506.14549)|null|
+|**2025-06-17**|**Using BDF schemes in the temporal integration of POD-ROM methods**|Bosco García-Archilla et.al.|[2506.14543](http://arxiv.org/abs/2506.14543)|null|
+|**2025-06-17**|**Reimagining Target-Aware Molecular Generation through Retrieval-Enhanced Aligned Diffusion**|Dong Xu et.al.|[2506.14488](http://arxiv.org/abs/2506.14488)|null|
+|**2025-06-17**|**LongLLaDA: Unlocking Long Context Capabilities in Diffusion LLMs**|Xiaoran Liu et.al.|[2506.14429](http://arxiv.org/abs/2506.14429)|null|
+|**2025-06-17**|**Causally Steered Diffusion for Automated Video Counterfactual Generation**|Nikos Spyrou et.al.|[2506.14404](http://arxiv.org/abs/2506.14404)|null|
+|**2025-06-17**|**Decoupled Classifier-Free Guidance for Counterfactual Diffusion Models**|Tian Xia et.al.|[2506.14399](http://arxiv.org/abs/2506.14399)|null|
 |**2025-06-16**|**Diagnosing and Improving Diffusion Models by Estimating the Optimal Loss Value**|Yixian Xu et.al.|[2506.13763](http://arxiv.org/abs/2506.13763)|null|
 |**2025-06-17**|**VideoPDE: Unified Generative PDE Solving via Video Inpainting Diffusion Models**|Edward Li et.al.|[2506.13754](http://arxiv.org/abs/2506.13754)|null|
 |**2025-06-16**|**MultiViT2: A Data-augmented Multimodal Neuroimaging Prediction Framework via Latent Diffusion Model**|Bi Yuda et.al.|[2506.13667](http://arxiv.org/abs/2506.13667)|null|
@@ -4021,6 +4031,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-17**|**Optimization-Based Image Restoration under Implementation Constraints in Optical Analog Circuits**|Taisei Kato et.al.|[2506.14624](http://arxiv.org/abs/2506.14624)|null|
+|**2025-06-17**|**Unsupervised Imaging Inverse Problems with Diffusion Distribution Matching**|Giacomo Meanti et.al.|[2506.14605](http://arxiv.org/abs/2506.14605)|null|
+|**2025-06-17**|**Exploring Diffusion with Test-Time Training on Efficient Image Restoration**|Rongchang Lu et.al.|[2506.14541](http://arxiv.org/abs/2506.14541)|null|
 |**2025-06-16**|**Exploiting the Exact Denoising Posterior Score in Training-Free Guidance of Diffusion Models**|Gregory Bellchambers et.al.|[2506.13614](http://arxiv.org/abs/2506.13614)|null|
 |**2025-06-15**|**Adaptive Dropout: Unleashing Dropout across Layers for Generalizable Image Super-Resolution**|Hang Xu et.al.|[2506.12738](http://arxiv.org/abs/2506.12738)|null|
 |**2025-06-14**|**UniDet-D: A Unified Dynamic Spectral Attention Model for Object Detection under Adverse Weathers**|Yuantao Wang et.al.|[2506.12324](http://arxiv.org/abs/2506.12324)|null|
@@ -4544,6 +4557,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-17**|**DreamLight: Towards Harmonious and Consistent Image Relighting**|Yong Liu et.al.|[2506.14549](http://arxiv.org/abs/2506.14549)|null|
 |**2025-06-12**|**Score-based Generative Diffusion Models to Synthesize Full-dose FDG Brain PET from MRI in Epilepsy Patients**|Jiaqi Wu et.al.|[2506.11297](http://arxiv.org/abs/2506.11297)|null|
 |**2025-06-08**|**Optimal Transport Driven Asymmetric Image-to-Image Translation for Nuclei Segmentation of Histological Images**|Suman Mahapatra et.al.|[2506.07023](http://arxiv.org/abs/2506.07023)|null|
 |**2025-06-02**|**Multi-Platform Methane Plume Detection via Model and Domain Adaptation**|Vassiliki Mancoridis et.al.|[2506.06348](http://arxiv.org/abs/2506.06348)|null|
