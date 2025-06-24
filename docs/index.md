@@ -7,20 +7,20 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.23
+## Updated on 2025.06.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-06-20**|**Emergent Temporal Correspondences from Video Diffusion Transformers**|Jisu Nam et.al.|[2506.17220](http://arxiv.org/abs/2506.17220)|**[link](https://github.com/cvlab-kaist/DiffTrack)**|
+|**2025-06-23**|**Emergent Temporal Correspondences from Video Diffusion Transformers**|Jisu Nam et.al.|[2506.17220](http://arxiv.org/abs/2506.17220)|**[link](https://github.com/cvlab-kaist/DiffTrack)**|
 |**2025-06-20**|**DreamCube: 3D Panorama Generation via Multi-plane Synchronization**|Yukun Huang et.al.|[2506.17206](http://arxiv.org/abs/2506.17206)|null|
 |**2025-06-20**|**Deep generative models as the probability transformation functions**|Vitalii Bondar et.al.|[2506.17171](http://arxiv.org/abs/2506.17171)|null|
 |**2025-06-20**|**MeDi: Metadata-Guided Diffusion Models for Mitigating Biases in Tumor Classification**|David Jacob Drexlin et.al.|[2506.17140](http://arxiv.org/abs/2506.17140)|null|
 |**2025-06-20**|**Consistent Sampling and Simulation: Molecular Dynamics with Energy-Based Diffusion Models**|Michael Plainer et.al.|[2506.17139](http://arxiv.org/abs/2506.17139)|null|
 |**2025-06-20**|**Assembler: Scalable 3D Part Assembly via Anchor Point Diffusion**|Wang Zhao et.al.|[2506.17074](http://arxiv.org/abs/2506.17074)|null|
-|**2025-06-20**|**Generative Modeling of Full-Atom Protein Conformations using Latent Diffusion on Graph Embeddings**|Aditya Sengar et.al.|[2506.17064](http://arxiv.org/abs/2506.17064)|null|
+|**2025-06-23**|**Generative Modeling of Full-Atom Protein Conformations using Latent Diffusion on Graph Embeddings**|Aditya Sengar et.al.|[2506.17064](http://arxiv.org/abs/2506.17064)|null|
 |**2025-06-20**|**LSCD: Lomb-Scargle Conditioned Diffusion for Time series Imputation**|Elizabeth Fons et.al.|[2506.17039](http://arxiv.org/abs/2506.17039)|null|
 |**2025-06-20**|**Reward-Agnostic Prompt Optimization for Text-to-Image Diffusion Models**|Semin Kim et.al.|[2506.16853](http://arxiv.org/abs/2506.16853)|null|
 |**2025-06-20**|**Beyond Blur: A Fluid Perspective on Generative Diffusion Models**|Grzegorz Gruszczynski et.al.|[2506.16827](http://arxiv.org/abs/2506.16827)|null|
@@ -4060,12 +4060,12 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-06-20**|**Reversing Flow for Image Restoration**|Haina Qin et.al.|[2506.16961](http://arxiv.org/abs/2506.16961)|null|
 |**2025-06-20**|**Visual-Instructed Degradation Diffusion for All-in-One Image Restoration**|Wenyang Luo et.al.|[2506.16960](http://arxiv.org/abs/2506.16960)|null|
-|**2025-06-20**|**RealSR-R1: Reinforcement Learning for Real-World Image Super-Resolution with Vision-Language Chain-of-Thought**|Junbo Qiao et.al.|[2506.16796](http://arxiv.org/abs/2506.16796)|null|
+|**2025-06-23**|**RealSR-R1: Reinforcement Learning for Real-World Image Super-Resolution with Vision-Language Chain-of-Thought**|Junbo Qiao et.al.|[2506.16796](http://arxiv.org/abs/2506.16796)|null|
 |**2025-06-19**|**MoiréXNet: Adaptive Multi-Scale Demoiréing with Linear Attention Test-Time Training and Truncated Flow Matching Prior**|Liangyan Li et.al.|[2506.15929](http://arxiv.org/abs/2506.15929)|null|
 |**2025-06-16**|**ADAM-Dehaze: Adaptive Density-Aware Multi-Stage Dehazing for Improved Object Detection in Foggy Conditions**|Fatmah AlHindaassi et.al.|[2506.15837](http://arxiv.org/abs/2506.15837)|null|
 |**2025-06-17**|**Optimization-Based Image Restoration under Implementation Constraints in Optical Analog Circuits**|Taisei Kato et.al.|[2506.14624](http://arxiv.org/abs/2506.14624)|null|
 |**2025-06-17**|**Unsupervised Imaging Inverse Problems with Diffusion Distribution Matching**|Giacomo Meanti et.al.|[2506.14605](http://arxiv.org/abs/2506.14605)|**[link](https://github.com/inria-thoth/ddm4ip)**|
-|**2025-06-17**|**Exploring Diffusion with Test-Time Training on Efficient Image Restoration**|Rongchang Lu et.al.|[2506.14541](http://arxiv.org/abs/2506.14541)|null|
+|**2025-06-22**|**Exploring Diffusion with Test-Time Training on Efficient Image Restoration**|Rongchang Lu et.al.|[2506.14541](http://arxiv.org/abs/2506.14541)|null|
 |**2025-06-16**|**Exploiting the Exact Denoising Posterior Score in Training-Free Guidance of Diffusion Models**|Gregory Bellchambers et.al.|[2506.13614](http://arxiv.org/abs/2506.13614)|null|
 |**2025-06-15**|**Adaptive Dropout: Unleashing Dropout across Layers for Generalizable Image Super-Resolution**|Hang Xu et.al.|[2506.12738](http://arxiv.org/abs/2506.12738)|null|
 |**2025-06-14**|**UniDet-D: A Unified Dynamic Spectral Attention Model for Object Detection under Adverse Weathers**|Yuantao Wang et.al.|[2506.12324](http://arxiv.org/abs/2506.12324)|null|
