@@ -22,6 +22,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-27**|**Shape-for-Motion: Precise and Consistent Video Editing with 3D Proxy**|Yuhao Liu et.al.|[2506.22432](http://arxiv.org/abs/2506.22432)|null|
+|**2025-06-27**|**DiffSoundStream: Efficient Speech Tokenization via Diffusion Decoding**|Yang Yang et.al.|[2506.22362](http://arxiv.org/abs/2506.22362)|null|
+|**2025-06-27**|**OutDreamer: Video Outpainting with a Diffusion Transformer**|Linhao Zhong et.al.|[2506.22298](http://arxiv.org/abs/2506.22298)|null|
+|**2025-06-27**|**Noise-Inspired Diffusion Model for Generalizable Low-Dose CT Reconstruction**|Qi Gao et.al.|[2506.22012](http://arxiv.org/abs/2506.22012)|null|
+|**2025-06-27**|**RoboEnvision: A Long-Horizon Video Generation Model for Multi-Task Robot Manipulation**|Liudi Yang et.al.|[2506.22007](http://arxiv.org/abs/2506.22007)|null|
+|**2025-06-27**|**StableCodec: Taming One-Step Diffusion for Extreme Image Compression**|Tianyu Zhang et.al.|[2506.21977](http://arxiv.org/abs/2506.21977)|null|
+|**2025-06-27**|**Joint Task Offloading and Resource Allocation in Low-Altitude MEC via Graph Attention Diffusion**|Yifan Xue et.al.|[2506.21933](http://arxiv.org/abs/2506.21933)|null|
+|**2025-06-27**|**TOAST: Task-Oriented Adaptive Semantic Transmission over Dynamic Wireless Environments**|Sheng Yun et.al.|[2506.21900](http://arxiv.org/abs/2506.21900)|null|
+|**2025-06-26**|**TADA: Improved Diffusion Sampling with Training-free Augmented Dynamics**|Tianrong Chen et.al.|[2506.21757](http://arxiv.org/abs/2506.21757)|null|
+|**2025-06-26**|**Inverse Design of Diffractive Metasurfaces Using Diffusion Models**|Liav Hen et.al.|[2506.21748](http://arxiv.org/abs/2506.21748)|null|
 |**2025-06-26**|**SmoothSinger: A Conditional Diffusion Model for Singing Voice Synthesis with Multi-Resolution Architecture**|Kehan Sui et.al.|[2506.21478](http://arxiv.org/abs/2506.21478)|null|
 |**2025-06-26**|**Rethinking Oversaturation in Classifier-Free Guidance via Low Frequency**|Kaiyu Song et.al.|[2506.21452](http://arxiv.org/abs/2506.21452)|null|
 |**2025-06-26**|**Controllable 3D Placement of Objects with Scene-Aware Diffusion Models**|Mohamed Omran et.al.|[2506.21446](http://arxiv.org/abs/2506.21446)|null|
@@ -3561,6 +3571,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-27**|**Low-Rank Implicit Neural Representation via Schatten-p Quasi-Norm and Jacobian Regularization**|Zhengyun Cheng et.al.|[2506.22134](http://arxiv.org/abs/2506.22134)|null|
 |**2025-06-25**|**Self-Supervised Multimodal NeRF for Autonomous Driving**|Gaurav Sharma et.al.|[2506.19615](http://arxiv.org/abs/2506.19615)|null|
 |**2025-06-23**|**MCN-SLAM: Multi-Agent Collaborative Neural SLAM with Hybrid Implicit Neural Scene Representation**|Tianchen Deng et.al.|[2506.18678](http://arxiv.org/abs/2506.18678)|null|
 |**2025-06-17**|**Fine-Scale Soil Mapping in Alaska with Multimodal Machine Learning**|Yijun Lin et.al.|[2506.17302](http://arxiv.org/abs/2506.17302)|null|
@@ -4117,6 +4128,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-27**|**EAMamba: Efficient All-Around Vision State Space Model for Image Restoration**|Yu-Cheng Lin et.al.|[2506.22246](http://arxiv.org/abs/2506.22246)|null|
+|**2025-06-26**|**Elucidating and Endowing the Diffusion Training Paradigm for General Image Restoration**|Xin Lu et.al.|[2506.21722](http://arxiv.org/abs/2506.21722)|null|
 |**2025-06-26**|**Wild refitting for black box prediction**|Martin J. Wainwright et.al.|[2506.21460](http://arxiv.org/abs/2506.21460)|null|
 |**2025-06-25**|**TDiR: Transformer based Diffusion for Image Restoration Tasks**|Abbas Anwar et.al.|[2506.20302](http://arxiv.org/abs/2506.20302)|null|
 |**2025-06-24**|**A Comparative Study of NAFNet Baselines for Image Restoration**|Vladislav Esaulov et.al.|[2506.19845](http://arxiv.org/abs/2506.19845)|null|
