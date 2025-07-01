@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.30
+## Updated on 2025.07.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
@@ -4654,7 +4654,7 @@ layout: default
 |**2025-06-26**|**ThermalDiffusion: Visual-to-Thermal Image-to-Image Translation for Autonomous Navigation**|Shruti Bansal et.al.|[2506.20969](http://arxiv.org/abs/2506.20969)|null|
 |**2025-06-23**|**Transforming H&E images into IHC: A Variance-Penalized GAN for Precision Oncology**|Sara Rehmat et.al.|[2506.18371](http://arxiv.org/abs/2506.18371)|null|
 |**2025-06-17**|**DreamLight: Towards Harmonious and Consistent Image Relighting**|Yong Liu et.al.|[2506.14549](http://arxiv.org/abs/2506.14549)|null|
-|**2025-06-12**|**Score-based Generative Diffusion Models to Synthesize Full-dose FDG Brain PET from MRI in Epilepsy Patients**|Jiaqi Wu et.al.|[2506.11297](http://arxiv.org/abs/2506.11297)|null|
+|**2025-06-29**|**Score-based Generative Diffusion Models to Synthesize Full-dose FDG Brain PET from MRI in Epilepsy Patients**|Jiaqi Wu et.al.|[2506.11297](http://arxiv.org/abs/2506.11297)|null|
 |**2025-06-08**|**Optimal Transport Driven Asymmetric Image-to-Image Translation for Nuclei Segmentation of Histological Images**|Suman Mahapatra et.al.|[2506.07023](http://arxiv.org/abs/2506.07023)|null|
 |**2025-06-02**|**Multi-Platform Methane Plume Detection via Model and Domain Adaptation**|Vassiliki Mancoridis et.al.|[2506.06348](http://arxiv.org/abs/2506.06348)|null|
 |**2025-05-30**|**An Independent Discriminant Network Towards Identification of Counterfeit Images and Videos**|Shayantani Kar et.al.|[2506.05377](http://arxiv.org/abs/2506.05377)|null|
