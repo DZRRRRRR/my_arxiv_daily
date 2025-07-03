@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-02**|**FreeMorph: Tuning-Free Generalized Image Morphing with Diffusion Model**|Yukang Cao et.al.|[2507.01953](http://arxiv.org/abs/2507.01953)|null|
+|**2025-07-02**|**Reasoning to Edit: Hypothetical Instruction-Based Image Editing with Visual Reasoning**|Qingdong He et.al.|[2507.01908](http://arxiv.org/abs/2507.01908)|null|
+|**2025-07-02**|**Frontiers of Generative AI for Network Optimization: Theories, Limits, and Visions**|Bo Yang et.al.|[2507.01773](http://arxiv.org/abs/2507.01773)|null|
+|**2025-07-02**|**Vision-Aided ISAC in Low-Altitude Economy Networks via De-Diffused Visual Priors**|Yulan Gao et.al.|[2507.01574](http://arxiv.org/abs/2507.01574)|null|
+|**2025-07-02**|**Loss Functions in Diffusion Models: A Comparative Study**|Dibyanshu Kumar et.al.|[2507.01516](http://arxiv.org/abs/2507.01516)|null|
+|**2025-07-02**|**ReFlex: Text-Guided Editing of Real Images in Rectified Flow via Mid-Step Feature Extraction and Attention Adaptation**|Jimyeong Kim et.al.|[2507.01496](http://arxiv.org/abs/2507.01496)|null|
+|**2025-07-02**|**Representation Entanglement for Generation:Training Diffusion Transformers Is Much Easier Than You Think**|Ge Wu et.al.|[2507.01467](http://arxiv.org/abs/2507.01467)|null|
+|**2025-07-02**|**DiffMark: Diffusion-based Robust Watermark Against Deepfakes**|Chen Sun et.al.|[2507.01428](http://arxiv.org/abs/2507.01428)|null|
+|**2025-07-02**|**DocShaDiffusion: Diffusion Model in Latent Space for Document Image Shadow Removal**|Wenjie Liu et.al.|[2507.01422](http://arxiv.org/abs/2507.01422)|null|
+|**2025-07-02**|**Distributional Soft Actor-Critic with Diffusion Policy**|Tong Liu et.al.|[2507.01381](http://arxiv.org/abs/2507.01381)|null|
 |**2025-06-30**|**Epona: Autoregressive Diffusion World Model for Autonomous Driving**|Kaiwen Zhang et.al.|[2506.24113](http://arxiv.org/abs/2506.24113)|null|
 |**2025-06-30**|**Navigating with Annealing Guidance Scale in Diffusion Space**|Shai Yehezkel et.al.|[2506.24108](http://arxiv.org/abs/2506.24108)|null|
 |**2025-06-30**|**Imagine for Me: Creative Conceptual Blending of Real Images and Text via Blended Attention**|Wonwoong Cho et.al.|[2506.24085](http://arxiv.org/abs/2506.24085)|null|
@@ -3571,6 +3581,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-01**|**FreNBRDF: A Frequency-Rectified Neural Material Representation**|Chenliang Zhou et.al.|[2507.00476](http://arxiv.org/abs/2507.00476)|null|
+|**2025-07-01**|**ViscoReg: Neural Signed Distance Functions via Viscosity Solutions**|Meenakshi Krishnan et.al.|[2507.00412](http://arxiv.org/abs/2507.00412)|null|
 |**2025-06-30**|**How to Design and Train Your Implicit Neural Representation for Video Compression**|Matthew Gwilliam et.al.|[2506.24127](http://arxiv.org/abs/2506.24127)|null|
 |**2025-06-30**|**Instant GaussianImage: A Generalizable and Self-Adaptive Image Representation via 2D Gaussian Splatting**|Zhaojie Zeng et.al.|[2506.23479](http://arxiv.org/abs/2506.23479)|null|
 |**2025-06-29**|**SIEDD: Shared-Implicit Encoder with Discrete Decoders**|Vikram Rangarajan et.al.|[2506.23382](http://arxiv.org/abs/2506.23382)|null|
@@ -4037,6 +4049,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-02**|**Frequency Domain-Based Diffusion Model for Unpaired Image Dehazing**|Chengxu Liu et.al.|[2507.01275](http://arxiv.org/abs/2507.01275)|null|
+|**2025-07-01**|**Laplace-Mamba: Laplace Frequency Prior-Guided Mamba-CNN Fusion Network for Image Dehazing**|Yongzhen Wang et.al.|[2507.00501](http://arxiv.org/abs/2507.00501)|null|
 |**2025-06-15**|**Learning Unpaired Image Dehazing with Physics-based Rehazy Generation**|Haoyou Deng et.al.|[2506.12824](http://arxiv.org/abs/2506.12824)|null|
 |**2025-06-10**|**A PDE-Based Image Dehazing Method via Atmospheric Scattering Theory**|Zhuoran Zheng et.al.|[2506.08793](http://arxiv.org/abs/2506.08793)|null|
 |**2025-06-03**|**The Devil is in the Darkness: Diffusion-Based Nighttime Dehazing Anchored in Brightness Perception**|Xiaofeng Cong et.al.|[2506.02395](http://arxiv.org/abs/2506.02395)|null|
@@ -4126,6 +4140,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-01**|**LD-RPS: Zero-Shot Unified Image Restoration via Latent Diffusion Recurrent Posterior Sampling**|Huaqiu Li et.al.|[2507.00790](http://arxiv.org/abs/2507.00790)|null|
+|**2025-07-01**|**Laplace-Mamba: Laplace Frequency Prior-Guided Mamba-CNN Fusion Network for Image Dehazing**|Yongzhen Wang et.al.|[2507.00501](http://arxiv.org/abs/2507.00501)|null|
 |**2025-06-29**|**Double-Diffusion: Diffusion Conditioned Diffusion Probabilistic Model For Air Quality Prediction**|Hanlin Dong et.al.|[2506.23053](http://arxiv.org/abs/2506.23053)|null|
 |**2025-06-27**|**EAMamba: Efficient All-Around Vision State Space Model for Image Restoration**|Yu-Cheng Lin et.al.|[2506.22246](http://arxiv.org/abs/2506.22246)|null|
 |**2025-06-26**|**Elucidating and Endowing the Diffusion Training Paradigm for General Image Restoration**|Xin Lu et.al.|[2506.21722](http://arxiv.org/abs/2506.21722)|null|
@@ -4666,6 +4682,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-02**|**BronchoGAN: Anatomically consistent and domain-agnostic image-to-image translation for video bronchoscopy**|Ahmad Soliman et.al.|[2507.01387](http://arxiv.org/abs/2507.01387)|null|
+|**2025-07-01**|**Physics-Aware Style Transfer for Adaptive Holographic Reconstruction**|Chanseok Lee et.al.|[2507.00482](http://arxiv.org/abs/2507.00482)|null|
 |**2025-06-29**|**CycleVAR: Repurposing Autoregressive Model for Unsupervised One-Step Image Translation**|Yi Liu et.al.|[2506.23347](http://arxiv.org/abs/2506.23347)|null|
 |**2025-06-26**|**ThermalDiffusion: Visual-to-Thermal Image-to-Image Translation for Autonomous Navigation**|Shruti Bansal et.al.|[2506.20969](http://arxiv.org/abs/2506.20969)|null|
 |**2025-06-23**|**Transforming H&E images into IHC: A Variance-Penalized GAN for Precision Oncology**|Sara Rehmat et.al.|[2506.18371](http://arxiv.org/abs/2506.18371)|null|
