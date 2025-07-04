@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.03
+## Updated on 2025.07.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
@@ -23,7 +23,7 @@ layout: default
 |**2025-07-02**|**Representation Entanglement for Generation:Training Diffusion Transformers Is Much Easier Than You Think**|Ge Wu et.al.|[2507.01467](http://arxiv.org/abs/2507.01467)|null|
 |**2025-07-02**|**DiffMark: Diffusion-based Robust Watermark Against Deepfakes**|Chen Sun et.al.|[2507.01428](http://arxiv.org/abs/2507.01428)|null|
 |**2025-07-02**|**DocShaDiffusion: Diffusion Model in Latent Space for Document Image Shadow Removal**|Wenjie Liu et.al.|[2507.01422](http://arxiv.org/abs/2507.01422)|null|
-|**2025-07-02**|**Distributional Soft Actor-Critic with Diffusion Policy**|Tong Liu et.al.|[2507.01381](http://arxiv.org/abs/2507.01381)|null|
+|**2025-07-03**|**Distributional Soft Actor-Critic with Diffusion Policy**|Tong Liu et.al.|[2507.01381](http://arxiv.org/abs/2507.01381)|null|
 |**2025-06-30**|**Epona: Autoregressive Diffusion World Model for Autonomous Driving**|Kaiwen Zhang et.al.|[2506.24113](http://arxiv.org/abs/2506.24113)|null|
 |**2025-06-30**|**Navigating with Annealing Guidance Scale in Diffusion Space**|Shai Yehezkel et.al.|[2506.24108](http://arxiv.org/abs/2506.24108)|null|
 |**2025-06-30**|**Imagine for Me: Creative Conceptual Blending of Real Images and Text via Blended Attention**|Wonwoong Cho et.al.|[2506.24085](http://arxiv.org/abs/2506.24085)|null|
