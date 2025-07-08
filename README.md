@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.07
+## Updated on 2025.07.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -28,7 +28,7 @@
 |**2025-07-03**|**LangScene-X: Reconstruct Generalizable 3D Language-Embedded Scenes with TriMap Video Diffusion**|Fangfu Liu et.al.|[2507.02813](http://arxiv.org/abs/2507.02813)|null|
 |**2025-07-03**|**RichControl: Structure- and Appearance-Rich Training-Free Spatial Control for Text-to-Image Generation**|Liheng Zhang et.al.|[2507.02792](http://arxiv.org/abs/2507.02792)|null|
 |**2025-07-03**|**FairHuman: Boosting Hand and Face Quality in Human Image Generation with Minimum Potential Delay Fairness in Diffusion Models**|Yuxuan Wang et.al.|[2507.02714](http://arxiv.org/abs/2507.02714)|null|
-|**2025-07-03**|**UniMC: Taming Diffusion Transformer for Unified Keypoint-Guided Multi-Class Image Generation**|Qin Guo et.al.|[2507.02713](http://arxiv.org/abs/2507.02713)|null|
+|**2025-07-04**|**UniMC: Taming Diffusion Transformer for Unified Keypoint-Guided Multi-Class Image Generation**|Qin Guo et.al.|[2507.02713](http://arxiv.org/abs/2507.02713)|null|
 |**2025-07-03**|**APT: Adaptive Personalized Training for Diffusion Models with Limited Data**|JungWoo Chae et.al.|[2507.02687](http://arxiv.org/abs/2507.02687)|null|
 |**2025-07-03**|**Learning few-step posterior samplers by unfolding and distillation of diffusion models**|Charlesquin Kemajou Mbakam et.al.|[2507.02686](http://arxiv.org/abs/2507.02686)|null|
 |**2025-07-03**|**Guided Generation for Developable Antibodies**|Siqi Zhao et.al.|[2507.02670](http://arxiv.org/abs/2507.02670)|null|
@@ -3595,7 +3595,7 @@
 |**2023-12-16**|**Image Restoration Through Generalized Ornstein-Uhlenbeck Bridge**|Conghan Yue et.al.|[2312.10299](http://arxiv.org/abs/2312.10299)|**[link](https://github.com/Hammour-steak/GOUB)**|
 |**2023-12-15**|**Two simple criterion to prove the existence of patterns in reaction-diffusion models of two components**|Francisco J. Vielma-Leal et.al.|[2312.10231](http://arxiv.org/abs/2312.10231)|null|
 
-<p align=right>(<a href=#updated-on-20250707>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250708>back to top</a>)</p>
 
 ## Implicit
 
@@ -4052,7 +4052,7 @@
 |**2023-12-07**|**Hiding Functions within Functions: Steganography by Implicit Neural Representations**|Jia Liu et.al.|[2312.04743](http://arxiv.org/abs/2312.04743)|null|
 |**2023-12-07**|**ImFace++: A Sophisticated Nonlinear 3D Morphable Face Model with Implicit Neural Representations**|Mingwu Zheng et.al.|[2312.04028](http://arxiv.org/abs/2312.04028)|**[link](https://github.com/mingwuzheng/imface)**|
 
-<p align=right>(<a href=#updated-on-20250707>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250708>back to top</a>)</p>
 
 ## UnderWater
 
@@ -4069,7 +4069,7 @@
 |**2022-04-06**|**Medium Transmission Map Matters for Learning to Restore Real-World Underwater Images**|Yan Kai et.al.|[2203.09414](http://arxiv.org/abs/2203.09414)|**[link](https://github.com/groupg-yk/mtur-net)**|
 |**2019-03-06**|**Real-world Underwater Enhancement: Challenges, Benchmarks, and Solutions**|Risheng Liu et.al.|[1901.05320](http://arxiv.org/abs/1901.05320)|**[link](https://github.com/dlut-dimt/Realworld-Underwater-Image-Enhancement-RUIE-Benchmark)**|
 
-<p align=right>(<a href=#updated-on-20250707>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250708>back to top</a>)</p>
 
 ## image_dehaze
 
@@ -4162,13 +4162,13 @@
 |**2023-08-14**|**Mutual Information-driven Triple Interaction Network for Efficient Image Dehazing**|Hao Shen et.al.|[2308.06998](http://arxiv.org/abs/2308.06998)|**[link](https://github.com/it-hao/mitnet)**|
 |**2023-08-01**|**Decomposition Ascribed Synergistic Learning for Unified Image Restoration**|Jinghao Zhang et.al.|[2308.00759](http://arxiv.org/abs/2308.00759)|null|
 
-<p align=right>(<a href=#updated-on-20250707>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250708>back to top</a>)</p>
 
 ## Restoration
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-07-01**|**LD-RPS: Zero-Shot Unified Image Restoration via Latent Diffusion Recurrent Posterior Sampling**|Huaqiu Li et.al.|[2507.00790](http://arxiv.org/abs/2507.00790)|null|
+|**2025-07-04**|**LD-RPS: Zero-Shot Unified Image Restoration via Latent Diffusion Recurrent Posterior Sampling**|Huaqiu Li et.al.|[2507.00790](http://arxiv.org/abs/2507.00790)|null|
 |**2025-07-01**|**Laplace-Mamba: Laplace Frequency Prior-Guided Mamba-CNN Fusion Network for Image Dehazing**|Yongzhen Wang et.al.|[2507.00501](http://arxiv.org/abs/2507.00501)|null|
 |**2025-06-29**|**Double-Diffusion: Diffusion Conditioned Diffusion Probabilistic Model For Air Quality Prediction**|Hanlin Dong et.al.|[2506.23053](http://arxiv.org/abs/2506.23053)|null|
 |**2025-06-27**|**EAMamba: Efficient All-Around Vision State Space Model for Image Restoration**|Yu-Cheng Lin et.al.|[2506.22246](http://arxiv.org/abs/2506.22246)|null|
@@ -4706,7 +4706,7 @@
 |**2023-12-12**|**WaterHE-NeRF: Water-ray Tracing Neural Radiance Fields for Underwater Scene Reconstruction**|Jingchun Zhou et.al.|[2312.06946](http://arxiv.org/abs/2312.06946)|null|
 |**2023-12-11**|**Textual Prompt Guided Image Restoration**|Qiuhai Yan et.al.|[2312.06162](http://arxiv.org/abs/2312.06162)|**[link](https://github.com/motong-ai-studio/textpromptir)**|
 
-<p align=right>(<a href=#updated-on-20250707>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250708>back to top</a>)</p>
 
 ## Image_Translation
 
@@ -5038,7 +5038,7 @@
 |**2023-11-30**|**S2ST: Image-to-Image Translation in the Seed Space of Latent Diffusion**|Or Greenberg et.al.|[2312.00116](http://arxiv.org/abs/2312.00116)|null|
 |**2023-11-30**|**Towards Unsupervised Representation Learning: Learning, Evaluating and Transferring Visual Representations**|Bonifaz Stuhr et.al.|[2312.00101](http://arxiv.org/abs/2312.00101)|**[link](https://github.com/bonifazstuhr/feamgan)**|
 
-<p align=right>(<a href=#updated-on-20250707>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250708>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

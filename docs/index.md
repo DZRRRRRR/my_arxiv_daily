@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.07
+## Updated on 2025.07.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
@@ -20,7 +20,7 @@ layout: default
 |**2025-07-03**|**LangScene-X: Reconstruct Generalizable 3D Language-Embedded Scenes with TriMap Video Diffusion**|Fangfu Liu et.al.|[2507.02813](http://arxiv.org/abs/2507.02813)|null|
 |**2025-07-03**|**RichControl: Structure- and Appearance-Rich Training-Free Spatial Control for Text-to-Image Generation**|Liheng Zhang et.al.|[2507.02792](http://arxiv.org/abs/2507.02792)|null|
 |**2025-07-03**|**FairHuman: Boosting Hand and Face Quality in Human Image Generation with Minimum Potential Delay Fairness in Diffusion Models**|Yuxuan Wang et.al.|[2507.02714](http://arxiv.org/abs/2507.02714)|null|
-|**2025-07-03**|**UniMC: Taming Diffusion Transformer for Unified Keypoint-Guided Multi-Class Image Generation**|Qin Guo et.al.|[2507.02713](http://arxiv.org/abs/2507.02713)|null|
+|**2025-07-04**|**UniMC: Taming Diffusion Transformer for Unified Keypoint-Guided Multi-Class Image Generation**|Qin Guo et.al.|[2507.02713](http://arxiv.org/abs/2507.02713)|null|
 |**2025-07-03**|**APT: Adaptive Personalized Training for Diffusion Models with Limited Data**|JungWoo Chae et.al.|[2507.02687](http://arxiv.org/abs/2507.02687)|null|
 |**2025-07-03**|**Learning few-step posterior samplers by unfolding and distillation of diffusion models**|Charlesquin Kemajou Mbakam et.al.|[2507.02686](http://arxiv.org/abs/2507.02686)|null|
 |**2025-07-03**|**Guided Generation for Developable Antibodies**|Siqi Zhao et.al.|[2507.02670](http://arxiv.org/abs/2507.02670)|null|
@@ -4152,7 +4152,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-07-01**|**LD-RPS: Zero-Shot Unified Image Restoration via Latent Diffusion Recurrent Posterior Sampling**|Huaqiu Li et.al.|[2507.00790](http://arxiv.org/abs/2507.00790)|null|
+|**2025-07-04**|**LD-RPS: Zero-Shot Unified Image Restoration via Latent Diffusion Recurrent Posterior Sampling**|Huaqiu Li et.al.|[2507.00790](http://arxiv.org/abs/2507.00790)|null|
 |**2025-07-01**|**Laplace-Mamba: Laplace Frequency Prior-Guided Mamba-CNN Fusion Network for Image Dehazing**|Yongzhen Wang et.al.|[2507.00501](http://arxiv.org/abs/2507.00501)|null|
 |**2025-06-29**|**Double-Diffusion: Diffusion Conditioned Diffusion Probabilistic Model For Air Quality Prediction**|Hanlin Dong et.al.|[2506.23053](http://arxiv.org/abs/2506.23053)|null|
 |**2025-06-27**|**EAMamba: Efficient All-Around Vision State Space Model for Image Restoration**|Yu-Cheng Lin et.al.|[2506.22246](http://arxiv.org/abs/2506.22246)|null|
