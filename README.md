@@ -22,6 +22,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-07**|**EmbodieDreamer: Advancing Real2Sim2Real Transfer for Policy Training via Embodied World Modeling**|Boyuan Wang et.al.|[2507.05198](http://arxiv.org/abs/2507.05198)|null|
+|**2025-07-07**|**SV-DRR: High-Fidelity Novel View X-Ray Synthesis Using Diffusion Model**|Chun Xie et.al.|[2507.05148](http://arxiv.org/abs/2507.05148)|null|
+|**2025-07-07**|**VERITAS: Verification and Explanation of Realness in Images for Transparency in AI Systems**|Aadi Srivastava et.al.|[2507.05146](http://arxiv.org/abs/2507.05146)|null|
+|**2025-07-07**|**MoDiT: Learning Highly Consistent 3D Motion Coefficients with Diffusion Transformer for Talking Head Generation**|Yucheng Wang et.al.|[2507.05092](http://arxiv.org/abs/2507.05092)|null|
+|**2025-07-07**|**AI-Driven Cytomorphology Image Synthesis for Medical Diagnostics**|Jan Carreras Boada et.al.|[2507.05063](http://arxiv.org/abs/2507.05063)|null|
+|**2025-07-07**|**A COMPASS to Model Comparison and Simulation-Based Inference in Galactic Chemical Evolution**|Berkay Gunes et.al.|[2507.05060](http://arxiv.org/abs/2507.05060)|null|
+|**2025-07-07**|**A Generative Diffusion Model for Amorphous Materials**|Kai Yang et.al.|[2507.05024](http://arxiv.org/abs/2507.05024)|null|
+|**2025-07-07**|**TLB-VFI: Temporal-Aware Latent Brownian Bridge Diffusion for Video Frame Interpolation**|Zonglin Lyu et.al.|[2507.04984](http://arxiv.org/abs/2507.04984)|null|
+|**2025-07-07**|**A diffusion model for light scattering in ejecta**|J. A. Don Jayamanne et.al.|[2507.04972](http://arxiv.org/abs/2507.04972)|null|
+|**2025-07-07**|**LAPS-Diff: A Diffusion-Based Framework for Singing Voice Synthesis With Language Aware Prosody-Style Guided Learning**|Sandipan Dhar et.al.|[2507.04966](http://arxiv.org/abs/2507.04966)|null|
 |**2025-07-03**|**Less is Enough: Training-Free Video Diffusion Acceleration via Runtime-Adaptive Caching**|Xin Zhou et.al.|[2507.02860](http://arxiv.org/abs/2507.02860)|null|
 |**2025-07-03**|**AnyI2V: Animating Any Conditional Image with Motion Control**|Ziye Li et.al.|[2507.02857](http://arxiv.org/abs/2507.02857)|null|
 |**2025-07-03**|**USAD: An Unsupervised Data Augmentation Spatio-Temporal Attention Diffusion Network**|Ying Yu et.al.|[2507.02827](http://arxiv.org/abs/2507.02827)|null|
@@ -3601,6 +3611,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-07**|**Physics-Guided Dual Implicit Neural Representations for Source Separation**|Yuan Ni et.al.|[2507.05249](http://arxiv.org/abs/2507.05249)|null|
+|**2025-07-07**|**SPIDER: Structure-Preferential Implicit Deep Network for Biplanar X-ray Reconstruction**|Tianqi Yu et.al.|[2507.04684](http://arxiv.org/abs/2507.04684)|null|
+|**2025-07-04**|**F-Hash: Feature-Based Hash Design for Time-Varying Volume Visualization via Multi-Resolution Tesseract Encoding**|Jianxin Sun et.al.|[2507.03836](http://arxiv.org/abs/2507.03836)|null|
+|**2025-07-04**|**Implicit Neural Representation of Beamforming for Continuous Aperture Array (CAPA) System**|Shiyong Chen et.al.|[2507.03609](http://arxiv.org/abs/2507.03609)|null|
+|**2025-07-03**|**Mechanics Simulation with Implicit Neural Representations of Complex Geometries**|Samundra Karki et.al.|[2507.03087](http://arxiv.org/abs/2507.03087)|null|
 |**2025-07-03**|**MC-INR: Efficient Encoding of Multivariate Scientific Simulation Data using Meta-Learning and Clustered Implicit Neural Representations**|Hyunsoo Son et.al.|[2507.02494](http://arxiv.org/abs/2507.02494)|null|
 |**2025-07-03**|**3D Heart Reconstruction from Sparse Pose-agnostic 2D Echocardiographic Slices**|Zhurong Chen et.al.|[2507.02411](http://arxiv.org/abs/2507.02411)|null|
 |**2025-07-01**|**FreNBRDF: A Frequency-Rectified Neural Material Representation**|Chenliang Zhou et.al.|[2507.00476](http://arxiv.org/abs/2507.00476)|null|
@@ -4075,6 +4090,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-05**|**Hierarchical Semantic-Visual Fusion of Visible and Near-infrared Images for Long-range Haze Removal**|Yi Li et.al.|[2507.03893](http://arxiv.org/abs/2507.03893)|null|
 |**2025-07-02**|**Frequency Domain-Based Diffusion Model for Unpaired Image Dehazing**|Chengxu Liu et.al.|[2507.01275](http://arxiv.org/abs/2507.01275)|null|
 |**2025-07-01**|**Laplace-Mamba: Laplace Frequency Prior-Guided Mamba-CNN Fusion Network for Image Dehazing**|Yongzhen Wang et.al.|[2507.00501](http://arxiv.org/abs/2507.00501)|null|
 |**2025-06-15**|**Learning Unpaired Image Dehazing with Physics-based Rehazy Generation**|Haoyou Deng et.al.|[2506.12824](http://arxiv.org/abs/2506.12824)|null|
@@ -4168,6 +4184,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-06**|**Quick Bypass Mechanism of Zero-Shot Diffusion-Based Image Restoration**|Yu-Shan Tai et.al.|[2507.04207](http://arxiv.org/abs/2507.04207)|null|
 |**2025-07-04**|**LD-RPS: Zero-Shot Unified Image Restoration via Latent Diffusion Recurrent Posterior Sampling**|Huaqiu Li et.al.|[2507.00790](http://arxiv.org/abs/2507.00790)|null|
 |**2025-07-01**|**Laplace-Mamba: Laplace Frequency Prior-Guided Mamba-CNN Fusion Network for Image Dehazing**|Yongzhen Wang et.al.|[2507.00501](http://arxiv.org/abs/2507.00501)|null|
 |**2025-06-29**|**Double-Diffusion: Diffusion Conditioned Diffusion Probabilistic Model For Air Quality Prediction**|Hanlin Dong et.al.|[2506.23053](http://arxiv.org/abs/2506.23053)|null|
@@ -4714,7 +4731,7 @@
 |---|---|---|---|---|
 |**2025-07-02**|**BronchoGAN: Anatomically consistent and domain-agnostic image-to-image translation for video bronchoscopy**|Ahmad Soliman et.al.|[2507.01387](http://arxiv.org/abs/2507.01387)|null|
 |**2025-07-01**|**Physics-Aware Style Transfer for Adaptive Holographic Reconstruction**|Chanseok Lee et.al.|[2507.00482](http://arxiv.org/abs/2507.00482)|null|
-|**2025-06-29**|**CycleVAR: Repurposing Autoregressive Model for Unsupervised One-Step Image Translation**|Yi Liu et.al.|[2506.23347](http://arxiv.org/abs/2506.23347)|null|
+|**2025-07-07**|**CycleVAR: Repurposing Autoregressive Model for Unsupervised One-Step Image Translation**|Yi Liu et.al.|[2506.23347](http://arxiv.org/abs/2506.23347)|null|
 |**2025-06-26**|**ThermalDiffusion: Visual-to-Thermal Image-to-Image Translation for Autonomous Navigation**|Shruti Bansal et.al.|[2506.20969](http://arxiv.org/abs/2506.20969)|null|
 |**2025-06-23**|**Transforming H&E images into IHC: A Variance-Penalized GAN for Precision Oncology**|Sara Rehmat et.al.|[2506.18371](http://arxiv.org/abs/2506.18371)|null|
 |**2025-06-17**|**DreamLight: Towards Harmonious and Consistent Image Relighting**|Yong Liu et.al.|[2506.14549](http://arxiv.org/abs/2506.14549)|null|
