@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-08**|**Modern Methods in Associative Memory**|Dmitry Krotov et.al.|[2507.06211](http://arxiv.org/abs/2507.06211)|null|
+|**2025-07-08**|**CultureCLIP: Empowering CLIP with Cultural Awareness through Synthetic Images and Contextualized Captions**|Yuchen Huang et.al.|[2507.06210](http://arxiv.org/abs/2507.06210)|null|
+|**2025-07-08**|**A Survey on Latent Reasoning**|Rui-Jie Zhu et.al.|[2507.06203](http://arxiv.org/abs/2507.06203)|null|
+|**2025-07-08**|**Prompt-Free Conditional Diffusion for Multi-object Image Augmentation**|Haoyu Wang et.al.|[2507.06146](http://arxiv.org/abs/2507.06146)|null|
+|**2025-07-08**|**Bridging Sequential Deep Operator Network and Video Diffusion: Residual Refinement of Spatio-Temporal PDE Solutions**|Jaewan Park et.al.|[2507.06133](http://arxiv.org/abs/2507.06133)|null|
+|**2025-07-08**|**Unconditional Diffusion for Generative Sequential Recommendation**|Yimeng Bai et.al.|[2507.06121](http://arxiv.org/abs/2507.06121)|null|
+|**2025-07-08**|**ScoreAdv: Score-based Targeted Generation of Natural Adversarial Examples via Diffusion Models**|Chihan Huang et.al.|[2507.06078](http://arxiv.org/abs/2507.06078)|null|
+|**2025-07-08**|**TextPixs: Glyph-Conditioned Diffusion with Character-Aware Attention and OCR-Guided Supervision**|Syeda Anshrah Gillani et.al.|[2507.06033](http://arxiv.org/abs/2507.06033)|null|
+|**2025-07-08**|**T-LoRA: Single Image Diffusion Model Customization Without Overfitting**|Vera Soboleva et.al.|[2507.05964](http://arxiv.org/abs/2507.05964)|null|
+|**2025-07-08**|**Diffusion Dataset Condensation: Training Your Diffusion Model Faster with Less Data**|Rui Huang et.al.|[2507.05914](http://arxiv.org/abs/2507.05914)|null|
 |**2025-07-07**|**EmbodieDreamer: Advancing Real2Sim2Real Transfer for Policy Training via Embodied World Modeling**|Boyuan Wang et.al.|[2507.05198](http://arxiv.org/abs/2507.05198)|null|
 |**2025-07-07**|**SV-DRR: High-Fidelity Novel View X-Ray Synthesis Using Diffusion Model**|Chun Xie et.al.|[2507.05148](http://arxiv.org/abs/2507.05148)|null|
 |**2025-07-07**|**VERITAS: Verification and Explanation of Realness in Images for Transparency in AI Systems**|Aadi Srivastava et.al.|[2507.05146](http://arxiv.org/abs/2507.05146)|null|
@@ -3601,6 +3611,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-08**|**GSVR: 2D Gaussian-based Video Representation for 800+ FPS with Hybrid Deformation Field**|Zhizhuo Pang et.al.|[2507.05594](http://arxiv.org/abs/2507.05594)|null|
 |**2025-07-07**|**Physics-Guided Dual Implicit Neural Representations for Source Separation**|Yuan Ni et.al.|[2507.05249](http://arxiv.org/abs/2507.05249)|null|
 |**2025-07-07**|**SPIDER: Structure-Preferential Implicit Deep Network for Biplanar X-ray Reconstruction**|Tianqi Yu et.al.|[2507.04684](http://arxiv.org/abs/2507.04684)|null|
 |**2025-07-04**|**F-Hash: Feature-Based Hash Design for Time-Varying Volume Visualization via Multi-Resolution Tesseract Encoding**|Jianxin Sun et.al.|[2507.03836](http://arxiv.org/abs/2507.03836)|null|
@@ -4168,6 +4179,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-08**|**Kernel Density Steering: Inference-Time Scaling via Mode Seeking for Image Restoration**|Yuyang Hu et.al.|[2507.05604](http://arxiv.org/abs/2507.05604)|null|
+|**2025-07-07**|**Simulating Refractive Distortions and Weather-Induced Artifacts for Resource-Constrained Autonomous Perception**|Moseli Mots'oehli et.al.|[2507.05536](http://arxiv.org/abs/2507.05536)|null|
 |**2025-07-06**|**Quick Bypass Mechanism of Zero-Shot Diffusion-Based Image Restoration**|Yu-Shan Tai et.al.|[2507.04207](http://arxiv.org/abs/2507.04207)|null|
 |**2025-07-04**|**LD-RPS: Zero-Shot Unified Image Restoration via Latent Diffusion Recurrent Posterior Sampling**|Huaqiu Li et.al.|[2507.00790](http://arxiv.org/abs/2507.00790)|null|
 |**2025-07-01**|**Laplace-Mamba: Laplace Frequency Prior-Guided Mamba-CNN Fusion Network for Image Dehazing**|Yongzhen Wang et.al.|[2507.00501](http://arxiv.org/abs/2507.00501)|null|
