@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-09**|**Towards Multimodal Understanding via Stable Diffusion as a Task-Aware Feature Extractor**|Vatsal Agarwal et.al.|[2507.07106](http://arxiv.org/abs/2507.07106)|null|
+|**2025-07-09**|**Vision-Language-Vision Auto-Encoder: Scalable Knowledge Distillation from Diffusion Models**|Tiezheng Zhang et.al.|[2507.07104](http://arxiv.org/abs/2507.07104)|null|
+|**2025-07-09**|**Exact Evaluation of the Accuracy of Diffusion Models for Inverse Problems with Gaussian Data Distributions**|Emile Pierret et.al.|[2507.07008](http://arxiv.org/abs/2507.07008)|null|
+|**2025-07-09**|**DiffSpectra: Molecular Structure Elucidation from Spectra using Diffusion Models**|Liang Wang et.al.|[2507.06853](http://arxiv.org/abs/2507.06853)|null|
+|**2025-07-09**|**Democratizing High-Fidelity Co-Speech Gesture Video Generation**|Xu Yang et.al.|[2507.06812](http://arxiv.org/abs/2507.06812)|null|
+|**2025-07-09**|**Enhancing Diffusion Model Stability for Image Restoration via Gradient Management**|Hongjie Wu et.al.|[2507.06656](http://arxiv.org/abs/2507.06656)|null|
+|**2025-07-09**|**Diff $^2$ I2P: Differentiable Image-to-Point Cloud Registration with Diffusion Prior**|Juncheng Mu et.al.|[2507.06651](http://arxiv.org/abs/2507.06651)|null|
+|**2025-07-09**|**Denoising Multi-Beta VAE: Representation Learning for Disentanglement and Generation**|Anshuk Uppal et.al.|[2507.06613](http://arxiv.org/abs/2507.06613)|null|
+|**2025-07-09**|**MOST: Motion Diffusion Model for Rare Text via Temporal Clip Banzhaf Interaction**|Yin Wang et.al.|[2507.06590](http://arxiv.org/abs/2507.06590)|null|
+|**2025-07-09**|**Concept-TRAK: Understanding how diffusion models learn concepts through concept-level attribution**|Yonghyun Park et.al.|[2507.06547](http://arxiv.org/abs/2507.06547)|null|
 |**2025-07-08**|**Modern Methods in Associative Memory**|Dmitry Krotov et.al.|[2507.06211](http://arxiv.org/abs/2507.06211)|null|
 |**2025-07-08**|**CultureCLIP: Empowering CLIP with Cultural Awareness through Synthetic Images and Contextualized Captions**|Yuchen Huang et.al.|[2507.06210](http://arxiv.org/abs/2507.06210)|null|
 |**2025-07-08**|**A Survey on Latent Reasoning**|Rui-Jie Zhu et.al.|[2507.06203](http://arxiv.org/abs/2507.06203)|null|
@@ -4179,6 +4189,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-09**|**Enhancing Diffusion Model Stability for Image Restoration via Gradient Management**|Hongjie Wu et.al.|[2507.06656](http://arxiv.org/abs/2507.06656)|null|
 |**2025-07-08**|**Kernel Density Steering: Inference-Time Scaling via Mode Seeking for Image Restoration**|Yuyang Hu et.al.|[2507.05604](http://arxiv.org/abs/2507.05604)|null|
 |**2025-07-07**|**Simulating Refractive Distortions and Weather-Induced Artifacts for Resource-Constrained Autonomous Perception**|Moseli Mots'oehli et.al.|[2507.05536](http://arxiv.org/abs/2507.05536)|null|
 |**2025-07-06**|**Quick Bypass Mechanism of Zero-Shot Diffusion-Based Image Restoration**|Yu-Shan Tai et.al.|[2507.04207](http://arxiv.org/abs/2507.04207)|null|
