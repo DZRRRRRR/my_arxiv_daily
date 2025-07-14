@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.13
+## Updated on 2025.07.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
@@ -16,7 +16,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-07-10**|**Geometry Forcing: Marrying Video Diffusion and 3D Representation for Consistent World Modeling**|Haoyu Wu et.al.|[2507.07982](http://arxiv.org/abs/2507.07982)|null|
 |**2025-07-10**|**Low Resource Reconstruction Attacks Through Benign Prompts**|Sol Yarkoni et.al.|[2507.07947](http://arxiv.org/abs/2507.07947)|null|
-|**2025-07-10**|**Single-Step Latent Diffusion for Underwater Image Restoration**|Jiayi Wu et.al.|[2507.07878](http://arxiv.org/abs/2507.07878)|null|
+|**2025-07-11**|**Single-Step Latent Diffusion for Underwater Image Restoration**|Jiayi Wu et.al.|[2507.07878](http://arxiv.org/abs/2507.07878)|null|
 |**2025-07-10**|**Re-Bottleneck: Latent Re-Structuring for Neural Audio Autoencoders**|Dimitrios Bralios et.al.|[2507.07867](http://arxiv.org/abs/2507.07867)|null|
 |**2025-07-10**|**Benchmarking Content-Based Puzzle Solvers on Corrupted Jigsaw Puzzles**|Richard Dirauf et.al.|[2507.07828](http://arxiv.org/abs/2507.07828)|null|
 |**2025-07-10**|**Phase-Space Synchronization Driven by Moon-Magnetosphere Coupling in Gas Giants**|Adnane Osmane et.al.|[2507.07739](http://arxiv.org/abs/2507.07739)|null|
@@ -4199,7 +4199,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-07-10**|**Single-Step Latent Diffusion for Underwater Image Restoration**|Jiayi Wu et.al.|[2507.07878](http://arxiv.org/abs/2507.07878)|null|
+|**2025-07-11**|**Single-Step Latent Diffusion for Underwater Image Restoration**|Jiayi Wu et.al.|[2507.07878](http://arxiv.org/abs/2507.07878)|null|
 |**2025-07-10**|**Degradation-Agnostic Statistical Facial Feature Transformation for Blind Face Restoration in Adverse Weather Conditions**|Chang-Hwan Son et.al.|[2507.07464](http://arxiv.org/abs/2507.07464)|null|
 |**2025-07-09**|**Enhancing Diffusion Model Stability for Image Restoration via Gradient Management**|Hongjie Wu et.al.|[2507.06656](http://arxiv.org/abs/2507.06656)|null|
 |**2025-07-08**|**Kernel Density Steering: Inference-Time Scaling via Mode Seeking for Image Restoration**|Yuyang Hu et.al.|[2507.05604](http://arxiv.org/abs/2507.05604)|null|
