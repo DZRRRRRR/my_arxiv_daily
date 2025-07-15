@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.14
+## Updated on 2025.07.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
@@ -19,11 +19,11 @@ layout: default
 |**2025-07-11**|**Upsample What Matters: Region-Adaptive Latent Sampling for Accelerated Diffusion Transformers**|Wongi Jeong et.al.|[2507.08422](http://arxiv.org/abs/2507.08422)|null|
 |**2025-07-11**|**Inference-Time Scaling of Diffusion Language Models with Particle Gibbs Sampling**|Meihua Dang et.al.|[2507.08390](http://arxiv.org/abs/2507.08390)|null|
 |**2025-07-11**|**From Enhancement to Understanding: Build a Generalized Bridge for Low-light Vision via Semantically Consistent Unsupervised Fine-tuning**|Sen Wang et.al.|[2507.08380](http://arxiv.org/abs/2507.08380)|null|
-|**2025-07-11**|**Audio Inpanting using Discrete Diffusion Model**|Tali Dror et.al.|[2507.08333](http://arxiv.org/abs/2507.08333)|null|
+|**2025-07-14**|**Token-based Audio Inpainting via Discrete Diffusion**|Tali Dror et.al.|[2507.08333](http://arxiv.org/abs/2507.08333)|null|
 |**2025-07-10**|**Adaptive Diffusion Denoised Smoothing : Certified Robustness via Randomized Smoothing with Differentially Private Guided Denoising Diffusion**|Frederick Shpilevskiy et.al.|[2507.08163](http://arxiv.org/abs/2507.08163)|null|
 |**2025-07-10**|**Predicting Flow Dynamics using Diffusion Models**|Yannick Gachnang et.al.|[2507.08106](http://arxiv.org/abs/2507.08106)|null|
 |**2025-07-10**|**Geometry Forcing: Marrying Video Diffusion and 3D Representation for Consistent World Modeling**|Haoyu Wu et.al.|[2507.07982](http://arxiv.org/abs/2507.07982)|null|
-|**2025-07-10**|**Low Resource Reconstruction Attacks Through Benign Prompts**|Sol Yarkoni et.al.|[2507.07947](http://arxiv.org/abs/2507.07947)|null|
+|**2025-07-14**|**Low Resource Reconstruction Attacks Through Benign Prompts**|Sol Yarkoni et.al.|[2507.07947](http://arxiv.org/abs/2507.07947)|null|
 |**2025-07-11**|**Single-Step Latent Diffusion for Underwater Image Restoration**|Jiayi Wu et.al.|[2507.07878](http://arxiv.org/abs/2507.07878)|null|
 |**2025-07-10**|**Re-Bottleneck: Latent Re-Structuring for Neural Audio Autoencoders**|Dimitrios Bralios et.al.|[2507.07867](http://arxiv.org/abs/2507.07867)|null|
 |**2025-07-10**|**Benchmarking Content-Based Puzzle Solvers on Corrupted Jigsaw Puzzles**|Richard Dirauf et.al.|[2507.07828](http://arxiv.org/abs/2507.07828)|null|
