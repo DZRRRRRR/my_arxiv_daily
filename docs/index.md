@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-14**|**MP1: Mean Flow Tames Policy Learning in 1-step for Robotic Manipulation**|Juyi Sheng et.al.|[2507.10543](http://arxiv.org/abs/2507.10543)|null|
+|**2025-07-14**|**Solving the compute crisis with physics-based ASICs**|Maxwell Aifer et.al.|[2507.10463](http://arxiv.org/abs/2507.10463)|null|
+|**2025-07-14**|**Parallel Sampling of Diffusion Models on $SO(3)$**|Yan-Ting Chen et.al.|[2507.10347](http://arxiv.org/abs/2507.10347)|null|
+|**2025-07-14**|**Text Embedding Knows How to Quantize Text-Guided Diffusion Models**|Hongjae Lee et.al.|[2507.10340](http://arxiv.org/abs/2507.10340)|null|
+|**2025-07-14**|**Mind the Gap: Aligning Vision Foundation Models to Image Feature Matching**|Yuhan Liu et.al.|[2507.10318](http://arxiv.org/abs/2507.10318)|null|
+|**2025-07-14**|**Synthesizing Near-Boundary OOD Samples for Out-of-Distribution Detection**|Jinglun Li et.al.|[2507.10225](http://arxiv.org/abs/2507.10225)|null|
+|**2025-07-14**|**From Wardrobe to Canvas: Wardrobe Polyptych LoRA for Part-level Controllable Human Image Generation**|Jeongho Kim et.al.|[2507.10217](http://arxiv.org/abs/2507.10217)|null|
+|**2025-07-14**|**FIX-CLIP: Dual-Branch Hierarchical Contrastive Learning via Synthetic Captions for Better Understanding of Long Text**|Bingchao Wang et.al.|[2507.10095](http://arxiv.org/abs/2507.10095)|null|
+|**2025-07-14**|**Frequency Regulation for Exposure Bias Mitigation in Diffusion Models**|Meng Yu et.al.|[2507.10072](http://arxiv.org/abs/2507.10072)|null|
+|**2025-07-14**|**Memory-Efficient Personalization of Text-to-Image Diffusion Models via Selective Optimization Strategies**|Seokeon Choi et.al.|[2507.10029](http://arxiv.org/abs/2507.10029)|null|
 |**2025-07-11**|**From One to More: Contextual Part Latents for 3D Generation**|Shaocong Dong et.al.|[2507.08772](http://arxiv.org/abs/2507.08772)|null|
 |**2025-07-11**|**Anisotropic Diffusion of $e^\pm$ in Pulsar Halos over Multiple Coherence of Magnetic Field**|Kai Yan et.al.|[2507.08526](http://arxiv.org/abs/2507.08526)|null|
 |**2025-07-11**|**Upsample What Matters: Region-Adaptive Latent Sampling for Accelerated Diffusion Transformers**|Wongi Jeong et.al.|[2507.08422](http://arxiv.org/abs/2507.08422)|null|
@@ -3639,6 +3649,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-14**|**IM-LUT: Interpolation Mixing Look-Up Tables for Image Super-Resolution**|Sejin Park et.al.|[2507.09923](http://arxiv.org/abs/2507.09923)|null|
+|**2025-07-12**|**Continuous-Time Signal Decomposition: An Implicit Neural Generalization of PCA and ICA**|Shayan K. Azmoodeh et.al.|[2507.09091](http://arxiv.org/abs/2507.09091)|null|
 |**2025-07-08**|**GSVR: 2D Gaussian-based Video Representation for 800+ FPS with Hybrid Deformation Field**|Zhizhuo Pang et.al.|[2507.05594](http://arxiv.org/abs/2507.05594)|null|
 |**2025-07-07**|**Physics-Guided Dual Implicit Neural Representations for Source Separation**|Yuan Ni et.al.|[2507.05249](http://arxiv.org/abs/2507.05249)|null|
 |**2025-07-07**|**SPIDER: Structure-Preferential Implicit Deep Network for Biplanar X-ray Reconstruction**|Tianqi Yu et.al.|[2507.04684](http://arxiv.org/abs/2507.04684)|null|
@@ -4115,6 +4127,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-13**|**When Schrödinger Bridge Meets Real-World Image Dehazing with Unpaired Training**|Yunwei Lan et.al.|[2507.09524](http://arxiv.org/abs/2507.09524)|null|
 |**2025-07-05**|**Hierarchical Semantic-Visual Fusion of Visible and Near-infrared Images for Long-range Haze Removal**|Yi Li et.al.|[2507.03893](http://arxiv.org/abs/2507.03893)|null|
 |**2025-07-02**|**Frequency Domain-Based Diffusion Model for Unpaired Image Dehazing**|Chengxu Liu et.al.|[2507.01275](http://arxiv.org/abs/2507.01275)|null|
 |**2025-07-01**|**Laplace-Mamba: Laplace Frequency Prior-Guided Mamba-CNN Fusion Network for Image Dehazing**|Yongzhen Wang et.al.|[2507.00501](http://arxiv.org/abs/2507.00501)|null|
@@ -4207,6 +4220,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-14**|**RefSTAR: Blind Facial Image Restoration with Reference Selection, Transfer, and Reconstruction**|Zhicun Yin et.al.|[2507.10470](http://arxiv.org/abs/2507.10470)|null|
+|**2025-07-14**|**On a class of forward-backward reaction-diffusion systems with local and nonlocal coupling for image restoration**|Yihui Tong et.al.|[2507.10393](http://arxiv.org/abs/2507.10393)|null|
 |**2025-07-11**|**Single-Step Latent Diffusion for Underwater Image Restoration**|Jiayi Wu et.al.|[2507.07878](http://arxiv.org/abs/2507.07878)|null|
 |**2025-07-10**|**Degradation-Agnostic Statistical Facial Feature Transformation for Blind Face Restoration in Adverse Weather Conditions**|Chang-Hwan Son et.al.|[2507.07464](http://arxiv.org/abs/2507.07464)|null|
 |**2025-07-09**|**Enhancing Diffusion Model Stability for Image Restoration via Gradient Management**|Hongjie Wu et.al.|[2507.06656](http://arxiv.org/abs/2507.06656)|null|
