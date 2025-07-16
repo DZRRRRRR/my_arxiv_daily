@@ -22,6 +22,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-15**|**CATVis: Context-Aware Thought Visualization**|Tariq Mehmood et.al.|[2507.11522](http://arxiv.org/abs/2507.11522)|null|
+|**2025-07-15**|**HUG-VAS: A Hierarchical NURBS-Based Generative Model for Aortic Geometry Synthesis and Controllable Editing**|Pan Du et.al.|[2507.11474](http://arxiv.org/abs/2507.11474)|null|
+|**2025-07-15**|**Implementing Adaptations for Vision AutoRegressive Model**|Kaif Shaikh et.al.|[2507.11441](http://arxiv.org/abs/2507.11441)|null|
+|**2025-07-15**|**Ocean Diviner: A Diffusion-Augmented Reinforcement Learning for AUV Robust Control in the Underwater Tasks**|Weiyi Liu et.al.|[2507.11283](http://arxiv.org/abs/2507.11283)|null|
+|**2025-07-15**|**Latent Space Consistency for Sparse-View CT Reconstruction**|Duoyou Chen et.al.|[2507.11152](http://arxiv.org/abs/2507.11152)|null|
+|**2025-07-15**|**Human-Guided Shade Artifact Suppression in CBCT-to-MDCT Translation via Schrödinger Bridge with Conditional Diffusion**|Sung Ho Kang et.al.|[2507.11025](http://arxiv.org/abs/2507.11025)|null|
+|**2025-07-15**|**Robust ID-Specific Face Restoration via Alignment Learning**|Yushun Fang et.al.|[2507.10943](http://arxiv.org/abs/2507.10943)|null|
+|**2025-07-14**|**Visually grounded emotion regulation via diffusion models and user-driven reappraisal**|Edoardo Pinzuti et.al.|[2507.10861](http://arxiv.org/abs/2507.10861)|null|
 |**2025-07-14**|**MP1: Mean Flow Tames Policy Learning in 1-step for Robotic Manipulation**|Juyi Sheng et.al.|[2507.10543](http://arxiv.org/abs/2507.10543)|null|
 |**2025-07-14**|**Solving the compute crisis with physics-based ASICs**|Maxwell Aifer et.al.|[2507.10463](http://arxiv.org/abs/2507.10463)|null|
 |**2025-07-14**|**Parallel Sampling of Diffusion Models on $SO(3)$**|Yan-Ting Chen et.al.|[2507.10347](http://arxiv.org/abs/2507.10347)|null|
@@ -3659,6 +3667,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-15**|**Deep Equilibrium models for Poisson Imaging Inverse problems via Mirror Descent**|Christian Daniele et.al.|[2507.11461](http://arxiv.org/abs/2507.11461)|null|
+|**2025-07-15**|**COLI: A Hierarchical Efficient Compressor for Large Images**|Haoran Wang et.al.|[2507.11443](http://arxiv.org/abs/2507.11443)|null|
+|**2025-07-15**|**HANS-Net: Hyperbolic Convolution and Adaptive Temporal Attention for Accurate and Generalizable Liver and Tumor Segmentation in CT Imaging**|Arefin Ittesafun Abian et.al.|[2507.11325](http://arxiv.org/abs/2507.11325)|null|
 |**2025-07-15**|**IM-LUT: Interpolation Mixing Look-Up Tables for Image Super-Resolution**|Sejin Park et.al.|[2507.09923](http://arxiv.org/abs/2507.09923)|null|
 |**2025-07-12**|**Continuous-Time Signal Decomposition: An Implicit Neural Generalization of PCA and ICA**|Shayan K. Azmoodeh et.al.|[2507.09091](http://arxiv.org/abs/2507.09091)|null|
 |**2025-07-08**|**GSVR: 2D Gaussian-based Video Representation for 800+ FPS with Hybrid Deformation Field**|Zhizhuo Pang et.al.|[2507.05594](http://arxiv.org/abs/2507.05594)|null|
@@ -4141,6 +4152,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-15**|**Efficient Dual-domain Image Dehazing with Haze Prior Perception**|Lirong Zheng et.al.|[2507.11035](http://arxiv.org/abs/2507.11035)|null|
 |**2025-07-13**|**When Schrödinger Bridge Meets Real-World Image Dehazing with Unpaired Training**|Yunwei Lan et.al.|[2507.09524](http://arxiv.org/abs/2507.09524)|null|
 |**2025-07-05**|**Hierarchical Semantic-Visual Fusion of Visible and Near-infrared Images for Long-range Haze Removal**|Yi Li et.al.|[2507.03893](http://arxiv.org/abs/2507.03893)|null|
 |**2025-07-02**|**Frequency Domain-Based Diffusion Model for Unpaired Image Dehazing**|Chengxu Liu et.al.|[2507.01275](http://arxiv.org/abs/2507.01275)|null|
@@ -4788,6 +4800,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-15**|**Human-Guided Shade Artifact Suppression in CBCT-to-MDCT Translation via Schrödinger Bridge with Conditional Diffusion**|Sung Ho Kang et.al.|[2507.11025](http://arxiv.org/abs/2507.11025)|null|
 |**2025-07-11**|**Image Translation with Kernel Prediction Networks for Semantic Segmentation**|Cristina Mata et.al.|[2507.08554](http://arxiv.org/abs/2507.08554)|null|
 |**2025-07-02**|**BronchoGAN: Anatomically consistent and domain-agnostic image-to-image translation for video bronchoscopy**|Ahmad Soliman et.al.|[2507.01387](http://arxiv.org/abs/2507.01387)|null|
 |**2025-07-01**|**Physics-Aware Style Transfer for Adaptive Holographic Reconstruction**|Chanseok Lee et.al.|[2507.00482](http://arxiv.org/abs/2507.00482)|null|
