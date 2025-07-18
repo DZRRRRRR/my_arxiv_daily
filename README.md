@@ -22,6 +22,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-17**|**Diffuman4D: 4D Consistent Human View Synthesis from Sparse-View Videos with Spatio-Temporal Diffusion Models**|Yudong Jin et.al.|[2507.13344](http://arxiv.org/abs/2507.13344)|null|
+|**2025-07-17**|**FashionPose: Text to Pose to Relight Image Generation for Personalized Fashion Visualization**|Chuancheng Shi et.al.|[2507.13311](http://arxiv.org/abs/2507.13311)|null|
+|**2025-07-17**|**DiffClean: Diffusion-based Makeup Removal for Accurate Age Estimation**|Ekta Balkrishna Gavas et.al.|[2507.13292](http://arxiv.org/abs/2507.13292)|null|
+|**2025-07-17**|**fastWDM3D: Fast and Accurate 3D Healthy Tissue Inpainting**|Alicia Durrer et.al.|[2507.13146](http://arxiv.org/abs/2507.13146)|null|
+|**2025-07-17**|**DiffOSeg: Omni Medical Image Segmentation via Multi-Expert Collaboration Diffusion Model**|Han Zhang et.al.|[2507.13087](http://arxiv.org/abs/2507.13087)|null|
+|**2025-07-17**|**Label-Consistent Dataset Distillation with Detector-Guided Refinement**|Yawen Zou et.al.|[2507.13074](http://arxiv.org/abs/2507.13074)|null|
+|**2025-07-17**|**Rethinking the Embodied Gap in Vision-and-Language Navigation: A Holistic Study of Physical and Visual Disparities**|Liuyi Wang et.al.|[2507.13019](http://arxiv.org/abs/2507.13019)|null|
+|**2025-07-17**|**From Variability To Accuracy: Conditional Bernoulli Diffusion Models with Consensus-Driven Correction for Thin Structure Segmentation**|Jinseo An et.al.|[2507.12985](http://arxiv.org/abs/2507.12985)|null|
+|**2025-07-17**|**Non-differentiable Reward Optimization for Diffusion-based Autonomous Motion Planning**|Giwon Lee et.al.|[2507.12977](http://arxiv.org/abs/2507.12977)|null|
+|**2025-07-17**|**RGB Pre-Training Enhanced Unobservable Feature Latent Diffusion Model for Spectral Reconstruction**|Keli Deng et.al.|[2507.12967](http://arxiv.org/abs/2507.12967)|null|
 |**2025-07-16**|**Unsupervised Monocular 3D Keypoint Discovery from Multi-View Diffusion Priors**|Subin Jeon et.al.|[2507.12336](http://arxiv.org/abs/2507.12336)|null|
 |**2025-07-17**|**Compositional Discrete Latent Code for High Fidelity, Productive Diffusion Models**|Samuel Lavoie et.al.|[2507.12318](http://arxiv.org/abs/2507.12318)|null|
 |**2025-07-16**|**FADE: Adversarial Concept Erasure in Flow Models**|Zixuan Fu et.al.|[2507.12283](http://arxiv.org/abs/2507.12283)|null|
@@ -3677,6 +3687,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-17**|**MoTM: Towards a Foundation Model for Time Series Imputation based on Continuous Modeling**|Etienne Le Naour et.al.|[2507.13207](http://arxiv.org/abs/2507.13207)|null|
+|**2025-07-17**|**Aligning Humans and Robots via Reinforcement Learning from Implicit Human Feedback**|Suzie Kim et.al.|[2507.13171](http://arxiv.org/abs/2507.13171)|null|
+|**2025-07-17**|**cIDIR: Conditioned Implicit Neural Representation for Regularized Deformable Image Registration**|Sidaty El Hadramy et.al.|[2507.12953](http://arxiv.org/abs/2507.12953)|null|
 |**2025-07-15**|**Einstein Fields: A Neural Perspective To Computational General Relativity**|Sandeep Suresh Cranganore et.al.|[2507.11589](http://arxiv.org/abs/2507.11589)|null|
 |**2025-07-15**|**Deep Equilibrium models for Poisson Imaging Inverse problems via Mirror Descent**|Christian Daniele et.al.|[2507.11461](http://arxiv.org/abs/2507.11461)|null|
 |**2025-07-15**|**COLI: A Hierarchical Efficient Compressor for Large Images**|Haoran Wang et.al.|[2507.11443](http://arxiv.org/abs/2507.11443)|null|
